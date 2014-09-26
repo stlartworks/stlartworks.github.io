@@ -1,0 +1,297 @@
+//This needs a ton of work
+
+body{
+    background: $silver;
+    color:$charcoal;
+    font-family:$sans;
+    font-size:18px;
+    font-weight:$normal;
+    line-height:1.5;
+    //padding-top: 54px;
+    //text-shadow: 1px 1px 1px #fff;
+    -webkit-font-smoothing: antialiased;
+    }
+
+
+
+
+// Text Selection style
+::selection,
+::-moz-selection,
+::-webkit-selection {
+  background: #491c8d; color: #fff;
+}
+
+
+// HEADINGS
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size:1em;
+    font-weight: $normal;
+}
+
+.em10	{font-size:10em;}
+.em9	{font-size:9em;}
+.em8	{font-size:8em;}
+.em7	{font-size:7em;}
+.em6	{font-size:6em;}
+.em5	{font-size:5em;}
+.em4	{font-size:4em;}
+.em3	{font-size:3em;}
+.em2	{font-size:2em;}
+.em2x	{font-size:2em;}
+/* .em3	{font-size:3em;} */
+/* .em2	{font-size:2em;} */
+.em1	{font-size:1em; padding: .75em 0;}
+.em0	{font-size:.5em; padding: .75em 0;}
+
+.pad0					{padding: 0;}
+.pad1to0			{padding: 1.5em 0 0 0;}
+.pad0to1			{padding: 0 0 1.5em 0;}
+.pad1to1				{padding: 1.5em 0;
+    *padding: .75em 0;
+}
+.pad1to1sm{
+    padding: .75em 0;
+/* 	*padding:0; */
+    }
+.pad2to1			{padding: 2em 0 1em 0;}
+.pad1to2			{padding: 1em 0 2em 0;}
+.pad3to3			{padding: 3em 0;}
+.pad6to6			{padding: 6em 0;}
+.pad3to6			{padding: 3em 0 6em 0;}
+.pad5to1			{padding: 5em 0 1em 0;}
+
+.lh0						{ line-height: 0; }
+
+//p	{padding-bottom: 1.25em}
+
+// Default spacing
+
+h1, h2, h3, h4, h5, h6, ul, ol, dl, p, .p, blockquote, form, .mlr { margin:0 30px; }
+
+p, dl, ol, ul, blockquote	{ padding-top:1.5em; }
+
+.oversized-quote+p,
+
+nav>ul, nav+p,
+
+h1+blockquote,
+h2+blockquote,
+h3+blockquote,
+h4+blockquote,
+h5+blockquote,
+h6+blockquote,
+
+h1+h2, h1+h3, h1+h4, h1+h5, h1+h6,
+h1+.h2, h1+.h3, h1+.h4, h1+.h5, h1+.h6,
+
+h1+h2, h2+h3, h3+h4, h4+h6, h5+h6,
+h2+h3, h2+h4, h2+h6, h2+h6,
+h3+h4, h3+h5, h3+h6,
+h4+h5, h4+h6,
+h5+h6,
+
+h1+p,
+h2+p,
+h3+p,
+h4+p,
+h5+p,
+h6+p,
+
+h1+dl,
+h2+dl,
+h3+dl,
+h4+dl,
+h5+dl,
+h6+dl,
+
+h1+ol,
+h2+ol,
+h3+ol,
+h4+ol,
+h5+ol,
+h6+ol,
+
+h1+ul,
+h2+ul,
+h3+ul,
+h4+ul,
+h5+ul,
+h6+ul,
+
+hgroup+p, hgroup+ul, hgroup+ol, hgroup+dl	{ padding-top:0; }
+
+ul ul, ol ol{ }
+
+// Make elements display correctly inside ULs
+li p, li h1, li h2, li h3, li h4, li h5, li h6, li hr, li li h3, li ul { }
+
+// Kill Table padding
+table h1,table h2,table h3, table h4, table h5, table h6, table p, table ul, table ol, table dl{padding:0;}
+
+
+// CUSTOM spacing classes for padding and margin
+
+.pb0		{ padding-bottom: 0; }
+.pb1			{ padding-bottom: 1.5em; }
+.pb3		{ padding-bottom: 3em; }
+.pb5		{padding-bottom: 5em;}
+
+.pt3			{ padding-top: 3em; }
+.pt1			{ padding-top: 1.5em; }
+.pt1em	{ padding-top: 1em; }
+.pt0			{ padding-top: 0; }
+
+.ptb			{ padding-bottom:1.5em; padding-top: 1.5em; }
+.plr			{ padding-left:10%; padding-right: 10%; }
+
+.p0			{ padding: 0; }
+.ps			{ padding: .5em; }
+.pm			{ padding: 1em; }
+
+.m0			{ margin: 0; }
+.ml			{ margin-left:30px; }
+.ml45		{ margin-left:45px; }
+.mtb		{ margin-bottom:1.5em; margin-top:1.5em; }
+.mb2		{ margin-bottom: 2em;}
+.mt1		{ margin:1.5em 1.5em 0 1.5em;  }
+.mt3		{ margin-top:3em; }
+.m10		{ margin: 0 5%;}
+.mr1		{ margin-right: 1.5em;}
+
+.mlr5		{ margin-left: 5em; margin-right: 5em; }
+
+
+
+.full		{ width: 100%; }
+
+
+
+// BLOCKQUOTES
+
+blockquote{
+    margin-left:-6em;
+    position: relative;
+    }
+
+blockquote.left{
+    margin-right:2em;
+    width:28em;
+    }
+
+blockquote p{
+    font-style:italic;
+    margin-left:0;
+    margin-right:0;
+    // text-indent:-0.5em; // For hanging quotes
+    }
+
+.oversized-quote	{
+    font-family:"Times New Roman", Georgia, serif;
+    font-size: 6em;
+    left:-.6em;
+    position: absolute;
+    top:-.49em;
+    }
+
+
+// Lists
+
+// numbered list
+.listOn ol li, ol.simpleList li{
+    list-style-type: decimal;
+    padding-left:.25em;margin-left:-.25em;// This makes IE display hung bullets
+    }
+
+    // numbered list
+    ol.simpleList li ol li{
+        list-style-type:lower-alpha;
+        padding-left:.25em;margin-left:-.25em;// This makes IE display hung bullets
+        }
+
+            // numbered list
+            ol.simpleList li ol li ol li{
+                list-style-type:lower-roman;
+                padding-left:.25em;margin-left:-.25em;// This makes IE display hung bullets
+                }
+
+// standard list
+.listOn ul li, ul.simpleList li{
+    list-style-type:disc;
+    padding-left:.25em;margin-left:-.25em;// This makes IE display hung bullets
+    }
+
+    // numbered list
+    ul.simpleList li ul li{
+        list-style-type:circle;
+        padding-left:.25em;margin-left:-.25em;// This makes IE display hung bullets
+        }
+
+ol.listSpace li	{
+    padding-top: 1.5em;
+    }
+
+.lowerAlpha { list-style-type: lower-alpha; }
+
+.upperAlpha	{ list-style-type: upper-alpha; }
+
+.lowerRoman	{ list-style-type: lower-roman; }
+
+.circle		{ list-style-type: circle; }
+
+.disc		{ list-style-type: disc; }
+
+.square		{ list-style-type: square; }
+
+.nolist	{list-style: none;}
+
+
+dl{ }
+
+dt{ font-weight:bold; }
+
+dd{ }
+
+// FORMS
+
+legend	{
+    font-weight:bold;
+    }
+
+label	{
+    // float:left;
+    // width:6.25em;
+    // margin-right:2.25em;
+
+    display: block;
+    }
+
+input	{ }
+textarea	{ }
+
+input, textarea	{
+    width: 100%;
+    }
+
+
+// Font Styles
+
+.bold, strong	{ font-weight:700; }
+.normal 			{ font-weight:300; }
+.italics				{ font-style: italic !important; }
+.upcase, .upCase, .caps	{ text-transform: uppercase;}
+.inherit			{ font-size: inherit; }
+
+// Text Align
+
+.text-center, .textC{ text-align:center; }
+.text-left, .textL	{ text-align:left; }
+.text-right, .textR	{ text-align:right; }
+.indent				{ text-indent: 3em; }

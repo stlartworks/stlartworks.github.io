@@ -1,0 +1,46 @@
+// Typeface(s) and Fonts
+//
+$sans: "Source Sans Pro", sans-serif;
+$monospace: "Souce Code Pro", monospace;
+//$serif       // "Source Serif Pro"
+//$slab        // "Museo Slab"
+//$cursive     //
+//$condensed   //
+//$thick       // "Quatro"
+
+
+// Weight(s)
+// Related to Source Sans Pro (Typekit)
+//
+$hairline:200;
+//$light: 300;
+$normal: 400;
+//$bold: 700;
+$heavy:900;
+
+// Colors
+//
+$white: #fff;
+$black: #000;
+$charcoal: #333;
+$graphite: #ccc;
+$silver: #f5f5f5;
+$dirt: #e2e2e6;
+$red: #f00;
+$yellow: #ff0;
+$gold: #f1c40f;
+
+// Apply color to component
+//
+$brandmark-color: $red;
+$text-link-color: $red;
+$text-link-color-hover: $gold;
+$nav-link-color: #0f0;
+$button-color: #0f0;
+$error-text-color: #0f0;
+
+$codeColor : $graphite;
+
+// Utilities
+//
+$default-borderRadius: 5px;
