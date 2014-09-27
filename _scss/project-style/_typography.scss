@@ -1,11 +1,11 @@
 //This needs a ton of work
 
+
 body{
     background: $silver;
     color:$charcoal;
     font-family:$sans;
     font-size:18px;
-    font-weight:$normal;
     line-height:1.5;
     //padding-top: 54px;
     //text-shadow: 1px 1px 1px #fff;
@@ -16,10 +16,19 @@ body{
 
 
 // Text Selection style
-::selection,
-::-moz-selection,
-::-webkit-selection {
-  background: #491c8d; color: #fff;
+::selection {
+  background: $selection-color;
+}
+
+
+a:link, a:visited {
+  color: $text-link-color;
+  text-decoration: none;
+  transition: all .3s;
+}
+
+a:hover {
+  color: $text-link-color-hover;
 }
 
 

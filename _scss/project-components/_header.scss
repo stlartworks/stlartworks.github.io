@@ -1,21 +1,21 @@
 
 // Component
-.brandmark {
-  position:absolute;
-  top:130px;
-  right:100px;
-  //margin:130px 100px 0 0;
-  height:63px;
-    width:250px;
-    //background: #eee;
-
-  @include bp(bp-iphone) {
-    right:40px;
-  }
-
-}
-
-path[class^="regards-logo__"],
-polygon[class^="regards-logo__"] {
-    fill:black;
-}
+// .brandmark {
+//   position:absolute;
+//   top:130px;
+//   right:100px;
+//   //margin:130px 100px 0 0;
+//   height:63px;
+//     width:250px;
+//     //background: #eee;
+//
+//   @include bp(bp-iphone) {
+//     right:40px;
+//   }
+//
+// }
+//
+// path[class^="regards-logo__"],
+// polygon[class^="regards-logo__"] {
+//     fill:black;
+// }

@@ -48,60 +48,39 @@ body.no_scroll {
   }
 }
 
-a:link, a:visited {
-  color: $text-link-color;
-  text-decoration: none;
-  -moz-transition: all .3s;
-  -webkit-transition: all .3s;
-  -o-transition: all .3s;
-  transition: all .3s;
-}
-
-a:hover {
-  color: $text-link-color-hover;
-}
-
-
-
 /* === TOP MENU LAYOUT === */
 /* ======================= */
 
 .laxnav {
-  color: $brandmark-color;
   position: absolute;
   top: 0;
   width: 100%;
-  height: 4em; /* smaller height because font is smaller */
+  height: 6.25em; /* smaller height because font is smaller */
   //padding-top: 8px;
   right: 0;
   z-index: 1000;
   cursor: pointer;
   overflow: hidden;
 
-  -webkit-transform: translate(0,0);
-  -moz-transform: translate(0,0);
-  -o-transform: translate(0,0);
   transform: translate(0,0);
 
-  -webkit-transition: -webkit-transform .4s, height .3s, background .4s;
-  -moz-transition: -moz-transform .4s, height .3s, background .4s;
   transition: transform .4s, height .3s, background .4s;
-  -webkit-animation: firstFadeInAndDrop .5s;
-  -moz-animation: firstFadeInAndDrop .5s;
+
   animation: firstFadeInAndDrop .5s;
 }
 
+a.brandmark {
+    color: $archgray;
+    font-size: 2em;
+    letter-spacing: -2px;
+    .a { color: $cardinalred; }
+    .r { color: $stlouisblues; }
+    .t { color: $gooeybutter; }
+
+    &:hover { color: $charcoal; }
+}
+
 /* on intial load fade in the menu */
-@-webkit-keyframes firstFadeInAndDrop {
-  0%   {-webkit-transform: translate(0,-54px);}
-  100% {-webkit-transform: translate(0,0);}
-}
-
-@-moz-keyframes firstFadeInAndDrop {
-  0%   {-moz-transform: translate(0,-54px);}
-  100% {-moz-transform: translate(0,0);}
-}
-
 @keyframes firstFadeInAndDrop {
   0%   {transform: translate(0,-54px);}
   100% {transform: translate(0,0);}
@@ -114,31 +93,20 @@ a:hover {
 
 /* limits width of menu to site width */
 .laxnav__bar {
-  max-width: 740px;
-  margin: 0 auto;
-  padding: 1em 0;
+    //max-width: 75%;
+    //margin: 0 auto;
+  padding: 2em;
 }
 
 /* name of site in main menu (not user selectable) */
 .laxnav__bar>a {
   font-weight: bold;
-  color: #555;
-  line-height: 1.9em;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -o-user-select: none;
   user-select: none;
 }
 
 /* when hidden it goes up */
 .laxnav.invisible {
-  -webkit-transform: translate(0,-64px);
-  -moz-transform: translate(0,-64px);
-  -o-transform: translate(0,-64px);
   transform: translate(0,-64px);
-  -webkit-transition: -webkit-transform .2s;
-  -moz-transition: -moz-transform .2s;
-  -o-transition: -o-transform .2s;
   transition: transform .2s;
   opacity: 0;
 }
@@ -147,9 +115,6 @@ a:hover {
 .laxnav.detached {
   position: fixed;
   background: rgba(255,255,255,.9);
-  -webkit-transition: -webkit-transform .3s, height .3s, background .4s, opacity .3s;
-  -moz-transition: -moz-transform .3s, height .3s, background .4s, opacity .3s;
-  -o-transition: -o-transform .3s, height .3s, background .4s, opacity .3s;
   transition: transform .3s, height .3s, background .4s, opacity .3s;
 }
 
@@ -164,32 +129,22 @@ a:hover {
   height: 100%;
   position: fixed;
   cursor: default;
-  background: rgba(255,255,255,.85);
+  background: rgba(255,255,255,.95);
   overflow-y: scroll;
 }
 
 /* positions laxnav__menu content */
-#laxnav__menu {
-  -webkit-transform: translate(0,-700px);
-  -moz-transform: translate(0,-700px);
-  -o-transform: translate(0,-700px);
+.laxnav__menu {
   transform: translate(0,-700px);
   opacity: 0;
   padding-top: 2em;
-  width: 40%;
+  width: 60%;
   margin: 0 auto;
-  text-align: center;
-  -webkit-transition: -webkit-transform .15s, opacity .7s;
-  -moz-transition: -moz-transform .15s, opacity .7s;
-  -o-transition: -o-transform .15s, opacity .7s;
   transition: transform .15s, opacity .7s;
 }
 
 /* shows laxnav__menu */
 .laxnav.expanded #laxnav__menu {
-  -webkit-transform: translate(0,0); /* hardware acceleration */
-  -moz-transform: translate(0,0);
-  -o-transform: translate(0,0);
   transform: translate(0,0);
   opacity: 1;
 }
@@ -199,26 +154,36 @@ a:hover {
 /* =============================== */
 
 /* adds vertical spacing between menu links */
-#laxnav__menu ul li {
-  padding: 1em 0;
+.laxnav__menu-list-item {
+    list-style-type: none;
+
+    @extend %box-shadow-bottom;
 }
 
-/* makes link font bigger */
-#laxnav__menu ul a {
-  font-size: 1.8em;
-  font-weight: bold;
-  padding: 0 15%;
+.laxnav__menu-list-anchor {
+    display: block;
+    font-size: 2em;
+    font-family: $sans-condensed-bold;
+    padding: 0.1em 0.5em;
+    text-transform: uppercase;
+
+    &:hover {
+        background: $cardinalred;
+        color: $white;
+    }
 }
 
-/* subheading span styling */
-#laxnav__menu ul span {
-  font-family: Georgia, serif;
-  font-size: .75em;
-  letter-spacing: .2em;
-  text-transform: uppercase;
-  color: #666;
-  display: block;
+.laxnav__link-text {
+    display: inline-block;
+    width: 200px;
 }
+
+.laxnav__link-teaser {
+    color: $archgray;
+    font-family: $sans-condensed-light;
+    font-size: 1em;
+}
+
 
 
 
@@ -231,9 +196,6 @@ a:hover {
   margin: -2% -3%; /* center icon in vertical middle of top menu */
   cursor: pointer;
   float: right;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -o-user-select: none;
   user-select: none;
 }
 
@@ -249,12 +211,12 @@ a:hover {
 
 /* icon colour */
 .icon:before, .icon:active:before {
-  color: #2ecc71;
+  color: $text-link-color;
 }
 
 /* changes colour on hover or keyboard focus */
 .icon:hover:before, .icon:focus:before {
-  color: #555;
+  color: $text-link-color-hover;
 }
 
 /* changes icon to an â€œXâ€ */
@@ -272,25 +234,13 @@ a:hover {
 
 /* adds transition to the content */
 .content-transition {
-    -webkit-transition: -webkit-transform .2s, filter .2s;
-    -moz-transition: -moz-transform .2s, filter .2s;
-    -o-transition: -o-transform .2s, filter .2s;
     transition: transform .2s, filter .2s;
 }
 
 /* blurring content */
 .blurred {
-  -webkit-transform: scale(.99);
-  -moz-transform: scale(.99);
-  -o-transform: scale(.99);
   transform: scale(.99);
-  -webkit-filter: blur(5px);
-  -moz-filter: blur(5px);
-  -o-filter: blur(5px);
   filter: blur(5px);
-  -webkit-transition: -webkit-transform .5s, -webkit-filter .5s;
-  -moz-transition: -moz-transform .5s, -moz-filter .5s;
-  -o-transition: -o-transform .5s, -o-filter .5s;
   transition: transform .5s, filter .5s;
 }
 
@@ -303,9 +253,6 @@ footer {
   margin-top: 5%;
   text-align: center;
   opacity: .7;
-  -moz-transition: all .4s;
-  -webkit-transition: all .4s;
-  -o-transition: all .4s;
   transition: all .4s;
 }
 
@@ -323,9 +270,6 @@ footer:hover {
   opacity: .2;
   padding: 15px;
   display: inline-block;
-  -moz-transition: all .4s;
-  -webkit-transition: all .4s;
-  -o-transition: all .4s;
   transition: all .4s;
 }
 

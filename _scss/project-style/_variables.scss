@@ -1,24 +1,43 @@
 // Typeface(s) and Fonts
 //
-$sans: "Source Sans Pro", sans-serif;
-$monospace: "Souce Code Pro", monospace;
+$sans: "URWGrotesk-Reg", sans-serif;
+$sans-italic: "URWGrotesk-RegIta", sans-serif;
+$sans-bold: "URWGrotesk-Bol", sans-serif;
+$sans-bold-italic: "URWGrotesk-BolIta", sans-serif;
+
+$sans-condensed-light: "URWGroteskCon-Lig", sans-serif;
+$sans-condensed-bold: "URWGroteskCon-Bol", sans-serif;
+$monospace: "Courier New", monospace;
 //$serif       // "Source Serif Pro"
 //$slab        // "Museo Slab"
-//$cursive     //
+$cursive: "learning-curve";
+
 //$condensed   //
 //$thick       // "Quatro"
+
 
 
 // Weight(s)
 // Related to Source Sans Pro (Typekit)
 //
-$hairline:200;
+//$hairline:200;
 //$light: 300;
-$normal: 400;
+$normal: normal;
 //$bold: 700;
-$heavy:900;
+//$heavy:900;
 
-// Colors
+
+
+// Brand Colors
+//
+
+$gooeybutter: #fec057;
+$cardinalred: #ef3e42;
+$stlouisblues: #007ac2;
+$archgray: #a5a7aa;
+
+
+// General Colors
 //
 $white: #fff;
 $black: #000;
@@ -26,21 +45,33 @@ $charcoal: #333;
 $graphite: #ccc;
 $silver: #f5f5f5;
 $dirt: #e2e2e6;
-$red: #f00;
-$yellow: #ff0;
-$gold: #f1c40f;
+//$red: #f00;
+//$yellow: #ff0;
+//$gold: #f1c40f;
 
 // Apply color to component
 //
-$brandmark-color: $red;
-$text-link-color: $red;
-$text-link-color-hover: $gold;
-$nav-link-color: #0f0;
-$button-color: #0f0;
-$error-text-color: #0f0;
+//$brandmark-color: $red;
+$text-link-color: $stlouisblues;
+$text-link-color-hover: $cardinalred;
+
+$nav-link-color: $stlouisblues;
+
+$button-color: $stlouisblues;
+
+$error-text-color: $cardinalred;
+
+$selection-color: $gooeybutter;
 
 $codeColor : $graphite;
 
 // Utilities
 //
 $default-borderRadius: 5px;
+
+
+
+// Place Holders
+%box-shadow-bottom {
+    box-shadow: 0 1px 0 $graphite;
+}
