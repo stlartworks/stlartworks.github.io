@@ -3,15 +3,13 @@
 // // http://codepen.io/maxinacube/pen/tneEq
 
 
-.fullFrame {
-  background-position:center center;
+.imgbox {
+    background: url("/images/artwork-013.jpg");
+    background-position:center center;
     background-repeat: no-repeat;
     background-attachment:fixed;
-    -webkit-background-size:cover;
-    -moz-background-size:cover;
-    -o-background-size:cover;
     background-size:cover;
-  width:100%;
-  min-height:100%;
-  display:block;
+    width:100%;
+    min-height:100%;
+    position: relative;
 }
