@@ -18,20 +18,15 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
   </head>
 
-  <body>
+  <body class="">
 
     {% include analytics.html %}
 
     {% include nav/nav-laxbar.html %}
 
-    <div class="container content-transition ">
-        <div class="width">
+    <div class="container  content-transition">
 
-            <div role="main">
-              {{ content }}
-            </div>
-
-        </div>
+        {{ content }}
 
         {% include footer.html %}
 

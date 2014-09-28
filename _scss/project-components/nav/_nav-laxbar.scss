@@ -44,7 +44,7 @@ body.no_scroll {
 
   body.no_scroll .expanded {
     /*padding-right: 7px;*/
-    background: rgba(255,255,255,.98); /* because FF no blur, reduce bg transparency */
+    background: rgba($white,.9); /* because FF no blur, reduce bg transparency */
   }
 }
 
@@ -61,6 +61,8 @@ body.no_scroll {
   z-index: 1000;
   cursor: pointer;
   overflow: hidden;
+
+  background: rgba( $white, 0.75);
 
   @extend %box-shadow-bottom;
 
@@ -82,6 +84,13 @@ a.brandmark {
     &:hover { color: $charcoal; }
 }
 
+.tagline {
+    color: $graphite;
+    @extend %condensed;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
 /* on intial load fade in the menu */
 @keyframes firstFadeInAndDrop {
   0%   {transform: translate(0,-54px);}
@@ -90,7 +99,7 @@ a.brandmark {
 
 /* on laxnav__menu hover add slight white bg */
 .laxnav:hover {
-  background: rgba($stlouisblues,.7);
+  background: rgba($white, 1);
 }
 
 /* limits width of menu to site width */
@@ -116,8 +125,12 @@ a.brandmark {
 /* when shown & detached position is fixed */
 .laxnav.detached {
   position: fixed;
-  background: rgba(255,255,255,.9);
-  transition: transform .3s, height .3s, background .4s, opacity .3s;
+  background: rgba($white, 0.9);
+  transition:
+      transform .3s,
+      height .3s,
+      background .4s,
+      opacity .3s;
 }
 
 
@@ -131,7 +144,7 @@ a.brandmark {
   height: 100%;
   position: fixed;
   cursor: default;
-  background: rgba( $white,.95);
+  background: rgba( $white,.9);
   overflow-y: scroll;
 }
 

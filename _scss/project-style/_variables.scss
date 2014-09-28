@@ -6,6 +6,11 @@ $sans-bold: "URWGrotesk-Bol", sans-serif;
 $sans-bold-italic: "URWGrotesk-BolIta", sans-serif;
 
 $sans-condensed-light: "URWGroteskCon-Lig", sans-serif;
+
+%condensed {
+    font-family: $sans-condensed-light;
+}
+
 $sans-condensed-bold: "URWGroteskCon-Bol", sans-serif;
 $monospace: "Courier New", monospace;
 //$serif       // "Source Serif Pro"
