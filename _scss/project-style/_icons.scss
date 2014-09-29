@@ -9,6 +9,10 @@ svg {
     width: 100%;
 }
 
-.slawcube, .diamond {
+.slawcube {
     fill:white;
+}
+
+.diamond {
+    fill: $archgray;
 }

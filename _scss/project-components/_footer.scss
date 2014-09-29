@@ -1,0 +1,52 @@
+footer {
+  margin-top: 5%;
+  text-align: center;
+  opacity: .7;
+  transition: all .4s;
+}
+
+footer:hover {
+  opacity: 1;
+}
+
+.twitter-share-button {
+  vertical-align: -15%;
+  margin-right: -25px !important;
+}
+
+.logo {
+  border-bottom: none !important;
+  opacity: .2;
+  padding: 15px;
+  display: inline-block;
+  transition: all .4s;
+}
+
+.logo:hover {
+  opacity: 1;
+}
+
+
+
+.social-icons {
+    display: inline-block;
+    height: 2em;
+    width: 2em;
+}
+
+
+// .footer {
+//   background-color: $charcoal;
+//   height: 400px;
+//   position:relative;
+//   text-align: center;
+//   z-index:-2;
+// }
+//
+// .stay {
+//   position: fixed;
+//   bottom: 0;
+//   padding: 2em 0;
+//   width: 100%;
+//   z-index: -1;
+// }
