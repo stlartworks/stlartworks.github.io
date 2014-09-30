@@ -63,8 +63,95 @@
 
 
 
+.layercake__message {
+    background: $archgray;
+}
 
 
+.layercake__mission {
+    background: $charcoal;
+}
+
+
+.layercake__mission_text_block {
+    width: 50%;
+    margin: 0 auto;
+
+    h2 {
+        color: $archgray;
+        font-family: $sans-condensed-light;
+        font-size: 3em;
+        line-height: 1;
+        padding-top: 5rem;
+        position: relative;
+        text-align: center;
+        text-transform: uppercase;
+
+        //@extend %box-shadow-bottom;
+
+        &::after {
+            box-shadow: 1px 1px 0 $archgray;
+            content: "";
+            display: block;
+            height: 1px;
+            width: 15rem;
+            margin: .75em auto;
+        }
+    }
+
+    p {
+        color: $archgray;
+        font-size: 3em;
+        text-align: center;
+    }
+
+}
+
+
+
+
+
+
+.layercake__message_text_block {
+    width: 50%;
+    margin: 0 auto;
+
+    h2 {
+        color: $charcoal;
+        font-family: $sans-condensed-light;
+        font-size: 3em;
+        line-height: 1;
+        padding-top: 5rem;
+        position: relative;
+        text-align: center;
+        text-transform: uppercase;
+
+        //@extend %box-shadow-bottom;
+
+        &::after {
+            box-shadow: 1px 1px 0 $charcoal;
+            content: "";
+            display: block;
+            height: 1px;
+            width: 15rem;
+            margin: .75em auto;
+        }
+    }
+
+    p {
+        color: $charcoal;
+    }
+}
+
+
+.layercake__footer {
+    background: $charcoal;
+
+    p {
+        color: $archgray;
+        padding: 1em 0;
+    }
+}
 
 .layercake__box-white {
     background: transparent;
@@ -135,4 +222,26 @@
 .button-blue:hover {
     background: rgba($white, .9);
     color: $stlouisblues;
+}
+
+
+
+.heading__link-blue {
+    color: $stlouisblues;
+    transition: all .1s ease-in;
+
+    &:hover {
+    color: $cardinalred;
+    }
+}
+
+
+.readmore {
+    padding: 2.5rem 0 5rem 0;
+    text-align: center;
+
+    a {
+        font-size: 3em;
+        font-family: $cursive;
+    }
 }
