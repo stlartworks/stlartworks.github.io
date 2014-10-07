@@ -1,9 +1,5 @@
 // This page needs a lot of work
 
-/*
-    min-width:1024px;
-    min-height:768px;
-*/
 .stretch {
     background-size: cover;
     background-position:center center;
@@ -14,150 +10,33 @@
     background-position:center center;
     background-repeat: no-repeat;
     background-attachment:fixed;
-    -webkit-background-size:cover;
-    -moz-background-size:cover;
-    -o-background-size:cover;
     background-size:cover;
+
+    @include bp(bp-iphone) {
+        background-attachment: scroll;
+    }
+
+    @include bp(bp-sm) {
+        background-attachment: scroll;
+    }
+
 /*
     min-width:1024px;
     min-height:768px;
 */
     }
 
-// Border Styles for Images and Blocks
-
-.borderShadowBottom	{
-    background:#e6e6e6;
-    border: 1px solid #f0f0f0;
-    border-bottom: 2px solid #ccc;
-    border-bottom: 2px solid rgba(0,0,0,.1);
-    padding:10px;
-    box-sizing: border-box;
-    }
-
-.noBorder	{ }
-
-.borderLight	{
-  background: #fff;
-    border-top: 1px solid #f0f0f0;
-    outline: 1px solid #ccc;
-    padding: 10px;
-    }
-
-.borderDark	{
-    background: #343B34;
-    border-top: 1px solid #555;
-    outline: 1px solid #111;
-    padding: 10px;
-    }
-
 
 // Drop Shadow Styles
 
-//class="drop-shadow lifted"
-//class="drop-shadow lifted boxShadowBottom"
-
-
-    .drop-shadow {
-        position:relative;
-        float:left;
-        width:100%;
-        /* padding:1em;
-        margin:2em 10px 4em;
-        */
-        background:#fff;
-        /*
-        -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-           -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-                box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-        */
-    }
-
-    .drop-shadow:before,
-    .drop-shadow:after {
-        content:"";
-        position:absolute;
-        z-index:-2;
-    }
-
-
-    /* Lifted corners */
-
-    .lifted {
-        -moz-border-radius:4px;
-             border-radius:4px;
-    }
-
-    .lifted:before,
-    .lifted:after {
-        bottom:15px;
-        left:10px;
-        width:50%;
-        height:20%;
-        max-width:300px;
-        -webkit-box-shadow:0 15px 10px rgba(0, 0, 0, 0.7);
-           -moz-box-shadow:0 15px 10px rgba(0, 0, 0, 0.7);
-                box-shadow:0 15px 10px rgba(0, 0, 0, 0.7);
-        -webkit-transform:rotate(-3deg);
-           -moz-transform:rotate(-3deg);
-            -ms-transform:rotate(-3deg);
-             -o-transform:rotate(-3deg);
-                transform:rotate(-3deg);
-    }
-
-    .lifted:after {
-        right:10px;
-        left:auto;
-        -webkit-transform:rotate(3deg);
-           -moz-transform:rotate(3deg);
-            -ms-transform:rotate(3deg);
-             -o-transform:rotate(3deg);
-                transform:rotate(3deg);
-    }
-
-    .curved:before {
-        top:10px;
-        bottom:10px;
-        left:0;
-        right:50%;
-        -webkit-box-shadow:0 0 15px rgba(0,0,0,0.9);
-        -moz-box-shadow:0 0 15px rgba(0,0,0,0.9);
-        box-shadow:0 0 15px rgba(0,0,0,0.9);
-        -moz-border-radius:10px / 100px;
-        border-radius:10px / 100px;
-    }
-
-    .curved-vt-2:before {
-        right:0;
-    }
-
-    .curved-hz-1:before {
-        top:50%;
-        bottom:0;
-        left:10px;
-        right:10px;
-        -moz-border-radius:100px / 10px;
-        border-radius:100px / 10px;
-    }
-
-    .curved-hz-2:before {
-        top:0;
-        bottom:0;
-        left:10px;
-        right:10px;
-        -moz-border-radius:100px / 10px;
-        border-radius:100px / 10px;
-    }
-
-
 // POLAROID effect by Zurb
-// STACKED PAPER effect efect by csswizardry.com
+
 
 
 
 // RESPONSIVE IMAGES
 
-img { width: 100%; height: auto; }
+img, iframe, embed { max-width: 100%; height: auto; }
 
 .make-gallery div	{ float: left; list-style: none;}
 
@@ -166,98 +45,3 @@ img { width: 100%; height: auto; }
 .square-3	div { width: 33.3333%; height: 0; padding-bottom: 33.3333%;}
 
 .square-2	div { width: 50%; height: 0; padding-bottom: 50%;}
-
-.resp	{width: 100%; height: auto;}
-
-
-// ALL WORDPRESS
-
-// img.alignnone	{ }
-//
-// img.centered {
-//     display: block;
-//     margin-left: auto;
-//     margin-right: auto;
-//     }
-// img.alignright {
-//     float: right;
-//     margin: 0 0 0 30px;
-//     display: inline;
-//     }
-// img.alignleft {
-//     float: left;
-//     margin: 0 30px 0 0;
-//     display: inline;
-//     }
-//
-//
-// div.wp-caption {
-//     //width: 100%;
-//     margin: 0 30px;
-// }
-//
-// .wp-caption-text {
-//     color:$graphite;
-//     font-size:80%;
-// }
-
-a.noHover:hover	{background: transparent;}
-
-.solo img {
-    max-width: 96%; height: auto; margin: 0; padding: 2%; background: #89B1D5;
-    }
-.make-gallery img,
-/* .gallery,  */
-object {
-    max-width: 80%; height: auto; margin: 5%; padding: 5%; background: #f1f1f1;
-    }
-
-/* .gallery a:hover, */
-.make-gallery a:hover	{ background: transparent; }
-.make-gallery img:hover {background: #B7272D;}
-
-/* .gallery a, */
-.make-gallery a	{ display: block; }
-
-// a img.wp-post-image:hover	{ background: #89B1D5; }
-
-
-//div[id^="gallery"] {}
-.gallery { margin:0 30px;  width:  100%; }	/*DIV*/
-    .gallery-row {  width:  100%; } /* DIV*/
-
-        .gallery-item { 	/*DL this tag gets the sizing*/
-            float: left;
-            padding: 0;
-            margin: 0;
-            }
-        .col-0 { width: 100%; }
-        .col-1 { width: 100%; }
-        .col-2 { width: 50%; }
-        .col-3 { width: 33%; }
-        .col-4 { width: 25%; }
-
-
-            .gallery-icon { width:  100%; } /*DT*/
-            //	a	{}
-                    img	.attachment-thumbnail {}
-
-
-@media only screen and (max-width: 768px) {	 /* Viewport is less than 768 */
-
-    .fixed-img{
-    background-position:center center;
-    background-repeat: no-repeat;
-    background-attachment:scroll;
-    -webkit-background-size:cover;
-    -moz-background-size:cover;
-    -o-background-size:cover;
-    background-size:cover;
-/*
-    min-width:1024px;
-    min-height:768px;
-*/
-    }
-
-
-}
