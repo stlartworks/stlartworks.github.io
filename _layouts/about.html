@@ -1,0 +1,20 @@
+---
+layout: default
+bodyclass: about
+---
+
+<div class="layercake__filling" style="background-image: url('/images/{{page.feature-img}}');">
+    <div class="layercake__box-white">
+        <h2>{{page.feature-statement}}</h2>
+        <p>{% include svg-icons/slawcube.html %}</p>
+    </div>
+</div>
+
+<div class="layercake__page">
+    <div class="layercake__page_text_block">
+        <h2 class="condensed">{{ page.title }}</h2>
+        <div class="entry">
+          {{ content }}
+        </div>
+    </div>
+</div>
