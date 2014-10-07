@@ -1,79 +1,182 @@
-#
-# This file contains configuration flags to customize your site
-#
+# -----------------------------------------------------------------------------
+# SITE PERSONALIZATION
+# -----------------------------------------------------------------------------
 
-# Name of your site (displayed in the header)
 name: St. Louis Artworks
+# This text will be used on the homepage to personalize the name of your site
+# This will also act as a text link that always points to the homepage
 
-# Short bio or description (displayed in the header)
+
+# -----------------------------------------------------------------------------
+# SEO SETTINGS
+# -----------------------------------------------------------------------------
+
+title: Brownerds unite!
+# SEO - This will be used for the title text on the homepage
+
 description: St. Louis Artworks provides awesome job training to young St. Louis creatives
+# SEO - This will be used for the meta description on the homepage
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+google_analytics: UA-795125-1
+# This will enable Google Analytics to track your site
 
-#
-# Flags below are optional
-#
+
+# -----------------------------------------------------------------------------
+# COMMENTS
+# -----------------------------------------------------------------------------
+
+disqus: stlartworks
+# To enable comments, use your Disqus "shortname" to enable comments
+# You can create a free acount here: https://disqus.com/
+
+
+# -----------------------------------------------------------------------------
+# SITE CONFIGURATION
+# -----------------------------------------------------------------------------
+
+url: http://stlartworks.github.io
+# http://repoName.github.io
+# http://www.yourDomainName.com
+# This will confiure your sitemap.xml and RSS feed
+
+baseurl: ""
+# use this configuraiton for a "Username" or "Organization" site
+# ex: http://userName.github.io
+
+# else
+
+# baseurl: "/repoName"
+# use this configuraiton for a "Project" site:
+# ex: http://userName.github.io/REPO-NAME
+
+
+# -----------------------------------------------------------------------------
+# SOCIAL MEDIA ACCOUTNS
+# -----------------------------------------------------------------------------
+
+social-media:
+    500:
+    codepen:
+    dribbble: slaw
+    email: info@stlartworks.org
+    facebook: stlartworks
+    flickr:
+    github: stlartworks/
+    instagram: stlartworks
+    linkedin:
+    pinterest: stlartworks
+    rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+    twitter: stlartworks
+    stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+    vimeo:
+
+# -----------------------------------------------------------------------------
+# COLLECTIONS
+# -----------------------------------------------------------------------------
 
 collections:
 - board
 - instructors
 - sponsors
+- staff
+#  team_members:
+#    output: true
+#    permalink: /team-members/:path/
 
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble: slaw
-  email: info@stlartworks.org
-  facebook: stlartworks
-  flickr:
-  github: layercaker/
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: stlartworks
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+# Not everything is a post or a page. Maybe you want to document the various methods in your open source project, members of a team, or talks at a conference. Collections allow you to define a new type of document that behave like Pages or Posts do normally, but also have their own unique properties and namespace.
 
-# Your disqus shortname, entering this will enable commenting on posts
-disqus:
+# Read more: http://jekyllrb.com/docs/collections/
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-795125-1
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: http://stlartworks.github.io
+# -----------------------------------------------------------------------------
+# DEFAULT FRONT MATTER SETTINGS
+# -----------------------------------------------------------------------------
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+# Using YAML Front Matter is one way that you can specify configuration in the pages and posts for your site.
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
+# ! Read more: http://jekyllrb.com/docs/configuration/
 
-markdown: kramdown
-highlighter: pygments
-permalink: /:title/
+defaults:
 
-# This release of STLArtworks
-version: v0.1.0
 
-# Set the Sass partials directory, as we're using @imports
+
+# -----------------------------------------------------------------------------
+# Sass SETTINGS
+# -----------------------------------------------------------------------------
+
 sass:
   sass_dir: _scss
-  style: :compressed # You might prefer to minify using :compressed
+  # The load path for Sass imports. This folder must only contain imports!
+  # Read more: http://jekyllrb.com/docs/assets/
 
-# Use the following plug-ins
+  style: :expanded
+    # Sass output settings. ! Read more:
+    # http://web-design-weekly.com/2014/06/15/different-sass-output-styles/
+
+    # optoins:
+      #:nested
+      #:expanded
+      #:compact
+      #:compressed #minified
+
+
+# -----------------------------------------------------------------------------
+# SAFE PLUGINS allowed by gitHub pages
+# -----------------------------------------------------------------------------
+
 gems:
+# Plugin list
   - jemoji # Emoji please!
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  # - jekyll-mentions
   - jekyll-redirect-from
 
-# Exclude these files from your production _site
+
+# -----------------------------------------------------------------------------
+# PERMALINK SETTINGS
+# -----------------------------------------------------------------------------
+
+permalink: /:title/
+# These may only apply to posts, not to pages, collections or static files.
+# ! Read more: http://jekyllrb.com/docs/permalinks/
+
+
+# -----------------------------------------------------------------------------
+# CONVERSION SETTINGS
+# -----------------------------------------------------------------------------
+
+highlighter: pygments
+# Pygments is a generic syntax highlighter for general use in all kinds of software such as forum systems, wikis or other applications that need to prettify source code.
+
+# Read more: http://pygments.org/
+
+markdown: kramdown
+# kramdown (sic, not Kramdown or KramDown, just kramdown) is a free MIT-licensed Ruby library for parsing and converting a superset of Markdown.
+
+# Read more: http://kramdown.gettalong.org/
+
+
+# -----------------------------------------------------------------------------
+# SAFE MODE
+# -----------------------------------------------------------------------------
+
+safe: true
+# Use "true" if you intend to let gitHub automatically build your pages
+
+# GitHub Pages is powered by Jekyll, however all Pages sites are generated using the --safe option to disable custom plugins for security reasons. Unfortunately, this means your plugins won’t work if you’re deploying to GitHub Pages.
+
+#You can still use GitHub Pages to publish your site, but you’ll need to convert the site locally and push the generated static files to your GitHub repository instead of the Jekyll source files.
+
+# ! Read more: http://jekyllrb.com/docs/plugins/
+
+
+# -----------------------------------------------------------------------------
+# PRODUCITON BUILD SETTINGS
+# -----------------------------------------------------------------------------
+
 exclude:
+# Exclude (ignore) these files in your Producion build
+
     - Gemfile
     - Gemfile.lock
     - LICENSE
