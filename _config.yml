@@ -71,7 +71,7 @@ timezone: America/Chicago
 # ! Read more: http://jekyllrb.com/docs/frontmatter/
 
 social-media:
-    500:
+    500px:
     codepen:
     dribbble: slaw
     email: info@stlartworks.org
