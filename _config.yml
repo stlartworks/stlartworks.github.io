@@ -157,6 +157,11 @@ prose:
     #siteurl: 'http://stlartworks.github.io'
     #relativeLinks: 'http://stlartworks.github.io/links.jsonp'
     media: 'images'
+    ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
     metadata:
         _board:
             - name: "layout"
