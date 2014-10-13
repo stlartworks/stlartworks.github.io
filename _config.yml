@@ -98,6 +98,7 @@ social-media:
 # Not everything is a post or a page. Maybe you want to document the various methods in your open source project, members of a team, or talks at a conference. Collections allow you to define a new type of document that behave like Pages or Posts do normally, but also have their own unique properties and namespace.
 
 # Read more: http://jekyllrb.com/docs/collections/
+# Read more: http://www.sitepoint.com/getting-started-jekyll-collections/
 
 collections:
     board:
