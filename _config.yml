@@ -101,19 +101,10 @@ social-media:
 # Read more: http://jekyllrb.com/docs/collections/
 
 collections:
-    board:
-        output: true
-
-    instructors:
-        output: true
-
-    sponsors:
-        output: true
-
-    staff:
-        output: true
-
-
+    -board
+    -instructors
+    -sponsors
+    -staff
 
 # -----------------------------------------------------------------------------
 # DEFAULT FRONT MATTER SETTINGS
