@@ -129,7 +129,6 @@ defaults:
           path: "board"
           type: "board"
         values:
-          board-title:
           job-title:
           works-for:
 
@@ -154,59 +153,51 @@ defaults:
 # ! Read more: https://github.com/prose/prose/wiki/Prose-Configuration
 
 prose:
-  #rooturl: '_posts'
-  siteurl: 'http://stlartworks.github.io'
-  relativeLinks: 'http://stlartworks.github.io/links.jsonp'
-  media: 'images'
-  metadata:
-    _board:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "blog"
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "blog"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "splash"
-        field:
-          element: "text"
-          label: "Splash image"
-          value: ""
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-            - name: "Pears"
-              value: "pears"
-            - name: "Mangos"
-              value: "mangos"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
+#rooturl: '_posts'
+siteurl: 'http://stlartworks.github.io'
+relativeLinks: 'http://stlartworks.github.io/links.jsonp'
+media: 'images'
+metadata:
+_board:
+    - name: "layout"
+    field:
+        element: "hidden"
+        value: "board"
+    - name: "title"
+    field:
+        element: "text"
+        label: "Title"
+        value: ""
+    - name: "board-title"
+    field:
+        element: "text"
+        label: "Board title"
+        value: ""
+    - name: "board-title"
+    field:
+        element: "text"
+        label: "Board title"
+        value: ""
+    - name: "image"
+    field:
+        element: "text"
+        label: "Member's photo"
+        value: ""
+    - name: "employer"
+    field:
+        element: "text"
+        label: "Employer"
+        value: ""
+    - name: "job-title"
+    field:
+        element: "text"
+        label: "Job Title"
+        value: ""
+    - name: "employer"
+    field:
+        element: "text"
+        label: "Employer"
+        value: ""
 
 
 # -----------------------------------------------------------------------------
