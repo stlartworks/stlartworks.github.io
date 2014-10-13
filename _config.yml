@@ -155,11 +155,6 @@ defaults:
 # ! Read more: https://github.com/prose/prose/wiki/Prose-Configuration
 
 prose:
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
   media: images
   metadata:
     _board:
