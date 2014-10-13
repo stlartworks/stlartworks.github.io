@@ -7,7 +7,6 @@
 # ! Read more: http://jekyllrb.com/docs/configuration/
 
 
-
 # -----------------------------------------------------------------------------
 # SITE PERSONALIZATION
 # -----------------------------------------------------------------------------
@@ -21,7 +20,7 @@ name: St. Louis Artworks
 # SEO SETTINGS
 # -----------------------------------------------------------------------------
 
-title: Brownerds unite!
+title: STLOUISARTWORKS | Awesome jobs for SLT's young creatives and experienced professionals
 # SEO - This will be used for the title text on the homepage
 
 description: St. Louis Artworks provides awesome job training to young St. Louis creatives
@@ -101,10 +100,19 @@ social-media:
 # Read more: http://jekyllrb.com/docs/collections/
 
 collections:
-    -board
-    -instructors
-    -sponsors
-    -staff
+    board:
+        output: true
+
+    instructors:
+        output: true
+
+    sponsors:
+        output: true
+
+    staff:
+        output: true
+
+
 
 # -----------------------------------------------------------------------------
 # DEFAULT FRONT MATTER SETTINGS
@@ -281,3 +289,6 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+
+# Check GitHub Dependency Verison: https://pages.github.com/versions/
