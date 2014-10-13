@@ -6,6 +6,8 @@
 # This will either lead to parsing errors, or Jekyll will revert to the default settings. Use spaces instead.
 # ! Read more: http://jekyllrb.com/docs/configuration/
 
+# Use this YAML Lint tool to help: http://yamllint.com/
+
 
 # -----------------------------------------------------------------------------
 # SITE PERSONALIZATION
@@ -152,22 +154,39 @@ defaults:
 # PROSE allows you to manage .md files
 # ! Read more: https://github.com/prose/prose/wiki/Prose-Configuration
 
+---
 prose:
-    #rooturl: '_posts'
-    #siteurl: 'http://stlartworks.github.io'
-    #relativeLinks: 'http://stlartworks.github.io/links.jsonp'
-    media: 'images'
-    ignore:
+  ignore:
     - index.md
     - _config.yml
     - /_layouts
     - /_includes
-    metadata:
-        _board:
-            - name: "layout"
-            field:
-                element: "hidden"
-                value: "board"
+  media: images
+  metadata:
+    _board:
+      -
+        field:
+          element: hidden
+          value: board
+        name: layout
+      -
+        field:
+          element: multiselect
+          label: "Add Tags"
+          options:
+            -
+              name: Apples
+              value: apples
+            -
+              name: Bananas
+              value: bananas
+          placeholder: "Choose Tags"
+        name: tags
+
+
+  #relativeLinks: "http://prose.github.io/starter/links.jsonp"
+  #rooturl: _posts
+  #siteurl: "http://prose.github.io/starter/"
 
 
 # -----------------------------------------------------------------------------
