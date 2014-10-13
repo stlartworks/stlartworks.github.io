@@ -168,41 +168,6 @@ prose:
             field:
                 element: "hidden"
                 value: "board"
-            - name: "title"
-            field:
-                element: "text"
-                label: "Title"
-                value: ""
-            - name: "board-title"
-            field:
-                element: "text"
-                label: "Board title"
-                value: ""
-            - name: "board-title"
-            field:
-                element: "text"
-                label: "Board title"
-                value: ""
-            - name: "image"
-            field:
-                element: "text"
-                label: "Member's photo"
-                value: ""
-            - name: "employer"
-            field:
-                element: "text"
-                label: "Employer"
-                value: ""
-            - name: "job-title"
-            field:
-                element: "text"
-                label: "Job Title"
-                value: ""
-            - name: "employer"
-            field:
-                element: "text"
-                label: "Employer"
-                value: ""
 
 
 # -----------------------------------------------------------------------------
