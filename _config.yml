@@ -156,27 +156,74 @@ defaults:
 # ! Read more: https://github.com/prose/prose/wiki/Prose-Configuration
 
 prose:
-  media: images
-  metadata:
-    _board:
-      -
-        field:
-          element: hidden
-          value: board
-        name: layout
-      -
-        field:
-          element: multiselect
-          label: "Add Tags"
-          options:
+    media: images
+    metadata:
+        _board:
             -
-              name: Apples
-              value: apples
+                name: "layout"
+                field:
+                    element: "hidden"
+                    value: "board"
             -
-              name: Bananas
-              value: bananas
-          placeholder: "Choose Tags"
-        name: tags
+                name: "title"
+                field:
+                    element: "text"
+                    label: "Title"
+                    value: ""
+            -
+                name: "start-year"
+                field:
+                    element: "text"
+                    label: "Start year"
+                    value: ""
+            -
+                name: "board-title"
+                field:
+                    element: "text"
+                    label: "Board Title"
+                    value: ""
+            -
+                name: "employer"
+                field:
+                    element: "text"
+                    label: "Employer"
+                    value: ""
+            -
+                name: "job-title"
+                field:
+                    element: "text"
+                    label: "Job title"
+                    value: ""
+            -
+                name: "member-img"
+                field:
+                    element: "text"
+                    label: "Member's image"
+                    value: ""
+            -
+                name: "facebook"
+                field:
+                    element: "text"
+                    label: "Facebook"
+                    value: ""
+            -
+                name: "twitter"
+                field:
+                    element: "text"
+                    label: "Twitter"
+                    value: ""
+            -
+                name: "instagram"
+                field:
+                    element: "text"
+                    label: "Instagram"
+                    value: ""
+            -
+                name: "website"
+                field:
+                    element: "text"
+                    label: "Website"
+                    value: ""
 
 
   #relativeLinks: "http://prose.github.io/starter/links.jsonp"
