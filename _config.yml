@@ -163,6 +163,7 @@ prose:
                 name: "layout"
                 field:
                     element: "hidden"
+                    label: "layout"
                     value: "board"
             -
                 name: "title"
@@ -173,7 +174,7 @@ prose:
             -
                 name: "start-year"
                 field:
-                    element: "text"
+                    element: "number"
                     label: "Start year"
                     value: ""
             -
