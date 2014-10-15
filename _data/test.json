@@ -1,0 +1,58 @@
+{
+  "stats": {
+    "twentythirteen": {
+      "demographics": {
+        "high-schools": {
+          "charter": 7,
+          "graduated-hs-or-other": 12,
+          "st-louis-county": 28,
+          "slps": 46,
+          "private": 6,
+          "illinois": 1
+        },
+        "gender": {
+          "male": 47,
+          "female": 53
+        },
+        "age": {
+          "fourteen": 10,
+          "seventeen": 39,
+          "eighteen": 23,
+          "nineteen": 5,
+          "sixteen": 44,
+          "fifteen": 36
+        },
+        "ethnicity": {
+          "caucasian": 5,
+          "african-american": 90,
+          "multi-ethnic": 4,
+          "asian": 1
+        }
+      },
+      "funding-sources": {
+        "city": 20,
+        "state": 4,
+        "individuals": 3,
+        "foundations": 52,
+        "corporations": 15,
+        "other": 6
+      },
+      "feature-stats": {
+        "graduation-rate": 98,
+        "higher-education-rate": 93,
+        "unduplicated-youth": 138,
+        "total-apprenticeships": 168,
+        "zip-codes": 32
+      },
+      "bank-accounts": {
+        "after": 100,
+        "before": 58
+      },
+      "expenses": {
+        "development": 5,
+        "program": 80,
+        "administration": 15
+      }
+    }
+  }
+}

@@ -61,6 +61,9 @@ baseurl: ""
 # use this configuraiton for a "Project" site:
 # ex: http://userName.github.io/REPO-NAME
 
+# ! Ream more: http://blog.parkermoore.de/2014/04/27/clearing-up-confusion-around-baseurl/
+
+
 timezone: America/Chicago
 # Set the timezone. ! Read more: http://jekyllrb.com/docs/configuration/
 
@@ -126,26 +129,46 @@ collections:
 
 # ! Read more: http://jekyllrb.com/docs/configuration/
 
+# Just setting default layouts for several collections( or post-types in WP lingo)
+
 defaults:
     -
         scope:
-          path: "board"
-          type: "board"
+            path: ""
+            type: "posts"
         values:
-          job-title:
-          works-for:
+            layout: "post"
+    -
+        scope:
+            path: ""
+            type: "apprentices"
+        values:
+            layout: "apprentices"
+    -
+        scope:
+            path: ""
+            type: "board"
+        values:
+            layout: "board"
+    -
+        scope:
+            path: ""
+            type: "instructors"
+        values:
+            layout: "instructors"
+    -
+        scope:
+            path: ""
+            type: "sponsors"
+        values:
+            layout: "sponsors"
+    -
+        scope:
+            path: ""
+            type: "staff"
+        values:
+            layout: "staff"
 
-          started-board:
-          ended-board:
-
-          500:
-          dribbble:
-          facebook:
-          linkedin:
-          twitter:
-
-          feature-img:
-          quote:
 
 
 # -----------------------------------------------------------------------------

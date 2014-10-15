@@ -28,6 +28,53 @@ P: <a href="tel:3142894180">314-289-4180</a> / E: info@stlartworks.org</p>
   </div>
 </div>
 
-<script src="js/modernizr.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-<script src="js/nav-laxbar.js"></script>
+<script src="/js/modernizr.js"></script>
+<script src="/js/nav-laxbar.js"></script>
+
+<script src="/js/easypiechart.js"></script>
+<script type="text/javascript">
+    // https://github.com/rendro/easy-pie-chart
+
+    // $gooeybutter: #fec057;
+    // $cardinalred: #ef3e42;
+    // $stlouisblues: #007ac2;
+    // $archgray: #a5a7aa;
+
+    $(function() {
+        $('.chart').easyPieChart({
+            barColor:"#fec057",
+            trackColor: "#fff",
+            scaleColor: false,
+            lineWidth: 15,
+            lineCap: "round",
+            size: 125,
+            animate: 2000,
+            //easing: "easein",
+            onStep: function(value) {
+                this.$el.find('span').text(Math.round(value));
+            },
+            onStop: function(value, to) {
+                this.$el.find('span').text(Math.round(to));
+            }
+        });
+    });
+
+    // $(function() {
+    //     $('.percentage').easyPieChart({
+    //         barColor:"#2C3E50",
+    //         trackColor: "#f2f2f2",
+    //         scaleColor: false,
+    //         lineWidth: 20,
+    //         lineCap: "butt",
+    //         size: 150,
+    //         animate: 2000,
+    //         //easing: "easein",
+    //         onStep: function(value) {
+    //             this.$el.find('span').text(Math.round(value));
+    //         },
+    //         onStop: function(value, to) {
+    //             this.$el.find('span').text(Math.round(to));
+    //         }
+    //     });
+    // });
+</script>

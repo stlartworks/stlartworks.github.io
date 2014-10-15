@@ -14,7 +14,8 @@
 //     position: relative;
 // }
 
-.layercake__filling {
+.homepage__feature,
+.homepage__apply {
     background-position:center center;
     background-repeat: no-repeat;
     background-attachment:fixed;
@@ -50,7 +51,7 @@
 
 
 
-.layercake__icing {
+.homepage__programs {
     background: $white;
     @extend %condensed;
     //font-family: $sans-condensed-bold;
@@ -63,17 +64,49 @@
 
 
 
-.layercake__message {
+.homepage__message {
     background: $archgray;
 }
 
+.homepage__message_text_block {
+    width: 50%;
+    margin: 0 auto;
 
-.layercake__mission {
+    h2 {
+        color: $charcoal;
+        font-family: $sans-condensed-light;
+        font-size: 3em;
+        line-height: 1;
+        padding-top: 5rem;
+        position: relative;
+        text-align: center;
+        text-transform: uppercase;
+
+        //@extend %box-shadow-bottom;
+
+        &::after {
+            box-shadow: 1px 1px 0 $charcoal;
+            content: "";
+            display: block;
+            height: 1px;
+            width: 15rem;
+            margin: .75em auto;
+        }
+    }
+
+    p {
+        color: $charcoal;
+    }
+}
+
+
+
+.homepage__mission {
     background: $charcoal;
 }
 
 
-.layercake__mission_text_block {
+.homepage__mission_text_block {
     width: 50%;
     margin: 0 auto;
 
@@ -108,80 +141,7 @@
 }
 
 
-
-
-
-
-.layercake__message_text_block {
-    width: 50%;
-    margin: 0 auto;
-
-    h2 {
-        color: $charcoal;
-        font-family: $sans-condensed-light;
-        font-size: 3em;
-        line-height: 1;
-        padding-top: 5rem;
-        position: relative;
-        text-align: center;
-        text-transform: uppercase;
-
-        //@extend %box-shadow-bottom;
-
-        &::after {
-            box-shadow: 1px 1px 0 $charcoal;
-            content: "";
-            display: block;
-            height: 1px;
-            width: 15rem;
-            margin: .75em auto;
-        }
-    }
-
-    p {
-        color: $charcoal;
-    }
-}
-
-
-.layercake__page {
-    background: $white;
-}
-
-
-.layercake__page_text_block {
-    width: 50%;
-    margin: 0 auto;
-
-    h2 {
-        color: $charcoal;
-        font-family: $sans-condensed-light;
-        font-size: 3em;
-        line-height: 1;
-        padding-top: 5rem;
-        position: relative;
-        text-align: center;
-        text-transform: uppercase;
-
-        //@extend %box-shadow-bottom;
-
-        &::after {
-            box-shadow: 1px 1px 0 $charcoal;
-            content: "";
-            display: block;
-            height: 1px;
-            width: 15rem;
-            margin: .75em auto;
-        }
-    }
-
-    p {
-        color: $charcoal;
-    }
-}
-
-
-.layercake__footer {
+.homepage__footer {
     background: $charcoal;
 
     p {
@@ -190,36 +150,13 @@
     }
 }
 
-.layercake__box-white {
-    background: transparent;
-    position: relative;
-    z-index: 5;
-    //top: 54%;
-    width: 75%;
-    margin: 0 auto;
-
-    h2 {
-        color: $white;
-        font-size: 8em;
-        padding-top: 15rem;
-        text-align: center;
-        text-transform: uppercase;
-
-        //@extend %box-shadow-bottom;
-    }
-
-    p {
-        color: $white;
-        font-size: 6em;
-        font-family: $cursive;
-        padding-bottom: 15rem;
-        text-align: center;
-    }
+.homepage__box-white {
+    @extend %box-white
 }
 
 
 
-.layercake__box-gray {
+.homepage__box-gray {
     background: transparent;
     position: relative;
     z-index: 5;
