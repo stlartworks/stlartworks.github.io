@@ -18,6 +18,9 @@ name: St. Louis Artworks
 # This text will be used on the homepage to personalize the name of your site
 # This will also act as a text link that always points to the homepage
 
+tagline: Jobs for young creatives
+# This will show up in the header next to the site logo
+
 
 # -----------------------------------------------------------------------------
 # SEO SETTINGS
