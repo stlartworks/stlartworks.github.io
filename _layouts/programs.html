@@ -1,0 +1,36 @@
+---
+layout: default
+bodyclass: programs
+---
+
+<div class="about__feature" style="background-image: url('/images/{{page.feature-img}}');">
+    <div class="about__box-white">
+        <h2>{{page.feature-statement}}</h2>
+        <p>{% include svg-icons/slawcube.html %}</p>
+    </div>
+</div>
+
+<div class="about__page_text_block">
+    <div class="about_text_block">
+        <h2 class="condensed"><span class="bold">{{ page.title }}:</span> {{ page.subtitle }}</h2>
+        <div class="entry">
+          {{ content }}
+        </div>
+    </div>
+</div>
+
+
+
+<div class="program__block">
+    <div class="about_text_block">
+        <div class="entry">
+            {% for program in site.programs %}
+                <div class="about__feature">
+                    <img src="/images/{{program.feature-img}}" alt="" />
+                    <h2>{{ program.title }}</h2>
+                    {{ content }}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

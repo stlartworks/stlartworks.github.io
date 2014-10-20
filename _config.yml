@@ -18,7 +18,7 @@ name: St. Louis Artworks
 # This text will be used on the homepage to personalize the name of your site
 # This will also act as a text link that always points to the homepage
 
-tagline: Jobs for young creatives
+tagline: Job training for young creatives
 # This will show up in the header next to the site logo
 
 
@@ -114,6 +114,9 @@ collections:
         output: true
 
     instructors:
+        output: true
+
+    programs:
         output: true
 
     sponsors:
@@ -251,7 +254,29 @@ prose:
                     element: "text"
                     label: "Website"
                     value: ""
-
+        _programs:
+            -
+                name: "layout"
+                field:
+                    element: "hidden"
+                    label: "layout"
+                    value: "programs"
+            -
+                name: season
+                field:
+                    element: select
+                    label: "Season"
+                    options:
+                        -
+                            name: Fall
+                            value: fall
+                        -
+                            name: Spring
+                            value: spring
+                        -
+                            name: Summer
+                            value: summer
+                    placeholder: "Choose season"
 
   #relativeLinks: "http://prose.github.io/starter/links.jsonp"
   #rooturl: _posts

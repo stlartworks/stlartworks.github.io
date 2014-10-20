@@ -1,11 +1,12 @@
 ---
 layout: about
 title: About
-subtitle: St. Louis ArtWorks is AWESOME!
-permalink: /about/
 
 feature-img: artwork-008.jpg
 feature-statement: Artworks.
+
+subtitle: St. Louis ArtWorks is AWESOME!
+permalink: /about/
 
 //layer2-img: ville-02.jpg
 //layer3-img: background-001.jpg

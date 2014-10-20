@@ -1,0 +1,42 @@
+// http://codepen.io/chriscoyier/blog/codepens-css#media-queries
+// http://css-tricks.com/conditional-media-query-mixins/
+
+@mixin bp($point) {
+
+  $bp-iphone: "only screen and (min-device-width : 320px) and (max-device-width : 568px)";
+
+  $bp-min: "(max-width: 480px)";
+  $bp-sm: "(max-width: 600px)";
+  $bp-med: "(max-width: 1024px)";
+  $bp-lg: "(max-width: 1250px)";
+  $bp-max: "(max-width: 1600px)";
+
+  @if $point == bp-iphone {
+    @media #{$bp-iphone} { @content; }
+  }
+
+  @else if $point == bp-min {
+    @media #{$bp-min} { @content; }
+  }
+  @else if $point == bp-sm {
+    @media #{$bp-sm} { @content; }
+  }
+  @else if $point == bp-med {
+    @media #{$bp-med}  { @content; }
+  }
+  @else if $point == bp-lg {
+    @media #{$bp-lg}  { @content; }
+  }
+  @else if $point == bp-max {
+    @media #{$bp-max}  { @content; }
+  }
+}
+
+// example usage
+// p {
+//     text-align:right;
+//
+//     @include bp(bp-iphone) {
+//       text-align:left;
+//     }
+// }

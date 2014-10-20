@@ -1,0 +1,109 @@
+%full-image-text-overlay {
+    // this is a full screen image that has a large text message title over it
+
+}
+
+%main-reading-format {
+    //This is the default styling for any large block of text that is meant to be read like an article or full page
+
+    width: 50%;
+    margin: 0 auto;
+
+    p {
+        color: $charcoal;
+    }
+}
+
+%main-reading-format-h2 {
+    //This is the default styling for any large block of text that is meant to be read like an article or full page
+
+    h2 {
+        font-family: $sans-condensed-light;
+        font-size: 3em;
+        line-height: 1;
+        padding-top: 5rem;
+        position: relative;
+        text-align: center;
+        text-transform: uppercase;
+
+        //@extend %box-shadow-bottom;
+
+        &::after {
+            box-shadow: 1px 1px 0 $charcoal;
+            content: "";
+            display: block;
+            height: 1px;
+            width: 15rem;
+            margin: .75em auto;
+        }
+    }
+}
+
+%main-reading-format-h3 {
+    h3 {
+        font-family: "URWGroteskCon-Lig", sans-serif;
+        font-size: 2em;
+        //font-weight: bold;
+        line-height: 1;
+        padding: 3rem 0 1.5rem 0;
+        text-align:center;
+    }
+}
+
+
+
+%box-white {
+    background: transparent;
+    position: relative;
+    z-index: 5;
+    //top: 54%;
+    width: 75%;
+    margin: 0 auto;
+
+    h2 {
+        color: $white;
+        font-size: 8em;
+        padding-top: 15rem;
+        text-align: center;
+        text-transform: uppercase;
+
+        //@extend %box-shadow-bottom;
+    }
+
+    p {
+        color: $white;
+        font-size: 6em;
+        font-family: $cursive;
+        padding-bottom: 15rem;
+        text-align: center;
+    }
+}
+
+
+%fullImgTextBlock {
+
+}
+
+// FlexEmbed COVER Image Ratios
+// http://nicolasgallagher.com/flexible-css-cover-images/
+// http://codepen.io/necolas/pen/Aksni
+// http://www.sitepoint.com/maintain-image-aspect-ratios-responsive-web-design/
+
+%flexEmbed {
+    display: block;
+    overflow: hidden;
+    position: relative;
+
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 300px;
+    max-width: 100%;
+
+    &:after {
+        content: "";
+        display: block;
+          padding-bottom: 50%;
+        width: 100%;
+    }
+}
