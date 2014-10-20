@@ -28,8 +28,10 @@
     z-index: 0;
 
     &::before {
+    // This created a gradient overlay to make the image better for holding text.
+    // It also appears to create a fade effect while scrolling down.
+    // I saw this effect on htp://Exposure.com
         content: " ";
-        //background: rgba( $charcoal, 0.5 );
         height: 100%;
         width: 100%;
         display: block;
@@ -134,6 +136,7 @@
 
     p {
         color: $archgray;
+        font-family: $sans-condensed-light;
         font-size: 3em;
         text-align: center;
     }
@@ -184,20 +187,10 @@
 }
 
 
-.button-blue {
-    transition: all .1s ease-in;
-    background: rgba($stlouisblues, .75);
-    border-radius: .25em;
-    color: $white;
-    display: inline-block;
-    padding: 0 .5em;
+.homepage__applyButton {
+    // Find in reused
+    @extend %button;
 }
-
-.button-blue:hover {
-    background: rgba($white, .9);
-    color: $stlouisblues;
-}
-
 
 
 .heading__link-blue {
@@ -209,13 +202,15 @@
     }
 }
 
+.homepage__readMoreButton {
+    @extend %button;
 
-.readmore {
-    padding: 2.5rem 0 5rem 0;
-    text-align: center;
-
-    a {
-        font-size: 3em;
-        font-family: $cursive;
-    }
+    font-size: 3rem;
+    // padding: 2.5rem 0 5rem 0;
+    // text-align: center;
+    //
+    // a {
+    //     font-size: 3em;
+    //     font-family: $cursive;
+    // }
 }

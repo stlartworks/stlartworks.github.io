@@ -21,16 +21,16 @@ bodyclass: programs
 
 
 
-<div class="program__block">
-    <div class="about_text_block">
-        <div class="entry">
-            {% for program in site.programs %}
-                <div class="about__feature">
-                    <img src="/images/{{program.feature-img}}" alt="" />
-                    <h2>{{ program.title }}</h2>
-                    {{ content }}
+<div class="programLayer">
+    {% for program in site.programs %}
+        <div class="programLayer__column">
+            <h2 class="programLayer__title">{{ program.title }}</h2>
+            <div class="programLayer__image" style="background-image: url('/images/{{program.feature-img}}');">
             </div>
-            {% endfor %}
+            <div class="programLayer__text">
+                {{ content }}
+                <p><a class="applyButton" href="#">Apply today!</a></p>
+            </div>
         </div>
-    </div>
+    {% endfor %}
 </div>
