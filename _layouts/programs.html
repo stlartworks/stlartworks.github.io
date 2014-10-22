@@ -2,7 +2,7 @@
 layout: default
 bodyclass: programs
 ---
-
+<main>
 <div class="about__feature" style="background-image: url('/images/{{page.feature-img}}');">
     <div class="about__box-white">
         <h2>{{page.feature-statement}}</h2>
@@ -20,17 +20,41 @@ bodyclass: programs
 </div>
 
 
+<section id="cd-team" class="cd-section">
+	<div class="cd-container">
+		<h2>Programs</h2>
+		<ul>
+            {% for program in site.programs %}
+			<li>
+				<a href="#0" data-type="{{program.feature-img | | remove: ".jpg"}}">
+					<figure>
+						<img src="/images/{{program.feature-img}}" alt="Team member 1">
+						<div class="cd-img-overlay"><span>View Bio</span></div>
+					</figure>
+					<div class="cd-member-info">{{program.title}}</div>
+				</a>
+			</li>
+            {% endfor %}
+		</ul>
+	</div> <!-- cd-container -->
+</section> <!-- cd-team -->
 
-<div class="programLayer">
-    {% for program in site.programs %}
-        <div class="programLayer__column">
-            <h2 class="programLayer__title">{{ program.title }}</h2>
-            <div class="programLayer__image" style="background-image: url('/images/{{program.feature-img}}');">
-            </div>
-            <div class="programLayer__text">
-                {{ content }}
-                <p><a class="applyButton" href="#">Apply today!</a></p>
-            </div>
-        </div>
-    {% endfor %}
-</div>
+<div class="cd-overlay"></div>
+</main>
+
+
+{% for program in site.programs %}
+<div class="cd-member-bio {{program.feature-img | | remove: ".jpg"}}">
+	<div class="cd-member-bio-pict">
+		<img src="/images/{{program.feature-img}}" alt="{{program.title}}">
+	</div> <!-- cd-member-bio-pict -->
+
+	<div class="cd-bio-content">
+		<h1>{{program.title}}</h1>
+		{{content}}
+	</div> <!-- cd-bio-content -->
+</div> <!-- cd-member-bio -->
+{% endfor %}
+
+
+<a href="#0" class="cd-member-bio-close">Close</a>
