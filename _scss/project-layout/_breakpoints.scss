@@ -11,6 +11,17 @@
   $bp-lg: "(max-width: 1250px)";
   $bp-max: "(max-width: 1600px)";
 
+  // http://davidwalsh.name/write-media-queries-sass
+  $bp-retina: "only screen and (-webkit-min-device-pixel-ratio: 2),
+  only screen and (min--moz-device-pixel-ratio: 2),
+  only screen and (-o-min-device-pixel-ratio: 2/1),
+  only screen and (min-device-pixel-ratio: 2),
+  only screen and (min-resolution: 192dpi),
+  only screen and (min-resolution: 2dppx)";
+
+  $bp-print: "print";
+
+
   @if $point == bp-iphone {
     @media #{$bp-iphone} { @content; }
   }
@@ -30,6 +41,15 @@
   @else if $point == bp-max {
     @media #{$bp-max}  { @content; }
   }
+
+  // http://davidwalsh.name/write-media-queries-sass
+  @else if $point == bp-retina {
+    @media #{$bp-retina}  { @content; }
+  }
+
+  @else if $point == bp-print {
+    @media #{$bp-print}  { @content; }
+  }
 }
 
 // example usage
@@ -40,3 +60,21 @@
 //       text-align:left;
 //     }
 // }
+
+@mixin retina {
+  @media
+    only screen and (-webkit-min-device-pixel-ratio: 2),
+    only screen and (min--moz-device-pixel-ratio: 2),
+    only screen and (-o-min-device-pixel-ratio: 2/1),
+    only screen and (min-device-pixel-ratio: 2),
+    only screen and (min-resolution: 192dpi),
+    only screen and (min-resolution: 2dppx) {
+    @content;
+  }
+}
+
+@mixin print {
+  @media print {
+    @content;
+  }
+}
