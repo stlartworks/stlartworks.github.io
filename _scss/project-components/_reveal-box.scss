@@ -13,13 +13,13 @@ body.overflow-hidden {
 Modules - reusable parts of our design
 
 -------------------------------- */
-.cd-container {
+.reveal-container {
   /* this class is used to give a max-width to the element it is applied to, and center it horizontally when it reaches that max-width */
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
 }
-.cd-container::after {
+.reveal-container::after {
   /* clearfix */
   content: '';
   display: table;
@@ -41,10 +41,10 @@ main.slide-out {
   /* the main element slides to the left when the author bio is visible */
   transform: translateX(-270px);
 }
-main.slide-out .cd-overlay {
+main.slide-out .reveal-overlay {
   /* the overlay layer gets visible when the author bio slides in */
   display: block;
-  animation: cd-fade-in 0.3s;
+  animation: reveal-fade-in 0.3s;
 }
 @media only screen and (min-width: 768px) {
   main.slide-out {
@@ -58,15 +58,15 @@ main.slide-out .cd-overlay {
   }
 }
 
-.cd-section {
+.reveal-section {
   padding: 1em 0;
   text-align: center;
 }
-.cd-section .cd-container {
-  /* this modifies the .cd-container default max-width */
+.reveal-section .reveal-container {
+  /* this modifies the .reveal-container default max-width */
   max-width: 768px;
 }
-.cd-section h2 {
+.reveal-section h2 {
   font-family: $sans-condensed-bold;
   font-weight: bold;
   text-transform: uppercase;
@@ -74,25 +74,25 @@ main.slide-out .cd-overlay {
   // font-size: 20px;
   // font-size: 1.25rem;
 }
-.cd-section p {
+.reveal-section p {
   //line-height: 1.4;
 }
 @media only screen and (min-width: 768px) {
-  .cd-section {
+  .reveal-section {
     padding: 1em;
   }
-  .cd-section p {
+  .reveal-section p {
     //line-height: 1.6;
   }
 }
 @media only screen and (min-width: 1200px) {
-  .cd-section {
+  .reveal-section {
     padding: 6em;
   }
-  .cd-section h2 {
+  .reveal-section h2 {
     margin-bottom: 2em;
   }
-  .cd-section p {
+  .reveal-section p {
     //line-height: 1.8;
     // font-size: 18px;
     // font-size: 1.125rem;
@@ -101,19 +101,19 @@ main.slide-out .cd-overlay {
 
 
 
-.cd-placeholder-1 {
+.reveal-placeholder-1 {
   background: #f25f5c;
   color: #fdeaea;
 }
 
-.cd-placeholder-2 {
+.reveal-placeholder-2 {
   background: #FFF;
 }
 
-#cd-team {
+#reveal-gallery {
   background: $archgray;
 
-  .cd-container {
+  .reveal-container {
     max-width: 1200px;
   }
 
@@ -130,7 +130,7 @@ main.slide-out .cd-overlay {
 
   figure {
     position: relative;
-    @extend %flexEmbed;
+    @extend %flexEmbed75;
   }
 
   img {
@@ -139,7 +139,7 @@ main.slide-out .cd-overlay {
     border-radius: .25em .25em 0 0;
   }
 
-  .cd-img-overlay {
+  .reveal-img-overlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -158,18 +158,20 @@ main.slide-out .cd-overlay {
       right: auto;
       transform: translateX(-50%) translateY(-50%);
       color: #FFF;
+      font-size: 2em;
+      font-family: $sans-condensed-light;
     }
   }
 
-  .cd-member-info {
-    height: 80px;
+  .reveal-box-info {
     background: $stlouisblues;
     text-align: center;
     font-family: $sans-condensed-light;
     font-weight: bold;
-    padding-top: 20px;
-    border-radius: 0 0 .25em .25em;
+    padding: .25em 0;
     color: $white;
+    font-size: 2em;
+    text-transform: uppercase;
 
     span {
       display: block;
@@ -180,30 +182,32 @@ main.slide-out .cd-overlay {
       margin-top: .5em;
     }
   }
-
-
 }
 
 
-.no-touch #cd-team li:hover {
+.no-touch #reveal-gallery li:hover {
   box-shadow: 0 0 10px rgba($gooeybutter, 0.3);
 }
-.no-touch #cd-team li:hover .cd-img-overlay {
+.no-touch #reveal-gallery li:hover .reveal-img-overlay {
   opacity: 1;
 }
 
 
 @media only screen and (min-width: 768px) {
-  #cd-team li {
+  #reveal-gallery li {
     display:inline-block;
     width: 45%;
   }
-  #cd-team li:nth-child(3n) {
+  #reveal-gallery li:nth-child(3n) {
     margin-right: 0;
   }
 }
 
-.cd-member-bio {
+.pxs {
+    @extend %flexEmbed75;
+}
+
+.reveal-panel {
   position: fixed;
   top: 0;
   right: 0;
@@ -219,16 +223,18 @@ main.slide-out .cd-overlay {
   transition-property: transform;
   transition-duration: 0.3s;
 
+  box-shadow: -10px 0 100px $charcoal;
+
   &.slide-in {
     /* the author bio section slides in when the user clicks on the team member picture */
     transform: translateX(0);
   }
 
-  .cd-member-bio-pict {
+  .reveal-panel-pict {
     position: relative;
   }
 
-  .cd-member-bio-pict::after {
+  .reveal-panel-pict::after {
     /* gradient at the bottom of the image - same color of the background of the section */
     content: '';
     position: absolute;
@@ -244,7 +250,7 @@ main.slide-out .cd-overlay {
     display: block;
   }
 
-  .cd-bio-content {
+  .reveal-bio-content {
     padding: 1em;
     color: #FFF;
 
@@ -263,58 +269,58 @@ main.slide-out .cd-overlay {
   }
 }
 
-.no-cssgradients .cd-member-bio .cd-member-bio-pict::after {
+.no-cssgradients .reveal-panel .reveal-panel-pict::after {
   display: none;
 }
 
 @media only screen and (min-width: 768px) {
-  .cd-member-bio {
+  .reveal-panel {
     width: 600px;
     transform: translateX(600px);
   }
-  .cd-member-bio .cd-bio-content {
+  .reveal-panel .reveal-bio-content {
     padding: 2em;
   }
-  .cd-member-bio .cd-bio-content p {
+  .reveal-panel .reveal-bio-content p {
     //line-height: 1.6;
     margin: 2em 0;
   }
 }
 
 @media only screen and (min-width: 1000px) {
-  .cd-member-bio {
+  .reveal-panel {
     width: 900px;
     transform: translateX(1000px);
   }
-  .cd-member-bio .cd-member-bio-pict::after {
+  .reveal-panel .reveal-panel-pict::after {
     height: 150px;
   }
-  .cd-member-bio .cd-bio-content {
+  .reveal-panel .reveal-bio-content {
     padding: 4em;
     /* we move the content up so the title is over the color gradient */
     transform: translateY(-80px);
   }
-  .cd-member-bio .cd-bio-content h1 {
+  .reveal-panel .reveal-bio-content h1 {
     // font-size: 40px;
     // font-size: 2.5rem;
   }
-  .cd-member-bio .cd-bio-content p {
+  .reveal-panel .reveal-bio-content p {
     // font-size: 16px;
     // font-size: 1rem;
   }
-  .no-cssgradients .cd-member-bio .cd-bio-content {
+  .no-cssgradients .reveal-panel .reveal-bio-content {
     transform: translateY(0);
   }
 }
 
-.cd-member-bio-close {
+.reveal-panel-close {
   width: 32px;
   height: 32px;
   overflow: hidden;
   position: fixed;
   top: 10px;
   right: 10px;
-  background: url("/images/svg/cd-icon-close.svg") no-repeat center center;
+  background: url("/images/svg/reveal-icon-close.svg") no-repeat center center;
   text-indent: 100%;
   white-space: nowrap;
   z-index: 3001;
@@ -322,18 +328,18 @@ main.slide-out .cd-overlay {
 
   &.is-visible {
     display: block;
-    animation: cd-move-in 0.8s;
+    animation: reveal-move-in 0.8s;
   }
 }
 
 @media only screen and (min-width: 1200px) {
-  .cd-member-bio-close {
+  .reveal-panel-close {
     right: 20px;
     top: 20px;
   }
 }
 
-.cd-overlay {
+.reveal-overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -350,7 +356,7 @@ main.slide-out .cd-overlay {
 xkeyframes
 
 -------------------------------- */
-@-webkit-keyframes cd-fade-in {
+@-webkit-keyframes reveal-fade-in {
   0% {
     opacity: 0;
   }
@@ -359,7 +365,7 @@ xkeyframes
     opacity: 1;
   }
 }
-@-moz-keyframes cd-fade-in {
+@-moz-keyframes reveal-fade-in {
   0% {
     opacity: 0;
   }
@@ -368,7 +374,7 @@ xkeyframes
     opacity: 1;
   }
 }
-@keyframes cd-fade-in {
+@keyframes reveal-fade-in {
   0% {
     opacity: 0;
   }
@@ -377,7 +383,7 @@ xkeyframes
     opacity: 1;
   }
 }
-@-webkit-keyframes cd-move-in {
+@-webkit-keyframes reveal-move-in {
   0% {
     -webkit-transform: translateX(100px);
   }
@@ -386,7 +392,7 @@ xkeyframes
     -webkit-transform: translateX(0);
   }
 }
-@-moz-keyframes cd-move-in {
+@-moz-keyframes reveal-move-in {
   0% {
     -moz-transform: translateX(100px);
   }
@@ -395,7 +401,7 @@ xkeyframes
     -moz-transform: translateX(0);
   }
 }
-@keyframes cd-move-in {
+@keyframes reveal-move-in {
   0% {
     transform: translateX(100px);
   }

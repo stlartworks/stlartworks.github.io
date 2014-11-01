@@ -129,6 +129,25 @@
     }
 }
 
+%flexEmbed75 {
+    display: block;
+    overflow: hidden;
+    position: relative;
+
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 550px;
+    max-width: 100%;
+
+    &:after {
+        content: "";
+        display: block;
+          padding-bottom: 75%;
+        width: 100%;
+    }
+}
+
 
 %button {
     transition: all .1s ease-in;
