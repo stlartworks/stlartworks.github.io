@@ -5,7 +5,7 @@ layer1-img: artwork-013.jpg
 layer2-img: ville-02.jpg
 layer3-img: background-001.jpg
 ---
-
+<main>
 <div class="homepage__feature" style="background-image: url('/images/{{page.layer1-img}}');">
     <div class="homepage__box-white">
         <h2>ART WORKS FOR YOU</h2>
@@ -14,52 +14,43 @@ layer3-img: background-001.jpg
 </div>
 
 
-<div class="homepage__programs">
-    <div class="homepage__box-gray">
-        <h2>Check out our awesome programs</h2>
-        <p>{% include svg-icons/diamond.html %}</p>
-    </div>
-    <div class="grid">
+<section id="cd-team" class="cd-section">
+    <div class="cd-container">
+        <h2>Programs</h2>
+        <ul>
+            {% for program in site.programs %}
+            <li>
+                <a href="#0" data-type="{{program.feature-img | | remove: '.jpg'}}">
+                    <figure style="background-image: url('/images/{{program.feature-img}}');">
+                        <!-- <img src="/images/{{program.feature-img}}" alt="Team member 1"> -->
+                        <div class="cd-img-overlay"><span>View Bio</span></div>
+                    </figure>
+                    <div class="cd-member-info">{{program.title}}</div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div> <!-- cd-container -->
+</section> <!-- cd-team -->
 
-        <figure class="effect-oscar">
-            <img src="/images/ville-04.jpg" alt=""/>
-            <figcaption>
-                <h2>The <span>VILLE</span></h2>
-                <p>Write and perform an opera depicting the rich history of the VILLE neighborhood.<br>Apply now!</p>
-                <a href="#">Apply now!</a>
-            </figcaption>
-        </figure>
-
-        <figure class="effect-oscar">
-            <img src="/images/fish-wrapper-01.jpg" alt=""/>
-            <figcaption>
-                <h2>Fish <span>WRAPPER</span></h2>
-                <p>Use Canon digital SRL cameras to document the life of Mississippi rivier fishermen through video tape and photograph <br>Sign-up!</p>
-                <a href="#">Sign-up!</a>
-            </figcaption>
-        </figure>
-
-        <figure class="effect-oscar">
-            <img src="/images/bike-racks-001.jpg" alt=""/>
-            <figcaption>
-                <h2>Bike <span>RACKS</span></h2>
-                <p>We make the coolest bike racks out of bike parts.<br>Register today!</p>
-                <a href="#">Register today!</a>
-            </figcaption>
-        </figure>
-
-        <figure class="effect-oscar">
-            <img src="/images/classroom-005.jpg" alt=""/>
-            <figcaption>
-                <h2>Print <span>MAKING</span></h2>
-                <p>Hand screen t-shirts and stuff.<br>Register today!</p>
-                <a href="#">Register today!</a>
-            </figcaption>
-        </figure>
-    </div>
-</div>
+<div class="cd-overlay"></div>
+</main>
 
 
+{% for program in site.programs %}
+<div class="cd-member-bio {{program.feature-img | | remove: ".jpg"}}">
+    <div class="cd-member-bio-pict">
+        <img src="/images/{{program.feature-img}}" alt="{{program.title}}">
+    </div> <!-- cd-member-bio-pict -->
+
+    <div class="cd-bio-content">
+        <h1>{{program.title}}</h1>
+        {{ content }}
+    </div> <!-- cd-bio-content -->
+</div> <!-- cd-member-bio -->
+{% endfor %}
+
+<a href="#0" class="cd-member-bio-close">Close</a>
 
 <div class="homepage__apply" style="background-image: url('/images/{{page.layer2-img}}');">
     <div class="homepage__box-white">

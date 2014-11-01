@@ -27,8 +27,8 @@ bodyclass: programs
             {% for program in site.programs %}
 			<li>
 				<a href="#0" data-type="{{program.feature-img | | remove: '.jpg'}}">
-					<figure>
-						<img src="/images/{{program.feature-img}}" alt="Team member 1">
+					<figure style="background-image: url('/images/{{program.feature-img}}');">
+						<!-- <img src="/images/{{program.feature-img}}" alt="Team member 1"> -->
 						<div class="cd-img-overlay"><span>View Bio</span></div>
 					</figure>
 					<div class="cd-member-info">{{program.title}}</div>

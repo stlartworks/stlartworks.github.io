@@ -99,23 +99,7 @@ main.slide-out .cd-overlay {
   }
 }
 
-header {
-  background: #f2ecbd;
-}
-header h1 {
-  // font-size: 30px;
-  // font-size: 1.875rem;
-  font-family: $sans-condensed-bold;
-  font-weight: bold;
-  text-transform: uppercase;
-  margin-bottom: .4em;
-  color: #3e380c;
-}
-header p {
-  // font-size: 13px;
-  // font-size: 0.8125rem;
-  color: #93861d;
-}
+
 
 .cd-placeholder-1 {
   background: #f25f5c;
@@ -128,71 +112,87 @@ header p {
 
 #cd-team {
   background: $archgray;
+
+  .cd-container {
+    max-width: 1200px;
+  }
+
+  h2 {
+    color: #1a2f2a;
+  }
+
+  li {
+    margin-bottom: 2em;
+    border-radius: 0.25em;
+    box-shadow: 0 0 10px rgba($gooeybutter, 0);
+    transition: all 0.3s;
+  }
+
+  figure {
+    position: relative;
+    @extend %flexEmbed;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    border-radius: .25em .25em 0 0;
+  }
+
+  .cd-img-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba($stlouisblues, 0.9);
+    opacity: 0;
+    border-radius: .25em .25em 0 0;
+    transition: opacity 0.3s;
+
+    span {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      bottom: auto;
+      right: auto;
+      transform: translateX(-50%) translateY(-50%);
+      color: #FFF;
+    }
+  }
+
+  .cd-member-info {
+    height: 80px;
+    background: $stlouisblues;
+    text-align: center;
+    font-family: $sans-condensed-light;
+    font-weight: bold;
+    padding-top: 20px;
+    border-radius: 0 0 .25em .25em;
+    color: $white;
+
+    span {
+      display: block;
+      font-weight: normal;
+      //color: #999999;
+      // font-size: 14px;
+      // font-size: 0.875rem;
+      margin-top: .5em;
+    }
+  }
+
+
 }
-#cd-team .cd-container {
-  max-width: 1200px;
-}
-#cd-team h2 {
-  color: #1a2f2a;
-}
-#cd-team li {
-  margin-bottom: 2em;
-  border-radius: 0.25em;
-  box-shadow: 0 0 10px rgba($gooeybutter, 0);
-  transition: all 0.3s;
-}
+
+
 .no-touch #cd-team li:hover {
   box-shadow: 0 0 10px rgba($gooeybutter, 0.3);
 }
 .no-touch #cd-team li:hover .cd-img-overlay {
   opacity: 1;
 }
-#cd-team figure {
-  position: relative;
-}
-#cd-team img {
-  display: block;
-  width: 100%;
-  border-radius: .25em .25em 0 0;
-}
-#cd-team .cd-img-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba($stlouisblues, 0.9);
-  opacity: 0;
-  border-radius: .25em .25em 0 0;
-  transition: opacity 0.3s;
-}
-#cd-team .cd-img-overlay span {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  bottom: auto;
-  right: auto;
-  transform: translateX(-50%) translateY(-50%);
-  color: #FFF;
-}
-#cd-team .cd-member-info {
-  height: 80px;
-  background: $stlouisblues;
-  text-align: center;
-  font-family: $sans-condensed-light;
-  font-weight: bold;
-  padding-top: 20px;
-  border-radius: 0 0 .25em .25em;
-  color: $white;
-}
-#cd-team .cd-member-info span {
-  display: block;
-  font-weight: normal;
-  //color: #999999;
-  // font-size: 14px;
-  // font-size: 0.875rem;
-  margin-top: .5em;
-}
+
+
 @media only screen and (min-width: 768px) {
   #cd-team li {
     display:inline-block;
@@ -218,48 +218,55 @@ header p {
   transform: translateX(270px);
   transition-property: transform;
   transition-duration: 0.3s;
+
+  &.slide-in {
+    /* the author bio section slides in when the user clicks on the team member picture */
+    transform: translateX(0);
+  }
+
+  .cd-member-bio-pict {
+    position: relative;
+  }
+
+  .cd-member-bio-pict::after {
+    /* gradient at the bottom of the image - same color of the background of the section */
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    background: linear-gradient(to top, $gooeybutter, rgba($gooeybutter, 0));
+  }
+
+  img {
+    width: 100%;
+    display: block;
+  }
+
+  .cd-bio-content {
+    padding: 1em;
+    color: #FFF;
+
+    h1 {
+        color: $white;
+        @extend %main-content-toplevel-heading;
+    }
+
+    p {
+      // font-size: 14px;
+      // font-size: 0.875rem;
+      margin: 1em 0;
+      //line-height: 1.4;
+      color: $charcoal;
+    }
+  }
 }
-.cd-member-bio.slide-in {
-  /* the author bio section slides in when the user clicks on the team member picture */
-  transform: translateX(0);
-}
-.cd-member-bio .cd-member-bio-pict {
-  position: relative;
-}
-.cd-member-bio .cd-member-bio-pict::after {
-  /* gradient at the bottom of the image - same color of the background of the section */
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 80px;
-  background: linear-gradient(to top, $gooeybutter, rgba($gooeybutter, 0));
-}
+
 .no-cssgradients .cd-member-bio .cd-member-bio-pict::after {
   display: none;
 }
-.cd-member-bio img {
-  width: 100%;
-  display: block;
-}
-.cd-member-bio .cd-bio-content {
-  padding: 1em;
-  color: #FFF;
-}
-//.cd-member-bio
 
-.cd-bio-content h1 {
-    color: $white;
-    @extend %main-content-toplevel-heading;
-}
-.cd-member-bio .cd-bio-content p {
-  // font-size: 14px;
-  // font-size: 0.875rem;
-  margin: 1em 0;
-  //line-height: 1.4;
-  color: $charcoal;
-}
 @media only screen and (min-width: 768px) {
   .cd-member-bio {
     width: 600px;
@@ -273,10 +280,11 @@ header p {
     margin: 2em 0;
   }
 }
-@media only screen and (min-width: 1200px) {
+
+@media only screen and (min-width: 1000px) {
   .cd-member-bio {
-    width: 800px;
-    transform: translateX(800px);
+    width: 900px;
+    transform: translateX(1000px);
   }
   .cd-member-bio .cd-member-bio-pict::after {
     height: 150px;
@@ -311,11 +319,13 @@ header p {
   white-space: nowrap;
   z-index: 3001;
   display: none;
+
+  &.is-visible {
+    display: block;
+    animation: cd-move-in 0.8s;
+  }
 }
-.cd-member-bio-close.is-visible {
-  display: block;
-  animation: cd-move-in 0.8s;
-}
+
 @media only screen and (min-width: 1200px) {
   .cd-member-bio-close {
     right: 20px;
