@@ -2,7 +2,7 @@
 layout: programs
 title: Rain Barrels
 
-feature-img: rain-barrel-01.jpg
+feature-img: rain-barrel-12.jpg
 
 season:
 teaching-organization: ArtWorks Teaching
