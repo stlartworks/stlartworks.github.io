@@ -1,12 +1,27 @@
-footer {
-  text-align: center;
-  opacity: .7;
-  transition: all .4s;
+.footer {
+    background-color: $charcoal;
+    padding: 3em 0;
+    text-align: center;
+    // opacity: .7;
+    // transition: all .4s;
+
+    &__text {
+        color: $archgray;
+        text-align: center;
+    }
+
+    a {
+        color: $stlouisblues;
+
+        &:hover {
+            color: $cardinalred;
+        }
+    }
 }
 
-footer:hover {
+/* footer:hover {
   opacity: 1;
-}
+} */
 
 .twitter-share-button {
   vertical-align: -15%;
@@ -32,20 +47,3 @@ footer:hover {
     height: 2em;
     width: 2em;
 }
-
-
-// .footer {
-//   background-color: $charcoal;
-//   height: 400px;
-//   position:relative;
-//   text-align: center;
-//   z-index:-2;
-// }
-//
-// .stay {
-//   position: fixed;
-//   bottom: 0;
-//   padding: 2em 0;
-//   width: 100%;
-//   z-index: -1;
-// }

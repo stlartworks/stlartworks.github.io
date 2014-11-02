@@ -10,7 +10,6 @@ bodyclass: programs
 
 <section id="reveal-gallery" class="reveal-section">
     <div class="reveal-container">
-        <h2>Programs</h2>
         <ul>
             {% for program in site.programs %}
             <li>
@@ -31,30 +30,7 @@ bodyclass: programs
 
 <div class="reveal-overlay"></div>
 
-<div class="about__page_text_block">
-    <div class="about_text_block">
-        <h2 class="condensed"><span class="bold">Application details</h2>
-        <div class="entry">
-
-            <ul>
-                <li>Application status: {{page.apply.process.status}}</li>
-                <li>Application submission deadline: {{page.apply.process.close}}</li>
-            </ul>
-            <h3>Interview detials</h3>
-            <ul>
-                <li>Interview day: {{page.apply.process.interview}}</li>
-                <li>Bring: {{page.apply.process.open}}</li>
-            </ul>
-
-            <ul>
-              <li>{{page.apply.process.open}}</li>
-              <li>{{page.apply.process.open}}</li>
-              <li>{{page.apply.process.open}}</li>
-              <li>{{page.apply.process.open}}</li>
-            </ul>
-        </div>
-    </div>
-</div>
+{% include megaCTA.html %}
 
 </main>
 
@@ -63,13 +39,13 @@ bodyclass: programs
 <div class="reveal-panel {{program.feature-img | remove: ".jpg"}}">
     <div class="reveal-panel-pict">
         <div class="reveal-panel-pict-flexembed" style="background-image: url('/images/{{program.feature-img}}');"></div>
-    </div> <!-- reveal-panel-pict -->
+    </div>
 
     <div class="reveal-bio-content">
         <h1>{{program.title}}</h1>
         {{ program.content }}
-    </div> <!-- reveal-bio-content -->
-</div> <!-- reveal-panel -->
+    </div>
+</div>
 {% endfor %}
 
 

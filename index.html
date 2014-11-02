@@ -7,7 +7,10 @@ feature-statement: ART WORKS FOR YOU
 
 subtitle: St. Louis ArtWorks is AWESOME!
 
-layer2-img: ville-02.jpg
+mega-cta-img: ville-02.jpg
+mega-cta-heading: Join us!
+mega-cta-button-text: Apply today!
+
 layer3-img: background-001.jpg
 ---
 <main>
@@ -60,32 +63,16 @@ layer3-img: background-001.jpg
 <a href="#0" class="reveal-panel-close">Close</a>
 
 
-<div class="homepage__apply" style="background-image: url('/images/{{page.layer2-img}}');">
-    <div class="homepage__box-white">
-        <h2>Join us!</h2>
-        <p><a class="homepage__applyButton" href="#">Apply today!</a></p>
-    </div>
-</div>
+{% include megaCTA.html %}
 
 
-<div class="homepage__message">
-    <div class="homepage__message_text_block">
-        <h2 class="condensed">
-            <a class="heading__link-blue" href="#">ArtWorks is looking for an Art Therapist to join
+<div class="articleCTA">
+    <div class="articleCTA__container">
+        <h2 class="articleCTA__heading">
+            <a class="articleCTA__headingLink" href="#">ArtWorks is looking for an Art Therapist to join
 the team from January-July 2015</a>
         </h2>
-        <p>SLAW seeks a part-time Art Therapist to work as a contractor for a grant funded position for our spring and summer sessions,  January 24,2015-May 2,2015 and the summer session June 8,2015-July 24, 2015.  SLAW is beginning a project to assess the impact of the ArtWorks Program on the behavioral health of youth participants. SLAW is seeking interested applicants with experience leading therapeutic activities and a background in an educational environment, working as part of a team, is a plus.</p>
-        <p class="textCenter"><a class="homepage__readMoreButton" href="#">Read more</a></p>
-    </div>
-</div>
-
-
-<div class="homepage__mission">
-    <div class="homepage__mission_text_block">
-        <h2 class="condensed">
-            <a class="heading__link-blue" href="#">We are on a mission</a>
-        </h2>
-        <p>We are on a mission to create job training for young creatives.</p>
-        <p class="textCenter"><a class="homepage__readMoreButton" href="#">Read more</a></p>
+        <p class="articleCTA__md">SLAW seeks a part-time Art Therapist to work as a contractor for a grant funded position for our spring and summer sessions,  January 24,2015-May 2,2015 and the summer session June 8,2015-July 24, 2015.  SLAW is beginning a project to assess the impact of the ArtWorks Program on the behavioral health of youth participants. SLAW is seeking interested applicants with experience leading therapeutic activities and a background in an educational environment, working as part of a team, is a plus.</p>
+        <p class="articleCTA__text"><a class="articleCTA__button" href="#">Read more</a></p>
     </div>
 </div>

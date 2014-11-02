@@ -8,6 +8,10 @@ title: Fall Programs
 subtitle: Now accepting applications!
 permalink: /programs/
 
+mega-cta-img: ville-02.jpg
+mega-cta-heading: Join us!
+mega-cta-button-text: Apply today!
+
 apply:
   process:
     status: Open

@@ -1,4 +1,4 @@
-.imgBanner {
+.megaCTA {
     background-position:center center;
     background-repeat: no-repeat;
     background-attachment:fixed;
@@ -52,5 +52,9 @@
         font-family: $cursive;
         padding-bottom: 15rem;
         text-align: center;
+    }
+
+    &__button {
+        @extend %button;
     }
 }
