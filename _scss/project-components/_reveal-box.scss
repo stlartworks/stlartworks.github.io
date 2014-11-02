@@ -264,7 +264,24 @@ main {
 
     h1 {
         color: $white;
-        @extend %main-content-toplevel-heading;
+        font-family: $sans-condensed-light;
+        font-size: 3em;
+        line-height: 1;
+        padding-top: 5rem;
+        position: relative;
+        text-align: center;
+        text-transform: uppercase;
+
+        //@extend %box-shadow-bottom;
+
+        &::after {
+            box-shadow: 1px 1px 0 $charcoal;
+            content: "";
+            display: block;
+            height: 1px;
+            width: 15rem;
+            margin: .75em auto;
+        }
     }
 
     p {

@@ -1,12 +1,15 @@
 ---
 layout: default
+bodyclass: default
 ---
 
-<article class="page">
-  
-  <h1>{{ page.title }}</h1>
+{% include imgBanner.html %}
 
-  <div class="entry">
-    {{ content }}
-  </div>
-</article>
+{% include mainContent.html %}
+
+
+
+<div class="megaStatement">
+    <h2 class="megaStatement__heading">We also have an amazing team</h2>
+    <p>{% include svg-icons/diamond.html %}</p>
+</div>
