@@ -18,12 +18,13 @@ Modules - reusable parts of our design
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
-}
-.reveal-container::after {
-  /* clearfix */
-  content: '';
-  display: table;
-  clear: both;
+
+  &::after {
+    /* clearfix */
+    content: '';
+    display: table;
+    clear: both;
+  }
 }
 
 /* --------------------------------
@@ -36,16 +37,19 @@ main {
   //z-index: 2001;
   transition-property: transform;
   transition-duration: 0.3s;
+
+  &.slide-out {
+    /* the main element slides to the left when the author bio is visible */
+    transform: translateX(-270px);
+
+    .reveal-overlay {
+      /* the overlay layer gets visible when the author bio slides in */
+      display: block;
+      animation: reveal-fade-in 0.3s;
+    }
+  }
 }
-main.slide-out {
-  /* the main element slides to the left when the author bio is visible */
-  transform: translateX(-270px);
-}
-main.slide-out .reveal-overlay {
-  /* the overlay layer gets visible when the author bio slides in */
-  display: block;
-  animation: reveal-fade-in 0.3s;
-}
+
 @media only screen and (min-width: 768px) {
   main.slide-out {
     /* change in size of the author bio section */
@@ -61,22 +65,26 @@ main.slide-out .reveal-overlay {
 .reveal-section {
   padding: 1em 0;
   text-align: center;
+
+  .reveal-container {
+    /* this modifies the .reveal-container default max-width */
+    max-width: 768px;
+  }
+
+  h2 {
+    font-family: $sans-condensed-bold;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 1em;
+    // font-size: 20px;
+    // font-size: 1.25rem;
+  }
+
+  p {
+    //line-height: 1.4;
+  }
 }
-.reveal-section .reveal-container {
-  /* this modifies the .reveal-container default max-width */
-  max-width: 768px;
-}
-.reveal-section h2 {
-  font-family: $sans-condensed-bold;
-  font-weight: bold;
-  text-transform: uppercase;
-  margin-bottom: 1em;
-  // font-size: 20px;
-  // font-size: 1.25rem;
-}
-.reveal-section p {
-  //line-height: 1.4;
-}
+
 @media only screen and (min-width: 768px) {
   .reveal-section {
     padding: 1em;
@@ -203,7 +211,7 @@ main.slide-out .reveal-overlay {
   }
 }
 
-.pxs {
+.reveal-panel-pict-flexembed {
     @extend %flexEmbed75;
 }
 

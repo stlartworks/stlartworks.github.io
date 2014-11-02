@@ -1,0 +1,52 @@
+.mainContent {
+    background-color: $white;
+
+    &__container {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    &__heading {
+        font-family: $sans-condensed-light;
+        font-size: 3em;
+        line-height: 1;
+        padding-top: 5rem;
+        position: relative;
+        text-align: center;
+        text-transform: uppercase;
+
+        //@extend %box-shadow-bottom;
+
+        &::after {
+            box-shadow: 1px 1px 0 $charcoal;
+            content: "";
+            display: block;
+            height: 1px;
+            width: 15rem;
+            margin: .75em auto;
+        }
+    }
+
+    &__subHeading {
+        font-family: $sans-condensed-light;
+        font-size: 2em;
+        //font-weight: bold;
+        line-height: 1;
+        padding: 3rem 0 1.5rem 0;
+        text-align: center;
+    }
+
+    &__md {
+        color: $charcoal;
+        padding-bottom: 3em;
+        
+        h3 {
+            font-family: $sans-condensed-light;
+            font-size: 2em;
+            //font-weight: bold;
+            line-height: 1;
+            padding: 3rem 0 1.5rem 0;
+            text-align: center;
+        }
+    }
+}

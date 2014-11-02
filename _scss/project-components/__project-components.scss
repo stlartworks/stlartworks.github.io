@@ -9,6 +9,13 @@
 @import "_page-programs";
 @import "_reused";
 
+
+@import "_flexEmbed"; // Responsive background image control ( %placeholder )
+@import "_imgBanner"; // Default banner used on all interior pages
+@import "_mainContent"; // Default content block for displaying MarkDown entries
+
+@import "_megaStatement"; // Beautiful, bold statement text layer
+
 @import "_page";
 @import "_post";
 

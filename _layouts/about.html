@@ -3,51 +3,33 @@ layout: default
 bodyclass: about
 ---
 
-<div class="about__feature" style="background-image: url('/images/{{page.feature-img}}');">
-    <div class="about__box-white">
-        <h2>{{page.feature-statement}}</h2>
-        <p>{% include svg-icons/slawcube.html %}</p>
-    </div>
-</div>
+{% include imgBanner.html %}
 
-<div class="about__page_text_block">
-    <div class="about_text_block">
-        <h2 class="condensed"><span class="bold">{{ page.title }}:</span> {{ page.subtitle }}</h2>
-        <div class="entry">
-          {{ content }}
-        </div>
-    </div>
-</div>
-
-<div class="about__page_text_block">
-    <div class="about_text_block">
-        <h2 class="condensed">The apprentices</h2>
-    </div>
-</div>
+{% include mainContent.html %}
 
 
-<div class="chart__box">
-    <h3>Snapshot of SLAW since 1995</h3>
-    <div class="gen-stat">
+<div class="chartBox">
+    <h2 class="chartBox__heading">Snapshot of SLAW since 1995</h2>
+    <div class="chartBox__stat">
         <span>1995</span>
         <br>Established
     </div>
-    <div class="gen-stat">
+    <div class="chartBox__stat">
         <span>2600+</span>
         <br>Apprentices
     </div>
-    <div class="gen-stat">
+    <div class="chartBox__stat">
         <span>$3,100,000?</span>
         <br>Paid to Apprentices
     </div>
-    <div class="gen-stat">
+    <div class="chartBox__stat">
         <span>~32</span>
         <br>ZIP codes
     </div>
 </div>
 
-<div class="chart__box">
-    <h3>High schools</h3>
+<div class="chartBox">
+    <h2 class="chartBox__heading">High schools</h2>
     <p>Our apprentices come from St. Louis schools and beyond. We also have many apprentices that have already graduated high school.</p>
     <div class="chart" data-percent="46">
         <span class="chart__percent">46</span>
@@ -75,8 +57,8 @@ bodyclass: about
     </div>
 </div>
 
-<div class="chart__box">
-    <h3>Ethnicity</h3>
+<div class="chartBox">
+    <h2 class="chartBox__heading">Ethnicity</h2>
     <p>We seek to create opportunities for our young borthers and sisters in the city of STL. We also make room to diversify the work place.</p>
     <div class="chart" data-percent="90">
         <span class="chart__percent">90</span>
@@ -96,8 +78,8 @@ bodyclass: about
     </div>
 </div>
 
-<div class="chart__box">
-    <h3>Gender</h3>
+<div class="chartBox">
+    <h2 class="chartBox__heading">Gender</h2>
     <p>Our program has always been nearly a 50/50 ratio of males to females.</p>
     <div class="chart" data-percent="53">
         <span class="chart__percent">53</span>
@@ -109,8 +91,8 @@ bodyclass: about
     </div>
 </div>
 
-<div class="chart__box">
-    <h3>Diversity</h3>
+<div class="chartBox">
+    <h2 class="chartBox__heading">Diversity</h2>
     <p>We acknowledge that there are many diverse young creatives in STL. We provide jobs for all ethnicities, genders and sexual orientations.</p>
 </div>
 
