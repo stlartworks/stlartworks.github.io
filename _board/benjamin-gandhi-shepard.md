@@ -2,15 +2,14 @@
 layout: board
 title: Benjamin Gandhi-Shepard
 
+feature-img: Instructor-william-burton.jpg
+
 role:
 duration:
 
-employer: Self-Employed
+employer: SOLVM
 work-title: Awesomizer
+website:
 
-photo:
-
-
-//permalink: /about/
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu.
+Cardinals arch gooey butter cake south grand muny nelly mississippi river, CWE barnes-jewish hospital toasted ravioli anheuser-busch neon sign. Lindbergh St. Louis science center and zoo turtle park soulard bowling riverfront times. Delmar loop blueberry hill tivoli COCA moonrise hotel RAC answers.com washington university forest park spanish pavilion art hill. Crown candy OZZY smith schnuck's, straub's the hill kingshighway fred bird choutteau SLU blues monsanto rams. Galleria checker dome metrolink KDHX webster groves post-dispatch clayton UMSL university city maplewood. Ted Drews, "frozen custard" star clipper bread co. — square chestnut highway 40!

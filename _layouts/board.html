@@ -1,0 +1,53 @@
+---
+layout: default
+bodyclass: board
+---
+
+<main>
+
+{% include imgBanner.html %}
+
+{% include mainContent.html %}
+
+<section id="reveal-gallery" class="reveal-section">
+    <div class="reveal-container">
+        <ul>
+            {% for member in site.board %}
+            <li>
+                <a href="#0" data-type="{{member.feature-img | | remove: '.jpg'}}">
+                    <figure style="background-image: url('/images/{{member.feature-img}}');">
+                        <!-- <img src="/images/{{program.feature-img}}" alt="Team member 1"> -->
+                        <div class="reveal-img-overlay">
+                            <span>Read more</span>
+                        </div>
+                    </figure>
+                    <div class="reveal-box-info">{{member.title}}</div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div> <!-- reveal-container -->
+</section> <!-- reveal-gallery -->
+
+<div class="reveal-overlay"></div>
+
+{% include megaCTA.html %}
+
+</main>
+
+
+{% for member in site.board %}
+<div class="reveal-panel {{member.feature-img | remove: ".jpg"}}">
+    <div class="reveal-panel-pict">
+        <div class="reveal-panel-pict-flexembed" style="background-image: url('/images/{{member.feature-img}}');"></div>
+    </div>
+
+    <div class="reveal-bio-content">
+        <h1>{{member.title}}</h1>
+        {{ member.content }}
+    </div>
+</div>
+{% endfor %}
+
+
+<a href="#0" class="reveal-panel-close">Close</a>
