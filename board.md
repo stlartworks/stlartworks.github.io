@@ -1,11 +1,11 @@
 ---
 layout: board
 
-feature-img: family-001.jpg
-feature-statement: TEAMWORK
+feature-img: board-01.jpg
+feature-statement: BOARD
 
-title: Makes
-subtitle: the dream work
+title: All for one
+subtitle: One for all
 permalink: /board/
 
 mega-cta-img: ville-02.jpg
