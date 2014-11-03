@@ -1,10 +1,20 @@
-<div class="articleCTA">
-    <div class="articleCTA__container">
-        <h2 class="articleCTA__heading">
-            <a class="articleCTA__headingLink" href="#">ArtWorks is looking for an Art Therapist to join
-the team from January-July 2015</a>
-        </h2>
-        <p class="articleCTA__md">SLAW seeks a part-time Art Therapist to work as a contractor for a grant funded position for our spring and summer sessions,  January 24,2015-May 2,2015 and the summer session June 8,2015-July 24, 2015.  SLAW is beginning a project to assess the impact of the ArtWorks Program on the behavioral health of youth participants. SLAW is seeking interested applicants with experience leading therapeutic activities and a background in an educational environment, working as part of a team, is a plus.</p>
-        <p class="articleCTA__text"><a class="articleCTA__button" href="#">Read more</a></p>
-    </div>
-</div>
+{% for post in site.posts %}
+    {% if post.homepage == true %}
+      {% capture count %}{{ count | plus: '1' }}{% endcapture %}
+      {% if count == '1' %}
+
+        <div class="articleCTA">
+            <div class="articleCTA__container">
+                <h2 class="articleCTA__heading">
+                    <a class="articleCTA__headingLink" href="{{ post.url }}">{{ post.title  }}</a>
+                </h2>
+                <div class="articleCTA__md">
+                    {{ post.teaser }}
+                </div>
+                <p class="articleCTA__text"><a class="articleCTA__button" href="{{ post.url }}">Read more</a></p>
+            </div>
+        </div>
+
+      {% endif %}
+  {% endif %}
+{% endfor %}

@@ -1,5 +1,6 @@
 .mainContent {
     background-color: $white;
+    padding: 0 0 3em 0;
 
     &__container {
         width: 50%;
@@ -36,10 +37,17 @@
         text-align: center;
     }
 
+    &__date {
+        color: $graphite;
+        font-family: $sans-condensed-light;
+        font-size: 2em;
+        text-align: center;
+    }
+
     &__md {
         color: $charcoal;
         padding-bottom: 3em;
-        
+
         h3 {
             font-family: $sans-condensed-light;
             font-size: 2em;
@@ -47,6 +55,10 @@
             line-height: 1;
             padding: 3rem 0 1.5rem 0;
             text-align: center;
+        }
+
+        iframe {
+            margin: 3em 0;
         }
     }
 }

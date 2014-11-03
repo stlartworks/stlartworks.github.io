@@ -2,7 +2,7 @@
 layout: post
 title: The Ville on Whose Shoulders We Stand
 
-feature-img: ville-03.jpg
+feature-img: ville-04.jpg
 
 teaser:
 

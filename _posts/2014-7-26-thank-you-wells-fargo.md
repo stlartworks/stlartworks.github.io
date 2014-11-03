@@ -2,7 +2,7 @@
 layout: post
 title: Thank You UrbanLIFT NeighborWorks-Wells Fargo for a $50,000 Grant!
 
-feature-img:
+feature-img: ville-06.jpg
 
 teaser:
 
