@@ -2,7 +2,7 @@
 layout: staff
 title: Priscilla Block
 
-feature-img: priscilla-block.jpg
+feature-img: cofacblock-1024x576.jpg
 
 ---
 
