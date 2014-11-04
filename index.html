@@ -12,7 +12,7 @@ mega-cta-heading: Join us!
 mega-cta-button-text: Apply today!
 mega-cta-button-text-url: http://google.com
 
-layer3-img: background-001.jpg
+reveal: programs
 ---
 <main>
 
@@ -23,45 +23,7 @@ layer3-img: background-001.jpg
     <p>{% include svg-icons/diamond.html %}</p>
 </div>
 
-<section id="reveal-gallery" class="reveal-section">
-    <div class="reveal-container">
-        <ul>
-            {% for program in site.programs %}
-            <li>
-                <a href="#0" data-type="{{program.feature-img | | remove: '.jpg'}}">
-                    <figure style="background-image: url('/images/{{program.feature-img}}');">
-                        <!-- <img src="/images/{{program.feature-img}}" alt="Team member 1"> -->
-                        <div class="reveal-img-overlay">
-                            <span>Read more</span>
-                        </div>
-                    </figure>
-                    <div class="reveal-box-info">{{program.title}}</div>
-                </a>
-            </li>
-            {% endfor %}
-        </ul>
-    </div> <!-- reveal-container -->
-</section> <!-- reveal-gallery -->
-
-<div class="reveal-overlay"></div>
-</main>
-
-
-{% for program in site.programs %}
-<div class="reveal-panel {{program.feature-img | remove: ".jpg"}}">
-    <div class="reveal-panel-pict">
-        <div class="reveal-panel-pict-flexembed" style="background-image: url('/images/{{program.feature-img}}');"></div>
-    </div> <!-- reveal-panel-pict -->
-
-    <div class="reveal-bio-content">
-        <h1>{{program.title}}</h1>
-        {{ program.content }}
-    </div> <!-- reveal-bio-content -->
-</div> <!-- reveal-panel -->
-{% endfor %}
-
-<a href="#0" class="reveal-panel-close">Close</a>
-
+{% include reveal-box.html %}
 
 {% include megaCTA.html %}
 

@@ -1,53 +1,14 @@
 ---
 layout: default
 bodyclass: instructors
+
+reveal: instructors
 ---
 
-<main>
+<main> <!-- need this for reveal panel to work -->
 
 {% include imgBanner.html %}
 
 {% include mainContent.html %}
 
-<section id="reveal-gallery" class="reveal-section">
-    <div class="reveal-container">
-        <ul>
-            {% for instructor in site.instructors %}
-            <li>
-                <a href="#0" data-type="{{instructor.feature-img | | remove: '.jpg'}}">
-                    <figure style="background-image: url('/images/{{instructor.feature-img}}');">
-                        <!-- <img src="/images/{{program.feature-img}}" alt="Team member 1"> -->
-                        <div class="reveal-img-overlay">
-                            <span>Read more</span>
-                        </div>
-                    </figure>
-                    <div class="reveal-box-info">{{instructor.title}}</div>
-                </a>
-            </li>
-            {% endfor %}
-        </ul>
-    </div> <!-- reveal-container -->
-</section> <!-- reveal-gallery -->
-
-<div class="reveal-overlay"></div>
-
-{% include megaCTA.html %}
-
-</main>
-
-
-{% for instructor in site.instructors %}
-<div class="reveal-panel {{instructor.feature-img | remove: ".jpg"}}">
-    <div class="reveal-panel-pict">
-        <div class="reveal-panel-pict-flexembed" style="background-image: url('/images/{{instructor.feature-img}}');"></div>
-    </div>
-
-    <div class="reveal-bio-content">
-        <h1>{{instructor.title}}</h1>
-        {{ instructor.content }}
-    </div>
-</div>
-{% endfor %}
-
-
-<a href="#0" class="reveal-panel-close">Close</a>
+{% include reveal-box.html %}

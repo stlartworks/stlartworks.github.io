@@ -1,0 +1,44 @@
+<section id="reveal-gallery" class="reveal-section">
+    <div class="reveal-container">
+        <ul>
+            {% for item in site.[page.reveal] %}
+            <li>
+                <a href="#0" data-type="{{item.feature-img | | remove: '.jpg'}}">
+                    <figure style="background-image: url('/images/{{item.feature-img}}');">
+                        <!-- <img src="/images/{{program.feature-img}}" alt="Team item 1"> -->
+                        <div class="reveal-img-overlay">
+                            <span>Read more</span>
+                        </div>
+                    </figure>
+                    <div class="reveal-box-info">{{item.title}}</div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div> <!-- reveal-container -->
+</section> <!-- reveal-gallery -->
+
+<div class="reveal-overlay"></div>
+
+{% include megaCTA.html %}
+
+</main>
+
+
+{% for item in site.[page.reveal] %}
+<div class="reveal-panel {{item.feature-img | remove: ".jpg"}}">
+    <div class="reveal-panel-pict">
+        <div class="reveal-panel-pict-flexembed" style="background-image: url('/images/{{item.feature-img}}');"></div>
+    </div>
+
+    <div class="reveal-bio-content">
+        <h1>{{item.title}}</h1>
+        <div class="reveal-bio-content__md">
+            {{ item.content }}
+        </div>
+    </div>
+</div>
+{% endfor %}
+
+
+<a href="#0" class="reveal-panel-close">Close</a>

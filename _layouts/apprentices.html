@@ -1,53 +1,14 @@
 ---
 layout: default
 bodyclass: apprentices
+
+reveal: apprentices
 ---
 
-<main>
+<main> <!-- need this for reveal panel to work -->
 
 {% include imgBanner.html %}
 
 {% include mainContent.html %}
 
-<section id="reveal-gallery" class="reveal-section">
-    <div class="reveal-container">
-        <ul>
-            {% for apprentice in site.apprentices %}
-            <li>
-                <a href="#0" data-type="{{apprentice.feature-img | | remove: '.jpg'}}">
-                    <figure style="background-image: url('/images/{{apprentice.feature-img}}');">
-                        <!-- <img src="/images/{{program.feature-img}}" alt="Team member 1"> -->
-                        <div class="reveal-img-overlay">
-                            <span>Read more</span>
-                        </div>
-                    </figure>
-                    <div class="reveal-box-info">{{apprentice.title}}</div>
-                </a>
-            </li>
-            {% endfor %}
-        </ul>
-    </div> <!-- reveal-container -->
-</section> <!-- reveal-gallery -->
-
-<div class="reveal-overlay"></div>
-
-{% include megaCTA.html %}
-
-</main>
-
-
-{% for apprentice in site.apprentices %}
-<div class="reveal-panel {{apprentice.feature-img | remove: ".jpg"}}">
-    <div class="reveal-panel-pict">
-        <div class="reveal-panel-pict-flexembed" style="background-image: url('/images/{{apprentice.feature-img}}');"></div>
-    </div>
-
-    <div class="reveal-bio-content">
-        <h1>{{apprentice.title}}</h1>
-        {{ apprentice.content }}
-    </div>
-</div>
-{% endfor %}
-
-
-<a href="#0" class="reveal-panel-close">Close</a>
+{% include reveal-box.html %}

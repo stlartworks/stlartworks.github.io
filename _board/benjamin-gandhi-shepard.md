@@ -14,7 +14,8 @@ website:
 ---
 I'm an awesomizer. Wait, what is that? I only want to spend my time working on things that are going to be awesome with people that actively pursue this same goal.
 
-Background:
+### Background
+
 - Double major in studio art and art history from Colby College
 - Master's in Social Work from Wash U
 - One class short of a Master's in Art Therapy from SIUE
