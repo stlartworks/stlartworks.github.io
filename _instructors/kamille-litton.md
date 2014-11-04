@@ -2,7 +2,7 @@
 layout: instructors
 title: Kamille Litton
 
-feature-img: Instructor-william-burton.jpg
+feature-img: kamille-litton.jpg
 
 website:
 

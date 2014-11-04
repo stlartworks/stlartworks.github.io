@@ -2,7 +2,7 @@
 layout: board
 title: Joel Fuoss
 
-feature-img: Instructor-william-burton.jpg
+feature-img: joel-fuoss.jpg
 
 website:
 

@@ -2,7 +2,7 @@
 layout: board
 title: Matt Semrad
 
-feature-img: Instructor-william-burton.jpg
+feature-img: matt-semrad.jpg
 
 website:
 

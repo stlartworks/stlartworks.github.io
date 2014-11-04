@@ -2,7 +2,7 @@
 layout: instructors
 title: Deborah Wheeler
 
-feature-img: Instructor-william-burton.jpg
+feature-img: deborah-wheeler.jpg
 
 website:
 

@@ -2,7 +2,7 @@
 layout: board
 title: Amy Counts
 
-feature-img: Instructor-william-burton.jpg
+feature-img: amy-counts.jpg
 
 website:
 

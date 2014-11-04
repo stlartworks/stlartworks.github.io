@@ -2,7 +2,7 @@
 layout: board
 title: Shaughnessy Daniels
 
-feature-img: Instructor-william-burton.jpg
+feature-img: shaughnessy-daniels.jpg
 
 website:
 

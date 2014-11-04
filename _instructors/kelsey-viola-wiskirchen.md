@@ -2,7 +2,7 @@
 layout: instructors
 title: Kelsey Viola Wiskirchen
 
-feature-img: Instructor-william-burton.jpg
+feature-img: kelsey-viola-wiskirchen.jpg
 
 website:
 

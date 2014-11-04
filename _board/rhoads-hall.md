@@ -2,7 +2,7 @@
 layout: board
 title: Rhoads Hall
 
-feature-img: Instructor-william-burton.jpg
+feature-img: rhoads-hall.jpg
 
 website:
 

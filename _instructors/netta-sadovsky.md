@@ -2,7 +2,7 @@
 layout: instructors
 title: Netta Sadovsky
 
-feature-img: Instructor-william-burton.jpg
+feature-img: netta-sadovsky.jpg
 
 website:
 

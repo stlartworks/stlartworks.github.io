@@ -2,7 +2,7 @@
 layout: board
 title: Jared Boyd
 
-feature-img: Instructor-william-burton.jpg
+feature-img: jared-boyd.jpg
 
 website:
 

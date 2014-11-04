@@ -2,7 +2,7 @@
 layout: board
 title: Narcisa Symank
 
-feature-img: Instructor-william-burton.jpg
+feature-img: narcisa-symank.jpg
 
 website:
 

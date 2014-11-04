@@ -2,7 +2,7 @@
 layout: board
 title: Erik Karanik
 
-feature-img: Instructor-william-burton.jpg
+feature-img: erik-karanik.jpg
 
 website:
 

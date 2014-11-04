@@ -2,7 +2,7 @@
 layout: board
 title: Daryl Gourley
 
-feature-img: Instructor-william-burton.jpg
+feature-img: daryl-gourley.jpg
 
 website:
 

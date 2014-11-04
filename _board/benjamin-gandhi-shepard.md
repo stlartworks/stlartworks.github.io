@@ -2,7 +2,7 @@
 layout: board
 title: Benjamin Gandhi-Shepard
 
-feature-img: Instructor-william-burton.jpg
+feature-img: benjamin-gandhi-shepard-fam.jpg
 
 role:
 duration:
@@ -12,4 +12,18 @@ work-title: Awesomizer
 website:
 
 ---
-Cardinals arch gooey butter cake south grand muny nelly mississippi river, CWE barnes-jewish hospital toasted ravioli anheuser-busch neon sign. Lindbergh St. Louis science center and zoo turtle park soulard bowling riverfront times. Delmar loop blueberry hill tivoli COCA moonrise hotel RAC answers.com washington university forest park spanish pavilion art hill. Crown candy OZZY smith schnuck's, straub's the hill kingshighway fred bird choutteau SLU blues monsanto rams. Galleria checker dome metrolink KDHX webster groves post-dispatch clayton UMSL university city maplewood. Ted Drews, "frozen custard" star clipper bread co. — square chestnut highway 40!
+I'm an awesomizer. Wait, what is that? I only want to spend my time working on things that are going to be awesome with people that actively pursue this same goal.
+
+Background:
+- Double major in studio art and art history from Colby College
+- Master's in Social Work from Wash U
+- One class short of a Master's in Art Therapy from SIUE
+- Graduate of RAC's Community Arts Training program (CAT)
+- Answered local and National Suicide hotline
+- Facilitator of Anytown's youth diversity camp
+- Taught CAMSTL's New Art in the Neighborhood
+- Self taught photographer, designer and web developer
+- Lead web designer at Anheuser-Busch
+- Designed and coded Anheuser-busch.com by myself
+
+I care about my family above all things. I believe in empowering youth to make great things. I see good things happening in STL. Artworks is one of them. Teamwork makes the dream work. Stay awesome!

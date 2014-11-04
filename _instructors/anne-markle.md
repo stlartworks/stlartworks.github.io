@@ -2,7 +2,7 @@
 layout: instructors
 title: Anne Markle
 
-feature-img: Instructor-william-burton.jpg
+feature-img: anne-markle.jpg
 
 website:
 

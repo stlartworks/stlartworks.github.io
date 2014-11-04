@@ -2,7 +2,7 @@
 layout: board
 title: Chuck Kindleberger
 
-feature-img: Instructor-william-burton.jpg
+feature-img: chuck-kindleberger.jpg
 
 website:
 

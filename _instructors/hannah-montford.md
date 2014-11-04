@@ -2,7 +2,7 @@
 layout: instructors
 title: Hanna Montford
 
-feature-img: Instructor-william-burton.jpg
+feature-img: hanna-montford.jpg
 
 website:
 

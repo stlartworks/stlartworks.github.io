@@ -2,7 +2,7 @@
 layout: instructors
 title: Mike Gualdoni
 
-feature-img: Instructor-william-burton.jpg
+feature-img: mike-gualdoni.jpg
 
 website:
 

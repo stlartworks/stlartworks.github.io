@@ -2,7 +2,7 @@
 layout: board
 title: Sarah Smith
 
-feature-img: Instructor-william-burton.jpg
+feature-img: sbs.jpg
 
 website:
 

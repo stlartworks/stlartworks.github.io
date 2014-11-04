@@ -2,7 +2,7 @@
 layout: instructors
 title: Scott Pondrum
 
-feature-img: Instructor-william-burton.jpg
+feature-img: scott-pondrum.jpg
 
 website:
 

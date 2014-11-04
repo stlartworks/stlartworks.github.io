@@ -2,7 +2,7 @@
 layout: board
 title: Rajeev John
 
-feature-img: Instructor-william-burton.jpg
+feature-img: rajeev-john.jpg
 
 website:
 

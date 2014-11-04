@@ -2,7 +2,7 @@
 layout: instructors
 title: Kim Kaporis
 
-feature-img: Instructor-william-burton.jpg
+feature-img: kim-kaporis.jpg
 
 website:
 

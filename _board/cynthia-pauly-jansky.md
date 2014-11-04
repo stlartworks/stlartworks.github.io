@@ -2,7 +2,7 @@
 layout: board
 title: Cynthia Pauly Jansky
 
-feature-img: Instructor-william-burton.jpg
+feature-img: cynthia-pauly-jansky.jpg
 
 website:
 

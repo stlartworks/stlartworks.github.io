@@ -2,7 +2,7 @@
 layout: board
 title: Kelly Scheffer
 
-feature-img: Instructor-william-burton.jpg
+feature-img: kelly-scheffer.jpg
 
 website:
 

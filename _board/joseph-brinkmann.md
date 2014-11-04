@@ -2,7 +2,7 @@
 layout: board
 title: Joseph Brinkmann
 
-feature-img: Instructor-william-burton.jpg
+feature-img: joseph-brinkmann.jpg
 
 website:
 

@@ -2,7 +2,7 @@
 layout: board
 title: Noah Kirby
 
-feature-img: Instructor-william-burton.jpg
+feature-img: noah-kirby.jpg
 
 website:
 

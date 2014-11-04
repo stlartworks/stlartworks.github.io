@@ -2,7 +2,7 @@
 layout: instructors
 title: Amanda Arnett
 
-feature-img: Instructor-william-burton.jpg
+feature-img: amanda-arnett.jpg
 
 website:
 

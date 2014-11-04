@@ -2,7 +2,7 @@
 layout: board
 title: Joshua Walehwa
 
-feature-img: Instructor-william-burton.jpg
+feature-img: joshua-walehwa.jpg
 
 website:
 

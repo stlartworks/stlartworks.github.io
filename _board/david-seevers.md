@@ -2,7 +2,7 @@
 layout: board
 title: David Seevers
 
-feature-img: Instructor-william-burton.jpg
+feature-img: david-seevers.jpg
 
 website:
 

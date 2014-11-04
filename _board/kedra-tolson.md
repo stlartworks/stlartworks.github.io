@@ -2,7 +2,7 @@
 layout: board
 title: Kedra Tolson
 
-feature-img: Instructor-william-burton.jpg
+feature-img: kedra-tolson.jpg
 
 website:
 

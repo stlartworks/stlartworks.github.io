@@ -2,7 +2,7 @@
 layout: instructors
 title: Aaron Prahlow
 
-feature-img: Instructor-william-burton.jpg
+feature-img: aaron-prahlow.jpg
 
 website:
 

@@ -2,7 +2,7 @@
 layout: board
 title: Steve Shumate
 
-feature-img: Instructor-william-burton.jpg
+feature-img: steve-shumate.jpg
 
 website:
 

@@ -2,7 +2,7 @@
 layout: board
 title: Rachel Powers
 
-feature-img: Instructor-william-burton.jpg
+feature-img: rachel-powers.jpg
 
 website:
 

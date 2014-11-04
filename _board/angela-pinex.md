@@ -2,7 +2,7 @@
 layout: board
 title: Angela Pinex
 
-feature-img: Instructor-william-burton.jpg
+feature-img: angela-pinex.jpg
 
 website:
 

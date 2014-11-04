@@ -2,7 +2,7 @@
 layout: instructors
 title: Stacy Rathert
 
-feature-img: Instructor-william-burton.jpg
+feature-img: stacy-rathert.jpg
 
 website:
 

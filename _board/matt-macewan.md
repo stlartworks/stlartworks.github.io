@@ -2,7 +2,7 @@
 layout: board
 title: Matt MacEwan
 
-feature-img: Instructor-william-burton.jpg
+feature-img: matt-macewan.jpg
 
 website:
 
