@@ -8,6 +8,8 @@ title: We are
 subtitle: ARTWORKS
 permalink: /apprentices/
 
+unique-cta: true
+
 mega-cta-img: ville-02.jpg
 mega-cta-heading: Join us!
 mega-cta-button-text: Apply today!
