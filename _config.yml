@@ -33,8 +33,9 @@ name: St. Louis Artworks
 # This text will be used on the homepage to personalize the name of your site
 # This will also act as a text link that always points to the homepage
 
-tagline: Job training for young creatives
+tagline: Creating. Opportunities.
 # This will show up in the header next to the site logo
+#Job training for young creatives
 
 
 # -----------------------------------------------------------------------------
@@ -207,12 +208,26 @@ defaults:
 # PROSE SETTINGS
 # -----------------------------------------------------------------------------
 
+siteurl: "http://stlartworks.github.io.com"
+# Turns on Jekyll live previews. The url is the homepage of the live site.
+
+#relativeLinks: "http://prose.github.io/starter/links.jsonp"
+#rooturl: _posts
+
 # PROSE allows you to manage .md files
 # ! Read more: https://github.com/prose/prose/wiki/Prose-Configuration
 
 prose:
     media: images
+    ignore:
+      - index.md
+      - _config.yml
+      - /_layouts
+      - /_includes
+      - /_scss
+
     metadata:
+
         _board:
             -
                 name: "layout"
@@ -303,10 +318,6 @@ prose:
                             name: Summer
                             value: summer
                     placeholder: "Choose season"
-
-  #relativeLinks: "http://prose.github.io/starter/links.jsonp"
-  #rooturl: _posts
-  #siteurl: "http://stlartworks.github.io/"
 
 
 # -----------------------------------------------------------------------------

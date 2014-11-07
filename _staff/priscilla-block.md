@@ -2,8 +2,9 @@
 layout: staff
 title: Priscilla Block
 
-feature-img: cofacblock-1024x576.jpg
+feature-img: priscilla-block-01.jpg
 
+position: Director
 email: priscilla.block@stlartworks.org
 phone: 314.289.4181
 
