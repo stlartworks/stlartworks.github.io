@@ -1,7 +1,12 @@
 ---
 layout: board
-"feature-img": "slaw-selfie-01.jpg"
-"feature-statement": Our BOARD
+
+seoTitle: Board - Meet our board of directors
+seoDescription: We are fortunate to have all these amazing people on our board.
+
+feature-img: slaw-selfie-01.jpg
+feature-statement: Our BOARD
+
 title: All for one
 subtitle: One for all
 permalink: /board/

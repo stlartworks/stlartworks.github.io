@@ -262,7 +262,7 @@ main {
     padding: 1em;
     color: #FFF;
 
-    h1 {
+    &__title {
         color: $white;
         font-family: $sans-condensed-light;
         font-size: 3em;
@@ -282,6 +282,14 @@ main {
             width: 15rem;
             margin: .75em auto;
         }
+    }
+
+    &__subtitle {
+        font-family: $sans-condensed-light;
+        font-size: 2em;
+        padding: 0;
+        text-align: center;
+        text-transform: uppercase;
     }
 
     &__md {

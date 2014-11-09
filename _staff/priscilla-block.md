@@ -4,7 +4,7 @@ title: Priscilla Block
 
 feature-img: priscilla-block-01.jpg
 
-position: Director
+position: Executive Director
 email: priscilla.block@stlartworks.org
 phone: 314.289.4181
 

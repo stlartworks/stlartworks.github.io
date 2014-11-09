@@ -1,5 +1,8 @@
 ---
-layout: support
+layout: contact
+
+seoTitle: Contact - How can we help you today?
+seoDescription: We are always ready to help. 
 
 feature-img: slaw-002.jpg
 feature-statement: Contact

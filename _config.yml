@@ -39,25 +39,28 @@ tagline: Creating. Opportunities.
 
 
 # -----------------------------------------------------------------------------
-# SEO SETTINGS
+# GOOGLE ANALYTICS
 # -----------------------------------------------------------------------------
-
-title: STLOUISARTWORKS | Awesome jobs for SLT's young creatives and experienced professionals
-# SEO - This will be used for the title text on the homepage
-
-description: St. Louis Artworks provides awesome job training to young St. Louis creatives
-# SEO - This will be used for the meta description on the homepage
 
 google_analytics: UA-795125-1
 # This will enable Google Analytics to track your site
 
 
 # -----------------------------------------------------------------------------
+# POST Settings
+# -----------------------------------------------------------------------------
+
+#future: false
+# This will hide future dated posts from your live blog.
+
+# show_drafts: false
+
+# -----------------------------------------------------------------------------
 # PAGINATION (not working right now)
 # -----------------------------------------------------------------------------
 
 #paginate: 5
-#paginate_path: "/blog/archive/page:num"
+#paginate_path: "/blog/page:num"
 # Use pagination on the blog page to better manage posts
 
 # -----------------------------------------------------------------------------

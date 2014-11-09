@@ -1,6 +1,9 @@
 ---
 layout: support
 
+seoTitle: We are grateful for your donations, support and consideration
+seoDescription: Every dollar you donate helps us provide quality job training and art education for teens who otherwise might not have the opportunity to bring home a paycheck and learn valuable job and life skills at the same time.
+
 feature-img: family-001.jpg
 feature-statement: SUPPORT US
 

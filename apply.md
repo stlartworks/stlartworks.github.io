@@ -1,6 +1,9 @@
 ---
 layout: apply
 
+seoTitle: Apply today!
+seoDescription: Join STLOUISASRTWORKS today!
+
 feature-img: mural-003.jpg
 feature-statement: Join ARTWORKS!
 

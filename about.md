@@ -1,10 +1,13 @@
 ---
 layout: about
-title: About
+
+seoTitle: About
+seoDescription: St. Louis Artworks provides awesome job training to young St. Louis creatives
 
 feature-img: artwork-008.jpg
 feature-statement: Artworks.
 
+title: About
 subtitle: St. Louis ArtWorks is AWESOME!
 permalink: /about/
 ---

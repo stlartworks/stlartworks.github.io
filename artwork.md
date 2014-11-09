@@ -1,6 +1,9 @@
 ---
 layout: artwork
 
+seoTitle: Artwork / commissions
+seoDescription: We generate a lot of cool artwork. Check it out!
+
 feature-img: artwork-021.jpg
 feature-statement: ARTWORK!
 

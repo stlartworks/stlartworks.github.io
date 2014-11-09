@@ -1,6 +1,9 @@
 ---
 layout: apprentices
 
+seoTitle: Apprentices
+seoDescription: Our apprentices come from all parts of STL. See what they have to say about STLOUISARTWORKS.
+
 feature-img: apprentice-grid.jpg
 feature-statement: apprentices
 
