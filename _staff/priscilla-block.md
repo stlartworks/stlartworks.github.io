@@ -2,7 +2,7 @@
 layout: staff
 title: Priscilla Block
 
-feature-img: priscilla-block-01.jpg
+featureImg: priscilla-block-01.jpg
 
 position: Executive Director
 email: priscilla.block@stlartworks.org

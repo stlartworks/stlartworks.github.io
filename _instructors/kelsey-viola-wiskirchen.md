@@ -2,7 +2,7 @@
 layout: instructors
 title: Kelsey Viola Wiskirchen
 
-feature-img: instructor-kelsey.jpg
+featureImg: instructor-kelsey.jpg
 teaches:
 
 website:

@@ -1,7 +1,7 @@
 ---
 layout: apprentices
 title: Deja Jones
-"feature-img": "student-002.jpg"
+"featureImg": "student-002.jpg"
 published: true
 ---
 

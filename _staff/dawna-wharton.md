@@ -2,7 +2,7 @@
 layout: staff
 title: Dawna Wharton
 
-feature-img: dawna-wharton-2.jpg
+featureImg: dawna-wharton-2.jpg
 position: Office Manager
 ---
 

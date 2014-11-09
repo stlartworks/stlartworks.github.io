@@ -2,7 +2,7 @@
 layout: apprentices
 title: S.R.
 
-feature-img: apprentice-065.jpg
+featureImg: apprentice-065.jpg
 ---
 
 ArtWorks has inspired me to continue to pursue my dream of becoming a working artist.  Despite what has been said about the difficulty level, and outcome of becoming an artist, I am convinced that this is something close to my heart and well worth fighting for.

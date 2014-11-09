@@ -2,7 +2,7 @@
 layout: board
 title: Shaughnessy Daniels
 
-feature-img: shaughnessy-daniels.jpg
+featureImg: shaughnessy-daniels.jpg
 
 website:
 

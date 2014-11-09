@@ -2,7 +2,7 @@
 layout: instructors
 title: Mike Gualdoni
 
-feature-img: instructor-mike.jpg
+featureImg: instructor-mike.jpg
 teaches: 
 website:
 

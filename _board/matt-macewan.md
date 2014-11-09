@@ -2,7 +2,7 @@
 layout: board
 title: Matt MacEwan
 
-feature-img: matt-macewan.jpg
+featureImg: matt-macewan.jpg
 
 website:
 

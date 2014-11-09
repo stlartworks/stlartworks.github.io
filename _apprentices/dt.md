@@ -2,7 +2,7 @@
 layout: apprentices
 title: D.T.
 
-feature-img: student-002.jpg
+featureImg: student-002.jpg
 ---
 
 In the beginning when I first came into St. Louis ArtWorks, I was shy and quiet.  The way that I introduced myself was not confident enough, and I didn’t know how to open up to new people.  

@@ -1,8 +1,8 @@
 ---
 layout: sponsors
 
-feature-img: staff-01.jpg
-feature-statement: STAFF
+featureImg: staff-01.jpg
+featureStatement: STAFF
 
 title: Hardwork
 subtitle: Pays off

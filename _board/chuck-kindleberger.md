@@ -2,7 +2,7 @@
 layout: board
 title: Chuck Kindleberger
 
-feature-img: chuck-kindleberger.jpg
+featureImg: chuck-kindleberger.jpg
 
 website:
 

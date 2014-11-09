@@ -2,7 +2,7 @@
 layout: board
 title: Amy Counts
 
-feature-img: amy-counts.jpg
+featureImg: amy-counts.jpg
 
 website:
 

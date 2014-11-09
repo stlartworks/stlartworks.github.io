@@ -3,9 +3,9 @@
         <ul>
             {% for item in site.[page.reveal] %}
             <li>
-                <a href="#0" data-type="{{item.feature-img | | remove: '.jpg'}}">
-                    <figure style="background-image: url('/images/{{item.feature-img}}');">
-                        <!-- <img src="/images/{{program.feature-img}}" alt="Team item 1"> -->
+                <a href="#0" data-type="{{item.featureImg | | remove: '.jpg'}}">
+                    <figure style="background-image: url('/images/{{item.featureImg}}');">
+                        <!-- <img src="/images/{{program.featureImg}}" alt="Team item 1"> -->
                         <div class="reveal-img-overlay">
                             <span>Read more</span>
                         </div>
@@ -30,9 +30,9 @@
 
 
 {% for item in site.[page.reveal] %}
-<div class="reveal-panel {{item.feature-img | remove: ".jpg"}}">
+<div class="reveal-panel {{item.featureImg | remove: ".jpg"}}">
     <div class="reveal-panel-pict">
-        <div class="reveal-panel-pict-flexembed" style="background-image: url('/images/{{item.feature-img}}');"></div>
+        <div class="reveal-panel-pict-flexembed" style="background-image: url('/images/{{item.featureImg}}');"></div>
     </div>
 
     <div class="reveal-bio-content">

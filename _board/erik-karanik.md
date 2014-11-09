@@ -2,7 +2,7 @@
 layout: board
 title: Erik Karanik
 
-feature-img: erik-karanik.jpg
+featureImg: erik-karanik.jpg
 
 website:
 

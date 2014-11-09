@@ -2,7 +2,7 @@
 layout: board
 title: Joel Fuoss
 
-feature-img: joel-fuoss.jpg
+featureImg: joel-fuoss.jpg
 
 website:
 

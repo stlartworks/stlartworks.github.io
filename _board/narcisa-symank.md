@@ -2,7 +2,7 @@
 layout: board
 title: Narcisa Symank
 
-feature-img: narcisa-symank.jpg
+featureImg: narcisa-symank.jpg
 
 website:
 

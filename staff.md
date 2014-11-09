@@ -4,8 +4,8 @@ layout: staff
 seoTitle: Staff
 seoDescription: Our staff rocks! Meet the people that grind every day to make ARTWORKS the best program possible.
 
-feature-img: staff-01.jpg
-feature-statement: STAFF
+featureImg: staff-01.jpg
+featureStatement: STAFF
 
 title: Hardwork
 subtitle: Pays off

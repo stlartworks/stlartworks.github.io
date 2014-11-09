@@ -2,7 +2,7 @@
 layout: board
 title: Rachel Powers
 
-feature-img: rachel-powers.jpg
+featureImg: rachel-powers.jpg
 
 website:
 

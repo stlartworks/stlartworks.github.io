@@ -2,7 +2,7 @@
 layout: board
 title: Jared Boyd
 
-feature-img: jared-boyd.jpg
+featureImg: jared-boyd.jpg
 
 website:
 

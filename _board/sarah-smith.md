@@ -2,7 +2,7 @@
 layout: board
 title: Sarah Smith
 
-feature-img: sbs.jpg
+featureImg: sbs.jpg
 
 website:
 

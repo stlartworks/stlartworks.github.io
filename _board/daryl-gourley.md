@@ -2,7 +2,7 @@
 layout: board
 title: Daryl Gourley
 
-feature-img: daryl-gourley.jpg
+featureImg: daryl-gourley.jpg
 
 website:
 

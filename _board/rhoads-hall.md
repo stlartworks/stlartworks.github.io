@@ -2,7 +2,7 @@
 layout: board
 title: Rhoads Hall
 
-feature-img: rhoads-hall.jpg
+featureImg: rhoads-hall.jpg
 
 website:
 

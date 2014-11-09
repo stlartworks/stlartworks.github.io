@@ -2,7 +2,7 @@
 layout: staff
 title: Jessica Graham
 
-feature-img: staff-jessica-01.jpg
+featureImg: staff-jessica-01.jpg
 position: Program Manageer
 email: program.manager@stlartworks.org
 phone: 314.289.4188

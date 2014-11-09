@@ -4,8 +4,8 @@ layout: instructors
 seoTitle: Instructors / art teachers
 seoDescription: One of the greatest strengths of our program is our instructors. They are established pros, life-long teachers and/or rising stars.
 
-feature-img: Instructor-robert-ketchens.jpg
-feature-statement: The Pros
+featureImg: Instructor-robert-ketchens.jpg
+featureStatement: The Pros
 
 title: Our instructors
 subtitle: ROCK

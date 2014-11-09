@@ -2,7 +2,7 @@
 layout: board
 title: Cynthia Pauly Jansky
 
-feature-img: cynthia-pauly-jansky.jpg
+featureImg: cynthia-pauly-jansky.jpg
 
 website:
 

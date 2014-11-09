@@ -2,7 +2,7 @@
 layout: board
 title: Benjamin Gandhi-Shepard
 
-feature-img: benjamin-gandhi-shepard-fam.jpg
+featureImg: benjamin-gandhi-shepard-fam.jpg
 
 role:
 duration:

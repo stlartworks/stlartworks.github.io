@@ -2,7 +2,7 @@
 layout: staff
 title: Jacob Volkmar
 
-feature-img: jacob-volkmar.jpg
+featureImg: jacob-volkmar.jpg
 
 position: Grants Media Manager
 email: grants-media.manager@stlartworks.org

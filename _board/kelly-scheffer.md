@@ -2,7 +2,7 @@
 layout: board
 title: Kelly Scheffer
 
-feature-img: kelly-scheffer.jpg
+featureImg: kelly-scheffer.jpg
 
 website:
 

@@ -2,7 +2,7 @@
 layout: board
 title: Kedra Tolson
 
-feature-img: kedra-tolson.jpg
+featureImg: kedra-tolson.jpg
 
 website:
 

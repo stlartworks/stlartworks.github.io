@@ -2,7 +2,7 @@
 layout: board
 title: Angela Pinex
 
-feature-img: angela-pinex.jpg
+featureImg: angela-pinex.jpg
 
 website:
 

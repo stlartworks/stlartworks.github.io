@@ -2,7 +2,7 @@
 layout: board
 title: Rajeev John
 
-feature-img: rajeev-john.jpg
+featureImg: rajeev-john.jpg
 
 website:
 

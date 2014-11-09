@@ -2,7 +2,7 @@
 layout: instructors
 title: William Burton
 
-feature-img: Instructor-william-burton.jpg
+featureImg: Instructor-william-burton.jpg
 
 website:
 

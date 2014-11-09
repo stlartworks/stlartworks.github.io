@@ -2,7 +2,7 @@
 layout: programs
 title: Videography
 
-feature-img: video-production-003.jpg
+featureImg: video-production-003.jpg
 
 season:
 teaching-organization: ArtWorks Teaching

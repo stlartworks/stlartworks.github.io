@@ -4,8 +4,8 @@ layout: blog
 seoTitle: Blog
 seoDescription: SLAW's latest news and announcements
 
-feature-img: materials-pencils-002.jpg
-feature-statement: BLOG
+featureImg: materials-pencils-002.jpg
+featureStatement: BLOG
 
 title: BLOG
 subtitle: Latest News

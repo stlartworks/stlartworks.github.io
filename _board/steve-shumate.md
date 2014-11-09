@@ -2,7 +2,7 @@
 layout: board
 title: Steve Shumate
 
-feature-img: steve-shumate.jpg
+featureImg: steve-shumate.jpg
 
 website:
 

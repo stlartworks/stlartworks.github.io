@@ -4,8 +4,8 @@ layout: apply
 seoTitle: Apply today!
 seoDescription: Join STLOUISASRTWORKS today!
 
-feature-img: mural-003.jpg
-feature-statement: Join ARTWORKS!
+featureImg: mural-003.jpg
+featureStatement: Join ARTWORKS!
 
 title: Status
 subtitle: Now accepting applications!

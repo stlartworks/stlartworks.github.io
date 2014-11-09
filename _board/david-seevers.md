@@ -2,7 +2,7 @@
 layout: board
 title: David Seevers
 
-feature-img: david-seevers.jpg
+featureImg: david-seevers.jpg
 
 website:
 

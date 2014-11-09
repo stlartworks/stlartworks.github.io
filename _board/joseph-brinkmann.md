@@ -2,7 +2,7 @@
 layout: board
 title: Joseph Brinkmann
 
-feature-img: joseph-brinkmann.jpg
+featureImg: joseph-brinkmann.jpg
 
 website:
 

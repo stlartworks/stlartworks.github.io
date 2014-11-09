@@ -2,7 +2,7 @@
 layout: staff
 title: Michael Sophir
 
-feature-img: michael-sophir.jpg
+featureImg: michael-sophir.jpg
 position: Research Assistant
 ---
 

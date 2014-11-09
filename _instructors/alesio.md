@@ -2,7 +2,7 @@
 layout: instructors
 title: Alesio
 
-feature-img: instructor-alesio.jpg
+featureImg: instructor-alesio.jpg
 teaches:
 
 website:

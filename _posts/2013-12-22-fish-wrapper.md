@@ -2,7 +2,7 @@
 layout: post
 title: The FishWrapper
 
-feature-img: fish-wrapper-01.jpg
+featureImg: fish-wrapper-01.jpg
 
 teaser:
 

@@ -2,7 +2,7 @@
 layout: programs
 title: BoomerRacks
 
-feature-img: bike-racks-005.jpg
+featureImg: bike-racks-005.jpg
 
 season:
 teaching-organization: ArtWorks Teaching

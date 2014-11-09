@@ -2,7 +2,7 @@
 layout: programs
 title: Normandy Mural
 
-feature-img: ville-01.jpg
+featureImg: ville-01.jpg
 
 season:
 teaching-organization: ArtWorks Teaching

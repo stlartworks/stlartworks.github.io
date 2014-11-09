@@ -4,8 +4,8 @@ layout: programs
 seoTitle: Programs - Learn art and earn money from professional artists
 seoDescription: Apprentices from the St. Louis metropolitan area experience hands on arts education and work place training.
 
-feature-img: apprentice-001.jpg
-feature-statement: Learn and Earn!
+featureImg: apprentice-001.jpg
+featureStatement: Learn and Earn!
 
 title: Fall Programs
 subtitle: Now accepting applications!

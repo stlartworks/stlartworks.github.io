@@ -2,7 +2,7 @@
 layout: programs
 title: Art of Medicine
 
-feature-img: apprentice-060.jpg
+featureImg: apprentice-060.jpg
 
 season:
 teaching-organization: ArtWorks Teaching

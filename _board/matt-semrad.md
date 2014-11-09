@@ -2,7 +2,7 @@
 layout: board
 title: Matt Semrad
 
-feature-img: matt-semrad.jpg
+featureImg: matt-semrad.jpg
 
 website:
 

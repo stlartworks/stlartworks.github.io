@@ -2,7 +2,7 @@
 layout: board
 title: Joshua Walehwa
 
-feature-img: joshua-walehwa.jpg
+featureImg: joshua-walehwa.jpg
 
 website:
 

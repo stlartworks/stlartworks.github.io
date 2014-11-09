@@ -2,7 +2,7 @@
 layout: instructors
 title: Kamille Litton
 
-feature-img: kamille-litton.jpg
+featureImg: kamille-litton.jpg
 teaches:
 website:
 

@@ -2,7 +2,7 @@
 layout: board
 title: Noah Kirby
 
-feature-img: noah-kirby.jpg
+featureImg: noah-kirby.jpg
 
 website:
 
