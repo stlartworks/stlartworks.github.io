@@ -15,21 +15,21 @@ bodyclass: about
         <br>Established
     </div>
     <div class="chartBox__stat">
-        <span>2600+</span>
+        <span>{{ page.apprenticesCount }}</span>
         <br>Apprentices
     </div>
     <div class="chartBox__stat">
-        <span>$3,100,000?</span>
+        <span>$ {{ page.apprenticesPay }}</span>
         <br>Paid to Apprentices
     </div>
     <div class="chartBox__stat">
-        <span>~32</span>
+        <span>{{ page.apprenticesZip }}</span>
         <br>ZIP codes
     </div>
 </div>
 
 <div class="chartBox">
-    <h2 class="chartBox__heading">High schools</h2>
+    <h2 class="chartBox__heading">{{ page.apprenticesSchools }} High schools represented</h2>
     <p>Our apprentices come from St. Louis schools and beyond. We also have many apprentices that have already graduated high school.</p>
     <div class="chart" data-percent="46">
         <span class="chart__percent">46</span>
