@@ -141,7 +141,6 @@ a.brandmark {
 }
 
 
-
 /* === MENU laxnav__menu === */
 /* ======================= */
 
@@ -223,7 +222,12 @@ a.brandmark {
 
 /* hides extra text of icon (accessibility) */
 .icon span {
-  display: none;
+  //display: none;
+  color: $stlouisblues;
+  @extend %condensed;
+  font-size: 2em;
+  letter-spacing: 4px;
+  text-transform: uppercase;
 }
 
 /* on focus, donâ€™t show outline */
