@@ -15,8 +15,8 @@ sponsors:
 Apprentices in the sculpture group will learn three-dimensional design and create a bike rack sculpture for a commission client.
 
 
-## Teaching Organization:
-ArtWorks
+## Commissioned by:
+??
 
 ## Artist(s):
 - Hannah Montford

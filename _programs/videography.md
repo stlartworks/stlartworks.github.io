@@ -15,7 +15,7 @@ sponsors:
 Apprentices will be given the support they need to become active storytellers and historians. Under the guidance of two film professionals, youth are taught documentary filmmaking techniques using an approach that emphasizes direct observation and personal experience.
 
 
-## Teaching Organization:
+## Commissioned by:
 ArtWorks
 
 ## Artist(s):

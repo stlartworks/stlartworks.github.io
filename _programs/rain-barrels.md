@@ -15,8 +15,8 @@ sponsors:
 Apprentices will be introduced to the principals of landscape architecture, and be taught color and perspective to design rain barrels.  The barrels will encourage water conservation.
 
 
-## Teaching Organization:
-ArtWorks
+## Commissioned by:
+MSD
 
 ## Artist(s):
 - Hannah Montford

@@ -15,7 +15,7 @@ sponsors:
 Apprentices will study the Historic Normandy Neighborhood and be taught color and perspective, to design a large scale mural to be placed in front of Normandy Neighborhood. The mural depicts the rich history of the neighborhood.
 
 
-## Teaching Organization:
+## Commissioned by:
 ArtWorks
 
 ## Artist(s):
