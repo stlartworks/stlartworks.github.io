@@ -106,106 +106,40 @@ bodyclass: about
 <div class="homepage__programs">
 
     <div class="grid">
-
         <figure class="effect-oscar">
-            <img src="/images/staff-jessica-01.jpg" alt=""/>
+            <img src="/images/{{ page.apprenticepx }}" alt=""/>
             <figcaption>
-                <h2>The <span>STAFF</span></h2>
-                <p>We have the harderst working staff in the business.<br>Meet our grinders!</p>
-                <a href="#">Apply now!</a>
+                <h2>Apprentices</h2>
+                <p>Meet our creatives</p>
+                <a href="/apprentices"></a>
             </figcaption>
         </figure>
 
         <figure class="effect-oscar">
-            <img src="/images/Instructor-robert-ketchens.jpg" alt=""/>
+            <img src="/images/{{ page.staffpx }}" alt=""/>
             <figcaption>
-                <h2>The <span>Instructors</span></h2>
-                <p>Our instructors are the best in the midwest. They are highly skilled in their profession and they are psssionate about teaching our apprentices how to succeed in the creative world.<br>Meet our instructors!</p>
-                <a href="#">Sign-up!</a>
+                <h2>STAFF</h2>
+                <p>Meet our team</p>
+                <a href="/staff"></a>
             </figcaption>
         </figure>
 
         <figure class="effect-oscar">
-            <img src="/images/interview-day-01.jpg" alt=""/>
+            <img src="/images/{{ page.instructorpx }}" alt=""/>
             <figcaption>
-                <h2>The <span>BOARD</span></h2>
-                <p>We have the most passionate board in STL<br>Meet these visionaries!</p>
-                <a href="#">Register today!</a>
+                <h2>Instructors</h2>
+                <p>Meet our PROs</p>
+                <a href="instructors"></a>
             </figcaption>
         </figure>
 
         <figure class="effect-oscar">
-            <img src="/images/visitors-01.jpg" alt=""/>
+            <img src="/images/{{ page.boardpx }}" alt=""/>
             <figcaption>
-                <h2>The <span>SPONSORS</span></h2>
-                <p>We have the most generous and supportive sponsors.<br>Meet our believers!</p>
-                <a href="#">Register today!</a>
+                <h2>BOARD</h2>
+                <p>Meet our visonaries</p>
+                <a href="/board"></a>
             </figcaption>
         </figure>
     </div>
 </div>
-
-
-
-
-
-<!--
-<div class="about__page_text_block">
-    <div class="about_text_block">
-        <h2 class="condensed">Students</h2>
-        <p>We have the most amazing young creatives in our program, here is what they have to say about STLOUISARTWORKS.</p>
-        <div class="entry">
-            {% for apprentice in site.apprentices %}
-                <h2>{{ apprentice.title }}</h2>
-            {% endfor %}
-        </div>
-    </div>
-</div>
-
-<div class="about__page_text_block">
-    <div class="about_text_block">
-        <h2 class="condensed">Staff</h2>
-        <p>We have the most amazing young creatives in our program, here is what they have to say about STLOUISARTWORKS.</p>
-        <div class="entry">
-            {% for employee in site.staff %}
-                <h2>{{ employee.title }}</h2>
-            {% endfor %}
-        </div>
-    </div>
-</div>
-
-<div class="about__page_text_block">
-    <div class="about_text_block">
-        <h2 class="condensed">Instructors</h2>
-        <p>Our instructors are the best in the midwest. They are highly skilled in their profession and they are psssionate about teaching our apprentices how to succeed in the creative world. Meet our instructors:</p>
-        <div class="entry">
-            {% for instructor in site.instructors %}
-                <h2>{{ instructor.title }}</h2>
-            {% endfor %}
-        </div>
-    </div>
-</div>
-
-<div class="about__page_text_block">
-    <div class="about_text_block">
-        <h2 class="condensed">Board</h2>
-        <p>Our board is fill with the most giving people in St. Louis. They give time, money and inspiration at every opportunity to do so. Meet our board:</p>
-        <div class="entry">
-            {% for member in site.board %}
-                <h2>{{ member.title }}</h2>
-            {% endfor %}
-        </div>
-    </div>
-</div>
-
-<div class="about__page_text_block">
-    <div class="about_text_block">
-        <h2 class="condensed">Sponsors</h2>
-        <p>We love our sponsors. </p>
-        <div class="entry">
-            {% for sponsor in site.sponsors %}
-                <h2>{{ sponsor.title }}</h2>
-            {% endfor %}
-        </div>
-    </div>
-</div> -->

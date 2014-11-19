@@ -15,6 +15,11 @@ apprenticesSchools: 46
 apprenticesCount: 2800+
 apprenticesPay: "2,000,000"
 apprenticesZip: 32
+
+apprenticepx: student-003.jpg
+staffpx: staff-jessica-01.jpg
+instructorpx: Instructor-robert-ketchens.jpg
+boardpx: interview-day-01.jpg
 ---
 
 We are excited to give young creatives (14 - 19 years old) paying apprenticeships. The majority of our funding is to empower African-American teens living in the city of St. Louis. Yet, we are forever growing our program to include as many teens as we can. We are committed to helping our brothers and sisters of STL. And we are committed to diversifying our program as much as possible.
