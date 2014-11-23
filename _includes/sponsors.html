@@ -1,0 +1,16 @@
+<div class="flip-gallery">
+    <h2>Sponsors</h2>
+    {% for sponsor in site.data.sponsors %}
+    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+    	<div class="flipper">
+    		<div class="front">
+    			<img src="/images/{{ sponsor.image }}" alt="">
+    		</div>
+    		<div class="back">
+                <h3>{{ sponsor.sponsor }}</h3>
+                <p>{{ sponsor.description }}</p>
+    		</div>
+    	</div>
+    </div>
+    {% endfor %}
+</div>
