@@ -1,10 +1,11 @@
-%button {
+@mixin button($font-size) {
+    font-size: $font-size;
     transition: all .1s ease-in;
     background: rgba($stlouisblues, .75);
     border-radius: .25em;
     color: $white;
     display: inline-block;
-    @extend %cursive;
+    font-family: $cursive;
     padding: 0 .5em;
     text-align: center;
 
