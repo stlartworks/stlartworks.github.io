@@ -16,8 +16,6 @@
         text-align: center;
         text-transform: uppercase;
 
-        //@extend %box-shadow-bottom;
-
         &::after {
             box-shadow: 1px 1px 0 $charcoal;
             content: "";

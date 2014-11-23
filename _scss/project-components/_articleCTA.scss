@@ -44,8 +44,7 @@
     }
 
     &__button {
-        font-size: 3rem;
-        @extend %button;
+        @include button(3rem);
     }
 
 

@@ -138,7 +138,7 @@ main {
 
   figure {
     position: relative;
-    @extend %flexEmbed75;
+    @include flexEmbed(550px, 75%);
   }
 
   img {
@@ -212,7 +212,7 @@ main {
 }
 
 .reveal-panel-pict-flexembed {
-    @extend %flexEmbed75;
+    @include flexEmbed(550px, 75%);
 }
 
 .reveal-panel {
@@ -260,7 +260,7 @@ main {
 
   .reveal-bio-content {
     padding: 1em;
-    color: #FFF;
+    color: $white;
 
     &__title {
         color: $white;
@@ -271,8 +271,6 @@ main {
         position: relative;
         text-align: center;
         text-transform: uppercase;
-
-        //@extend %box-shadow-bottom;
 
         &::after {
             box-shadow: 1px 1px 0 $charcoal;

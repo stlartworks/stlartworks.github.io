@@ -1,16 +1,16 @@
 @import "_container";
-@import "_article-list";
+
+@import "_mixin-buttons";
+@import "_mixin-flexEmbed";  // Responsive background image control ( %placeholder )
+@import "_mixin-headers";
+
 @import "_footer";
-@import "_header";
 @import "nav/_nav-laxbar";
 
 @import "_page-home";
 @import "_page-about";
 @import "_page-programs";
-@import "_reused";
 
-
-@import "_flexEmbed"; // Responsive background image control ( %placeholder )
 @import "_imgBanner"; // Default banner used on all interior pages
 @import "_mainContent"; // Default content block for displaying MarkDown entries
 
@@ -25,3 +25,4 @@
 @import "_reveal-box";
 //@import "_link-flip";
 @import "_figure-box";
+@import "_flip-gallery";

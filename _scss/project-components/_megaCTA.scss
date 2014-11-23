@@ -55,6 +55,6 @@
     }
 
     &__button {
-        @extend %button;
+        @include button(inherit);
     }
 }
