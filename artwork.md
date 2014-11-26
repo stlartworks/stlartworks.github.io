@@ -17,4 +17,33 @@ mega-cta-button-text: Apply today!
 mega-cta-button-text-url: http://google.com
 ---
 
-We are excited to give young creatives (14 - 19 years old) paying apprenticeships. We are committed to diversifying our program as much as possible but the majority of our funding is to empower African-American teens. And we are committed to diversifying our program as much as possible.
+We make a lot of art! We even get commissioned to make too!
+
+
+x ArtWorks Social Venture
+
+ArtWorks Enterprises
+
+Commission ArtWorks
+
+    Boomerang Press - Graphic design and multi-media services
+        Ville
+
+
+    Bloomworks - art for the garden, public park and urban street scape
+
+        Rainbarrels?
+        Boomerracks
+
+
+
+
+
+
+
+All apprentices sign up for
+
+We do sculpture, painting, printmaking, videography, cartooning, screenprinting, drawing, performing and more. We have several programs that cover
+
+
+Creative Futures

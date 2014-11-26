@@ -26,80 +26,14 @@
 
     <div id="laxnav__menu" class="laxnav__menu">
       <ul>
+        {% for nav in site.data.nav %}
         <li class="laxnav__menu-list-item">
-            <a href="/" class="laxnav__menu-list-anchor" title="Home">
-                <span class="laxnav__link-text">Home</span>
-                <span class="laxnav__link-teaser">Welcome to the homepage!</span>
-            </a>
-
-        </li>
-        <li class="laxnav__menu-list-item">
-            <a href="/about" class="laxnav__menu-list-anchor" title="About">
-                <span class="laxnav__link-text">About</span>
-                <span class="laxnav__link-teaser">Young creatives UNITE!</span>
-            </a>
-
-        </li>
-        <li class="laxnav__menu-list-item">
-            <a href="/programs" class="laxnav__menu-list-anchor" title="Programs">
-                <span class="laxnav__link-text">Programs</span>
-                <span class="laxnav__link-teaser">Best creative programs in STL period.</span>
+            <a href="/{{nav.url}}" class="laxnav__menu-list-anchor" title="{{nav.nav-item}}">
+                <span class="laxnav__link-text">{{nav.nav-item}}</span>
+                <span class="laxnav__link-teaser">{{nav.teaser}}</span>
             </a>
         </li>
-        <li class="laxnav__menu-list-item">
-            <a href="/apply" class="laxnav__menu-list-anchor" title="Apply">
-                <span class="laxnav__link-text">Apply</span>
-                <span class="laxnav__link-teaser">We can’t wait to meet you!</span>
-            </a>
-        </li>
-        <li class="laxnav__menu-list-item">
-            <a href="/apprentices" class="laxnav__menu-list-anchor" title="Apprentices">
-                <span class="laxnav__link-text">Apprentices</span>
-                <span class="laxnav__link-teaser">Meet the best young creatives in STL!</span>
-            </a>
-        </li>
-        <li class="laxnav__menu-list-item">
-            <a href="/artwork" class="laxnav__menu-list-anchor" title="Artwork">
-                <span class="laxnav__link-text">Artwork</span>
-                <span class="laxnav__link-teaser">We make a lot of cool stuff!</span>
-            </a>
-        </li>
-        <li class="laxnav__menu-list-item">
-            <a href="/instructors" class="laxnav__menu-list-anchor" title="Instructors">
-                <span class="laxnav__link-text">Instructors</span>
-                <span class="laxnav__link-teaser">Our instructors are AMAZING!</span>
-            </a>
-        </li>
-        <li class="laxnav__menu-list-item">
-            <a href="/staff" class="laxnav__menu-list-anchor" title="Staff">
-                <span class="laxnav__link-text">Staff</span>
-                <span class="laxnav__link-teaser">Meet our All-Star staff</span>
-            </a>
-        </li>
-        <li class="laxnav__menu-list-item">
-            <a href="/board" class="laxnav__menu-list-anchor" title="Board">
-                <span class="laxnav__link-text">Board</span>
-                <span class="laxnav__link-teaser">We have the best board in STL</span>
-            </a>
-        </li>
-        <li class="laxnav__menu-list-item">
-            <a href="/blog" class="laxnav__menu-list-anchor" title="Blog">
-                <span class="laxnav__link-text">Blog</span>
-                <span class="laxnav__link-teaser">There’s cool stuff happening everyday</span>
-            </a>
-        </li>
-        <li class="laxnav__menu-list-item">
-            <a href="/support" class="laxnav__menu-list-anchor" title="Support">
-                <span class="laxnav__link-text">Support</span>
-                <span class="laxnav__link-teaser">Sharing is caring!</span>
-            </a>
-        </li>
-        <li class="laxnav__menu-list-item">
-            <a href="/contact" class="laxnav__menu-list-anchor" title="Contact">
-                <span class="laxnav__link-text">Contact</span>
-                <span class="laxnav__link-teaser">How can we help?</span>
-            </a>
-        </li>
+        {% endfor %}
       </ul>
     </div>
 </nav>
