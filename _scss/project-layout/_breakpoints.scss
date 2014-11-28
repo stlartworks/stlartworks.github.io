@@ -10,14 +10,15 @@
 //     }
 // }
 
-@mixin bp($point) {
+@mixin breakpoint($point) {
 
   $bp-iphone: "only screen and (min-device-width : 320px) and (max-device-width : 568px)";
 
   $bp-min: "(max-width: 480px)";
   $bp-sm: "(max-width: 600px)";
-  $bp-med: "(max-width: 1024px)";
-  $bp-lg: "(max-width: 1250px)";
+  $bp-med: "(max-width: 960px)";
+  $bp-lg: "(max-width: 1024px)";
+  $bp-xl: "(max-width: 1200px)";
   $bp-max: "(max-width: 1600px)";
 
   // http://davidwalsh.name/write-media-queries-sass

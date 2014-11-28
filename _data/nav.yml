@@ -1,39 +1,51 @@
-- nav-item: "About"
+- nav-item: Home
+  url:
+  teaser: "Welcome to the homepage!"
+
+- nav-item: About
   url: "about"
   teaser: "Young creatives UNITE!"
 
-- nav-item: "Programs"
-  url: "programs"
+- nav-item: Programs
+  url: programs
   teaser: "Best creative programs in STL period."
 
-- nav-item: "Apply"
-  url: "apply"
+- nav-item: Apply
+  url: apply
   teaser: "We can’t wait to meet you!"
 
-- nav-item: "Apprentices"
-  url: "apprentices"
-  teaser: "Get ready to meet the best young creatives in STL!"
+- nav-item: Apprentices
+  url: apprentices
+  teaser: "Meet the best young creatives in STL!"
 
-- nav-item: "Artwork"
-  url: "artwork"
+- nav-item: Artwork
+  url: artwork
   teaser: "We make a lot of cool stuff!"
 
-- nav-item: "Instructors"
-  url: "instructors"
+- nav-item: Enterprise
+  url: enterprise
+  teaser: "Commission ArtWorks"
+
+- nav-item: Instructors
+  url: instructors
   teaser: "Our instructors are AMAZING!"
 
-- nav-item: "Board"
-  url: "board"
+- nav-item: Staff
+  url: staff
+  teaser: "Meet our All-Star staff"
+
+- nav-item: Board
+  url: board
   teaser: "We have the best board in STL"
 
-- nav-item: "Blog"
-  url: "blog"
+- nav-item: Blog
+  url: blog
   teaser: "There’s cool stuff happening everyday"
 
-- nav-item: "Support"
-  url: "support"
+- nav-item: Support
+  url: support
   teaser: "Sharing is caring!"
 
-- nav-item: "Contact"
-  url: "contact"
+- nav-item: Contact
+  url: contact
   teaser: "How can we help?"

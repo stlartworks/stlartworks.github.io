@@ -5,7 +5,7 @@
   margin: 0 auto;
   max-width: 1200px;
 
-  @include bp(bp-lg) {
+  @include breakpoint(bp-lg) {
     max-width: 960px;
   }
 }
@@ -23,9 +23,14 @@ div[class^="col--"] {
 .col--2of3 {
   width: 2 / 3 * 100%;
 
-  @include bp(bp-min) {
+  @include breakpoint(bp-min) {
     width:100%;
   }
+}
+
+@mixin width($col-size, $col-max) {
+    //padding: 0 1em 1em 0;
+    width: $col-size / $col-max * 100%
 }
 
 // 4 column layout
@@ -54,7 +59,7 @@ div[class^="col--"] {
 .col--5of7 { width: 5 / 7 * 100%; }
 .col--6of7 { width: 6 / 7 * 100%; }
 
-// 8 column layout 
+// 8 column layout
 .col--1of8 { width: 1 / 8 * 100%; }
 .col--2of8 { width: 2 / 8 * 100%; }
 .col--3of8 { width: 3 / 8 * 100%; }
