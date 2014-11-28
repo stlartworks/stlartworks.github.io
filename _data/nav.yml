@@ -22,6 +22,10 @@
   url: artwork
   teaser: "We make a lot of cool stuff!"
 
+- nav-item: Enterprise
+  url: enterprise
+  teaser: "Commission ArtWorks"
+
 - nav-item: Instructors
   url: instructors
   teaser: "Our instructors are AMAZING!"
