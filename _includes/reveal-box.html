@@ -3,7 +3,7 @@
         <ul>
             {% for item in site.[page.reveal] %}
             <li>
-                <a href="#0" data-type="{{item.featureImg | | remove: '.jpg'}}">
+                <a href="#0" data-type="{{item.featureImg | remove: '.jpg'}}">
                     <figure style="background-image: url('/images/{{item.featureImg}}');">
                         <!-- <img src="/images/{{program.featureImg}}" alt="Team item 1"> -->
                         <div class="reveal-img-overlay">
