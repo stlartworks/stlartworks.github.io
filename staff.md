@@ -11,10 +11,12 @@ title: Hardwork
 subtitle: Pays off
 permalink: /staff/
 
-mega-cta-img: ville-02.jpg
-mega-cta-heading: Join us!
+unique-cta: true
+
+mega-cta-img: artwork-012.jpg
+mega-cta-heading: Work for us!
 mega-cta-button-text: Apply today!
-mega-cta-button-text-url: http://google.com
+mega-cta-button-text-url: mailto:info@stlartworks.org
 ---
 
 Our staff rocks! Meet the people that grind every day to make ARTWORKS the best program possible.

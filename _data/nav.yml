@@ -38,9 +38,9 @@
   url: board
   teaser: "We have the best board in STL"
 
-- nav-item: Blog
-  url: blog
-  teaser: "There’s cool stuff happening everyday"
+- nav-item: News
+  url: news
+  teaser: "Latest announcements"
 
 - nav-item: Support
   url: support

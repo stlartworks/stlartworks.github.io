@@ -1,0 +1,47 @@
+<section id="reveal-gallery" class="reveal-section">
+    <div class="reveal-container">
+        <ul>
+            {% for item in site.data.[page.reveal] %}
+            <li>
+                <a href="#0" data-type="{{item.image | remove: '.jpg'}}">
+                    <figure style="background-image: url('/images/{{item.image}}');">
+                        <div class="reveal-img-overlay"><span>Read more</span></div>
+                    </figure>
+                    <div class="reveal-box-info">{{item.name}}</div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div> <!-- reveal-container -->
+</section> <!-- reveal-gallery -->
+
+<div class="reveal-overlay"></div>
+
+{% if page.unique-cta == true %}
+{% include uniqueCTA.html %}
+{% else %}
+{% include megaCTA.html %}
+{% endif %}
+
+</main>
+
+
+{% for item in site.data.[page.reveal] %}
+<div class="reveal-panel {{item.image | remove: ".jpg"}}">
+    <div class="reveal-panel-pict">
+        <div class="reveal-panel-pict-flexembed" style="background-image: url('/images/{{item.image}}');"></div>
+    </div>
+
+    <div class="reveal-bio-content">
+        <h2 class="reveal-bio-content__title">{{item.name}}</h2>
+        {% if page.bodyClass == staff || board %}
+        <h3 class="reveal-bio-content__subtitle">{{item.title}}</h3>
+
+        {% endif %}
+        <div class="reveal-bio-content__md textC">{{ item.profession }} / {{ item.employer }}</div>
+    </div>
+</div>
+{% endfor %}
+
+
+<a href="#0" class="reveal-panel-close">Close</a>

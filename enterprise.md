@@ -4,7 +4,7 @@ layout: enterprise
 seoTitle: Enterprise
 seoDescription: Commission St. Louis ArtWorks.
 
-featureImg: bike-racks-006.jpg
+featureImg: bike-racks-003.jpg
 featureStatement: Commission US
 
 title: ARTWORKS
@@ -63,3 +63,43 @@ Image gallery (should be connected to past programs)
 ### Pricing
 
 The second venture, BoomerRacks, launched in 2008, is the design and fabrication of bicycle racks created from old bike parts.  For more information on how to commission your custom designed bike rack call Priscilla Block at 314.289.4181.
+
+
+
+#### Community note cards - $8,000.00
+300 packs 8 designs
+
+#### Holiday/Greeting cards - $4,000.00
+300 packs 8 designs
+
+#### Poster - $1,000.00
+300 packs 8 designs
+
+#### Logo - $1,000.00
+300 packs 8 designs
+
+#### Invitations - $1,000.00
+300 packs 8 designs
+
+#### Save the date cards - $1,000.00
+300 packs 8 designs
+
+#### Advertisements - $1,000.00
+300 packs 8 designs
+
+#### Graphic look - $1,000.00
+300 packs 8 designs
+
+
+
+
+| Items                  | Price     | Description                                             |
+|------------------------|-----------|---------------------------------------------------------|
+| Community note cards   | $8,000.00 | 300 packs 8 designs                                     |
+| Holiday/Greeting cards | $4,000.00 | 300 packs 4 designs                                     |
+| Poster                 | $1,000.00 | 12x18 - 24x36                                           |
+| Logo                   | $1,000.00 |                                                         |
+| Invitations            | $1,000.00 | 300 full- or two-color foldovers w/ one-color envelopes |
+| Save the date cards    | $1,000.00 | 300 full- or two-color postcards                        |
+| Advertisements         | $1,000.00 |                                                         |
+| Graphic look           | $1,000.00 |                                                         |

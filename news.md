@@ -1,15 +1,15 @@
 ---
-layout: blog
+layout: news
 
-seoTitle: Blog
+seoTitle: News
 seoDescription: SLAW's latest news and announcements
 
 featureImg: materials-pencils-002.jpg
-featureStatement: BLOG
+featureStatement: News
 
-title: BLOG
-subtitle: Latest News
-permalink: /blog/
+title: News
+subtitle: Latest articles
+permalink: /news/
 
 mega-cta-img: ville-02.jpg
 mega-cta-heading: Join us!

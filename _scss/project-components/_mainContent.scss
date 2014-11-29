@@ -11,6 +11,7 @@
         font-family: $sans-condensed-light;
         font-size: 3em;
         line-height: 1;
+        margin: 0;
         padding-top: 5rem;
         position: relative;
         text-align: center;
@@ -31,6 +32,7 @@
         font-size: 2em;
         //font-weight: bold;
         line-height: 1;
+        margin: 0;
         padding: 3rem 0 1.5rem 0;
         text-align: center;
     }
@@ -46,11 +48,12 @@
         color: $charcoal;
         padding-bottom: 3em;
 
-        h1, h2, h3 {
+        h1, h2, h3, h4, h5, h6 {
             font-family: $sans-condensed-light;
             font-size: 2em;
             //font-weight: bold;
             line-height: 1;
+            margin: 0;
             padding: 3rem 0 1.5rem 0;
             text-align: center;
         }
