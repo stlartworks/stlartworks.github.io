@@ -12,11 +12,11 @@
     background-attachment:fixed;
     background-size:cover;
 
-    @include breakpoint(bp-iphone) {
+    @include breakpoint(iphone) {
         background-attachment: scroll;
     }
 
-    @include breakpoint(bp-sm) {
+    @include breakpoint(sm) {
         background-attachment: scroll;
     }
 

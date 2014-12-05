@@ -4,7 +4,7 @@
     <div class="flipGallery__container" ontouchstart="this.classList.toggle('hover');">
     	<div class="flipGallery__flipper">
     		<div class="flipGallery__front">
-    			<img src="/images/{{ sponsor.image }}" alt="" >
+                <img src="/images/loader.png" data-src="/images/{{ sponsor.image }}" class="lazyload" alt="">
     		</div>
     		<div class="flipGallery__back">
                 <h3 class="flipGallery__back__heading">{{ sponsor.sponsor }}</h3>
