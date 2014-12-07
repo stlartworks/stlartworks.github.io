@@ -1,0 +1,54 @@
+// http://codepen.io/chriscoyier/blog/codepens-css#media-queries
+// http://css-tricks.com/conditional-media-query-mixins/
+
+// example usage
+// p {
+//     text-align:right;
+//
+//     @include bp(bp-iphone) {
+//       text-align:left;
+//     }
+// }
+
+@mixin breakpoint($point) {
+
+  $bp-iphone: "only screen and (min-device-width : 320px) and (max-device-width : 568px)";
+
+  $bp-min: "(max-width: 480px)";
+  $bp-sm: "(max-width: 600px)";
+  $bp-med: "(max-width: 960px)";
+  $bp-lg: "(max-width: 1024px)";
+  $bp-xl: "(max-width: 1200px)";
+  $bp-max: "(max-width: 1600px)";
+
+  // http://davidwalsh.name/write-media-queries-sass
+  $bp-retina: "only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx)";
+
+  $bp-print: "print";
+
+  @if $point == bp-iphone {
+    @media #{$bp-iphone} { @content; }
+  }
+  @else if $point == bp-retina {
+    @media #{$bp-retina} { @content; }
+  }
+  @else if $point == bp-min {
+    @media #{$bp-min} { @content; }
+  }
+  @else if $point == bp-sm {
+    @media #{$bp-sm} { @content; }
+  }
+  @else if $point == bp-med {
+    @media #{$bp-med}  { @content; }
+  }
+  @else if $point == bp-lg {
+    @media #{$bp-lg}  { @content; }
+  }
+  @else if $point == bp-max {
+    @media #{$bp-max}  { @content; }
+  }
+
+  @else if $point == bp-print {
+    @media #{$bp-print}  { @content; }
+  }
+}

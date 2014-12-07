@@ -22,7 +22,7 @@ instructorpx: Instructor-robert-ketchens.jpg
 boardpx: interview-day-01.jpg
 ---
 
-We are excited to give young creatives (14 - 19 years old) paying apprenticeships. We are committed to diversifying our program as much as possible but the majority of our funding is to empower African-American teens. And we are committed to diversifying our program as much as possible.
+We are excited to give young creatives (14 - 19 years old) paying apprenticeships. We are committed to diversifying our program as much as possible but the majority of our funding is to empower African-American teens.
 
 ### The "Apprentices"
 Every teen accepted into our program works as an "apprentice" alongside a professional artist to learn a multitude of creative skills. All of the projects are either sold at a public sale, commissioned for public and private clients, or performed publicly.
