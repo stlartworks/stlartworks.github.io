@@ -7,13 +7,9 @@
 //
 
 // Reset
-@import "resets/__resets";
+@import "config/__config";
 // normalize
 // stitch
-
-
-// Layout defaults
-@import "project-layout/__project-layout";
 
 // box-model
 // breakpoints
@@ -23,23 +19,23 @@
 // position
 // z-index
 
-
-// Project (Theme) styles and components
-@import "project-style/__project-style";
 // variables
 // icons
 // typography
+
+@import "modules/__modules";
+// article-list
+// footer
+// header
+// nav
+// page
+// post
 
 
 // Icons
 //@import "icons/__icons";
 // social
 // ui
-
-
-//@import "image-galleries/__image-galleries";
-// gallery
-
 
 //@import "utilities/__utilities";
 //badges
@@ -50,27 +46,3 @@
 // print
 // ribbons
 // text-shadows
-
-
-// Vendor files
-@import "vendor/__vendor";
-// normalize
-// stitch
-
-
-
-
-
-@import "project-components/__project-components";
-// article-list
-// footer
-// header
-// nav
-// page
-// post
-
-
-// Homeless
-// for css that is in development before finding a home
-@import "homeless/__homeless";
-// random

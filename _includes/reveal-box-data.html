@@ -38,7 +38,10 @@
         <h3 class="reveal-bio-content__subtitle">{{item.title}}</h3>
 
         {% endif %}
-        <div class="reveal-bio-content__md textC">{{ item.profession }} / {{ item.employer }}</div>
+        <div class="reveal-bio-content__md textC">
+            <p>{{ item.profession }} / {{ item.employer }}</p>
+            <p>{{ item.quote }} - {{ item.artist }}</p>
+        </div>
     </div>
 </div>
 {% endfor %}
