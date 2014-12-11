@@ -6,10 +6,8 @@
 // or this stylesheet will fail!
 //
 
-// Reset
 @import "config/__config";
-// normalize
-// stitch
+// reset
 
 // box-model
 // breakpoints
@@ -22,6 +20,7 @@
 // variables
 // icons
 // typography
+// colors
 
 @import "modules/__modules";
 // article-list
@@ -31,7 +30,7 @@
 // page
 // post
 
-
+//@import "helper-classes/__helper-classes";
 // Icons
 //@import "icons/__icons";
 // social
