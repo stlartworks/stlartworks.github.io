@@ -1,0 +1,9 @@
+<div class="list-price">
+    <ol class="list-price__count">
+        {% for item in site.data.pricing %}
+        <li class="list-price__item">
+            <p class="list-price__heading"><span class="bold">{{ item.item }}</span> ( <span class="italic">{{ item.price }}</span> ) - {{ item.description }}</p>
+        </li>
+        {% endfor %}
+    </ol>
+</div>
