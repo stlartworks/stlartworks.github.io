@@ -8,30 +8,7 @@ body.overflow-hidden {
   overflow: hidden;
 }
 
-/* --------------------------------
 
-Modules - reusable parts of our design
-
--------------------------------- */
-.reveal-container {
-  /* this class is used to give a max-width to the element it is applied to, and center it horizontally when it reaches that max-width */
-  width: 90%;
-  max-width: 1200px;
-  margin: 0 auto;
-
-  &::after {
-    /* clearfix */
-    content: '';
-    display: table;
-    clear: both;
-  }
-}
-
-/* --------------------------------
-
-Main components
-
--------------------------------- */
 main {
   position: relative;
   //z-index: 2001;
@@ -42,10 +19,10 @@ main {
     /* the main element slides to the left when the author bio is visible */
     transform: translateX(-270px);
 
-    .reveal-overlay {
+    .reveal__overlay {
       /* the overlay layer gets visible when the author bio slides in */
       display: block;
-      animation: reveal-fade-in 0.3s;
+      animation: reveal__fade-in 0.3s;
     }
   }
 }
@@ -62,16 +39,25 @@ main {
   }
 }
 
-.reveal-section {
+.reveal {
+  background: $archgray;
   padding: 1em 0;
   text-align: center;
 
-  .reveal-container {
-    /* this modifies the .reveal-container default max-width */
-    max-width: 768px;
+  &__container {
+    /* this modifies the .reveal__container default max-width */
+    //max-width: 768px;
+
+    &::after {
+      /* clearfix */
+      content: '';
+      display: table;
+      clear: both;
+    }
   }
 
-  h2 {
+  &__heading {
+    color: #1a2f2a;
     font-family: $sans-condensed-bold;
     font-weight: bold;
     text-transform: uppercase;
@@ -80,53 +66,14 @@ main {
     // font-size: 1.25rem;
   }
 
-  p {
-    //line-height: 1.4;
-  }
-}
 
-@media only screen and (min-width: 768px) {
-  .reveal-section {
-    padding: 1em;
-  }
-  .reveal-section p {
-    //line-height: 1.6;
-  }
-}
-@media only screen and (min-width: 1200px) {
-  .reveal-section {
-    padding: 3em;
-  }
-  .reveal-section h2 {
-    margin-bottom: 2em;
-  }
-  .reveal-section p {
-    //line-height: 1.8;
-    // font-size: 18px;
-    // font-size: 1.125rem;
-  }
-}
-
-
-
-.reveal-placeholder-1 {
-  background: #f25f5c;
-  color: #fdeaea;
-}
-
-.reveal-placeholder-2 {
-  background: #FFF;
-}
-
-#reveal-gallery {
-  background: $archgray;
-
-  .reveal-container {
-    max-width: 1200px;
+  &__placeholder-1 {
+    background: #f25f5c;
+    color: #fdeaea;
   }
 
-  h2 {
-    color: #1a2f2a;
+  &__placeholder-2 {
+    background: #FFF;
   }
 
   li {
@@ -136,7 +83,8 @@ main {
     transition: all 0.3s;
   }
 
-  figure {
+  &__figure {
+    margin: 0;
     position: relative;
     @include flexEmbed(550px, 75%);
   }
@@ -147,7 +95,7 @@ main {
     border-radius: .25em .25em 0 0;
   }
 
-  .reveal-img-overlay {
+  &__img-overlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -171,7 +119,7 @@ main {
     }
   }
 
-  .reveal-box-info {
+  &__box-info {
     background: $stlouisblues;
     text-align: center;
     font-family: $sans-condensed-light;
@@ -192,26 +140,24 @@ main {
   }
 }
 
-
-.no-touch #reveal-gallery li:hover {
+.no-touch .reveal li:hover {
   box-shadow: 0 0 10px rgba($gooeybutter, 0.3);
 }
-.no-touch #reveal-gallery li:hover .reveal-img-overlay {
+.no-touch .reveal li:hover .reveal__img-overlay {
   opacity: 1;
 }
 
-
 @media only screen and (min-width: 768px) {
-  #reveal-gallery li {
+  .reveal li {
     display:inline-block;
     width: 45%;
   }
-  #reveal-gallery li:nth-child(3n) {
+  .reveal li:nth-child(3n) {
     margin-right: 0;
   }
 }
 
-.reveal-panel-pict-flexembed {
+.reveal-panel__pic-flexembed {
     @include flexEmbed(550px, 75%);
 }
 
@@ -231,18 +177,16 @@ main {
   transition-property: transform;
   transition-duration: 0.3s;
 
-  box-shadow: -10px 0 100px $charcoal;
-
   &.slide-in {
     /* the author bio section slides in when the user clicks on the team member picture */
     transform: translateX(0);
   }
 
-  .reveal-panel-pict {
+  &__pic {
     position: relative;
   }
 
-  .reveal-panel-pict::after {
+  &__pic::after {
     /* gradient at the bottom of the image - same color of the background of the section */
     content: '';
     position: absolute;
@@ -258,11 +202,11 @@ main {
     display: block;
   }
 
-  .reveal-bio-content {
+  .reveal-panel__bio-content {
     padding: 1em;
     color: $white;
 
-    &__title {
+    &-title {
         color: $white;
         font-family: $sans-condensed-light;
         font-size: 3em;
@@ -283,7 +227,7 @@ main {
         }
     }
 
-    &__subtitle {
+    &-subtitle {
         font-family: $sans-condensed-light;
         font-size: 2em;
         padding: 0;
@@ -291,7 +235,7 @@ main {
         text-transform: uppercase;
     }
 
-    &__md {
+    &-md {
         color: $charcoal;
         padding-bottom: 3em;
 
@@ -307,7 +251,7 @@ main {
   }
 }
 
-.no-cssgradients .reveal-panel .reveal-panel-pict::after {
+.no-cssgradients .reveal-panel .reveal-panel__pic::after {
   display: none;
 }
 
@@ -316,10 +260,10 @@ main {
     width: 600px;
     transform: translateX(600px);
   }
-  .reveal-panel .reveal-bio-content {
+  .reveal-panel .reveal-panel__bio-content {
     padding: 2em;
   }
-  .reveal-panel .reveal-bio-content p {
+  .reveal-panel .reveal-panel__bio-content p {
     //line-height: 1.6;
     margin: 2em 0;
   }
@@ -327,31 +271,32 @@ main {
 
 @media only screen and (min-width: 1000px) {
   .reveal-panel {
+    box-shadow: -10px 0 100px $charcoal;
     width: 900px;
     transform: translateX(1000px);
   }
-  .reveal-panel .reveal-panel-pict::after {
+  .reveal-panel .reveal-panel__pic::after {
     height: 150px;
   }
-  .reveal-panel .reveal-bio-content {
+  .reveal-panel .reveal-panel__bio-content {
     padding: 4em;
     /* we move the content up so the title is over the color gradient */
     transform: translateY(-80px);
   }
-  .reveal-panel .reveal-bio-content h1 {
+  .reveal-panel .reveal-panel__bio-content h1 {
     // font-size: 40px;
     // font-size: 2.5rem;
   }
-  .reveal-panel .reveal-bio-content p {
+  .reveal-panel .reveal-panel__bio-content p {
     // font-size: 16px;
     // font-size: 1rem;
   }
-  .no-cssgradients .reveal-panel .reveal-bio-content {
+  .no-cssgradients .reveal-panel .reveal-panel__bio-content {
     transform: translateY(0);
   }
 }
 
-.reveal-panel-close {
+.reveal-panel__close {
   width: 75px;
   height: 75px;
   overflow: hidden;
@@ -366,19 +311,12 @@ main {
 
   &.is-visible {
     display: block;
-    animation: reveal-move-in 0.8s;
+    animation: reveal__move-in 0.8s;
 
   }
 }
 
-@media only screen and (min-width: 1200px) {
-  .reveal-panel-close {
-    right: 25px;
-    top: 25px;
-  }
-}
-
-.reveal-overlay {
+.reveal__overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -392,7 +330,7 @@ main {
 
 // xkeyframes
 
-@keyframes reveal-fade-in {
+@keyframes reveal__fade-in {
   0% {
     opacity: 0;
   }
@@ -401,7 +339,7 @@ main {
     opacity: 1;
   }
 }
-@keyframes reveal-move-in {
+@keyframes reveal__move-in {
   0% {
     transform: translateX(100px) rotate(0deg);
   }

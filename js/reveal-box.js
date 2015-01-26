@@ -8,7 +8,7 @@ jQuery(document).ready(function($){
 		event.preventDefault();
 		var selected_member = $(this).data('type');
 		$('.reveal-panel.'+selected_member+'').addClass('slide-in');
-		$('.reveal-panel-close').addClass('is-visible');
+		$('.reveal-panel__close').addClass('is-visible');
 
 		// firefox transitions break when parent overflow is changed, so we need to wait for the end of the trasition to give the body an overflow hidden
 		if( is_firefox ) {
@@ -23,10 +23,10 @@ jQuery(document).ready(function($){
 	});
 
 	//close team-member bio
-	$(document).on('click', '.reveal-overlay, .reveal-panel-close', function(event){
+	$(document).on('click', '.reveal__overlay, .reveal-panel__close', function(event){
 		event.preventDefault();
 		$('.reveal-panel').removeClass('slide-in');
-		$('.reveal-panel-close').removeClass('is-visible');
+		$('.reveal-panel__close').removeClass('is-visible');
 
 		if( is_firefox ) {
 			$('main').removeClass('slide-out').one('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend', function(){

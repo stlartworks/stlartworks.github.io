@@ -33,18 +33,20 @@
         background: transparent;
         position: relative;
         z-index: 5;
-        //top: 54%;
-        width: 75%;
-        margin: 0 auto;
+
+        @include block-padding(8,8);
     }
 
     &__heading {
         color: $white;
         font-size: 8em;
         margin: 0;
-        padding-top: 15rem;
         text-align: center;
         text-transform: uppercase;
+
+        @include breakpoint(med) {
+          font-size: 6em;
+        }
     }
 
     &__text {
@@ -52,8 +54,11 @@
         font-size: 6em;
         font-family: $cursive;
         margin: 0;
-        padding-bottom: 15rem;
         text-align: center;
+
+        @include breakpoint(med) {
+          font-size: 4em;
+        }
     }
 
     &__button {

@@ -106,21 +106,21 @@ timezone: America/Chicago
 # ! Read more: http://jekyllrb.com/docs/frontmatter/
 
 social-media:
-    500px:
-    codepen:
-    dribbble: slaw
-    email: info@stlartworks.org
-    facebook: stlartworks
-    flickr:
-    github: stlartworks/
-    instagram: stlartworks
-    linkedin:
-    pinterest: stlartworks
-    rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-    twitter: stlartworks
-    stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-    youtube:
-    vimeo:
+  500px:
+  codepen:
+  dribbble: slaw
+  email: info@stlartworks.org
+  facebook: stlartworks
+  flickr:
+  github: stlartworks/
+  instagram: stlartworks
+  linkedin:
+  pinterest: stlartworks
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: stlartworks
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube:
+  vimeo:
 
 
 # -----------------------------------------------------------------------------
@@ -137,23 +137,23 @@ social-media:
 # Read more: http://www.sitepoint.com/getting-started-jekyll-collections/
 
 collections:
-    apprentices:
-        output: true
+  apprentices:
+    output: true
 
-    board:
-        output: true
+  board:
+    output: true
 
-    instructors:
-        output: true
+  instructors:
+    output: true
 
-    programs:
-        output: true
+  programs:
+    output: true
 
-    sponsors:
-        output: true
+  sponsors:
+    output: true
 
-    staff:
-        output: true
+  staff:
+    output: true
 
 
 
@@ -168,42 +168,42 @@ collections:
 # Just setting default layouts for several collections( or post-types in WP lingo)
 
 defaults:
-    -
-        scope:
-            path: ""
-            type: "posts"
-        values:
-            layout: "post"
-    -
-        scope:
-            path: ""
-            type: "apprentices"
-        values:
-            layout: "apprentices"
-    -
-        scope:
-            path: ""
-            type: "board"
-        values:
-            layout: "board"
-    -
-        scope:
-            path: ""
-            type: "instructors"
-        values:
-            layout: "instructors"
-    -
-        scope:
-            path: ""
-            type: "sponsors"
-        values:
-            layout: "sponsors"
-    -
-        scope:
-            path: ""
-            type: "staff"
-        values:
-            layout: "staff"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "apprentices"
+    values:
+      layout: "apprentices"
+  -
+    scope:
+      path: ""
+      type: "board"
+    values:
+      layout: "board"
+  -
+    scope:
+      path: ""
+      type: "instructors"
+    values:
+      layout: "instructors"
+  -
+    scope:
+      path: ""
+      type: "sponsors"
+    values:
+      layout: "sponsors"
+  -
+    scope:
+      path: ""
+      type: "staff"
+    values:
+      layout: "staff"
 
 
 
@@ -221,106 +221,106 @@ siteurl: "http://stlartworks.github.io.com"
 # ! Read more: https://github.com/prose/prose/wiki/Prose-Configuration
 
 prose:
-    media: images
-    ignore:
-      - index.md
-      - _config.yml
-      - /_layouts
-      - /_includes
-      - /_scss
+  media: images
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /_scss
 
-    metadata:
+  metadata:
 
-        _board:
+    _board:
+      -
+        name: "layout"
+        field:
+          element: "hidden"
+          label: "layout"
+          value: "board"
+      -
+        name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      -
+        name: "start-year"
+        field:
+          element: "number"
+          label: "Start year"
+          value: ""
+      -
+        name: "board-title"
+        field:
+          element: "text"
+          label: "Board Title"
+          value: ""
+      -
+        name: "employer"
+        field:
+          element: "text"
+          label: "Employer"
+          value: ""
+      -
+        name: "job-title"
+        field:
+          element: "text"
+          label: "Job title"
+          value: ""
+      -
+        name: "member-img"
+        field:
+          element: "text"
+          label: "Member's image"
+          value: ""
+      -
+        name: "facebook"
+        field:
+          element: "text"
+          label: "Facebook"
+          value: ""
+      -
+        name: "twitter"
+        field:
+          element: "text"
+          label: "Twitter"
+          value: ""
+      -
+        name: "instagram"
+        field:
+          element: "text"
+          label: "Instagram"
+          value: ""
+      -
+        name: "website"
+        field:
+          element: "text"
+          label: "Website"
+          value: ""
+    _programs:
+      -
+        name: "layout"
+        field:
+          element: "hidden"
+          label: "layout"
+          value: "programs"
+      -
+        name: season
+        field:
+          element: select
+          label: "Season"
+          options:
             -
-                name: "layout"
-                field:
-                    element: "hidden"
-                    label: "layout"
-                    value: "board"
+              name: Fall
+              value: fall
             -
-                name: "title"
-                field:
-                    element: "text"
-                    label: "Title"
-                    value: ""
+              name: Spring
+              value: spring
             -
-                name: "start-year"
-                field:
-                    element: "number"
-                    label: "Start year"
-                    value: ""
-            -
-                name: "board-title"
-                field:
-                    element: "text"
-                    label: "Board Title"
-                    value: ""
-            -
-                name: "employer"
-                field:
-                    element: "text"
-                    label: "Employer"
-                    value: ""
-            -
-                name: "job-title"
-                field:
-                    element: "text"
-                    label: "Job title"
-                    value: ""
-            -
-                name: "member-img"
-                field:
-                    element: "text"
-                    label: "Member's image"
-                    value: ""
-            -
-                name: "facebook"
-                field:
-                    element: "text"
-                    label: "Facebook"
-                    value: ""
-            -
-                name: "twitter"
-                field:
-                    element: "text"
-                    label: "Twitter"
-                    value: ""
-            -
-                name: "instagram"
-                field:
-                    element: "text"
-                    label: "Instagram"
-                    value: ""
-            -
-                name: "website"
-                field:
-                    element: "text"
-                    label: "Website"
-                    value: ""
-        _programs:
-            -
-                name: "layout"
-                field:
-                    element: "hidden"
-                    label: "layout"
-                    value: "programs"
-            -
-                name: season
-                field:
-                    element: select
-                    label: "Season"
-                    options:
-                        -
-                            name: Fall
-                            value: fall
-                        -
-                            name: Spring
-                            value: spring
-                        -
-                            name: Summer
-                            value: summer
-                    placeholder: "Choose season"
+              name: Summer
+              value: summer
+          placeholder: "Choose season"
 
 
 # -----------------------------------------------------------------------------

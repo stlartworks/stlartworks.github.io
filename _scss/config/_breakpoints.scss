@@ -12,7 +12,7 @@
 
 $breakpoints: (
     min:    "(max-width: 480px)",
-    sm:     "(max-width: 600px)",
+    sm:     "(max-width: 768px)",
     med:    "(max-width: 960px)",
     lg:     "(max-width: 1024px)",
     xl:     "(max-width: 1200px)",
@@ -31,4 +31,33 @@ $breakpoints: (
       @content;
     }
   }
+}
+
+@mixin column($col-size, $col-max) {
+    //padding: 0 1em 1em 0;
+    width: $col-size / $col-max * 100%
+}
+
+
+/* @mixin container() {
+  margin: 0 auto;
+  max-width: 1200px;
+} */
+
+.container {
+  margin-top: 0;
+}
+
+[class*=__container] {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0 2rem;
+
+  @include breakpoint(lg) {
+    max-width: 1024px;
+  }
+}
+
+div[class*="--col"] {
+  float: left;
 }

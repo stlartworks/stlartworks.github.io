@@ -41,12 +41,21 @@ $base-line-height: 1.5;
 $cal-line-height: line-height();
 
 // Mixins
-@mixin type-padding($top:1, $bottom:1) {
+@mixin type-margin($top:1, $bottom:1) {
  //padding-top: $cal-line-height * $top
  //padding-bottom: $cal-line-height * $bottom
  margin-top: $cal-line-height * $top;
  margin-bottom: $cal-line-height * $bottom;
 }
+
+// Mixins
+@mixin block-padding($top:1, $bottom:1) {
+ //padding-top: $cal-line-height * $top
+ //padding-bottom: $cal-line-height * $bottom
+ padding-top: $cal-line-height * $top;
+ padding-bottom: $cal-line-height * $bottom;
+}
+
 
 // this is all we need to NORMALIZE typography
 
@@ -72,7 +81,7 @@ html {
 
 body {
  color: $charcoal;
- line-height: 1.5;
+ line-height: $base-line-height;
  font-family: $sans;
  //background-image: linear-gradient(transparent, transparent line-height() - 1px, red 1px , transparent);
  //background-size : auto line-height();
@@ -91,17 +100,17 @@ h1 {
  font-size: 3rem;
  font-weight: bold;
  //padding: #{\$base-line-height}rem 0;
- @include type-padding(0,0);
+ @include type-margin(0,0);
 }
 
 h2 {
  font-size: 4rem;
- @include type-padding(0,0);
+ @include type-margin(0,0);
 }
 
 h3 {
  font-size: 1rem;
- @include type-padding(0,0);
+ @include type-margin(0,0);
 }
 */
 
@@ -110,7 +119,7 @@ ol {
 }
 
 li {
- @include type-padding(0,0);
+ @include type-margin(0,0);
 }
 
 p, ol, ul, dl, blockquote {
