@@ -23,7 +23,7 @@
         @include section-header($white, $white);
     }
 
-    &__container {
+    &__box {
         perspective: 1000;
         transform-style: preserve-3d;
         display: inline-block;

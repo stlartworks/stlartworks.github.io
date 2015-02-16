@@ -60,16 +60,6 @@ $cal-line-height: line-height();
 // this is all we need to NORMALIZE typography
 
 
-// Lobotomixed Owl : http://alistapart.com/article/axiomatic-css-and-lobotomized-owls
-
-/*
-* + * {
- //padding: \$cal-line-height 0 0 0;
- margin: \$cal-line-height 0 0 0;
- //margin: 0 0 \$cal-line-height 0;
-}
-*/
-
 html {
  box-sizing: border-box;     // Box-sizing setup per Mr. Irish http://www.paulirish.com/2012/box-sizing-border-box-ftw/
  font-size: $base-font-size; // Font size on :root (html tag) so I can use REMs
@@ -95,24 +85,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: $normal;
 }
 
-/*
-h1 {
- font-size: 3rem;
- font-weight: bold;
- //padding: #{\$base-line-height}rem 0;
- @include type-margin(0,0);
-}
-
-h2 {
- font-size: 4rem;
- @include type-margin(0,0);
-}
-
-h3 {
- font-size: 1rem;
- @include type-margin(0,0);
-}
-*/
 
 ol {
  padding-left: 3rem;
