@@ -1,6 +1,6 @@
 ---
 layout: instructors
-title: Alesio
+title: Alessio Summerfield  
 
 featureImg: instructor-alesio.jpg
 teaches:

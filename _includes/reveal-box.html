@@ -2,6 +2,7 @@
     <div class="reveal__container">
         <ul>
             {% for item in site.[page.reveal] %}
+            {% if item.status == 'current' %}
             <li>
                 <a href="#0" data-type="{{item.featureImg | remove: '.jpg'}}">
                     <figure class="reveal__figure" style="background-image: url('/images/{{item.featureImg}}');">
@@ -13,6 +14,7 @@
                     <div class="reveal__box-info">{{item.title}}</div>
                 </a>
             </li>
+            {% endif %}
             {% endfor %}
         </ul>
     </div> <!-- reveal__container -->

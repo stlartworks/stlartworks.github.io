@@ -1,23 +1,17 @@
 ---
 layout: programs
-title: Videography
+status: current
 
+title: Boomerang Press
+discipline: Film Production
 featureImg: video-production-003.jpg
 
 season:
 teaching-organization: ArtWorks Teaching
 artists:
-    - Hannah Montford
-    - Kelsey Wiskirchen
+  - Adam Hogan
+  - Laura Hogan
 sponsors:
 ---
 
-Apprentices will be given the support they need to become active storytellers and historians. Under the guidance of two film professionals, youth are taught documentary filmmaking techniques using an approach that emphasizes direct observation and personal experience.
-
-
-## Commissioned by:
-ArtWorks
-
-## Artist(s):
-- Hannah Montford
-- Kelsey Wiskirchen
+Apprentices will partner with youth from the Contemporary Art Museum’s New Art in the Neighborhood program. Together they will produce and film short videos celebrating the dreams of the youth and the rich history of the organizations.  They will learn how to become active storytellers and historians.
