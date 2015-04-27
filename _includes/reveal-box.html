@@ -1,28 +1,28 @@
 <section id="reveal-gallery" class="reveal">
-    <div class="reveal__container">
-        <ul>
-            {% for item in site.[page.reveal] %}
-            {% if item.status == 'current' %}
-            <li>
-                <a href="#0" data-type="{{item.featureImg | remove: '.jpg'}}">
-                    <figure class="reveal__figure" style="background-image: url('/images/{{item.featureImg}}');">
-                        <!-- <img src="/images/{{program.featureImg}}" alt="Team item 1"> -->
-                        <div class="reveal__img-overlay">
-                            <span>Read more</span>
-                        </div>
-                    </figure>
-                    <div class="reveal__box-info">
-                      {{item.title}}
-                      {% if item.discipline %}
-                        / <small>{{item.discipline}}</small>
-                      {% endif %}
-                    </div>
-                </a>
-            </li>
+  <div class="reveal__container">
+    <ul>
+    {% for item in site.[page.reveal] %}
+      {% if item.status == 'current' %}
+      <li>
+        <a href="#0" data-type="{{item.featureImg | remove: '.jpg'}}">
+          <figure class="reveal__figure" style="background-image: url('/images/{{item.featureImg}}');">
+            <!-- <img src="/images/{{program.featureImg}}" alt="Team item 1"> -->
+            <div class="reveal__img-overlay">
+                <span>Read more</span>
+            </div>
+          </figure>
+          <div class="reveal__box-info">
+            {{item.title}}
+            {% if item.discipline %}
+              / <small>{{item.discipline}}</small>
             {% endif %}
-            {% endfor %}
-        </ul>
-    </div> <!-- reveal__container -->
+          </div>
+        </a>
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </div> <!-- reveal__container -->
 </section> <!-- reveal__gallery -->
 
 <div class="reveal__overlay"></div>

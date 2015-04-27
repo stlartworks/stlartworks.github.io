@@ -11,7 +11,7 @@ apply: open
 social-media:
   500px:
   codepen:
-  dribbble: 
+  dribbble:
   email: info@stlartworks.org
   facebook: stlartworks
   flickr:
@@ -326,26 +326,6 @@ prose:
               name: Summer
               value: summer
           placeholder: "Choose season"
-
-
-# -----------------------------------------------------------------------------
-# Sass SETTINGS
-# -----------------------------------------------------------------------------
-
-sass:
-  sass_dir: _scss
-  # The load path for Sass imports. This folder must only contain imports!
-  # Read more: http://jekyllrb.com/docs/assets/
-
-  style: :expanded
-    # Sass output settings. ! Read more:
-    # http://web-design-weekly.com/2014/06/15/different-sass-output-styles/
-
-    # optoins:
-      #:nested
-      #:expanded
-      #:compact
-      #:compressed #minified
 
 
 # -----------------------------------------------------------------------------

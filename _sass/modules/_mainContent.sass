@@ -1,0 +1,47 @@
+.mainContent
+  background-color: $white
+  padding: 0 0 3em 0
+  &__container
+    width: 50%
+    margin: 0 auto
+  &__heading
+    font-family: $sans-condensed-light
+    font-size: 3em
+    line-height: 1
+    margin: 0
+    padding-top: 5rem
+    position: relative
+    text-align: center
+    text-transform: uppercase
+    &::after
+      box-shadow: 1px 1px 0 $charcoal
+      content: ""
+      display: block
+      height: 1px
+      width: 15rem
+      margin: .75em auto
+  &__subHeading
+    font-family: $sans-condensed-light
+    font-size: 2em
+    //font-weight: bold;
+    line-height: 1
+    margin: 0
+    padding: 3rem 0 1.5rem 0
+    text-align: center
+  &__date
+    color: $graphite
+    font-family: $sans-condensed-light
+    font-size: 2em
+    text-align: center
+  &__md
+    color: $charcoal
+    h1, h2, h3, h4, h5, h6
+      font-family: $sans-condensed-bold
+      font-size: 2em
+      //font-weight: bold;
+      line-height: 1
+      margin: 0
+      padding: 3rem 0 1.5rem 0
+      text-align: center
+    iframe
+      margin: 3em 0
