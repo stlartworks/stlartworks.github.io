@@ -7,8 +7,13 @@
   //font-family: $sans-condensed-bold;
   width: 100%
   height: 100%
+  padding: 12rem 0
   position: relative
   z-index: 0
+
+  +media("<=tablet")
+    background-attachment: scroll
+    padding: 3rem 0
 
   &::before
     content: " "
@@ -31,25 +36,23 @@
     color: $white
     font-size: 8rem
     margin: 0
-    padding-top: 12rem
     text-align: center
     text-transform: uppercase
     transform: translate(0, 0)
     transition: transform .4s, height .3s, background .4s
     animation: firstFadeInAndDrop .5s
 
-    +media(">tablet", "<=desktop")
-      font-size: 6rem
+    +media(">=tablet", "<=desktop")
+      font-size: 5rem
       margin: 0
-      padding-top: 10rem
+
+    +media("<tablet")
+      font-size: 2rem
+      margin: 0
 
   &__text
     color: $white
     font-size: 6rem
     font-family: $cursive
     margin: 0
-    padding-bottom: 12rem
     text-align: center
-
-    +media(">tablet", "<=desktop")
-      padding-bottom: 10rem

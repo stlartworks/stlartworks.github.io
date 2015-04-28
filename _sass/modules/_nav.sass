@@ -42,6 +42,9 @@ a.brandmark
   +media("<=tablet")
     font-size: 1rem
 
+  +media("<=phone")
+    font-size: .85rem
+
   .a
     color: $cardinalred
   .r
@@ -94,6 +97,9 @@ a.brandmark
   transition: transform .2s, height .2s, background .2s
   animation: firstFadeInAndDrop .2s
 
+  +media("<tablet")
+    height: 4rem
+
   // on laxnav__menu hover add slight white bg
   &:hover
     background: rgba($white, 1)
@@ -107,8 +113,8 @@ a.brandmark
     padding: 2rem
     width: 100%
 
-    +media("<=tablet")
-      padding: 2rem 1rem
+    +media("<tablet")
+      padding: 0 1rem
 
     // name of site in main menu (not user selectable)
     > a
@@ -154,6 +160,9 @@ a.brandmark
     +media("<=tablet")
       width: 80%
 
+    +media("<=phone")
+      width: 100%
+
   // === MENU laxnav__menu CONTENT ===
   // =================================
   // adds vertical spacing between menu links
@@ -168,6 +177,9 @@ a.brandmark
     font-family: $sans-condensed-bold
     padding: 0.1em 0.5rem
     text-transform: uppercase
+
+    +media("<=phone")
+      font-size: .85rem
 
     &:hover
       background: $cardinalred

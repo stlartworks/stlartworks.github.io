@@ -19,9 +19,13 @@
     text-transform: uppercase
     +type-margin(2, 2)
 
-    +media(">tablet", "<=desktop")
+    +media(">=tablet", "<=desktop")
       font-size: 4rem
-      +type-margin(1, 1)
+      +type-margin(.5,.5)
+
+    +media(">=phone", "<=tablet")
+      font-size: 2rem
+      +type-margin(.5,.5)
 
   &__content
     color: $white

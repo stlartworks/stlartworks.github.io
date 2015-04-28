@@ -10,6 +10,10 @@
   position: relative
   z-index: 0
 
+  +media("<=tablet")
+    background-attachment: scroll
+    padding: 3rem 0
+
   &::before
     content: " "
     //background: rgba( $charcoal, 0.5 );
@@ -34,9 +38,14 @@
     text-align: center
     text-transform: uppercase
 
-    +media(">tablet", "<=desktop")
-      font-size: 6rem
-      
+    +media(">=tablet", "<=desktop")
+      font-size: 5rem
+      margin: 0
+
+    +media("<tablet")
+      font-size: 2rem
+      margin: 0
+
   &__text
     color: $white
     font-size: 6rem
@@ -44,8 +53,13 @@
     margin: 0
     text-align: center
 
-    +media(">tablet", "<=desktop")
+    +media(">=tablet", "<=desktop")
       font-size: 4rem
+
+
+    +media("<tablet")
+      font-size: 2rem
+      margin: 0
 
   &__button
     +button(inherit)
