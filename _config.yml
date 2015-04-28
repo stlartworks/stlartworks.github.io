@@ -5,7 +5,7 @@
 # This is a list of variables (Front Matter) to be throughout the site.
 # ! Read more: http://jekyllrb.com/docs/frontmatter/
 
-apply: closed
+apply: open
 # This can be open, or closed
 
 social-media:

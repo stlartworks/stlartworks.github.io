@@ -5,7 +5,8 @@
   // container__width
   margin: 0 auto
   max-width: 1200px
-  +breakpoint(lg)
+  //+media(lg)
+  +media(">tablet", "<=desktop")
     max-width: 960px
 
 div[class^="col--"]
@@ -21,7 +22,8 @@ div[class^="col--"]
 
 .col--2of3
   width: 2 / 3 * 100%
-  +breakpoint(min)
+  //+media(min)
+  +media(">phone", "<=tablet")
     width: 100%
 
 =width($col-size, $col-max)

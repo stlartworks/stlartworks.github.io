@@ -1,55 +1,3 @@
-// bps
-  min:    "(max-width: 480px)",
-  sm:     "(max-width: 768px)",
-  med:    "(max-width: 960px)",
-  lg:     "(max-width: 1024px)",
-  xl:     "(max-width: 1200px)",
-  max:    "(max-width: 1600px)",
-
-// Include media
-  $breakpoints: (
-	'phone': 320px,
-	'tablet': 768px,
-	'desktop': 1024px
-
-  @example scss - Interval for pixels is defined as `1` by default
-   +media(">128px")
-
-      Generates:
-      @media (min-width: 129px)
-
-  @example scss - Interval for ems is defined as `0.01` by default
-   +media(">20em")
-
-      Generates:
-      @media (min-width: 20.01em)
-
-  @example scss - Interval for rems is defined as `0.1` by default, to be used with `font-size: 62.5%;`
-   +media(">2.0rem")
-
-      Generates:
-      @media (min-width: 2.1rem)
-
-
-  @example scss - With a single set breakpoint
-   +media(">phone")
-
-  @example scss - With two set breakpoints
-   +media(">phone", "<=tablet")
-
-  @example scss - With custom values
-   +media(">=358px", "<850px")
-
-  @example scss - With set breakpoints with custom values
-   +media(">desktop", "<=1350px")
-
-  @example scss - With a static expression
-   +media("retina2x")
-
-  @example scss - Mixing everything
-   +media(">=350px", "<tablet", "retina3x")
-
-
 .container
   margin-top: 0
 
@@ -59,7 +7,7 @@
   max-width: 1200px
   padding: 0 2rem
 
-  +breakpoint(lg)
+  +media("<=desktop")
     max-width: 1024px
 
 

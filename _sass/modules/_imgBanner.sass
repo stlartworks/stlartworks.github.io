@@ -37,7 +37,8 @@
     transform: translate(0, 0)
     transition: transform .4s, height .3s, background .4s
     animation: firstFadeInAndDrop .5s
-    +breakpoint(med)
+
+    +media(">tablet", "<=desktop")
       font-size: 6rem
       margin: 0
       padding-top: 10rem
@@ -49,5 +50,6 @@
     margin: 0
     padding-bottom: 12rem
     text-align: center
-    +breakpoint(med)
+
+    +media(">tablet", "<=desktop")
       padding-bottom: 10rem

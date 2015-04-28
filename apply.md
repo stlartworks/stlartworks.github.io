@@ -12,10 +12,12 @@ subtitle: Now accepting applications!
 permalink: /apply/
 apply: on
 
+unique-cta: true
+
 mega-cta-img: ville-02.jpg
 mega-cta-heading: Join us!
-mega-cta-button-text: Apply today!
-mega-cta-button-text-url: http://google.com
+mega-cta-button-text: Questions?
+mega-cta-button-text-url: mailto:info@stlartworks.org
 ---
 
 We are excited to give young creatives (14 - 19 years old) paying apprenticeships. We are committed to diversifying our program as much as possible but the majority of our funding is to empower African-American teens. And we are committed to diversifying our program as much as possible.
