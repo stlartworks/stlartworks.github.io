@@ -5,15 +5,19 @@
   margin-bottom: 1px
   padding-bottom: 3rem
   text-align: center
+
   &__heading
     +section-header($white, $white)
+
   &__stat
     display: inline-block
     font-family: $sans-condensed-light
-    font-size: 2em
+    font-size: 2rem
     padding: 0 3rem
+
     span
       font-size: 5rem
+
   p
     margin: 0 auto 1.5rem
     text-align: left
@@ -22,7 +26,8 @@
 .chart
   position: relative
   display: inline-block
-  margin: 1em
+  margin: 1rem
+
   canvas
     position: absolute
     top: 0
@@ -31,6 +36,7 @@
 .chart__percent
   font-family: $sans-condensed-light
   display: inline-block
-  font-size: 2em
+  font-size: 2rem
+  
   &::after
     content: "%"

@@ -8,8 +8,8 @@
         $laxnav__menu = $('#laxnav__menu'),
         $laxnav__menu_a = $laxnav__menu.find("a"),
         $container = $('.container'),
-        $navicon = $laxnav.find(".icon"),
-        $icon =  $('.icon'),
+        $navicon = $laxnav.find(".icon-btn"),
+        $icon =  $('.icon-btn'),
         $body = $('body');
 
     // on scroll hide/show menu
