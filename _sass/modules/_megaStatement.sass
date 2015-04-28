@@ -1,0 +1,36 @@
+.megaStatement
+  background: $white
+  font-family: $sans-condensed-light
+  width: 100%
+  height: 100%
+  padding: 3rem
+  position: relative
+  z-index: 0
+
+  &__textBox
+    background: transparent
+    position: relative
+    z-index: 5
+
+  &__heading
+    color: $archgray
+    font-size: 6rem
+    text-align: center
+    text-transform: uppercase
+    +type-margin(2, 2)
+
+    +media(">=tablet", "<=desktop")
+      font-size: 4rem
+      +type-margin(.5,.5)
+
+    +media(">=phone", "<=tablet")
+      font-size: 2rem
+      +type-margin(.5,.5)
+
+  &__content
+    color: $white
+    font-size: 6rem
+    font-family: $cursive
+    margin: 0
+    padding-bottom: 5rem
+    text-align: center

@@ -9,4 +9,8 @@ bodyclass: news
 
 {% include articleList.html %}
 
+{% if page.unique-cta == true %}
+{% include uniqueCTA.html %}
+{% else %}
 {% include megaCTA.html %}
+{% endif %}

@@ -1,4 +1,32 @@
 # -----------------------------------------------------------------------------
+# SITE VARIABLES
+# -----------------------------------------------------------------------------
+
+# This is a list of variables (Front Matter) to be throughout the site.
+# ! Read more: http://jekyllrb.com/docs/frontmatter/
+
+apply: open
+# This can be open, or closed
+
+social-media:
+  500px:
+  codepen:
+  dribbble:
+  email: info@stlartworks.org
+  facebook: stlartworks
+  flickr:
+  github: stlartworks/
+  instagram: stlartworks
+  linkedin:
+  pinterest: stlartworks
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: stlartworks
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube:
+  vimeo:
+
+
+# -----------------------------------------------------------------------------
 # THE ONLY WARNING!!!
 # -----------------------------------------------------------------------------
 
@@ -98,29 +126,6 @@ timezone: America/Chicago
 # Set the timezone. ! Read more: http://jekyllrb.com/docs/configuration/
 
 
-# -----------------------------------------------------------------------------
-# SITE VARIABLES
-# -----------------------------------------------------------------------------
-
-# This is a list of variables (Front Matter) to be throughout the site.
-# ! Read more: http://jekyllrb.com/docs/frontmatter/
-
-social-media:
-  500px:
-  codepen:
-  dribbble: slaw
-  email: info@stlartworks.org
-  facebook: stlartworks
-  flickr:
-  github: stlartworks/
-  instagram: stlartworks
-  linkedin:
-  pinterest: stlartworks
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: stlartworks
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube:
-  vimeo:
 
 
 # -----------------------------------------------------------------------------
@@ -324,26 +329,6 @@ prose:
 
 
 # -----------------------------------------------------------------------------
-# Sass SETTINGS
-# -----------------------------------------------------------------------------
-
-sass:
-  sass_dir: _scss
-  # The load path for Sass imports. This folder must only contain imports!
-  # Read more: http://jekyllrb.com/docs/assets/
-
-  style: :expanded
-    # Sass output settings. ! Read more:
-    # http://web-design-weekly.com/2014/06/15/different-sass-output-styles/
-
-    # optoins:
-      #:nested
-      #:expanded
-      #:compact
-      #:compressed #minified
-
-
-# -----------------------------------------------------------------------------
 # SAFE PLUGINS allowed by gitHub pages
 # -----------------------------------------------------------------------------
 
@@ -397,7 +382,7 @@ safe: true
 # Serving
 # -----------------------------------------------------------------------------
 
-port: 1111
+# port: 1111
 # Change port if you are working on multiple Jekyll sites at once
 
 # -----------------------------------------------------------------------------

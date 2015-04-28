@@ -1,7 +1,9 @@
 <div class="flipGallery">
+  <div class="flipGallery__container">
+
     <h2 class="flipGallery__heading">Sponsors</h2>
     {% for sponsor in site.data.sponsors %}
-    <div class="flipGallery__container" ontouchstart="this.classList.toggle('hover');">
+    <div class="flipGallery__box" ontouchstart="this.classList.toggle('hover');">
     	<div class="flipGallery__flipper">
     		<div class="flipGallery__front">
                 <img src="/images/loader.png" data-src="/images/{{ sponsor.image }}" class="lazyload" alt="">
@@ -13,4 +15,6 @@
     	</div>
     </div>
     {% endfor %}
+    
+  </div>
 </div>
