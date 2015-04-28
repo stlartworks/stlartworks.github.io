@@ -18,6 +18,11 @@
     span
       font-size: 5rem
 
+      +media("<tablet")
+        font-size: 2rem
+        padding: 3rem 0 0 0
+        display: inline-block
+
   p
     margin: 0 auto 1.5rem
     text-align: left
@@ -27,6 +32,9 @@
   position: relative
   display: inline-block
   margin: 1rem
+
+  +media("<=tablet")
+    margin: 3rem 1rem 3rem 1rem
 
   canvas
     position: absolute

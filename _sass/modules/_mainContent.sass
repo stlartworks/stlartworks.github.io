@@ -6,6 +6,9 @@
     width: 65%
     margin: 0 auto
 
+    +media("<tablet")
+      width: 100%
+
   &__heading
     font-family: $sans-condensed-light
     font-size: 3rem
@@ -23,6 +26,9 @@
       height: 1px
       width: 15rem
       margin: .75rem auto
+
+      +media("<=tablet")
+        width: 100%
 
   &__subHeading
     font-family: $sans-condensed-light
