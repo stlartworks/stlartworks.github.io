@@ -18,7 +18,7 @@ $normal: normal
 
 
 // Vars
-$base-font-size: 16px
+$base-font-size: 22px
 $base-line-height: 1.5
 
 // Funcs
@@ -67,8 +67,8 @@ ol
 li
   +type-margin(0, 0)
 
-p, ol, ul, dl, blockquote
-  padding-bottom: 0
+p, ol, ul
+  padding-bottom: 1.5rem
 
 figure.wide
   //margin: line-height() auto 0;
@@ -90,7 +90,7 @@ figure.wide
 // http://alistapart.com/article/axiomatic-css-and-lobotomized-owls
 
 /* * + * {
- *    margin-top: 1.5em;
+ *    margin-top: 1.5rem;
  *}
 
 .full
@@ -100,40 +100,40 @@ figure.wide
 // numbered list
 .listOn ol li, ol.simpleList li
   list-style-type: decimal
-  padding-left: .25em
-  margin-left: -.25em
+  padding-left: .25rem
+  margin-left: -.25rem
   // This makes IE display hung bullets
 
 // numbered list
 ol.simpleList li ol li
   list-style-type: lower-alpha
-  padding-left: .25em
-  margin-left: -.25em
+  padding-left: .25rem
+  margin-left: -.25rem
   // This makes IE display hung bullets
 
 // numbered list
 ol.simpleList li ol li ol li
   list-style-type: lower-roman
-  padding-left: .25em
-  margin-left: -.25em
+  padding-left: .25rem
+  margin-left: -.25rem
   // This makes IE display hung bullets
 
 // standard list
 .listOn ul li, ul.simpleList li
   list-style-type: disc
-  padding-left: .25em
-  margin-left: -.25em
+  padding-left: .25rem
+  margin-left: -.25rem
   // This makes IE display hung bullets
 
 // numbered list
 ul.simpleList li ul li
   list-style-type: circle
-  padding-left: .25em
-  margin-left: -.25em
+  padding-left: .25rem
+  margin-left: -.25rem
   // This makes IE display hung bullets
 
 ol.listSpace li
-  padding-top: 1.5em
+  padding-top: 1.5rem
 
 // FORMS
 input, textarea
@@ -168,4 +168,4 @@ input, textarea
   text-align: right
 
 .indent
-  text-indent: 3em
+  text-indent: 3rem
