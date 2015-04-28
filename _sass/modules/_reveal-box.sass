@@ -1,0 +1,289 @@
+// http://codyhouse.co/gem/side-team-member-bio/
+
+body
+  overflow-x: hidden
+
+body.overflow-hidden
+  // when author bio is visible, the out-of-focus content won't scroll
+  overflow: hidden
+
+main
+  position: relative
+  //z-index: 2001;
+  transition-property: transform
+  transition-duration: 0.3s
+  &.slide-out
+    // the main element slides to the left when the author bio is visible
+    transform: translateX(-270px)
+    .reveal__overlay
+      // the overlay layer gets visible when the author bio slides in
+      display: block
+      animation: reveal__fade-in 0.3s
+
+@media only screen and (min-width: 768px)
+  main.slide-out
+    // change in size of the author bio section
+    transform: translateX(-600px)
+
+@media only screen and (min-width: 1200px)
+  main.slide-out
+    transform: translateX(-800px)
+
+.reveal
+  background: $white
+  padding: 0 0 1rem 0
+  text-align: center
+  &__container
+    // this modifies the .reveal__container default max-width
+    //max-width: 768px;
+    &::after
+      // clearfix
+      content: ''
+      display: table
+      clear: both
+  &__heading
+    color: #1a2f2a
+    font-family: $sans-condensed-bold
+    font-weight: bold
+    text-transform: uppercase
+    margin-bottom: 1rem
+    // font-size: 20px;
+    // font-size: 1.25rem;
+  &__placeholder-1
+    background: #f25f5c
+    color: #fdeaea
+  &__placeholder-2
+    background: #FFF
+  li
+    margin-bottom: 2rem
+    border-radius: 0.25rem
+    box-shadow: 0 0 10px rgba($gooeybutter, 0)
+    transition: all 0.3s
+  &__figure
+    margin: 0
+    position: relative
+    +flexEmbed(550px, 75%)
+  img
+    display: block
+    width: 100%
+    border-radius: .25rem .25rem 0 0
+  &__img-overlay
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    background: rgba($stlouisblues, 0.9)
+    opacity: 0
+    border-radius: .25rem .25rem 0 0
+    transition: opacity 0.3s
+    span
+      position: absolute
+      left: 50%
+      top: 50%
+      bottom: auto
+      right: auto
+      transform: translateX(-50%) translateY(-50%)
+      color: #FFF
+      font-size: 2rem
+      font-family: $sans-condensed-light
+  &__box-info
+    background: $stlouisblues
+    text-align: center
+    font-family: $sans-condensed-light
+    font-weight: bold
+    padding: .25rem 0
+    color: $white
+    font-size: 2rem
+    text-transform: uppercase
+    span
+      display: block
+      font-weight: normal
+      //color: #999999;
+      // font-size: 14px;
+      // font-size: 0.875rem;
+      margin-top: .5rem
+    small
+      font-weight: normal
+
+.no-touch .reveal li:hover
+  box-shadow: 0 0 10px rgba($gooeybutter, 0.3)
+
+.no-touch .reveal li:hover .reveal__img-overlay
+  opacity: 1
+
+@media only screen and (min-width: 768px)
+  .reveal li
+    display: inline-block
+    width: 45%
+  .reveal li:nth-child(3n)
+    margin-right: 0
+
+.reveal-panel__pic-flexembed
+  +flexEmbed(550px, 75%)
+
+.reveal-panel
+  position: fixed
+  top: 0
+  right: 0
+  width: 320px
+  height: 100%
+  overflow-y: auto
+  // smooth scrolling on mobile phones and tablets
+  -webkit-overflow-scrolling: touch
+  background: $gooeybutter
+  z-index: 1001
+  // this how we move the author bio section off the canvas
+  transform: translateX(320px)
+  transition-property: transform
+  transition-duration: 0.3s
+  &.slide-in
+    // the author bio section slides in when the user clicks on the team member picture
+    transform: translateX(0)
+  &__pic
+    position: relative
+  &__pic::after
+    // gradient at the bottom of the image - same color of the background of the section
+    content: ''
+    position: absolute
+    bottom: 0
+    left: 0
+    width: 100%
+    height: 80px
+    background: linear-gradient(to top, $gooeybutter, rgba($gooeybutter, 0))
+
+  img
+    width: 100%
+    display: block
+
+  .reveal-panel__bio-content
+    padding: 1rem
+    color: $white
+
+    &-title
+      color: $white
+      font-family: $sans-condensed-light
+      font-size: 3rem
+      line-height: 1
+      margin: 0
+      padding-top: 5rem
+      position: relative
+      text-align: center
+      text-transform: uppercase
+
+      +media("<desktop")
+        padding: 0
+
+      +media("<tablet")
+        font-size: 2rem
+
+      &::after
+        box-shadow: 1px 1px 0 $charcoal
+        content: ""
+        display: block
+        height: 1px
+        width: 15rem
+        margin: .75rem auto
+
+        +media("<=tablet")
+          width: 100%
+
+    &-subtitle
+      font-family: $sans-condensed-light
+      font-size: 2rem
+      padding: 0
+      text-align: center
+      text-transform: uppercase
+
+    &-md
+      color: $charcoal
+      padding-bottom: 3rem
+
+      +media("<=tablet")
+        padding-bottom: 1rem
+
+      h3
+        font-family: $sans-condensed-light
+        font-size: 2rem
+        //font-weight: bold;
+        line-height: 1
+        padding: 3rem 0 1.5rem 0
+        text-align: center
+
+        +media("<=tablet")
+          padding: 1rem 0 .5rem 0
+
+.no-cssgradients .reveal-panel .reveal-panel__pic::after
+  display: none
+
+@media only screen and (min-width: 768px)
+  .reveal-panel
+    width: 600px
+    transform: translateX(600px)
+  .reveal-panel .reveal-panel__bio-content
+    padding: 2rem
+  .reveal-panel .reveal-panel__bio-content p
+    //line-height: 1.6;
+    margin: 2rem 0
+
+@media only screen and (min-width: 1000px)
+  .reveal-panel
+    box-shadow: -10px 0 100px $charcoal
+    width: 900px
+    transform: translateX(1000px)
+  .reveal-panel .reveal-panel__pic::after
+    height: 150px
+  .reveal-panel .reveal-panel__bio-content
+    padding: 4rem
+    // we move the content up so the title is over the color gradient
+    transform: translateY(-80px)
+  .reveal-panel .reveal-panel__bio-content h1
+    // font-size: 40px;
+    // font-size: 2.5rem;
+  .reveal-panel .reveal-panel__bio-content p
+    // font-size: 16px;
+    // font-size: 1rem;
+  .no-cssgradients .reveal-panel .reveal-panel__bio-content
+    transform: translateY(0)
+
+.reveal-panel__close
+  width: 75px
+  height: 75px
+  overflow: hidden
+  position: fixed
+  top: 25px
+  right: 25px
+  background: url("/images/svg/reveal-icon-close.svg") no-repeat center center
+  text-indent: 100%
+  white-space: nowrap
+  z-index: 3001
+  display: none
+  &.is-visible
+    display: block
+    animation: reveal__move-in 0.8s
+
+.reveal__overlay
+  position: absolute
+  top: 0
+  left: 0
+  width: 100%
+  height: 100%
+  background: rgba($stlouisblues, 0.8)
+  cursor: pointer
+  display: none
+  z-index: 2000
+
+// xkeyframes
+
+@keyframes reveal__fade-in
+  0%
+    opacity: 0
+  100%
+    opacity: 1
+
+
+@keyframes reveal__move-in
+  0%
+    transform: translateX(100px) rotate(0deg)
+  100%
+    transform: translateX(0) rotate(540deg)

@@ -1,0 +1,63 @@
+// http://www.sitepoint.com/scaling-values-across-breakpoints-using-sass/
+// http://jamessteinbach.com/css/sass-maps-breakpoint-mixin/
+
+// Retinal Media Query from : http://davidwalsh.name/write-media-queries-sass
+
+// EXAMPLE USAGE
+/*
+@include breakpoint(min) {
+    font-size: 1.2em;
+}
+*/
+
+$breakpoints: (
+    min:    "(max-width: 480px)",
+    sm:     "(max-width: 768px)",
+    med:    "(max-width: 960px)",
+    lg:     "(max-width: 1024px)",
+    xl:     "(max-width: 1200px)",
+    max:    "(max-width: 1600px)",
+    iphone: 'only screen and (min-device-width: 320px) and (max-device-width: 568px)',
+    retina: "only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx)",
+    print:  "print"
+);
+
+@mixin breakpoint($name) {
+  @if not map-has-key($breakpoints, $name) {
+    @warn "Warning: #{$name} is not a valid breakpoint name.";
+  }
+  @else {
+    @media #{map-get($breakpoints, $name)} {
+      @content;
+    }
+  }
+}
+
+@mixin column($col-size, $col-max) {
+    //padding: 0 1em 1em 0;
+    width: $col-size / $col-max * 100%
+}
+
+
+/* @mixin container() {
+  margin: 0 auto;
+  max-width: 1200px;
+} */
+
+.container {
+  margin-top: 0;
+}
+
+[class*=__container] {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0 2rem;
+
+  @include breakpoint(lg) {
+    max-width: 1024px;
+  }
+}
+
+div[class*="--col"] {
+  float: left;
+}

@@ -1,0 +1,30 @@
+.articleList
+  background-color: $silver
+  box-shadow: 0 -1px 0 $archgray
+  padding: 3rem 0
+
+  &__container
+    width: 65%
+    margin: 0 auto
+
+    +media("<tablet")
+      width: 90%
+
+  &__heading
+    box-shadow: 0 1px 0 $archgray
+    font-family: $sans-condensed-light
+    font-size: 2rem
+    line-height: 1
+
+    +media("<tablet")
+      font-size: 1.5rem
+
+  &__link
+    color: $stlouisblues
+    display: block
+    margin: 0
+    padding: 1rem .5rem
+
+    &:hover
+      background-color: $cardinalred
+      color: $white

@@ -1,13 +1,13 @@
-<section id="reveal-gallery" class="reveal-section">
-    <div class="reveal-container">
+<section id="reveal-gallery" class="reveal">
+    <div class="reveal__container">
         <ul>
             {% for item in site.data.[page.reveal] %}
             <li>
-                <a href="#0" data-type="{{item.image | remove: '.jpg'}}">
-                    <figure style="background-image: url('/images/{{item.image}}');">
-                        <div class="reveal-img-overlay"><span>Read more</span></div>
+                <a href="#0" data-type="{{item.photo | remove: '.jpg'}}">
+                    <figure class="reveal__figure" style="background-image: url('/images/{{item.photo}}');">
+                        <div class="reveal__img-overlay"><span>Read more</span></div>
                     </figure>
-                    <div class="reveal-box-info">{{item.name}}</div>
+                    <div class="reveal__box-info">{{item.name}}</div>
                 </a>
             </li>
             {% endfor %}
@@ -15,7 +15,7 @@
     </div> <!-- reveal-container -->
 </section> <!-- reveal-gallery -->
 
-<div class="reveal-overlay"></div>
+<div class="reveal__overlay"></div>
 
 {% if page.unique-cta == true %}
 {% include uniqueCTA.html %}
@@ -25,20 +25,19 @@
 
 </main>
 
-
 {% for item in site.data.[page.reveal] %}
-<div class="reveal-panel {{item.image | remove: ".jpg"}}">
-    <div class="reveal-panel-pict">
-        <div class="reveal-panel-pict-flexembed" style="background-image: url('/images/{{item.image}}');"></div>
+<div class="reveal-panel {{item.photo | remove: ".jpg"}}">
+    <div class="reveal-panel__pic">
+        <div class="reveal-panel__pic-flexembed" style="background-image: url('/images/{{item.photo}}');"></div>
     </div>
 
-    <div class="reveal-bio-content">
-        <h2 class="reveal-bio-content__title">{{item.name}}</h2>
+    <div class="reveal-panel__bio-content">
+        <h2 class="reveal-panel__bio-content-title">{{item.name}}</h2>
         {% if page.bodyClass == staff || board %}
-        <h3 class="reveal-bio-content__subtitle">{{item.title}}</h3>
+        <h3 class="reveal-panel__bio-content-subtitle">{{item.title}}</h3>
 
         {% endif %}
-        <div class="reveal-bio-content__md textC">
+        <div class="reveal-panel__bio-content-md textC">
             <p>{{ item.profession }} / {{ item.employer }}</p>
             <p>{{ item.quote }} - {{ item.artist }}</p>
         </div>
@@ -47,4 +46,4 @@
 {% endfor %}
 
 
-<a href="#0" class="reveal-panel-close">Close</a>
+<a href="#0" class="reveal-panel__close">Close</a>

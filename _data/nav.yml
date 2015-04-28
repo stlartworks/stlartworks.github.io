@@ -1,6 +1,6 @@
 - nav-item: Home
   url:
-  teaser: "Welcome to the homepage!"
+  teaser: "Home is where the ART is!"
 
 - nav-item: About
   url: "about"

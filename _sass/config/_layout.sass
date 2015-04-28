@@ -1,0 +1,15 @@
+.container
+  margin-top: 0
+
+
+[class*=__container]
+  margin: 0 auto
+  max-width: 1200px
+  padding: 0 2rem
+
+  +media("<=desktop")
+    max-width: 1024px
+
+
+div[class*="--col"]
+  float: left
