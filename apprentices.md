@@ -17,5 +17,10 @@ mega-cta-img: ville-02.jpg
 mega-cta-heading: Join us!
 mega-cta-button-text: Apply today!
 mega-cta-button-text-url: /apply
+
+redirect_from:
+  - /About/Testimonials
+  - /About/Testimonials/currentpage/1
+  - /About/Testimonials/currentpage/2
 ---
 We come from all parts of St. Louis, city and county. We are all in high school or recently graduated. We are all different, but our love for art and learning makes us similar.
