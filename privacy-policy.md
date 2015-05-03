@@ -79,13 +79,13 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-St. Louis ArtWorks  
-www.stlartworks.org  
-3547 Olive Street  
-STE 280  
-St. Louis, MO 63103  
-314-289-4180  
-info@stlartworks.org  
+St. Louis ArtWorks
+3547 Olive Street STE 280 St. Louis, MO 63103
+
+314-289-4180
+
+www.stlartworks.org
+info@stlartworks.org
 
 This document was last updated on November 04, 2014
 
