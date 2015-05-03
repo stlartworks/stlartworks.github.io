@@ -78,6 +78,20 @@ gulp.task('sass', function () {
 });
 
 
+gulp.task('sassprod', function () {
+  return gulp.src('./_sass/style.sass') // path to your sass
+    .pipe(sass({
+        //errLogToConsole: true,
+        onError: browserSync.notify,
+        indentedSyntax: true,
+        includePaths : ['./_sass/']
+      }))
+    .pipe(please(pleaseOptions))
+    .pipe(gulp.dest('_site/'))
+    .pipe(gulp.dest('./')); // Output to the root of your theme directory
+});
+
+
 /**
  * Watch scss files for changes & recompile
  * Watch html/md files, run jekyll & reload BrowserSync
