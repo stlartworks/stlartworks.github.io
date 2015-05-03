@@ -16,7 +16,7 @@ unique-cta: true
 mega-cta-img: ville-02.jpg
 mega-cta-heading: Join us!
 mega-cta-button-text: Questions?
-mega-cta-button-text-url:  info@stlartworks.org
+mega-cta-button-text-url:  mailto:info@stlartworks.org
 ---
 Every dollar you donate helps us provide quality job training and art education for teens who otherwise might not have the opportunity to bring home a paycheck and learn valuable job and life skills at the same time. Your funding helps us provide them with the best teaching artists and ensures that we can provide the materials and tools they need to exercise their full creative potential as they learn. Here are some examples of how far your donations can go...
 

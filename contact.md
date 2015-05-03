@@ -14,7 +14,7 @@ permalink: /contact/
 mega-cta-img: ville-02.jpg
 mega-cta-heading: Join us!
 mega-cta-button-text: Apply today!
-mega-cta-button-text-url: http://google.com
+mega-cta-button-text-url: /apply/
 ---
 
 ### Phone / Email
@@ -27,7 +27,7 @@ Centene Center for Arts and Education
 
 ### Social media
 [twitter](https://twitter.com/StlArtWorks)  
-[facebook](https://www.facebook.com/slawstaff)
+[facebook](https://www.facebook.com/stlartworks)
 
 
 {% include subscribe.html %}
