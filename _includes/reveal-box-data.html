@@ -38,7 +38,7 @@
 
         {% endif %}
         <div class="reveal-panel__bio-content-md textC">
-            <p>{{ item.profession }} / {{ item.employer }}</p>
+            <p>{{ item.profession }} / {{ item.employer | replace: '&', '&amp;' }}</p>
             <p>{{ item.quote }} - {{ item.artist }}</p>
         </div>
     </div>
@@ -46,4 +46,4 @@
 {% endfor %}
 
 
-<a href="#0" class="reveal-panel__close">Close</a>
+<a href="/" class="reveal-panel__close">Close</a>
