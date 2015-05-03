@@ -213,123 +213,6 @@ defaults:
       layout: "staff"
 
 
-
-# -----------------------------------------------------------------------------
-# PROSE SETTINGS
-# -----------------------------------------------------------------------------
-
-siteurl: "http://stlartworks.org"
-# Turns on Jekyll live previews. The url is the homepage of the live site.
-
-#relativeLinks: "http://prose.github.io/starter/links.jsonp"
-#rooturl: _posts
-
-# PROSE allows you to manage .md files
-# ! Read more: https://github.com/prose/prose/wiki/Prose-Configuration
-
-prose:
-  media: images
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /_scss
-
-  metadata:
-
-    _board:
-      -
-        name: "layout"
-        field:
-          element: "hidden"
-          label: "layout"
-          value: "board"
-      -
-        name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      -
-        name: "start-year"
-        field:
-          element: "number"
-          label: "Start year"
-          value: ""
-      -
-        name: "board-title"
-        field:
-          element: "text"
-          label: "Board Title"
-          value: ""
-      -
-        name: "employer"
-        field:
-          element: "text"
-          label: "Employer"
-          value: ""
-      -
-        name: "job-title"
-        field:
-          element: "text"
-          label: "Job title"
-          value: ""
-      -
-        name: "member-img"
-        field:
-          element: "text"
-          label: "Member's image"
-          value: ""
-      -
-        name: "facebook"
-        field:
-          element: "text"
-          label: "Facebook"
-          value: ""
-      -
-        name: "twitter"
-        field:
-          element: "text"
-          label: "Twitter"
-          value: ""
-      -
-        name: "instagram"
-        field:
-          element: "text"
-          label: "Instagram"
-          value: ""
-      -
-        name: "website"
-        field:
-          element: "text"
-          label: "Website"
-          value: ""
-    _programs:
-      -
-        name: "layout"
-        field:
-          element: "hidden"
-          label: "layout"
-          value: "programs"
-      -
-        name: season
-        field:
-          element: select
-          label: "Season"
-          options:
-            -
-              name: Fall
-              value: fall
-            -
-              name: Spring
-              value: spring
-            -
-              name: Summer
-              value: summer
-          placeholder: "Choose season"
-
-
 # -----------------------------------------------------------------------------
 # SAFE PLUGINS allowed by gitHub pages
 # -----------------------------------------------------------------------------
@@ -339,7 +222,7 @@ gems:
   - jemoji # Emoji please!
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   # - jekyll-mentions
-  - jekyll-redirect-from
+  # - jekyll-redirect-from
 
 
 # -----------------------------------------------------------------------------
@@ -394,10 +277,10 @@ safe: true
 exclude:
 # Exclude (ignore) these files in your Producion build
 
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
+  # - Gemfile
+  # - Gemfile.lock
+  # - LICENSE
+  # - README.md
 
 
 # Check GitHub Dependency Verison: https://pages.github.com/versions/
