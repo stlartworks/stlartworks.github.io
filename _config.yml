@@ -286,7 +286,8 @@ exclude:
   - .jshintrc
   - LICENSE
   - README.md
-  - [vendor]
+  - vendor
+  - .travis.yml
 
 
 # Check GitHub Dependency Verison: https://pages.github.com/versions/
