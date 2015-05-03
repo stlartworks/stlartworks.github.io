@@ -278,10 +278,14 @@ exclude:
 # Exclude (ignore) these files in your Producion build
 
   - node_modules
-  # - Gemfile
-  # - Gemfile.lock
-  # - LICENSE
-  # - README.md
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - .editorconfig
+  - .jshintrc
+  - LICENSE
+  - README.md
 
 
 # Check GitHub Dependency Verison: https://pages.github.com/versions/
