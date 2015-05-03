@@ -286,6 +286,7 @@ exclude:
   - .jshintrc
   - LICENSE
   - README.md
+  - [vendor]
 
 
 # Check GitHub Dependency Verison: https://pages.github.com/versions/
