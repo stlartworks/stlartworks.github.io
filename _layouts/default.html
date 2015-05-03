@@ -10,9 +10,69 @@
 | $$  | $$| $$  | $$  | $$   | $$$    \$$$ \$$    $$| $$  | $$| $$  \$$\ \$$    $$
  \$$   \$$ \$$   \$$   \$$    \$$      \$$  \$$$$$$  \$$   \$$ \$$   \$$  \$$$$$$
  -->
-<html>
+<html itemscope itemtype="http://schema.org/Article">
 
-    {% include header.html %}
+  <head>
+    <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    <title>STLOUISARTWORKS | {{ page.seoTitle }}</title>
+
+    <meta name="author" content="{{ site.name }}" />
+    <meta name="description" content="{{ page.seoDescription }}">
+
+    <!-- ICONS/TILES/WHATEVER REALLY NEED A MORE UNIVERSAL STANDARD -->
+  	<link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="{{site.url}}/favicon.ico">
+  	<link rel="apple-touch-icon" sizes="57x57" href="{{site.url}}/images/favicon_57.png">
+  	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{site.url}}/images/favicon_57.png">
+  	<link rel="apple-touch-icon" sizes="72x72" href="{{site.url}}/images/favicon_72.png">
+  	<link rel="apple-touch-icon" sizes="114x114" href="{{site.url}}/images/favicon_114.png">
+  	<link rel="apple-touch-icon" sizes="120x120" href="{{site.url}}/images/favicon_120.png">
+  	<link rel="apple-touch-icon" sizes="144x144" href="{{site.url}}/images/favicon_144.png">
+  	<link rel="apple-touch-icon" sizes="152x152" href="{{site.url}}/images/favicon_152.png">
+  	<meta name="application-name" content="STL Artworks">
+  	<meta name="msapplication-TileImage" content="{{site.url}}/images/favicon_144.png">
+  	<meta name="msapplication-TileColor" content="#ef3e42">
+
+    <!-- Schema.org markup for Google+ -->
+    <meta itemprop="name" content="{{ site.name }}">
+    <meta itemprop="description" content="{{ page.seoDescription }}">
+    <meta itemprop="image" content="{{site.url}}/images/slaw-cube.png">
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@{{ site.social-media.twitter }}">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.seoDescription }}">
+    <meta name="twitter:creator" content="@{{ site.social-media.twitter }}">
+    <!-- Twitter summary card with large image must be at least 280x150px -->
+    <meta name="twitter:image:src" content="{{site.url}}/images/slaw-cube.png">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{page.url}}" />
+    <meta property="og:image" content="{{site.url}}/images/slaw-cube.png" />
+    <meta property="og:description" content="{{ page.seoDescription }}" />
+    <meta property="og:site_name" content="{{ site.name }}" />
+  <!--   <meta property="article:section" content="Article Section" /> -->
+  <!--   <meta property="article:tag" content="Article Tag" /> -->
+    <meta property="fb:admins" content="118522357975" />
+
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+    <script src="//use.typekit.net/rtn4lgy.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <script src="/js/lazysizes.min.js" async=""></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  </head>
+
 
   <body class="{{page.bodyclass}}">
 

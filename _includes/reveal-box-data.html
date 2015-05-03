@@ -3,7 +3,7 @@
         <ul>
             {% for item in site.data.[page.reveal] %}
             <li>
-                <a href="#0" data-type="{{item.photo | remove: '.jpg'}}">
+                <a href="/" data-type="{{item.photo | remove: '.jpg'}}">
                     <figure class="reveal__figure" style="background-image: url('/images/{{item.photo}}');">
                         <div class="reveal__img-overlay"><span>Read more</span></div>
                     </figure>
@@ -38,7 +38,7 @@
 
         {% endif %}
         <div class="reveal-panel__bio-content-md textC">
-            <p>{{ item.profession }} / {{ item.employer }}</p>
+            <p>{{ item.profession | replace: '&', '&amp;' }} / {{ item.employer | replace: '&', '&amp;' }}</p>
             <p>{{ item.quote }} - {{ item.artist }}</p>
         </div>
     </div>
@@ -46,4 +46,4 @@
 {% endfor %}
 
 
-<a href="#0" class="reveal-panel__close">Close</a>
+<a href="/" class="reveal-panel__close">Close</a>

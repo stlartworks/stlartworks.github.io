@@ -9,7 +9,32 @@
   <meta name="author" content="{{ site.name }}" />
   <meta name="description" content="{{ page.seoDescription }}">
 
-  {% include socialmeta.html %}
+  <!-- Schema.org markup for Google+ -->
+  <meta itemprop="name" content="{{ site.name }}">
+  <meta itemprop="description" content="{{ page.seoDescription }}">
+  <meta itemprop="image" content="{{site.url}}/images/slaw-cube.png">
+
+  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="{{ site.social-media.twitter }}">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.seoDescription }}">
+  <meta name="twitter:creator" content="{{ site.social-media.twitter }}">
+  <!-- Twitter summary card with large image must be at least 280x150px -->
+  <meta name="twitter:image:src" content="{{site.url}}/images/slaw-cube.png">
+
+  <!-- Open Graph data -->
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="{{page.url}}" />
+  <meta property="og:image" content="{{site.url}}/images/slaw-cube.png" />
+  <meta property="og:description" content="{{ page.seoDescription }}" />
+  <meta property="og:site_name" content="{{ site.name }}" />
+<!--   <meta property="article:section" content="Article Section" /> -->
+<!--   <meta property="article:tag" content="Article Tag" /> -->
+  <meta property="fb:admins" content="118522357975" />
+
+  <link rel="canonical" href="{{ site.url }}/{{ page.url }}">
 
   <script src="//use.typekit.net/rtn4lgy.js"></script>
   <script>try{Typekit.load();}catch(e){}</script>

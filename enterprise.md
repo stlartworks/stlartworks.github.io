@@ -18,11 +18,6 @@ mega-cta-heading: Commission us!
 mega-cta-button-text: Apply today!
 mega-cta-button-text-url: maito:info@stlartworks.org
 
-
-redirect_from:
-  - /Enterprises
-  - /Enterprises/Boomerang-Press
-  - /Enterprises/BoomerRacks
 ---
 
 ArtWorks takes commissions to make public and private art through our Bloomworks and Boomerang Press programs. Between these two programs we have been commissioned by:
