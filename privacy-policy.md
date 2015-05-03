@@ -18,6 +18,7 @@ mega-cta-heading: Join us!
 mega-cta-button-text: Apply today!
 mega-cta-button-text-url: /
 ---
+
 This Privacy Policy governs the manner in which St. Louis ArtWorks collects, uses, maintains and discloses information collected from users (each, a "User") of the www.stlartworks.org website ("Site"). This privacy policy applies to the Site and all products and services offered by St. Louis ArtWorks.
 
 ### Personal identification information
