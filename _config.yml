@@ -18,7 +18,7 @@ social-media:
   github: stlartworks/
   instagram: stlartworks
   linkedin:
-  pinterest: stlartworks
+  pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: stlartworks
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -143,24 +143,24 @@ timezone: America/Chicago
 # Read more: http://jekyllrb.com/docs/collections/
 # Read more: http://www.sitepoint.com/getting-started-jekyll-collections/
 
-collections:
-  apprentices:
-    output: true
-
-  board:
-    output: true
-
-  instructors:
-    output: true
-
-  programs:
-    output: true
-
-  sponsors:
-    output: true
-
-  staff:
-    output: true
+# collections:
+#   apprentices:
+#     output: true
+#
+#   board:
+#     output: true
+#
+#   instructors:
+#     output: true
+#
+#   programs:
+#     output: true
+#
+#   sponsors:
+#     output: true
+#
+#   staff:
+#     output: true
 
 
 
@@ -181,153 +181,36 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-  -
-    scope:
-      path: ""
-      type: "apprentices"
-    values:
-      layout: "apprentices"
-  -
-    scope:
-      path: ""
-      type: "board"
-    values:
-      layout: "board"
-  -
-    scope:
-      path: ""
-      type: "instructors"
-    values:
-      layout: "instructors"
-  -
-    scope:
-      path: ""
-      type: "sponsors"
-    values:
-      layout: "sponsors"
-  -
-    scope:
-      path: ""
-      type: "staff"
-    values:
-      layout: "staff"
-
-
-
-# -----------------------------------------------------------------------------
-# PROSE SETTINGS
-# -----------------------------------------------------------------------------
-
-siteurl: "http://stlartworks.org"
-# Turns on Jekyll live previews. The url is the homepage of the live site.
-
-#relativeLinks: "http://prose.github.io/starter/links.jsonp"
-#rooturl: _posts
-
-# PROSE allows you to manage .md files
-# ! Read more: https://github.com/prose/prose/wiki/Prose-Configuration
-
-prose:
-  media: images
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /_scss
-
-  metadata:
-
-    _board:
-      -
-        name: "layout"
-        field:
-          element: "hidden"
-          label: "layout"
-          value: "board"
-      -
-        name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      -
-        name: "start-year"
-        field:
-          element: "number"
-          label: "Start year"
-          value: ""
-      -
-        name: "board-title"
-        field:
-          element: "text"
-          label: "Board Title"
-          value: ""
-      -
-        name: "employer"
-        field:
-          element: "text"
-          label: "Employer"
-          value: ""
-      -
-        name: "job-title"
-        field:
-          element: "text"
-          label: "Job title"
-          value: ""
-      -
-        name: "member-img"
-        field:
-          element: "text"
-          label: "Member's image"
-          value: ""
-      -
-        name: "facebook"
-        field:
-          element: "text"
-          label: "Facebook"
-          value: ""
-      -
-        name: "twitter"
-        field:
-          element: "text"
-          label: "Twitter"
-          value: ""
-      -
-        name: "instagram"
-        field:
-          element: "text"
-          label: "Instagram"
-          value: ""
-      -
-        name: "website"
-        field:
-          element: "text"
-          label: "Website"
-          value: ""
-    _programs:
-      -
-        name: "layout"
-        field:
-          element: "hidden"
-          label: "layout"
-          value: "programs"
-      -
-        name: season
-        field:
-          element: select
-          label: "Season"
-          options:
-            -
-              name: Fall
-              value: fall
-            -
-              name: Spring
-              value: spring
-            -
-              name: Summer
-              value: summer
-          placeholder: "Choose season"
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "apprentices"
+  #   values:
+  #     layout: "apprentices"
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "board"
+  #   values:
+  #     layout: "board"
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "instructors"
+  #   values:
+  #     layout: "instructors"
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "sponsors"
+  #   values:
+  #     layout: "sponsors"
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "staff"
+  #   values:
+  #     layout: "staff"
 
 
 # -----------------------------------------------------------------------------
@@ -339,7 +222,7 @@ gems:
   - jemoji # Emoji please!
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   # - jekyll-mentions
-  - jekyll-redirect-from
+  # - jekyll-redirect-from
 
 
 # -----------------------------------------------------------------------------
@@ -394,10 +277,17 @@ safe: true
 exclude:
 # Exclude (ignore) these files in your Producion build
 
+  - node_modules
   - Gemfile
   - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - .editorconfig
+  - .jshintrc
   - LICENSE
   - README.md
+  - vendor
+  - .travis.yml
 
 
 # Check GitHub Dependency Verison: https://pages.github.com/versions/

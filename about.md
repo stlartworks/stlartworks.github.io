@@ -21,40 +21,6 @@ staffpx: staff-jessica-01.jpg
 instructorpx: Instructor-robert-ketchens.jpg
 boardpx: interview-day-01.jpg
 
-
-redirect_from:
-  - /About/Event-Images
-  - /About/Event-Images/AlbumID/900-18
-  - /About/Event-Images/AlbumID/900-18?Page=1
-  - /About/Event-Images/AlbumID/900-18?Page=2
-  - /About/Event-Images/AlbumID/900-18?Page=3
-  - /About/Event-Images/AlbumID/900-19
-  - /About/Event-Images/AlbumID/900-19?Page=1
-  - /About/Event-Images/AlbumID/900-23
-  - /About/Event-Images/AlbumID/900-25
-  - /About/Event-Images/AlbumID/900-28
-  - /About/Event-Images/AlbumID/900-29
-  - /About/Event-Images/AlbumID/900-32
-  - /About/History
-  - /About/Overview
-  - /About/Video-Overview
-  - /Shop
-  - /Shop/CatID/2/ArtCards
-  - /Shop/CatID/4/Holiday_Cards
-  - /Shop/CatID/7/Global_Greeting_Cards
-  - /Shop/ProdID/104/CatID/4/2013_Winter_Holiday_Cards
-  - /Shop/ProdID/13/CatID/2
-  - /Shop/ProdID/13/CatID/7
-  - /Shop/ProdID/3
-  - /Shop/ProdID/3/CatID/4
-  - /Shop/ProdID/4/CatID/4
-  - /Shop/ProdID/5
-  - /Shop/ProdID/5/CatID/5
-  - /Shop/ProdID/7/CatID/2
-  - /Shop/ProdID/7/CatID/7
-  - /Shop/ProdID/8
-  - /Shop/ProdID/8/CatID/7
-  - /Shop/wishlist/Default
 ---
 
 We are excited to give young creatives (14 - 19 years old) paying apprenticeships. We are committed to diversifying our program as much as possible but the majority of our funding is to empower African-American teens.
