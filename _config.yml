@@ -143,24 +143,24 @@ timezone: America/Chicago
 # Read more: http://jekyllrb.com/docs/collections/
 # Read more: http://www.sitepoint.com/getting-started-jekyll-collections/
 
-collections:
-  apprentices:
-    output: true
-
-  board:
-    output: true
-
-  instructors:
-    output: true
-
-  programs:
-    output: true
-
-  sponsors:
-    output: true
-
-  staff:
-    output: true
+# collections:
+#   apprentices:
+#     output: true
+#
+#   board:
+#     output: true
+#
+#   instructors:
+#     output: true
+#
+#   programs:
+#     output: true
+#
+#   sponsors:
+#     output: true
+#
+#   staff:
+#     output: true
 
 
 
@@ -181,36 +181,36 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-  -
-    scope:
-      path: ""
-      type: "apprentices"
-    values:
-      layout: "apprentices"
-  -
-    scope:
-      path: ""
-      type: "board"
-    values:
-      layout: "board"
-  -
-    scope:
-      path: ""
-      type: "instructors"
-    values:
-      layout: "instructors"
-  -
-    scope:
-      path: ""
-      type: "sponsors"
-    values:
-      layout: "sponsors"
-  -
-    scope:
-      path: ""
-      type: "staff"
-    values:
-      layout: "staff"
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "apprentices"
+  #   values:
+  #     layout: "apprentices"
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "board"
+  #   values:
+  #     layout: "board"
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "instructors"
+  #   values:
+  #     layout: "instructors"
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "sponsors"
+  #   values:
+  #     layout: "sponsors"
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "staff"
+  #   values:
+  #     layout: "staff"
 
 
 # -----------------------------------------------------------------------------
@@ -277,6 +277,7 @@ safe: true
 exclude:
 # Exclude (ignore) these files in your Producion build
 
+  - node_modules
   # - Gemfile
   # - Gemfile.lock
   # - LICENSE
