@@ -26,9 +26,9 @@
 <div class="reveal__overlay"></div>
 
 {% if page.unique-cta == true %}
-{% include uniqueCTA.html %}
+{% include unique-cta.html %}
 {% else %}
-{% include megaCTA.html %}
+{% include mega-cta.html %}
 {% endif %}
 
 
@@ -49,7 +49,7 @@
             {{ item.content }}
 
             {% if site.apply == 'open' %}
-            <p><a class="articleCTA__button" href="/apply">Apply now!</a></p>
+            <p><a class="article-cta__button" href="/apply">Apply now!</a></p>
             {% endif %}
         </div>
     </div>

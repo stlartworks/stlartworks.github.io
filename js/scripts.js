@@ -15,5 +15,5 @@ jQuery(function($){
              this.$el.find('span').text(Math.round(to));
          }
      });
-     $(".mainContent__md").fitVids();
+     $(".main-content__md").fitVids();
  });
