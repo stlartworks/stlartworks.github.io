@@ -1,0 +1,9 @@
+<div class="article-list">
+    <ol class="article-list__container">
+    {% for post in site.posts %}
+        <li class="article-list__heading">
+            <a class="article-list__link" href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+    {% endfor %}
+    </ol>
+</div>

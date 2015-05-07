@@ -1,6 +1,6 @@
-<div class="mainContent">
-    <div class="mainContent__container">
-        <h2 class="mainContent__heading">
+<div class="main-content">
+    <div class="main-content__container">
+        <h2 class="main-content__heading">
           <span class="bold">{{ page.title }}</span>
           {% if page.subtitle %}
             : {{ page.subtitle }}
@@ -8,10 +8,10 @@
         </h2>
 
         {% if page.bodyclass == 'post' %}
-            <p class="mainContent__date">{{ page.date | date: "%B %e, %Y" }}</p>
+            <p class="main-content__date">{{ page.date | date: "%B %e, %Y" }}</p>
         {% endif %}
 
-        <div class="mainContent__md">
+        <div class="main-content__md">
           {{ content }}
         </div>
     </div>

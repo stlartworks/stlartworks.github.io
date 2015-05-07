@@ -1,0 +1,22 @@
+{% for post in site.posts %}
+    {% if post.homepage == true %}
+      {% capture count %}{{ count | plus: '1' }}{% endcapture %}
+      {% if count == '1' %}
+
+        <div class="article-cta">
+            <div class="article-cta__container">
+                <h2 class="article-cta__heading">
+                    <a class="article-cta__headingLink" href="{{ post.url }}">{{ post.title  }}</a>
+                </h2>
+                <div class="article-cta__md">
+                    <p>{{ post.teaser }}</p>
+                </div>
+                <p class="article-cta__text">
+                  <a class="article-cta__button" href="{{ post.url }}">Read more</a>
+                </p>
+            </div>
+        </div>
+
+      {% endif %}
+  {% endif %}
+{% endfor %}
