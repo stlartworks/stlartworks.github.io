@@ -2,6 +2,10 @@
   url:
   teaser: "Home is where the ART is!"
 
+- nav-item: Support
+  url: support
+  teaser: "Sharing is caring!"
+
 - nav-item: About
   url: "about"
   teaser: "Young creatives UNITE!"
@@ -41,10 +45,6 @@
 - nav-item: News
   url: news
   teaser: "Latest announcements"
-
-- nav-item: Support
-  url: support
-  teaser: "Sharing is caring!"
 
 - nav-item: Contact
   url: contact
