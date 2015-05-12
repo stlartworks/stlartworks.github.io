@@ -53,7 +53,7 @@ gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
 /**
  * Wait for jekyll-build, then launch the Server
  */
-gulp.task('browser-sync', ['sass', 'jekyll-build'], function() {
+gulp.task('browser-sync', ['sassprod', 'jekyll-build'], function() {
   browserSync({
     server: {
       baseDir: '_site'
@@ -65,8 +65,8 @@ gulp.task('sass', function () {
   return gulp.src('./_sass/style.sass') // path to your sass
     .pipe(sourcemaps.init())
     .pipe(sass({
-        //errLogToConsole: true,
-        onError: browserSync.notify,
+        errLogToConsole: true,
+        //onError: browserSync.notify,
         indentedSyntax: true,
         includePaths : ['./_sass/']
       }))
@@ -112,4 +112,4 @@ gulp.task('watch', function () {
  * Default task, running just `gulp` will compile the sass,
  * compile the jekyll site, launch BrowserSync & watch files.
  */
-gulp.task('default', ['sassprod', 'browser-sync', 'watch']);
+gulp.task('default', ['browser-sync', 'watch']);
