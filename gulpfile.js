@@ -81,8 +81,8 @@ gulp.task('sass', function () {
 gulp.task('sassprod', function () {
   return gulp.src('./_sass/style.sass') // path to your sass
     .pipe(sass({
-        //errLogToConsole: true,
-        onError: browserSync.notify,
+        errLogToConsole: true,
+        //onError: browserSync.notify,
         indentedSyntax: true,
         includePaths : ['./_sass/']
       }))
