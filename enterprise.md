@@ -35,7 +35,7 @@ ArtWorks takes commissions to make public and private art through our Bloomworks
 - Scholarship Foundation of St. Louis
 - and many more
 
-### Boomerang Press (logo)
+### ![boomerang press](/images/svg/boomerang-press-2.svg)
 Boomerang Press provides Graphic design and multi-media services to make:
 
 - holiday and greeting cards
@@ -46,18 +46,16 @@ Boomerang Press provides Graphic design and multi-media services to make:
 - Public service announcements
 - Video documentaries
 
-Image gallery (should be connected to past programs)
 
 {% include gallery-boomerang-press.html %}
 
-### Bloomworks (logo)
+### ![bloomworks](/images/svg/bloomworks.svg)
 Bloomworks provides art for the garden, public park and urban street scape and makes:
 
 - Bike racks
 - Decorative rain barrels
 - Public benches
 
-Image gallery (should be connected to past programs)
 {% include gallery-bloomworks.html %}
 
 
