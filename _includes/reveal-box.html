@@ -30,31 +30,3 @@
 {% else %}
   {% include mega-cta.html %}
 {% endif %}
-
-</main>
-
-
-{% for item in site.data.[page.reveal] %}
-<div class="reveal-panel {{item.photo | remove: ".jpg"}}">
-    <div class="reveal-panel__pic">
-        <div class="reveal-panel__pic-flexembed" style="background-image: url('/images/{{item.photo}}');"></div>
-    </div>
-
-    <div class="reveal-panel__bio-content">
-        <h2 class="reveal-panel__bio-content-title">{{item.name}}</h2>
-        {% if page.bodyClass == staff || board %}
-        <h3 class="reveal-panel__bio-content-subtitle">{{item.title}}</h3>
-        {% endif %}
-        <div class="reveal-panel__bio-content-md">
-            {{ item.content }}
-
-            {% if site.apply == 'open' %}
-            <p><a class="article-cta__button" href="/apply">Apply now!</a></p>
-            {% endif %}
-        </div>
-    </div>
-</div>
-{% endfor %}
-
-
-<a href="/" class="reveal-panel__close">Close</a>
