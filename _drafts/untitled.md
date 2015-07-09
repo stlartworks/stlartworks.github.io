@@ -31,5 +31,3 @@ The Nature Conservancy
 Girl Scouts of Eastern Missouri  
 Wells Fargo Advisors  
 Food Outreach**
-
-## #
