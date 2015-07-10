@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer Sale of Your Dreams!"
-featureImg: ""
+featureImg: dreams.jpg
 teaser: "Saturday, July 18, 2015, 11am - 2pm\nArtWorks Old North Studio\n2707 N. 14th Street, St. Louis MO 63106"
 homepage: true
 ---
