@@ -7,7 +7,7 @@ homepage: true
 ---
 _**July 18, 2015 11:00 am - 2:00 pm**_
 
-**ArtWorks Old North Studio****:** [2707 N. 14th Street, St. Louis, MO 63106](https://www.google.com/maps/place/2707+N+14th+St,+Fourteenth+Street+Mall,+St+Louis,+MO+63106/@38.650735,-90.19741,3a,75y,240h,90t/data=!3m7!1e1!3m5!1szP5YuTXdBdbd2qrBBSTuEw!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fcb_client%3Dmaps_sv.tactile%26output%3Dthumbnail%26thumb%3D2%26panoid%3DzP5YuTXdBdbd2qrBBSTuEw%26w%3D374%26h%3D75%26yaw%3D240%26pitch%3D0%26thumbfov%3D120%26ll%3D38.650735,-90.197410!7i13312!8i6656!4m2!3m1!1s0x87d8b332f395e2df:0x4c723e631c3f5077!6m1!1e1)
+**ArtWorks Old North Studio**: [2707 N. 14th Street, St. Louis, MO 63106](https://www.google.com/maps/place/2707+N+14th+St,+Fourteenth+Street+Mall,+St+Louis,+MO+63106/@38.650735,-90.19741,3a,75y,240h,90t/data=!3m7!1e1!3m5!1szP5YuTXdBdbd2qrBBSTuEw!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fcb_client%3Dmaps_sv.tactile%26output%3Dthumbnail%26thumb%3D2%26panoid%3DzP5YuTXdBdbd2qrBBSTuEw%26w%3D374%26h%3D75%26yaw%3D240%26pitch%3D0%26thumbfov%3D120%26ll%3D38.650735,-90.197410!7i13312!8i6656!4m2!3m1!1s0x87d8b332f395e2df:0x4c723e631c3f5077!6m1!1e1)
 
 On Saturday, July 18, ArtWorks hosts its annual **SUMMER SALE**! This summer, the Apprentices were given the opportunity to create art about their **DREAMS**: the imaginitive musings of the sleeping mind, as well as dreams for their futures, and what they dream to see in their communities and the world around them.
 
