@@ -23,7 +23,7 @@ The Mission of St. Louis ArtWorks is to broaden educational and career opportuni
 
 Youth apprentice with professional artists in the visual, literary, and performing arts. In addition to developing talent in artistic disciplines, ArtWorks teaches the business of being an artist, as well as helping the young art entrepreneurs develop positive social, creative-thinking, teamwork, personal finance, and character education skills, all while earning a stipend.
 
-This year marks ArtWorks&rsquo; 20th year of providing life skills education and job training in the arts to underserved St. Louis youth. In Fall 2015, ArtWorks will move to a NEW location in the Loop East.
+**This year marks ArtWorks&rsquo; 20th year of providing life skills education and job training in the arts to underserved St. Louis youth.** In Fall 2015, ArtWorks will move to a NEW location in the Loop East.
 
 **Partnerships:**
 
