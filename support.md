@@ -22,16 +22,17 @@ Every dollar you donate helps us provide quality job training and art education 
 
 ### Your giving can...
 
-- $30 will cover the cost of 1 participant in our After School Program for 1 week.
-- $75 provides uniforms for 12 Apprentices.
-- $150 buys food for the After School Program.
-- $1000 is enough to fund an Apprentice stipend for the entire summer.
+*   $30 will cover the cost of 1 participant in our After School Program for 1 week.
+*   $75 provides uniforms for 12 Apprentices.
+*   $150 buys food for the After School Program.
+*   $1000 is enough to fund an Apprentice stipend for the entire summer.
 
 ### Support us today
 
-<div id="wufoo-qecsxr519eqmvz">
-Fill out my <a href="https://stlartworks.wufoo.com/forms/qecsxr519eqmvz">online form</a>.
-</div>
+ 
+<div id="wufoo-qecsxr519eqmvz"><iframe id="wufooFormqecsxr519eqmvz" class="wufoo-form-container" height="654" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://stlartworks.wufoo.com/embed/qecsxr519eqmvz/def/embedKey=qecsxr519eqmvz134293&amp;entsource=&amp;referrer=">&lt;a href=&quot;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&quot; title=&quot;html form&quot;&gt;Fill out my Wufoo form!&lt;/a&gt;</iframe></div>
+
+ 
 <script type="text/javascript">var qecsxr519eqmvz;(function(d, t) {
 var s = d.createElement(t), options = {
 'userName':'stlartworks',
