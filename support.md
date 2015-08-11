@@ -27,13 +27,10 @@ Every dollar you donate helps us provide quality job training and art education 
 *   $150 buys food for the After School Program.
 *   $1000 is enough to fund an Apprentice stipend for the entire summer.
 
+### [![](/uploads/versions/bbblogobluesm---&#40;----200-76&#41;---.jpg)](http://www.bbb.org/stlouis/business-reviews/charity-arts-and-culture/st-louis-artworks-in-saint-louis-mo-310482094)
+
 ### Support us today
-
- 
-<div id="wufoo-qecsxr519eqmvz"><iframe id="wufooFormqecsxr519eqmvz" class="wufoo-form-container" height="654" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://stlartworks.wufoo.com/embed/qecsxr519eqmvz/def/embedKey=qecsxr519eqmvz134293&amp;entsource=&amp;referrer=">&lt;a href=&quot;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&quot; title=&quot;html form&quot;&gt;Fill out my Wufoo form!&lt;/a&gt;</iframe></div>
-
- 
-<script type="text/javascript">var qecsxr519eqmvz;(function(d, t) {
+<div id="wufoo-qecsxr519eqmvz"><iframe id="wufooFormqecsxr519eqmvz" class="wufoo-form-container" height="616" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://stlartworks.wufoo.com/embed/qecsxr519eqmvz/def/embedKey=qecsxr519eqmvz134293&amp;entsource=&amp;referrer=">&amp;amp;amp;lt;a href=&amp;amp;amp;quot;&amp;amp;lt;a href=&quot;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;quot&quot; data-cms-cid=&quot;3535&quot;&amp;amp;gt;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;quot&amp;amp;lt;/a&amp;amp;gt;; title=&amp;amp;amp;quot;html form&amp;amp;amp;quot;&amp;amp;amp;gt;Fill out my Wufoo form!&amp;amp;amp;lt;/a&amp;amp;amp;gt;</iframe></div><script type="text/javascript">var qecsxr519eqmvz;(function(d, t) {
 var s = d.createElement(t), options = {
 'userName':'stlartworks',
 'formHash':'qecsxr519eqmvz',
