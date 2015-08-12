@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Fall Apprenticeship
+title: "APPLY for Fall Apprenticeships!"
 featureImg: fish-wrapper-01.jpg
-teaser: "The Fishwrapper documentary was produced by the fall St. Louis ArtWorks Apprentices. This riveting film follows the life of Mississippi River Fishermen as they cast their lines, and reveal their past. Experience their untold stories through the eyes of our apprentices."
+teaser: "If you or someone you know is interested in a paid Fall Apprenticeship with St. Louis ArtWorks, NOW is the time to apply! Click here for more information!"
 homepage: true
 ---
