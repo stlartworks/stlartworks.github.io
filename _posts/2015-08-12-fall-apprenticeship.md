@@ -2,7 +2,7 @@
 layout: post
 title: "APPLY for Fall Apprenticeships!"
 featureImg: fish-wrapper-01.jpg
-teaser: "If you or someone you know is interested in a paid Fall Apprenticeship with St. Louis ArtWorks, NOW is the time to apply! Click here for more information!"
+teaser: "If you or someone you know is interested in a paid Fall Apprenticeship with St. Louis ArtWorks, NOW is the time to apply! Click \"APPLY\" above for more information!"
 homepage: true
 ---
  
@@ -16,7 +16,7 @@ Painting ~ Videography~ Graphic Design
 
 APPLY NOW if you are 14-18 years old and interested in getting paid to create art:
 
-~Receive training in different art mediums, especially videography and painting   
+~Receive training in different art mediums, especially videography and painting  
 ~ Gain confidence, work experience &amp; valuable life skills
 
 (APPLICANTS MUST BE 14 YEARS OLD BY JANUARY 1, 2015)  
