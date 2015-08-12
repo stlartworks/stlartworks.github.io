@@ -77,7 +77,7 @@
   image: sponsors-first-bank.png
   description: "Thank you!"
 - sponsor: John and Carolyn Peterson Foundation
-  image: sponsors-jcp.png
+  image: /images/sponsors-jcp.png
   description: "Thank you!"
 - sponsor: Monsanto Fund
   image: /images/monsanto-fund-rgb.png
