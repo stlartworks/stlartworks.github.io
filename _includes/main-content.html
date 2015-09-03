@@ -13,6 +13,11 @@
 
         <div class="main-content__md editable">
           {{ content }}
+
+          {% if page.apply == 'on' %}
+            {% include apply-wufoo.html %}
+          {% endif %}
+
         </div>
     </div>
 </div>
