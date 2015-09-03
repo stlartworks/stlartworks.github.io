@@ -1,4 +1,5 @@
 ---
+apply: false
 layout: apply
 seoTitle: "Apply today!"
 seoDescription: "Join STLOUISASRTWORKS today!"
@@ -7,7 +8,6 @@ featureStatement: "Join ARTWORKS!"
 title: Status
 subtitle: "Applications Open!"
 permalink: /apply/
-apply: "off"
 unique-cta: true
 mega-cta-img: ville-02.jpg
 mega-cta-heading: "Join us!"
