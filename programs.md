@@ -1,4 +1,5 @@
 ---
+apply: false
 layout: programs
 
 seoTitle: Programs - Learn art and earn money from professional artists
@@ -16,7 +17,7 @@ mega-cta-heading: Join us!
 mega-cta-button-text: Apply today!
 mega-cta-button-text-url: http://google.com
 
-apply:
+details:
   process:
     status: Open
     close: March 13 - Application submission deadline
