@@ -24,7 +24,7 @@ details:
     interview: Interview Day
 
   requirements:
-    age: Ages 14 to 18 (Must be 14 years old by January 1, 2014)
+    age: Ages 14 to 18 (Must be 14 years old by January 1, 2016)
     location: Must live in the greater St. Louis area
     interests: Must have an interest in art
     availability: Must be available to attend every day of the summer program (Monday-Friday, 6 weeks, 10 am to 3 pm)
