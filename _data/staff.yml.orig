@@ -2,45 +2,51 @@
   photo: priscilla-block-01.jpg
   title: Executive Director
   email: "priscilla@stlartworks.org"
-  #phone: "314.289.4181"
+  #phone: 314.289.4181
   content: "Since 2001 Priscilla Block has served as Executive Director. She has an MFA from Washington University, is a winner of the Washington University Social entrepreneur and Innovation Competition (SEIC), and is a practicing professional artist. Priscilla brings strong community contacts built over 12 years of community engagement and as an alum of Coro Women in Leadership, Focus St. Louis Leadership, and the Academy for Women Executive Directors through Nonprofit Services Center. Priscilla also serves as the Creative Director and principal fundraiser. Priscilla has grown the organization by over 200% in 13 years as well as greatly expanded its cross discipline education and community collaborations. In 2014, Priscilla was awarded a lifetime achievement award from UMSL for her dedication to the arts."
 - name: Jessica Graham
   photo: jessica-graham-01.jpg
   title: Program Manageer
   email: "jessica@stlartworks.org"
-  phone: "314-899-9735"
+  phone: 314-899-9735
   content: "Jessica Graham is the Program Manager and has 7 years of program experience in education and social work. Jessica holds a Master of Social Work from Washington University. Prior to joining Saint Louis Artworks, Jessica worked as Senior Educator of the Youth Exploring Science Program at the St. Louis Science Center."
+<<<<<<< HEAD
 # - name: Dawna Wharton
 #   photo: dawna-wharton-2.jpg
 #   title: Office Manager
 #   content: "Dawna is the financial manager for all ArtWorks and AWE projects and commissions. She holds a MAT in Business Education and a B.B.A in Marketing.  She has 17 years’ experience in fashion merchandising as a corporate retail buyer, product development manager and most recently as the owner of a retail store.  She is experienced in budget development, forecasting, and business administration."
+=======
+>>>>>>> master
 - name: Donica England
   photo: donica-england.jpg
   title: Site Supervisor
   email: "donica@stlartworks.org"
-  phone: "314-899-9734"
   content: "Donica has worked with ArtWorks for the last nine years,  providing supervision of apprentices in ArtWorks programs. She is currently working towards her BSW in Social Work at the University of Missouri St. Louis."
 - name: Susan TeStroete
   photo: staff-susan-testroete.jpg
   title: Grants Manager
   email: "susan@stlartworks.org"
-  phone: "314-899-9758"
+  phone: 314-899-9758
   content: "Susan writes and submits proposals and applications for ArtWorks to grant-making organizations and funding partners. She has an MSW from University of Missouri and has 17 years’ experience in the non-profit grant writing and counseling fields, with the last 11 spent in youth programs. She is experienced in delivering a breadth of programming, including staff training, leadership, counseling and mental health assessments."
 - name: Michael Sophir
   photo: michael-sophir.jpg
   title: Research and Evaluation Assistant
   email: "michael@stlartworks.org"
-  phone: "314-899-9734"
+  phone: 314-899-9734
   content: "Michael gathers data from ArtWorks apprentices to evaluate and improve ArtWorks' programming. Michael has an MSW from the University of Illinois at Urbana-Champaign with a concentration in mental health. He has worked with youth in a variety of settings including after-school programs, summer camps, a residential treatment center, and a student health center. Prior to joining ArtWorks, he served for a year in AmeriCorps at a non-profit coordinating their program evaluation system and serving as their volunteer coordinator."
 - name: Vicki Kahn
   photo: vicki_slaw.jpg
   title: Media Manager
-  email: "vicki@stlartworks.org"
-  phone: "314-899-9758"
+<<<<<<< HEAD
   content: "Vicki manages the public promotion of the St. Louis ArtWorks apprenticeship program and ArtWorks Enterprises (AWE), including traditional and social media publicity, website maintenance, and digital archiving of apprentice-made art and commissions. She holds a BA in Communications from Webster University, and has 15 years’ experience working with diverse populations and non-profit organizations on public relations, grant writing, development, digital design/communications, and special events."
-# - name: Alayne
+=======
+  email: "vicki@stlartworks.org"
+  phone: 314-899-9758
+  content: "Vicki manages the public promotion of the St. Louis ArtWorks apprenticeship program and ArtWorks Enterprises (AWE), including traditional and social media publicity, website maintenance, and digital archiving of apprentice-made art and commissions. She holds a BA in Communications from Webster University, and has 15 years’ experience working with diverse populations and non-profit organizations on public relations, grant writing, development, digital design/communications, and special events."
+# - name: Alayne 
 #   photo: alayne_slaw.jpg
 #   title: Office Manager
 #   email: "alayne@stlartworks.org"
-#   phone: "314-899-9736"
+#   phone: 314-899-9736
 #   content: ""
+>>>>>>> master

@@ -12,6 +12,18 @@
         <div class="reveal-panel__bio-content-md">
             {{ item.content }}
 
+
+            <p>
+              {% if item.email %}
+               <a class="article-cta__button" href="mailto:{{item.email}}">email</a>
+              {% endif %}
+
+              {% if item.phone %}
+                <a class="article-cta__button" href="tel:{{item.phone}}">{{item.phone}}</a>
+              {% endif %}
+            </p>
+
+
             {% if site.apply == 'open' %}
             <p><a class="article-cta__button" href="/apply">Apply now!</a></p>
             {% endif %}
