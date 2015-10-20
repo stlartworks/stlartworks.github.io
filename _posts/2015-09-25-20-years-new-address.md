@@ -3,7 +3,7 @@ layout: post
 title: 20 years, new address!
 featureImg: videography.jpg
 teaser: "St. Louis ArtWorks is celebrating its 20th year of creating opportunities for St. Louis youth with a BIG MOVE! "
-homepage: true
+homepage:
 ---
 
 September, 2015
