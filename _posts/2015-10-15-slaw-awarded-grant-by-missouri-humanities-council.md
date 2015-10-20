@@ -1,8 +1,8 @@
 ---
 layout: post
 title: St. Louis ArtWorks Awarded Grant by Missouri Humanities Council
-featureImg: ville-04.jpg
-teaser: ''
+featureImg: delmarmap.jpg
+teaser: 'The Missouri Humanities Council (MHC) has awarded a grant of $5,000 to St. Louis ArtWorks in support of “The Delmar Connection” project.'
 homepage: 'true'
 ---
 St. Louis, Missouri – The Missouri Humanities Council (MHC) has awarded a grant of $5,000 to St. Louis ArtWorks in support of “The Delmar Connection” project.
