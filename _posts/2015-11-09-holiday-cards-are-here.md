@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Holiday cards are here!
+title: Holiday cards are here
 featureImg: cards-001.jpg
 teaser: 'Are you ready for the holidays? With Hanukkah only a few weeks away, and Christmas a few weeks later, **NOW** is the time to order your holiday cards!'
 homepage: true
