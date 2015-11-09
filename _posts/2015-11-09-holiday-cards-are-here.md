@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Holiday cards are here!
-featureImg: delmarmap.jpg
+featureImg: versions/holiday-cards-2015---x----2078-2639x---.jpg
 teaser: 'Are you ready for the holidays? With Hanukkah only a few weeks away, and Christmas a few weeks later, **NOW** is the time to order your holiday cards!'
 homepage: true
 ---
