@@ -13,6 +13,13 @@
         
         <div class="main-content__md">
           {{ content }}
+          
+          
+          {% if page.apply %}
+            <div>
+              {{ page.apply }}
+            </div>
+          {% endif %}
         </div>
     </div>
 </div>
