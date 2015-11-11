@@ -1,4 +1,5 @@
 ---
+apply: true
 layout: apprentices
 
 seoTitle: Apprentices
