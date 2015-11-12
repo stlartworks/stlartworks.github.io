@@ -64,7 +64,7 @@ BoomerRacks provides art for the garden, public park and urban street scape and 
 
 - Bike racks
 
-{% include gallery-boomeracks.html %}
+{% include gallery-boomerracks.html %}
 
 
 ### Pricing
