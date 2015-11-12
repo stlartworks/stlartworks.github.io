@@ -59,6 +59,14 @@ Bloomworks provides art for the garden, public park and urban street scape and m
 {% include gallery-bloomworks.html %}
 
 
+### ![boomerracks](/images/svg/BoomerRacks_logo.jpg)
+BoomerRacks provides art for the garden, public park and urban street scape and makes:
+
+- Bike racks
+
+{% include gallery-boomeracks.html %}
+
+
 ### Pricing
 
 The second venture, BoomerRacks, launched in 2008, is the design and fabrication of bicycle racks created from old bike parts.  For more information on how to commission your custom designed bike rack call Priscilla Block at 314.289.4181.
