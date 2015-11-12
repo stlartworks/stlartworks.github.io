@@ -59,7 +59,7 @@ Bloomworks provides art for the garden, public park and urban street scape and m
 {% include gallery-bloomworks.html %}
 
 
-### ![boomerracks](/images/svg/BoomerRacks_logo.jpg)
+### ![boomerracks](/images/svg/boomerracks_logo.jpg)
 Bicycle racks with heart, purpose, and a sense of fun:  BoomerRacks are fashioned from used bicycle parts, which are revitalized and crafted into durable, kinesthetic art.
 
 {% include gallery-boomerracks.html %}
