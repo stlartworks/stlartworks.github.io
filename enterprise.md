@@ -63,11 +63,11 @@ Bloomworks provides art for the garden, public park and urban street scape and m
 
 The second venture, BoomerRacks, launched in 2008, is the design and fabrication of bicycle racks created from old bike parts.  For more information on how to commission your custom designed bike rack call Priscilla Block at 314.289.4181.
 
-1. **Community note cards** ( *$8,000.00* ) - 300 packs 8 designs
-1. **Holiday/Greeting cards** ( *$4,000.00* ) - 300 packs 8 designs
-1. **Poster** ( *$1,000.00* ) - 300 packs 8 designs
-1. **Logo** ( *$1,000.00* ) - 300 packs 8 designs
-1. **Invitations** ( *$1,000.00* ) - 300 packs 8 designs
-1. **Save the date cards** ( *$1,000.00* ) - 300 packs 8 designs
-1. **Advertisements** ( *$1,000.00* ) - 300 packs 8 designs
-1. **Graphic look** ( *$1,000.00* ) - 300 packs 8 designs
+1. **Community note cards** - 300 packs 8 designs
+1. **Holiday/Greeting cards** - 300 packs 8 designs
+1. **Poster** - 300 packs 8 designs
+1. **Logo** - 300 packs 8 designs
+1. **Invitations** - 300 packs 8 designs
+1. **Save the date cards** - 300 packs 8 designs
+1. **Advertisements** - 300 packs 8 designs
+1. **Graphic look** - 300 packs 8 designs
