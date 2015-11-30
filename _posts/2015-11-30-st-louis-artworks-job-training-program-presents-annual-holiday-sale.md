@@ -1,8 +1,8 @@
 ---
 layout: post
 title: St. Louis ArtWorks Job Training Program Presents Annual Holiday Sale
-featureImg: cards-001.jpg
-teaser: 'Are you ready for the holidays? With Hanukkah only a few weeks away, and Christmas a few weeks later, **NOW** is the time to order your holiday cards!'
+featureImg: FB-Header-HOLIDAY-SALE.jpg
+teaser: Forget Black Friday sales, join us for ART SATURDAY at ArtWorks HOLIDAY SALE on DECEMBER 12 (11:00 am - 2:00 pm)!
 homepage: true
 ---
 Forget Black Friday sales, join us for ART SATURDAY at ArtWorks HOLIDAY SALE on DECEMBER 12 (11:00 am - 2:00 pm)! 
