@@ -1,7 +1,7 @@
 ---
 layout: post
 title: St. Louis ArtWorks Job Training Program Presents Annual Holiday Sale
-featureImg: FB-Header-HOLIDAY-SALE.jpg
+featureImg: fb-header-holiday-sale.jpg
 teaser: Forget Black Friday sales, join us for ART SATURDAY at ArtWorks HOLIDAY SALE on DECEMBER 12 (11:00 am - 2:00 pm)!
 homepage: true
 ---
