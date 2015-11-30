@@ -1,12 +1,25 @@
 ---
 layout: post
-title: Holiday cards are here
+title: St. Louis ArtWorks Job Training Program Presents Annual Holiday Sale
 featureImg: cards-001.jpg
 teaser: 'Are you ready for the holidays? With Hanukkah only a few weeks away, and Christmas a few weeks later, **NOW** is the time to order your holiday cards!'
 homepage: true
 ---
-Are you ready for the holidays? With Hanukkah only a few weeks away, and Christmas a few weeks later, **NOW** is the time to order your holiday cards!
+Forget Black Friday sales, join us for ART SATURDAY at ArtWorks HOLIDAY SALE on DECEMBER 12 (11:00 am - 2:00 pm)! 
 
-Choose your design from the Apprentice-made cards shown below, and contact us at 314-899-9734 or [***email ArtWorks***](javascript:void(location.href='mailto:'+String.fromCharCode(118,105,99,107,105,64,115,116,108,97,114,116,119,111,114,107,115,46,111,114,103)+'?subject=2015%20Holiday%20Card%20Order!&amp;body=I%20would%20like%20to%20place%20an%20order%20for%20ArtWorks%20Holiday%20Cards!%0A%0APlease%20note%3A%20cards%20must%20be%20paid%20in%20full%20before%20order%20is%20sent%20to%20printer.%20Please%20call%20our%20office%20at%20(314)%20899-9734%20to%20pay%20by%20phone.%20Thank%20you!%0A%0AStyle%2FDesign%3A%20%0A%0APersonalized%20cards%20or%20Blank%20Cards%3F%0A%0AIf%20Personalized%2C%20please%20include%20the%20custom%20message%20you%20would%20like%20printed%20inside%20each%20card%3A%0A%0AQuantity%3A%0A%0AName%3A%20%0A%0APhone%20number%3A%0A%0AAddress%3A')) directly. &nbsp;Please note: cards will be delivered one week after ordering, to allow time for printing and delivery. **Thank you for supporting youth art and employment in St. Louis!**
+Find an original work of art for that hard-to-shop-for family member or friend! Wrap up Hanukkah with an unexpected find! Pick up the *perfect* Secret Santa or Elf-on-the-Shelf gift! 
 
-[![](/uploads/versions/holiday-cards-2015---x----2078-2639x---.jpg)](javascript:void(location.href='mailto:'+String.fromCharCode(118,105,99,107,105,64,115,116,108,97,114,116,119,111,114,107,115,46,111,114,103)+'?subject=2015%20Holiday%20Card%20Order!&amp;body=I%20would%20like%20to%20place%20an%20order%20for%20ArtWorks%20Holiday%20Cards!%0A%0APlease%20note%3A%20cards%20must%20be%20paid%20in%20full%20before%20order%20is%20sent%20to%20printer.%20Please%20call%20our%20office%20at%20(314)%20899-9734%20to%20pay%20by%20phone.%20Thank%20you!%0A%0AStyle%2FDesign%3A%20%0A%0APersonalized%20cards%20or%20Blank%20Cards%3F%0A%0AIf%20Personalized%2C%20please%20include%20the%20custom%20message%20you%20would%20like%20printed%20inside%20each%20card%3A%0A%0AQuantity%3A%0A%0AName%3A%20%0A%0APhone%20number%3A%0A%0AAddress%3A'))
+More than 125 apprentice artists have created original works of art this year for sale to the public. You'll find cards, prints, framed artwork, sculpture, home and garden art - there's something for EVERYone on your list! Happy Holidays from ArtWorks, where we Create Opportunities with ART from the HEART! 
+
+Cost: Entry to the SLAW Holiday Sale is FREE and open to the public! 
+Apprentice-made works of art are individually priced for sale.
+
+Where: St. Louis ArtWorks, 5959 Delmar Blvd., St. Louis, MO 63112
+
+About ArtWorks: The Mission of St. Louis ArtWorks is to broaden educational and career opportunities for youth in the St. Louis region through apprenticeships in the arts and through community collaborations. 
+
+Youth apprentice with professional artists in the visual, literary, and performing arts. In addition to developing talent in artistic disciplines, ArtWorks teaches the business of being an artist, as well as helping the young art entrepreneurs develop positive social, creative-thinking, teamwork, personal finance, and character education skills.
+
+This year marks ArtWorks’ 20th year of providing life skills education and job training in the arts to underserved St. Louis youth.
+
+###
