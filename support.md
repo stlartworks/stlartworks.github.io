@@ -31,11 +31,11 @@ Every dollar you donate helps us provide quality job training and art education 
 
 If you are liable for Missouri taxes (individuals and corporations) you could take advantage of St. Louis ArtWorks’ status as a YOP approved organization. The Missouri Department of Economic Development awarded YOP Tax credits to qualified organizations which broaden and strengthen opportunities for positive development and participation in community life for youth.
 
-Missouri Taxpayers: St. Louis ArtWorks contributors receive 50% of their monetary contribution in tax credits to offset their Missouri state tax liability, with up to a five-year carry forward. The benefit also provides great impact as the contributor's tax credits redirect tax dollars back into our community.
+<b>Missouri Taxpayers:</b> St. Louis ArtWorks contributors receive 50% of their monetary contribution in tax credits to offset their Missouri state tax liability, with up to a five-year carry forward. The benefit also provides great impact as the contributor's tax credits redirect tax dollars back into our community.
 
 <i>*Note: Consult your tax advisor for further guidance on how these rules apply to you individually.</i>
 
-To learn more about YOP tax credit opportunities, please contact Priscilla Block, Executive Director, mailto:priscilla.block@stlartworks.org or call 314-899-9734.
+To learn more about YOP tax credit opportunities, please contact Priscilla Block, Executive Director, priscilla.block@stlartworks.org or call 314-899-9734.
 
 
 ### [![Better Business Bureau logo](/uploads/versions/bbblogobluesm---&#40;----200-76&#41;---.jpg)](http://www.bbb.org/stlouis/business-reviews/charity-arts-and-culture/st-louis-artworks-in-saint-louis-mo-310482094)
