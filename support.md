@@ -27,12 +27,22 @@ Every dollar you donate helps us provide quality job training and art education 
 * $150 buys food for the After School Program.
 * $1000 is enough to fund an Apprentice stipend for the entire summer.
 
+### Youth Opportunities Tax Credit Program (YOP)
+
+If you are liable for Missouri taxes (individuals and corporations) you could take advantage of St. Louis ArtWorks’ status as a YOP approved organization. The Missouri Department of Economic Development awarded YOP Tax credits to qualified organizations which broaden and strengthen opportunities for positive development and participation in community life for youth.
+
+Missouri Taxpayers: St. Louis ArtWorks contributors receive 50% of their monetary contribution in tax credits to offset their Missouri state tax liability, with up to a five-year carry forward. The benefit also provides great impact as the contributor's tax credits redirect tax dollars back into our community.
+
+*Note: Consult your tax advisor for further guidance on how these rules apply to you individually.
+
+To learn more about YOP tax credit opportunities, please contact Priscilla Block, Executive Director, priscilla.block@stlartworks.org or 314-899-9734.
+
 
 ### [![Better Business Bureau logo](/uploads/versions/bbblogobluesm---&#40;----200-76&#41;---.jpg)](http://www.bbb.org/stlouis/business-reviews/charity-arts-and-culture/st-louis-artworks-in-saint-louis-mo-310482094)
 
 ### Support us today
 
-Please fill in your name and the amount you would like to give below, and you will be taken to the secure Paypal processing page for payment. Thank you! 
+Please fill in your name and the amount you would like to give below, and you will be taken to the secure Paypal processing page for payment. Thank you! (Please note: if you are using a Mac, please skip the form below and go directly to PayPal.com to make your donation.)
 
 <div id="wufoo-qecsxr519eqmvz"><iframe id="wufooFormqecsxr519eqmvz" class="wufoo-form-container" height="616" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://stlartworks.wufoo.com/embed/qecsxr519eqmvz/def/embedKey=qecsxr519eqmvz134293&amp;entsource=&amp;referrer=">&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a href=&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;&amp;amp;amp;amp;amp;amp;amp;amp;lt;a href=&amp;amp;amp;amp;amp;amp;quot;&amp;amp;amp;amp;amp;lt;a href=&amp;amp;amp;quot;&amp;amp;lt;a href=&quot;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;quot&quot;&amp;amp;gt;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;quot&amp;amp;lt;/a&amp;amp;gt;; data-cms-cid=&amp;amp;amp;quot;6676&amp;amp;amp;quot;&amp;amp;amp;amp;amp;gt;&amp;amp;lt;a href=&quot;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;gt&quot;&amp;amp;gt;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;gt&amp;amp;lt;/a&amp;amp;gt;;; data-cms-cid=&amp;amp;amp;amp;amp;amp;quot;3535&amp;amp;amp;amp;amp;amp;quot;&amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;a href=&amp;amp;amp;quot;&amp;amp;lt;a href=&quot;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;gt&amp;amp;amp;amp;quot&quot;&amp;amp;gt;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;gt&amp;amp;amp;amp;quot&amp;amp;lt;/a&amp;amp;gt;; data-cms-cid=&amp;amp;amp;quot;6679&amp;amp;amp;quot;&amp;amp;amp;amp;amp;gt;&amp;amp;lt;a href=&quot;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;gt&amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;gt&quot;&amp;amp;gt;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;gt&amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;gt&amp;amp;lt;/a&amp;amp;gt;;;; title=&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;html form&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Fill out my Wufoo form!&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;</iframe></div>
 
