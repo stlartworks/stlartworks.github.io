@@ -7,8 +7,8 @@ seoDescription: St. Louis ArtWorks is proud to offer State of Missouri Youth Opp
 featureImg: family-001.jpg
 featureStatement: YOP Tax Credits
 
-title: Thank you
-subtitle: We are grateful for your support
+title: YOP Tax Credits
+subtitle: Available
 permalink: /yop-tax-credits/
 
 unique-cta: true
