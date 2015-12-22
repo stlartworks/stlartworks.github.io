@@ -1,7 +1,23 @@
 ---
----
+layout: support
 
-# YOP Tax Credits Available!
+seoTitle: YOP Tax Credits Available
+seoDescription: St. Louis ArtWorks is proud to offer State of Missouri Youth Opportunities Program (YOP) Tax Credits to our contributors. Please specify that you would like to utilize tax credits upon making your donation (minimum of $500 donation).
+
+featureImg: family-001.jpg
+featureStatement: YOP Tax Credits
+
+title: Thank you
+subtitle: We are grateful for your support
+permalink: /yop-tax-credits/
+
+unique-cta: true
+
+mega-cta-img: ville-02.jpg
+mega-cta-heading: Join us!
+mega-cta-button-text: Questions?
+mega-cta-button-text-url:  mailto:info@stlartworks.org
+---
 
 St. Louis ArtWorks is proud to offer State of Missouri Youth Opportunities Program (YOP) Tax Credits to our contributors. Please specify that you would like to utilize tax credits upon making your donation (minimum of $500 donation).
 
