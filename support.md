@@ -37,6 +37,8 @@ If you are liable for Missouri taxes (individuals and corporations) you could ta
 
 To learn more about YOP tax credit opportunities, please contact Priscilla Block, Executive Director, priscilla.block@stlartworks.org or call 314-899-9734.
 
+Or, visit our [Youth Opportunities Program (YOP) Tax Credits page](/yop-tax-credits/)
+
 
 ### [![Better Business Bureau logo](/uploads/versions/bbblogobluesm---&#40;----200-76&#41;---.jpg)](http://www.bbb.org/stlouis/business-reviews/charity-arts-and-culture/st-louis-artworks-in-saint-louis-mo-310482094)
 
