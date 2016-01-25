@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The ART-B-Q @ ST. Louis ArtWorks
-featureImg: ARTBQeventbrite-w.jpg
+featureImg: artbqeventbrite-w.jpg
 teaser: The ART-B-Q is a night of Art, Music, Film, Food and Fun! on April 29 (5pm - 9pm)!
 homepage: true
 ---
@@ -12,7 +12,7 @@ The ART-B-Q is a night of Art, Music, Film, Food and Fun! This exciting event in
 
 ART-B-Q Honorary Chair: Joe Edwards
 
-![Joe Edwards](/images/Joe_Edwards_SM.jpg)
+![Joe Edwards](/images/joe_edwards_sm.jpg)
 
 Event Co-Chairs: 
 Shelia Hudson and Kedra Tolson
@@ -34,4 +34,4 @@ Sponsorship Opportunities: Priscilla Block, Executive Director [Sponsorship form
 
 Ticket and Table Sales: Vicki Kahn, Media and Events Manager
 
-![HudsonAndAssoc](/images/HudsonAndAssoc_web.jpg)
+![HudsonAndAssoc](/images/hudsonandassoc_web.jpg)
