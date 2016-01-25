@@ -8,10 +8,10 @@ homepage: true
 
 The ART-B-Q is a night of Art, Music, Film, Food and Fun! This exciting event includes a catered bar-b-que meal, signature cocktails, live music, Apprentice-made artwork available for purchase, and the premiere of the Apprentice-made documentary, “The Delmar Connection”, on the history of Delmar Boulevard. All proceeds from the ART-B-Q go to direct support of ArtWorks year-round Arts Apprenticeship Programs. Spring into BBQ season with ArtWorks, where we Create Opportunities for St. Louis youth!
 
-### When
+## When
 Saturday, April 29 (5pm - 9pm)
 
-### Purchase tickets
+## Purchase tickets
 [Tickets Available through EventBrite!](https://www.eventbrite.com/e/the-art-b-q-st-louis-artworks-tickets-20786864070)
 
 ## ART-B-Q Honorary Chair
