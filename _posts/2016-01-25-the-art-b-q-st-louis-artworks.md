@@ -36,4 +36,6 @@ Sponsorship Opportunities: [Priscilla Block](mailto:priscilla.block@stlartworks.
 
 Ticket and Table Sales: [Vicki Kahn](mailto:vicki@stlartworks.org), Media and Events Manager
 
+## 2016 ART-B-Q SPONSORS
+
 ![HudsonAndAssoc](/images/hudsonandassoc_web.jpg)
