@@ -43,9 +43,9 @@
 - sponsor: Saint Louis Art Museum
   image: sponsors-stlouis-art-museum.png
   description: "Thank you!"
-- sponsor: Southern Illinois University Edwardsville
-  image: sponsors-siue.png
-  description: "Thank you!"
+# - sponsor: Southern Illinois University Edwardsville
+#  image: sponsors-siue.png
+#  description: "Thank you!"
 - sponsor: University of Missouri St. Louis
   image: sponsors-umsl.png
   description: "Thank you!"
