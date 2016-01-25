@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The ART-B-Q @ ST. Louis ArtWorks
-featureImg: cards-002.jpg
-teaser: Forget Black Friday sales, join us for ART SATURDAY at ArtWorks HOLIDAY SALE on April 29 (5pm - 9pm)!
+featureImg: ARTBQeventbrite-w.jpg
+teaser: The ART-B-Q is a night of Art, Music, Film, Food and Fun! on April 29 (5pm - 9pm)!
 homepage: true
 ---
 
@@ -11,6 +11,8 @@ The ART-B-Q is a night of Art, Music, Film, Food and Fun! This exciting event in
 [Tickets Available through EventBrite!](https://www.eventbrite.com/e/the-art-b-q-st-louis-artworks-tickets-20786864070)
 
 ART-B-Q Honorary Chair: Joe Edwards
+
+![Joe Edwards](/images/Joe_Edwards_SM.jpg)
 
 Event Co-Chairs: 
 Shelia Hudson and Kedra Tolson
@@ -32,5 +34,4 @@ Sponsorship Opportunities: Priscilla Block, Executive Director [Sponsorship form
 
 Ticket and Table Sales: Vicki Kahn, Media and Events Manager
 
-
-![](/uploads/versions/fb-header-holiday-sale---x----851-315x---.jpg)
+![HudsonAndAssoc](/images/HudsonAndAssoc_web.jpg)
