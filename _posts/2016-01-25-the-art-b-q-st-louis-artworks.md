@@ -8,6 +8,8 @@ homepage: true
 
 The ART-B-Q is a night of Art, Music, Film, Food and Fun! This exciting event includes a catered bar-b-que meal, signature cocktails, live music, Apprentice-made artwork available for purchase, and the premiere of the Apprentice-made documentary, “The Delmar Connection”, on the history of Delmar Boulevard. All proceeds from the ART-B-Q go to direct support of ArtWorks year-round Arts Apprenticeship Programs. Spring into BBQ season with ArtWorks, where we Create Opportunities for St. Louis youth!
 
+Saturday, April 29 (5pm - 9pm)!
+
 [Tickets Available through EventBrite!](https://www.eventbrite.com/e/the-art-b-q-st-louis-artworks-tickets-20786864070)
 
 ART-B-Q Honorary Chair: Joe Edwards
@@ -30,8 +32,8 @@ About ArtWorks: The Mission of St. Louis ArtWorks is to broaden educational and 
 
 For more information, please call (314) 899-9734 or visit stlartworks.org
 
-Sponsorship Opportunities: Priscilla Block, Executive Director [Sponsorship form](uploads/artbq 2016 sponsorship commitment form.pdf)
+Sponsorship Opportunities: [Priscilla Block](mailto:priscilla.block@stlartworks.org), Executive Director [Sponsorship form](/uploads/artbq 2016 sponsorship commitment form.pdf)
 
-Ticket and Table Sales: Vicki Kahn, Media and Events Manager
+Ticket and Table Sales: [Vicki Kahn](mailto:vicki@stlartworks.org), Media and Events Manager
 
 ![HudsonAndAssoc](/images/hudsonandassoc_web.jpg)
