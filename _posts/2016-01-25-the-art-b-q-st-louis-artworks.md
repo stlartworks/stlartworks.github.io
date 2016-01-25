@@ -28,7 +28,7 @@ About ArtWorks: The Mission of St. Louis ArtWorks is to broaden educational and 
 
 For more information, please call (314) 899-9734 or visit stlartworks.org
 
-Sponsorship Opportunities: Priscilla Block, Executive Director
+Sponsorship Opportunities: Priscilla Block, Executive Director [Sponsorship form](uploads/artbq 2016 sponsorship commitment form.pdf)
 
 Ticket and Table Sales: Vicki Kahn, Media and Events Manager
 
