@@ -9,7 +9,7 @@
                 <img src="/images/loader.png" data-src="/images/{{ sponsor.image }}" class="lazyload" alt="Sponsor logo">
     		</div>
     		<div class="flipGallery__back">
-    		    {% if sponsors.url %}
+    		    {% if sponsor.url %}
                 <h3 class="flipGallery__back__heading"><a href={{ sponsor.url }}>{{ sponsor.sponsor }}</a></h3>
                 {% else %}
                 <h3 class="flipGallery__back__heading">{{ sponsor.sponsor }}</h3>
