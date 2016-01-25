@@ -7,8 +7,8 @@
 - sponsor: Regional Arts Commission
   image: sponsors-regional-arts-commission.png
   description: "Thank you!"
-- sponsor: St. Louis Mental Health Board
-  image: sponsors-mhb.png
+#- sponsor: St. Louis Mental Health Board
+#  image: sponsors-mhb.png
   description: "Thank you!"
 - sponsor: Emerson
   image: sponsors-emerson.png
@@ -79,3 +79,26 @@
 - sponsor: Monsanto Fund
   image: sponsors-monsanto-fund.png
   description: "Thank you!"
+  
+  
+- sponsor: Children's Services Coalition
+  image: sponsors-csc_logo.jpg
+  description: "Thank you!"
+  url: http://csc-stl.org/
+- sponsor: Missouri Humanities Council
+  image: sponsors-mhc logo.jpg
+  description: "Thank you!"
+- sponsor: Commerce Bank
+  image: sponsors-commercebank.jpg
+  description: "Thank you!"
+- sponsor: Clark-Fox Family Foundation
+  image: sponsors-clarkfoxfdn.png
+  description: "Thank you!"  
+  
+- sponsor: Staenberg Family Foundation
+  image: sponsors-staenbergfoundationlogo2015.jpg
+  description: "Thank you!"  
+  
+- sponsor: Tegna Foundation
+  image: sponsors-TegnaFDN.png
+  description: "Thank you!"  
