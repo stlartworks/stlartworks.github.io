@@ -11,10 +11,11 @@ The ART-B-Q is a night of Art, Music, Film, Food and Fun! This exciting event in
 <center>
 ## When
 Saturday, April 29 (5pm - 9pm)
-
+</center>
+<center>
 ## Purchase tickets
 [Tickets Available through EventBrite!](https://www.eventbrite.com/e/the-art-b-q-st-louis-artworks-tickets-20786864070)
-
+</center>
 ## ART-B-Q Honorary Chair
 Joe Edwards
 
