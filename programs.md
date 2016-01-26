@@ -15,7 +15,7 @@ mega-cta-button-text-url: 'http://google.com'
 details:
   process:
     status: Open
-    close: March 13 - Application submission deadline
+    close: April 1 - Application submission deadline
     interview: Interview Day
   requirements:
     age: 'Ages 14 to 18 (Must be 14 years old by January 1, 2016)'
