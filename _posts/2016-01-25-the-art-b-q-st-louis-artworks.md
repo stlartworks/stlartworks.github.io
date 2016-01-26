@@ -47,4 +47,3 @@ Ticket and Table Sales: [Vicki Kahn](mailto:vicki@stlartworks.org), Media and Ev
 ## 2016 ART-B-Q SPONSORS
 
 ![HudsonAndAssoc](/images/hudsonandassoc_web.jpg)
-</center>
