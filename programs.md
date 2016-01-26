@@ -6,7 +6,7 @@ seoDescription: Apprentices from the St. Louis metropolitan area experience hand
 featureImg: apprentice-001.jpg
 featureStatement: 'Learn and Earn!'
 title: Spring Programs
-subtitle: 'Applications for Spring 2016 will open Nov. 1, 2015!'
+subtitle: 'Applications for Summer 2016 will open Jan 31, 2016!'
 permalink: /programs/
 mega-cta-img: ville-02.jpg
 mega-cta-heading: 'Join us!'
@@ -23,7 +23,7 @@ details:
     interests: Must have an interest in art
     availability: 'Must be available to attend every day of the summer program (Monday-Friday, 6 weeks, 10 am to 3 pm)'
   message:
-    text: 'Applications for Spring 2016 Apprenticeships will open on November 1, 2015.'
+    text: 'Applications for Summer 2016 Apprenticeships will open on Jan 31, 2016.'
 ---
 
 Apprentices from the St. Louis metropolitan area experience hands on arts education and work place training. Highlights of the summer experience include field trips to local museums and professional art studios, life skill workshops, and completion of an artistic commission.
