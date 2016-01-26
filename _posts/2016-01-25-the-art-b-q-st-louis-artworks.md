@@ -10,20 +10,25 @@ The ART-B-Q is a night of Art, Music, Film, Food and Fun! This exciting event in
 
 
 **When**
+
 Saturday, April 29 (5pm - 9pm)
 
 **Purchase tickets**
+
 [Tickets Available through EventBrite!](https://www.eventbrite.com/e/the-art-b-q-st-louis-artworks-tickets-20786864070)
 
 **ART-B-Q Honorary**
+
 Joe Edwards
 
 ![Joe Edwards](/images/joe_edwards_xsm.jpg)
 
 **Event Co-Chairs**
+
 Shelia Hudson and Kedra Tolson
 
 **Host Committee**
+
 Narcisa Symank, Matt Semrad, Kelly Scheffer, Daryl Gourley, Rhoads Hall, Joseph Brinkmann, Jared Boyd, 
 Shaughnessy Daniels, Joel Fuoss, Judy Glik, Rajeev John, 
 Erik Karanik, Don Kennedy, Chuck Kindleberger, 
@@ -31,13 +36,16 @@ Roger Macon, Matt McEwan, Roderick Nunn, David Seevers, Matt Semrad, Ben Gandhi-
 Steve Shumate, Sarah Smith
 
 **Where**
+
 St. Louis ArtWorks, 5959 Delmar Blvd., St. Louis, MO 63112
 
 
 **About ArtWorks**
+
 The Mission of St. Louis ArtWorks is to broaden educational and career opportunities for youth in the St. Louis region through apprenticeships in the arts and through community collaborations. Youth apprentice with professional artists in the development of visual, literary, and performing art. In addition to developing talent in artistic disciplines, ArtWorks teaches the business of being artists, as well as helping the young art entrepreneurs develop positive social, creative-thinking, teamwork, and character education skills.
 
 **For more information**
+
 Call (314) 899-9734
 
 Sponsorship Opportunities: [Priscilla Block](mailto:priscilla.block@stlartworks.org), Executive Director [Sponsorship form](/uploads/artbq 2016 sponsorship commitment form.pdf)
