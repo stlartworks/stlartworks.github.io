@@ -15,9 +15,7 @@ The ART-B-Q is a night of Art, Music, Film, Food and Fun! This exciting event in
 - St. Louis ArtWorks, 5959 Delmar Blvd., St. Louis, MO 63112
 - [Tickets Available through EventBrite!](https://www.eventbrite.com/e/the-art-b-q-st-louis-artworks-tickets-20786864070)
 
-**ART-B-Q Honorary**
-
-Joe Edwards
+**ART-B-Q Honorary Chair** - Joe Edwards
 
 ![Joe Edwards](/images/joe_edwards_xsm.jpg)
 
@@ -40,11 +38,9 @@ The Mission of St. Louis ArtWorks is to broaden educational and career opportuni
 
 **For more information**
 
-Call (314) 899-9734
-
-Sponsorship Opportunities: [Priscilla Block](mailto:priscilla.block@stlartworks.org), Executive Director [Sponsorship form](/uploads/artbq 2016 sponsorship commitment form.pdf)
-
-Ticket and Table Sales: [Vicki Kahn](mailto:vicki@stlartworks.org), Media and Events Manager
+- Call (314) 899-9734
+- Sponsorship Opportunities: [Priscilla Block](mailto:priscilla.block@stlartworks.org), Executive Director [Sponsorship form](/uploads/artbq 2016 sponsorship commitment form.pdf)
+- Ticket and Table Sales: [Vicki Kahn](mailto:vicki@stlartworks.org), Media and Events Manager
 
 **2016 ART-B-Q SPONSORS**
 
