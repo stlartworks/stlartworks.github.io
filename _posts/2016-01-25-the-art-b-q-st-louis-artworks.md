@@ -19,9 +19,7 @@ The ART-B-Q is a night of Art, Music, Film, Food and Fun! This exciting event in
 
 ![Joe Edwards](/images/joe_edwards_xsm.jpg)
 
-**Event Co-Chairs**
-
-Shelia Hudson and Kedra Tolson
+**Event Co-Chairs** - Shelia Hudson and Kedra Tolson
 
 **Host Committee**
 
