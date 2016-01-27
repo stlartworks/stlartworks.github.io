@@ -31,8 +31,4 @@ St. Louis ArtWorks was founded in 1995 as a collaborative partnership with Grand
 
 ### Annual Report
 
-<a href="http://www.guidestar.org/organizations/43-1735450/st-louis-artworks.aspx" target="_blank">
-    <img src="http://widgets.guidestar.org/gximage2?o=7661363&l=v4" />
-</a>
-
 Download our [Annual Report](/uploads/annual report 2014.pdf) here!
