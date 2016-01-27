@@ -42,7 +42,7 @@ Or, visit our [Youth Opportunities Program (YOP) Tax Credits page](/yop-tax-cred
 
 ### [![Better Business Bureau logo](/uploads/versions/bbblogobluesm---&#40;----200-76&#41;---.jpg)](http://www.bbb.org/stlouis/business-reviews/charity-arts-and-culture/st-louis-artworks-in-saint-louis-mo-310482094)
 
-<a href="http://www.guidestar.org/organizations/43-1735450/st-louis-artworks.aspx" target="_blank">
+### <a href="http://www.guidestar.org/organizations/43-1735450/st-louis-artworks.aspx" target="_blank">
     <img src="http://widgets.guidestar.org/gximage2?o=7661363&l=v4" />
 </a>
 
