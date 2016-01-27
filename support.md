@@ -20,7 +20,7 @@ mega-cta-button-text-url:  mailto:info@stlartworks.org
 ---
 Every dollar you donate helps us provide quality job training and art education for teens who otherwise might not have the opportunity to bring home a paycheck and learn valuable job and life skills at the same time. Your funding helps us provide them with the best teaching artists and ensures that we can provide the materials and tools they need to exercise their full creative potential as they learn. Here are some examples of how far your donations can go...
 
-### Your giving can...
+### Here's what your gift can accomplish...
 
 * $30 will cover the cost of 1 participant in our After School Program for 1 week.
 * $75 provides uniforms for 12 Apprentices.
@@ -41,6 +41,10 @@ Or, visit our [Youth Opportunities Program (YOP) Tax Credits page](/yop-tax-cred
 
 
 ### [![Better Business Bureau logo](/uploads/versions/bbblogobluesm---&#40;----200-76&#41;---.jpg)](http://www.bbb.org/stlouis/business-reviews/charity-arts-and-culture/st-louis-artworks-in-saint-louis-mo-310482094)
+
+<a href="http://www.guidestar.org/organizations/43-1735450/st-louis-artworks.aspx" target="_blank">
+    <img src="http://widgets.guidestar.org/gximage2?o=7661363&l=v4" />
+</a>
 
 ### Support us today
 
