@@ -27,3 +27,5 @@ details:
 ---
 
 Apprentices from the St. Louis metropolitan area experience hands on arts education and work place training. Highlights of the summer experience include field trips to local museums and professional art studios, life skill workshops, and completion of an artistic commission.
+
+	<p><a href=”http://blueprint4summer.com” alt=”Blueprint 4 Summer STL – Where 2 Go 4 Fun”><img src=”https://blueprint4summer.com/banners/banner_B4S_60x468.jpg” border=”0″ /></a></p>
