@@ -1,0 +1,20 @@
+<div class="mainContent">
+    <div class="mainContent__container">
+        <h2 class="mainContent__heading">
+          <span class="bold">{{ page.title }}</span>
+          {% if page.subtitle %}
+            : {{ page.subtitle }}
+          {% endif %}
+        </h2>
+
+        {% if page.bodyclass == 'post' && page.event %}
+            <p class="mainContent__date">{{ page.event }}</p>
+        {% else if page.bodyclass == 'post' %}
+            <p class="mainContent__date">{{ page.date | date: "%B %e, %Y" }}</p>
+        {% endif %}
+
+        <div class="mainContent__md">
+          {{ content }}
+        </div>
+    </div>
+</div>
