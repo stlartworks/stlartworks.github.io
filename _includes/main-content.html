@@ -9,7 +9,7 @@
         
         {% if page.bodyclass == 'post' && event %}
             <p class="mainContent__date">{{ event }}</p>
-        {% elseif page.bodyclass == 'post' %}
+        {% elsif page.bodyclass == 'post' %}
             <p class="mainContent__date">{{ page.date | date: "%B %e, %Y" }}</p>
         {% endif %}
         
