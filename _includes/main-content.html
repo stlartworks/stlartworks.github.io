@@ -7,8 +7,8 @@
           {% endif %}
         </h2>
         
-        {% if page.bodyclass == 'post' && event %}
-            <p class="mainContent__date">{{ event }}</p>
+        {% if page.bodyclass == 'post' && page.event %}
+            <p class="mainContent__date">{{ page.event }}</p>
         {% elsif page.bodyclass == 'post' %}
             <p class="mainContent__date">{{ page.date | date: "%B %e, %Y" }}</p>
         {% endif %}
