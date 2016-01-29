@@ -6,9 +6,11 @@
             : {{ page.subtitle }}
           {% endif %}
         </h2>
-
-        {% if page.bodyclass == 'post' %}
-            <p class="main-content__date">{{ page.date | date: "%B %e, %Y" }}</p>
+        
+        {% if page.bodyclass == 'post' && event %}
+            <p class="mainContent__date">{{ event }}</p>
+        {% elseif page.bodyclass == 'post' %}
+            <p class="mainContent__date">{{ page.date | date: "%B %e, %Y" }}</p>
         {% endif %}
         
         <div class="main-content__md">
