@@ -67,7 +67,7 @@ Bicycle racks with heart, purpose, and a sense of fun:  BoomerRacks are fashione
 
 ### Pricing
 
-The second venture, BoomerRacks, launched in 2008, is the design and fabrication of bicycle racks created from old bike parts.  For more information on how to commission your custom designed bike rack call Priscilla Block at 314.289.4181.
+The second venture, BoomerRacks, launched in 2008, is the design and fabrication of bicycle racks created from old bike parts.  For more information on how to commission your custom designed bike rack call Priscilla Block at 314-899-9757.
 
 1. **Community note cards** - 300 packs 8 designs
 1. **Holiday/Greeting cards** - 300 packs 8 designs
