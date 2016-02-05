@@ -238,7 +238,7 @@ permalink: /:title/
 # CONVERSION SETTINGS
 # -----------------------------------------------------------------------------
 
-highlighter: pygments
+highlighter: rouge
 # Pygments is a generic syntax highlighter for general use in all kinds of software such as forum systems, wikis or other applications that need to prettify source code.
 
 # Read more: http://pygments.org/
