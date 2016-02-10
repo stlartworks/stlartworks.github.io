@@ -12,7 +12,7 @@ The ART-B-Q is a night of Art, Music, Film, Food and Fun! This exciting event in
 
 **Details**
 
-- Saturday, April 29 (5pm - 9pm)
+- Friday, April 29 (5pm - 9pm)
 - St. Louis ArtWorks, 5959 Delmar Blvd., St. Louis, MO 63112
 - [Tickets Available through EventBrite!](https://www.eventbrite.com/e/the-art-b-q-st-louis-artworks-tickets-20786864070)
 
