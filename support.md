@@ -64,11 +64,11 @@ For information about Volunteer Opportunities, please read the information at th
 Summer Interview Day: Saturday, April 23 8:30am-2pm<br> 
 Fall Interview Day: Saturday, August 27, 9am-2pm
 
-As part of the interview process, interested youth must interview for positions with St. Louis ArtWorks. We need volunteers to assist with the Interview Day for potential apprentices at our studio 5959 Delmar. We ask for a 2-hour commitment, but welcome any time you are able to give. Whenever possible, we try to pair interviewers to meet with each apprentice-applicant for 20-25 minutes.
+As part of the application process for apprenticeships, interested youth must interview for positions with St. Louis ArtWorks. We need volunteers to assist with the Interview Day for potential apprentices at our studio at 5959 Delmar. We ask for a 2-hour commitment, but welcome any time you are able to give. Whenever possible, we try to pair interviewers to meet with each apprentice-applicant for 20-25 minutes.
  
-The interview questions are provided in advance,  as well as tips on conducting a successful interview with a teenager.
+The interview questions are provided to volunteers in advance,  as well as tips on conducting a successful interview with a teenager.
 
-Volunteers report that this is the best and most engaging experience they have enjoyed with St. Louis ArtWorks. Participating in the Interview Day makes a lasting contribution to the work we do.  
+Volunteers report that this is the best and most engaging experience they have enjoyed with St. Louis ArtWorks. Participating in Interview Day makes a lasting contribution to the work we do.  
 
 
 <b>SPECIAL EVENTS VOLUNTEERS</b>
