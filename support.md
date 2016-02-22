@@ -57,9 +57,8 @@ Please fill in your name and the amount you would like to give below, and you wi
 
 Here are a few volunteer opportunities available with ArtWorks in 2016. If you are interested in volunteering, please indicate your area of interest and availability in the above box marked "additional comments". Thank you for your support!
 
-<b><i>Volunteer Opportunities include:</i>
 
-INTERVIEW DAY VOLUNTEERS</b>
+<b>INTERVIEW DAY VOLUNTEERS</b>
 
 Summer Interview Day: Saturday, April 23 8:30am-2pm<br> 
 Fall Interview Day: Saturday, August 27, 9am-2pm
