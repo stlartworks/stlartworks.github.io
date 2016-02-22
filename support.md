@@ -57,7 +57,7 @@ Please fill in your name and the amount you would like to give below, and you wi
 
 Here are a few volunteer opportunities available with ArtWorks in 2016. If you are interested in volunteering, please indicate your area of interest and availability in the above box marked "additional comments". Thank you for your support!
 
-<b><i>Volunteer Opportunities include:</b></i>
+<b><i>Volunteer Opportunities include: </b></i>
 
 <b>INTERVIEW DAY VOLUNTEERS</b>
 
