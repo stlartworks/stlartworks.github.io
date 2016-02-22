@@ -57,11 +57,11 @@ Please fill in your name and the amount you would like to give below, and you wi
 
 Here are a few volunteer opportunities available with ArtWorks in 2016. If you are interested in volunteering, please indicate your area of interest and availability in the above box marked "additional comments". Thank you for your support!
 
-<b>Volunteer Opportunities include:</b>
+<b><i>Volunteer Opportunities include:</b></i>
 
-INTERVIEW DAY VOLUNTEERS
+<b>INTERVIEW DAY VOLUNTEERS</b>
 
-Summer Interview Day: Saturday, April 23 8:30am-2pm 
+Summer Interview Day: Saturday, April 23 8:30am-2pm<br> 
 Fall Interview Day: Saturday, August 27, 9am-2pm
 
 As part of the interview process, interested youth must interview for positions with St. Louis ArtWorks. We need volunteers to assist with the Interview Day for potential apprentices at our studio 5959 Delmar. We ask for a 2-hour commitment, but welcome any time you are able to give. Whenever possible, we try to pair interviewers to meet with each apprentice-applicant for 20-25 minutes.
@@ -71,12 +71,12 @@ The interview questions are provided in advance,  as well as tips on conducting 
 Volunteers report that this is the best and most engaging experience they have enjoyed with St. Louis ArtWorks. Participating in the Interview Day makes a lasting contribution to the work we do.  
 
 
-SPECIAL EVENTS VOLUNTEERS
+<b>SPECIAL EVENTS VOLUNTEERS</b>
 
-2016 ART-B-Q – Friday, April 29, 2016
+<b>2016 ART-B-Q – Friday, April 29, 2016</b>
 St. Louis ArtWorks is seeking volunteers for setup and cleanup at our annual fundraising event, the ART-B-Q!  Setup volunteers needed throughout the day on Friday, April 29, anytime from 10am – 3pm. Cleanup volunteers needed from 9pm – 10pm that night.  All funds raised from this event go directly toward providing apprenticeship opportunities for St. Louis youth. Please contact Vicki at St. Louis ArtWorks in advance, so we may schedule volunteers accordingly. Volunteers may be asked to walk, bend, and lift items up to 25 lbs.  
 
-Historic Shaw Art Fair – Saturday, Oct. 1 and Sunday, Oct. 2, 2016
+<b>Historic Shaw Art Fair – Saturday, Oct. 1 and Sunday, Oct. 2, 2016</b>
 St. Louis ArtWorks participates in the annual Historic Shaw Art Fair during the first weekend of October. Volunteer responsibilities include explaining the work of our apprentices, engaging visitors to our booth, and helping staff sell apprentice artwork. This is an outdoor event and volunteers may be on their feet. 
 
 <script type="text/javascript">var qecsxr519eqmvz;(function(d, t) {
