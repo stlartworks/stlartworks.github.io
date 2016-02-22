@@ -48,7 +48,7 @@ Or, visit our [Youth Opportunities Program (YOP) Tax Credits page](/yop-tax-cred
 
 ### Support us today
 
-Please fill in your name and the amount you would like to give below, and you will be taken to the secure Paypal processing page for payment. Thank you! 
+Please complete all fields of the form below and click the "submit" button. You will be taken to the secure Paypal processing page for payment. Thank you! 
 
 <i>Please note: if you are using a Mac, please skip the form below and go directly to PayPal.com to make your gift to ArtWorks.</i>
 
