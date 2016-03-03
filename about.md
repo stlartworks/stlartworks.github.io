@@ -31,4 +31,4 @@ St. Louis ArtWorks was founded in 1995 as a collaborative partnership with Grand
 
 ### Annual Report
 
-Download our [Annual Report](/uploads/annual report 2014.pdf) here!
+Download our [Annual Report](/uploads/annual-report-2014.pdf) here!
