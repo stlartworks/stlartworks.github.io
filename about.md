@@ -7,10 +7,10 @@ featureStatement: Artworks.
 title: About
 subtitle: Our Mission
 permalink: /about/
-apprenticesSchools: 46
+apprenticesSchools: 56
 apprenticesCount: 2800+
 apprenticesPay: "2,000,000"
-apprenticesZip: 32
+apprenticesZip: 36
 apprenticepx: student-003.jpg
 staffpx: staff-jessica-01.jpg
 instructorpx: Instructor-robert-ketchens.jpg
