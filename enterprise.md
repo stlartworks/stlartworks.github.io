@@ -20,8 +20,9 @@ mega-cta-button-text-url: maito:info@stlartworks.org
 
 ---
 
-ArtWorks takes commissions to make public and private art through our Bloomworks and Boomerang Press programs. Between these two programs we have been commissioned by:
+ArtWorks takes commissions to make public and private art through our Bloomworks and Boomerang Press/Media programs. Between these two programs we have been commissioned by:
 
+- MSD
 - St. Louis Cardinals
 - Busch Gardens
 - Schnucks
@@ -33,17 +34,16 @@ ArtWorks takes commissions to make public and private art through our Bloomworks
 - Third Baptist Church
 - Lutheran Foundation
 - Scholarship Foundation of St. Louis
+- St. Louis County Children's Service Fund
 - and many more
 
-### ![boomerang press](/images/svg/boomerang-press-2.svg)
+### ![boomerang press/media](/images/svg/boomerang-press-2.svg)
 Boomerang Press provides Graphic design and multi-media services to make:
 
-- holiday and greeting cards
-- posters
-- logos
-- murals
-- Plays
-- Public service announcements
+- Graphic design, including logos, business cards, posters, holiday/greeting cards and more
+- Plays and operas
+- Public service announcements (PSAs)
+- Photography
 - Video documentaries
 
 
@@ -52,28 +52,21 @@ Boomerang Press provides Graphic design and multi-media services to make:
 ### ![bloomworks](/images/svg/bloomworks.svg)
 Bloomworks provides art for the garden, public park and urban street scape and makes:
 
-- Bike racks
+- Bicycle racks
 - Decorative rain barrels
-- Public benches
+- Garden furniture and usable decorative art
 
 {% include gallery-bloomworks.html %}
 
 
 ### ![boomerracks](/images/svg/boomerracks_logo.jpg)
-Bicycle racks with heart, purpose, and a sense of fun:  BoomerRacks are fashioned from used bicycle parts, which are revitalized and crafted into durable, kinesthetic art.
+BoomerRacks are bicycle racks with heart, purpose, and a sense of fun:  BoomerRacks are fashioned from repurposed bicycle parts, which are revitalized and crafted into durable, kinesthetic art. More than 25 of these functional works of art are installed in locations throughout St. Louis City and County.
 
 {% include gallery-boomerracks.html %}
 
 
 ### Pricing
 
-The second venture, BoomerRacks, launched in 2008, is the design and fabrication of bicycle racks created from old bike parts.  For more information on how to commission your custom designed bike rack call Priscilla Block at 314-899-9757.
+Commissioned projects are priced based on individual needs and design. For more information on how to commission custom-designed graphic items, bicycle racks and other art for your business or organization, please call Priscilla Block at 314-899-9757.
 
-1. **Community note cards** - 300 packs 8 designs
-1. **Holiday/Greeting cards** - 300 packs 8 designs
-1. **Poster** - 300 packs 8 designs
-1. **Logo** - 300 packs 8 designs
-1. **Invitations** - 300 packs 8 designs
-1. **Save the date cards** - 300 packs 8 designs
-1. **Advertisements** - 300 packs 8 designs
-1. **Graphic look** - 300 packs 8 designs
+
