@@ -8,8 +8,8 @@ title: About
 subtitle: Our Mission
 permalink: /about/
 apprenticesSchools: 56
-apprenticesCount: 2800+
-apprenticesPay: "2,000,000"
+apprenticesCount: 3000+
+apprenticesPay: "2,200,000+"
 apprenticesZip: 36
 apprenticepx: student-003.jpg
 staffpx: staff-jessica-01.jpg
@@ -21,13 +21,13 @@ The mission of St. Louis ArtWorks is to broaden educational and career opportuni
 
 ### The "Apprentices"
 
-St. Louis ArtWorks (SLAW), founded in 1995, is a year-round job training program using art to teach essential life and job skills to underserved youth, ages 14-19. Programming takes place after school and on weekends during the fall and spring, and 5 hours a day, 5 days a week for 6 weeks during the summer. Youth apprentice with professional artists to develop art, life, and communication skills. All apprentice works of art are either commissioned by local companies and organizations, or sold at public sales.
+St. Louis ArtWorks (SLAW) is a year-round job training program using art to teach essential life and job skills to underserved youth, ages 14-19. Programming takes place after school and on weekends during the fall and spring, and five hours a day, five days a week for six weeks during the summer. Youth apprentice with professional artists to develop art, life, and communication skills. All apprentice works of art are either commissioned by local companies and organizations, or sold at public sales.
 
 Each program combines in-depth art instruction, job training, and life skills focused on personal health, fiscal literacy, and environmental stewardship. In all programs, teens earn a stipend, are required to have a bank account, and attend financial literacy training. Activities such as client meetings, open house events and public sales give apprentices a chance to practice presentation and public speaking skills, and leave better prepared for the future with community contacts, resumes and a portfolio of work.
 
 ### Established in 1995
 
-St. Louis ArtWorks was founded in 1995 as a collaborative partnership with Grand Center Inc., the City of St. Louis through SLATE, and the Regional Arts Commission. Since that time, ArtWorks has provided opportunities for more than 2,800 young people, successfully helping to prepare them for future education and employment opportunities. ArtWorks bridges economic, racial and social divisions by providing underserved youth with arts education and soft skills training. In 2015, ArtWorks is proud to celebrate 20 years of creating opportunities for St. Louis youth.
+St. Louis ArtWorks was founded in 1995 as a collaborative partnership with Grand Center Inc., the City of St. Louis, and the Regional Arts Commission. Since that time, ArtWorks has provided opportunities for thousands of young people, successfully helping to prepare them for future education and employment opportunities. ArtWorks bridges economic, racial and social divisions by providing underserved youth with arts education, workforce development training, and 21st century life skills, including fiscal literacy and professional communication. In 2015, ArtWorks proudly celebrated 20 years of creating opportunities for St. Louis youth.
 
 ### Annual Report
 
