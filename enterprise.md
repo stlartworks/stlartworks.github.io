@@ -38,9 +38,9 @@ ArtWorks takes commissions to make public and private art through our Bloomworks
 - and many more
 
 ### ![boomerang press/media](/images/boomerang-press-media.jpg)
-Boomerang Press provides graphic design and multimedia services to create:
+Boomerang Press/Media offers graphic design and multimedia services to create:
 
-- Graphic design projects, including logos, posters, holiday/greeting cards and more
+- Graphic projects: including logos, posters, holiday/greeting cards and more
 - Plays and operas
 - Public service announcements (PSAs)
 - Photography for documentation or display
