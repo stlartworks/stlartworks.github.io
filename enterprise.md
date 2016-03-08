@@ -37,7 +37,7 @@ ArtWorks takes commissions to make public and private art through our Bloomworks
 - St. Louis County Children's Service Fund
 - and many more
 
-### ![boomerang press/media](/images/svg/boomerang-press-media.jpg)
+### ![boomerang press/media](/images/boomerang-press-media.jpg)
 Boomerang Press provides Graphic design and multi-media services to make:
 
 - Graphic design, including logos, business cards, posters, holiday/greeting cards and more
