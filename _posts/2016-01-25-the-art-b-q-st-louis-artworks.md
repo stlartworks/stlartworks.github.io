@@ -24,8 +24,8 @@ The ART-B-Q is a night of Art, Music, Film, Food and Fun! This exciting event in
 
 **Host Committee**
 
-Narcisa Symank, Matt Semrad, Kelly Scheffer, Daryl Gourley, Rhoads Hall, Joseph Brinkmann, Jared Boyd, 
-Shaughnessy Daniels, Joel Fuoss, Judy Glik, Rajeev John, Halley Abbot, Samantha Palans, Stan Chisholm, 
+Narcisa Symank, Matt Semrad, Kelly Scheffer, Daryl Gourley, Rhoads Hall, Halley Abbot, Joseph Brinkmann, Jared Boyd, 
+Shaughnessy Daniels, Joel Fuoss, Judy Glik, Rajeev John, Samantha Palans, Stan Chisholm, 
 Erik Karanik, Don Kennedy, Chuck Kindleberger, 
 Roger Macon, Matt McEwan, Roderick Nunn, David Seevers, Matt Semrad, Ben Gandhi-Shepard, 
 Steve Shumate, Sarah Smith
