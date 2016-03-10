@@ -39,7 +39,7 @@ The Mission of St. Louis ArtWorks is to broaden educational and career opportuni
 
 - Call (314) 899-9734
 - Sponsorship Opportunities: [Priscilla Block](mailto:priscilla.block@stlartworks.org), Executive Director [Sponsorship form](/uploads/artbq 2016 sponsorship commitment form.pdf)
-- Ticket and Table Sales: [Vicki Kahn](mailto:vicki@stlartworks.org), Media and Events Manager
+- Ticket and Table Sales: [Vicki Kahn](mailto:vicki@stlartworks.org), Media and Events Manager Purchase tickets and tables online at [bit.ly/ARTBQ2016](https://www.eventbrite.com/e/the-art-b-q-st-louis-artworks-tickets-20786864070)
 
 **2016 ART-B-Q SPONSORS**
 
