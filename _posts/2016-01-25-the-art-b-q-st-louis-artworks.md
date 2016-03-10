@@ -43,4 +43,4 @@ The Mission of St. Louis ArtWorks is to broaden educational and career opportuni
 
 **2016 ART-B-Q SPONSORS**
 
-![ArtBQSponsors](/images/artbq_sponsorweb.jpg)
+![ArtBQSponsors](/images/artbq_sponsorweb2.jpg)
