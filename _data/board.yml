@@ -68,6 +68,13 @@
   photo: daryl-gourley.jpg
   quote: 'Art is not what you see, but what you make others see.'
   artist: Edgar Degas
+- name: Shelia Hudson
+  title: ''
+  profession: President/CEO
+  employer: 'Hudson and Associates, LLC'
+  photo: sheliahudson.jpg
+  quote: "A work of art is, above all, an adventure of the mind."
+  artist: Eugene Ionesco
 - name: Rajeev John
   title: ''
   profession: 'Manager, Clinical Social Work'
@@ -82,6 +89,13 @@
   photo: erik-karanik.jpg
   quote: "When I make art, I think about its ability to connect with others, to bring them into the process."
   artist: Jim Hodges
+- name: Don Kennedy
+  title: ''
+  profession: Attorney-at-Law
+  employer: 'Greensfelder, Hemker & Gale, P.C.'
+  photo: donkennedy.jpg
+  quote: "I don't believe in art. I believe in artists."
+  artist: Marcel Duchamp
 - name: Chuck Kindleberger
   title: Community Volunteer
   profession: ''
@@ -159,17 +173,3 @@
   photo: kedra-tolson.jpg
   quote: 'Find a beautiful piece of art. If you fall in love with Van Gogh or Matisse or John Oliver Killens, or if you fall love with the music of Coltrane, the music of Aretha Franklin, or the music of Chopin - find some beautiful art and admire it, and realize that that was created by human beings just like you, no more human, no less.'
   artist: Maya Angelou
-- name: Shelia Hudson
-  title: ''
-  profession: President/CEO
-  employer: 'Hudson and Associates, LLC'
-  photo: sheliahudson.jpg
-  quote: "A work of art is, above all, an adventure of the mind."
-  artist: Eugene Ionesco
-- name: Don Kennedy
-  title: ''
-  profession: Attorney-at-Law
-  employer: 'Greensfelder, Hemker & Gale, P.C.'
-  photo: donkennedy.jpg
-  quote: "I don't believe in art. I believe in artists."
-  artist: Marcel Duchamp
