@@ -47,7 +47,7 @@
   photo: jaredboyd3.jpg
   quote: "Ads are the cave art of the twentieth century."
   artist: Marshall McLuhan
-    - name: Stan Chisholm
+- name: Stan Chisholm
   title: ''
   profession: Community Artist
   employer: 18andCounting
@@ -110,7 +110,7 @@
   photo: matt-macewan.jpg
   quote: "Without art, the crudeness of reality would make the world unbearable."
   artist: George Bernard Shaw
-  - name: Samantha Palans
+- name: Samantha Palans
   title: ''
   profession: Project Manager
   employer: ''
@@ -122,7 +122,7 @@
   profession: 'Vice President, Operations-Health Plans'
   employer: Centene Corporation
   photo: david-seevers.jpg
-  quote: "Art to me is a humanitarian act and I believe that there is a responsibility that art should somehow be able to effect mankind, to make the word a better place."
+  quote: "Art to me is a humanitarian act and I believe that there is a responsibility that art should somehow be able to effect mankind, to make the world a better place."
   artist: Jeff Koons
 - name: Matt Semrad
   title: Board Vice-Chair
