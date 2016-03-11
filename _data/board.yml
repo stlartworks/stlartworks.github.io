@@ -28,8 +28,8 @@
   artist: Andy Warhol
 - name: Halley Abbot
   title: ''
-  profession: IBCU Account Executive
-  employer: MasterCard Worldwide
+  profession: 'IBCU Account Executive'
+  employer: 'MasterCard Worldwide'
   photo: slaw_logosq_w_blstl.jpg
   quote: "The artist vocation is to send light into the human heart."
   artist: George Sand
@@ -49,8 +49,8 @@
   artist: Marshall McLuhan
 - name: Stan Chisholm
   title: ''
-  profession: Community Artist
-  employer: 18andCounting
+  profession: 'Community Artist'
+  employer: '18andCounting'
   photo: slaw_logosq_w_blstl.jpg
   quote: 'The true beauty of music is that it connects people. It carries a message, and we, the musicians, are the messengers.'
   artist: Roy Ayers
@@ -112,7 +112,7 @@
   artist: George Bernard Shaw
 - name: Samantha Palans
   title: ''
-  profession: Project Manager
+  profession: 'Project Manager'
   employer: ''
   photo: slaw_logosq_w_blstl.jpg
   quote: "Every picture shows a spot with which the artist has fallen in love."
