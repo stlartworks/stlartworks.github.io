@@ -3,43 +3,57 @@
   profession: Attorney
   employer: 'Sandberg Phoenix & Von Gontard'
   photo: narcisa-symank.jpg
-  quote: Art is the daughter of freedom.
+  quote: "Art is the daughter of freedom."
   artist: Friedrich Schiller
 - name: Joel Fuoss
   title: ''
   profession: Architect
   employer: Trivers Associates
   photo: joel-fuoss.jpg
-  quote: Every artist was first an amateur.
-  artist: Ralph Waldo Emerson.
+  quote: "Every artist was first an amateur."
+  artist: Ralph Waldo Emerson
 - name: Kelly Scheffer
   title: Board Chair of Programs
   profession: Art History Professor
   employer: Maryville University
   photo: kelly-scheffer.jpg
   quote: "To create one's world in any of the arts takes courage."
-  artist: "Georgia O'Keeffe"
+  artist: Georgia O'Keeffe
 - name: Rhoads Hall
   title: Board Treasurer
   profession: Vice-President
   employer: Commercial Banking Wells Fargo
   photo: rhoads-hall.jpg
-  quote: Making money is art and working is art and good business is the best art.
+  quote: "Making money is art and working is art and good business is the best art."
   artist: Andy Warhol
+  - name: Halley Abbot
+  title: ''
+  profession: IBCU Account Executive
+  employer: MasterCard Worldwide
+  photo: ''
+  quote: "The artist vocation is to send light into the human heart."
+  artist: George Sand
 - name: Joseph Brinkmann
   title: ''
   profession: 'Architect, President'
   employer: Trivers Associates
   photo: joe-brinkmann.jpg
-  quote: Art is what you can get away with.
+  quote: "Art is what you can get away with."
   artist: Andy Warhol
 - name: Jared Boyd
   title: ''
   profession: Chief of Staff and Counsel
   employer: "City of St. Louis Treasurer's Office"
   photo: jaredboyd3.jpg
-  quote: Ads are the cave art of the twentieth century.
+  quote: "Ads are the cave art of the twentieth century."
   artist: Marshall McLuhan
+    - name: Stan Chisholm
+  title: ''
+  profession: Community Artist
+  employer: 18andCounting
+  photo: ''
+  quote: 'The true beauty of music is that it connects people. It carries a message, and we, the musicians, are the messengers.'
+  artist: Roy Ayers
 - name: Ms. Shaughnessy Daniels
   title: ''
   profession: 'Director, Communications & Special Projects'
@@ -59,28 +73,28 @@
   profession: 'Manager, Clinical Social Work'
   employer: Grace Hill Neighborhood Health Centers
   photo: rajeev-john.jpg
-  quote: Art is either plagiarism or revolution.
+  quote: "Art is either plagiarism or revolution."
   artist: Paul Gauguin
 - name: Erik Karanik
   title: ''
   profession: Financial Advisor
   employer: 'Wells Fargo Advisors, Private Client Group'
   photo: erik-karanik.jpg
-  quote: 'When I make art, I think about its ability to connect with others, to bring them into the process.'
+  quote: "When I make art, I think about its ability to connect with others, to bring them into the process."
   artist: Jim Hodges
 - name: Chuck Kindleberger
   title: Community Volunteer
   profession: ''
   employer: Retired
   photo: chuck-kindleberger.jpg
-  quote: It is the supreme art of the teacher to awaken joy in creative expression and knowledge.
+  quote: "It is the supreme art of the teacher to awaken joy in creative expression and knowledge."
   artist: Albert Einstein
 - name: Roderick Nunn
   title: Interim President
   profession: ''
   employer: St. Louis Community College - Forest Park Campus
   photo: rodnunn.jpg
-  quote: Art is the most intense mode of individualism that the world has known.
+  quote: "Art is the most intense mode of individualism that the world has known."
   artist: Oscar Wilde
 - name: Roger Macon
   title: ''
@@ -94,21 +108,28 @@
   profession: President / Founder
   employer: 'RETECTIX, LLC'
   photo: matt-macewan.jpg
-  quote: 'Without art, the crudeness of reality would make the world unbearable.'
+  quote: "Without art, the crudeness of reality would make the world unbearable."
   artist: George Bernard Shaw
+  - name: Samantha Palans
+  title: ''
+  profession: Public Relations
+  employer: ''
+  photo: ''
+  quote: "Every picture shows a spot with which the artist has fallen in love."
+  artist: Alfred Sisley
 - name: David Seevers
   title: ''
   profession: 'Vice President, Operations-Health Plans'
   employer: Centene Corporation
   photo: david-seevers.jpg
-  quote: 'Art to me is a humanitarian act and I believe that there is a responsibility that art should somehow be able to effect mankind, to make the word a better place.'
+  quote: "Art to me is a humanitarian act and I believe that there is a responsibility that art should somehow be able to effect mankind, to make the word a better place."
   artist: Jeff Koons
 - name: Matt Semrad
   title: Board Vice-Chair
   profession: SVP Technology
   employer: Equifax
   photo: mattsemrad2.jpg
-  quote: All children are artists. The problem is how to remain an artist once (s)he grows up.
+  quote: "All children are artists. The problem is how to remain an artist once we grow up."
   artist: Pablo Picasso
 - name: 'Benjamin Gandhi-Shepard, MSW'
   title: ''
@@ -122,14 +143,14 @@
   profession: 'Vice-President, Business Banking'
   employer: PNC
   photo: steve-shumate.jpg
-  quote: There is only one valuable thing in art—the thing you cannot explain.
+  quote: "There is only one valuable thing in art—the thing you cannot explain."
   artist: Georges Braque
 - name: Sarah Smith
   title: ''
   profession: Director
   employer: Mercy Partnership Fund
   photo: sarah-smith.jpg
-  quote: 'When music and art were taken out of the schools, I went berserk!'
+  quote: "When music and art were taken out of the schools, I went berserk!"
   artist: Bette Midler
 - name: Kedra Tolson
   title: ''
@@ -143,7 +164,7 @@
   profession: President/CEO
   employer: 'Hudson and Associates, LLC'
   photo: sheliahudson.jpg
-  quote: 'A work of art is, above all, an adventure of the mind.'
+  quote: "A work of art is, above all, an adventure of the mind."
   artist: Eugene Ionesco
 - name: Don Kennedy
   title: ''
@@ -152,24 +173,3 @@
   photo: donkennedy.jpg
   quote: "I don't believe in art. I believe in artists."
   artist: Marcel Duchamp
-- name: Halley Abbot
-  title: ''
-  profession: IBCU Account Executive
-  employer: MasterCard Worldwide
-  photo: ''
-  quote: The artist vocation is to send light into the human heart.
-  artist: George Sand
-- name: Samantha Palans
-  title: ''
-  profession: Public Relations
-  employer: ''
-  photo: ''
-  quote: Every picture shows a spot with which the artist has fallen in love.
-  artist: Alfred Sisley
-- name: Stan Chisholm
-  title: ''
-  profession: Community Artist
-  employer: 18andCounting
-  photo: ''
-  quote: 'The true beauty of music is that it connects people. It carries a message, and we, the musicians, are the messengers.'
-  artist: Roy Ayers
