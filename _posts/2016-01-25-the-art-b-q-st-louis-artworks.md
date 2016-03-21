@@ -30,6 +30,8 @@ Erik Karanik, Don Kennedy, Chuck Kindleberger,
 Roger Macon, Matt McEwan, Roderick Nunn, David Seevers, Matt Semrad, Ben Gandhi-Shepard, 
 Steve Shumate, Sarah Smith
 
+ART-B-Q logo designed by Graphic Artist and SLAW Teaching Artist, Mark Clark. 
+
 
 **About ArtWorks**
 
