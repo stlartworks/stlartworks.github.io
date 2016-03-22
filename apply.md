@@ -6,7 +6,7 @@ seoDescription: 'Join STLOUISASRTWORKS today!'
 featureImg: mural-003.jpg
 featureStatement: 'Join ARTWORKS!'
 title: Status
-subtitle: 'Applications Open January 31!'
+subtitle: 'Applications Close APRIL 1!'
 permalink: /apply/
 unique-cta: true
 mega-cta-img: ville-02.jpg
@@ -17,4 +17,4 @@ mega-cta-button-text-url: 'mailto:info@stlartworks.org'
 
 Young creatives (14 - 19 years old) in the St. Louis metro area can earn a stipend through paid apprenticeships in the arts. 
 
-APPLICATIONS OPEN ON Jan. 31, 2016 to be a part of the summer 2016 project teams!
+APPLICATIONS CLOSE ON APRIL 1, 2016 to be a part of the summer 2016 project teams!
