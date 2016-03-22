@@ -1,20 +1,23 @@
 ---
 layout: post
 title: The ART-B-Q @ ST. Louis ArtWorks
-featureImg: artbq-1.jpg
+featureImg: eventbriteartbq.jpg
 teaser: The ART-B-Q is a night of Art, Music, Film, Food and Fun! on April 29 (5pm - 9pm)!
 homepage: true
 event: Friday, April 29 (5pm - 9pm)
 ---
 
-The ART-B-Q is a night of Art, Music, Film, Food and Fun! This exciting event includes a catered bar-b-que meal, signature cocktails, live music, Apprentice-made artwork available for purchase, and the premiere of the Apprentice-made documentary, “The Delmar Connection”, on the history of Delmar Boulevard. All proceeds from the ART-B-Q go to direct support of ArtWorks year-round Arts Apprenticeship Programs. Spring into BBQ season with ArtWorks, where we Create Opportunities for St. Louis youth!
+The ART-B-Q is a night of Art, Music, Film, Food and Fun! This exciting event includes catered bar-b-que culinary delights, signature cocktails, live music, Apprentice-made artwork, and the premiere of the Apprentice-made documentary, “The Delmar Connection”, on the history of Delmar Boulevard.
+AND, just in time for planning your summer getaway, the big ticket of the night is our exclusive raffle for TWO ROUND-TRIP TICKETS anywhere Southwest Airlines flies! 
+
+Proceeds from the ART-B-Q go to direct support of ArtWorks year-round Arts Apprenticeship Programs. Spring into BBQ season with ArtWorks, where we Create Opportunities for St. Louis youth!
 
 
 **Details**
 
 - Friday, April 29 (5pm - 9pm)
 - St. Louis ArtWorks, 5959 Delmar Blvd., St. Louis, MO 63112
-- [Tickets Available through EventBrite!](https://www.eventbrite.com/e/the-art-b-q-st-louis-artworks-tickets-20786864070)
+- [Tickets Available through EventBrite!](http://bit.ly/ARTBQ2016)
 
 **ART-B-Q Honorary Chair** - Joe Edwards
 
@@ -24,7 +27,7 @@ The ART-B-Q is a night of Art, Music, Film, Food and Fun! This exciting event in
 
 **Host Committee**
 
-Narcisa Symank, Matt Semrad, Kelly Scheffer, Daryl Gourley, Rhoads Hall, Halley Abbot, Joseph Brinkmann, Jared Boyd, 
+Narcisa Symank, Matt Semrad, Kelly Scheffer, Daryl Gourley, Rhoads Hall, Halley Abbott, Joseph Brinkmann, Jared Boyd, 
 Shaughnessy Daniels, Joel Fuoss, Judy Glik, Rajeev John, Samantha Palans, Stan Chisholm, 
 Erik Karanik, Don Kennedy, Chuck Kindleberger, 
 Roger Macon, Matt McEwan, Roderick Nunn, David Seevers, Matt Semrad, Ben Gandhi-Shepard, 
