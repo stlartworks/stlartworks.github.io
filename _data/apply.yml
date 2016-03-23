@@ -1,8 +1,8 @@
 apply:
     - process:
-      open: Nov. 1 - Applications available online
-      close: Dec. 13 - Application submission deadline
-      interview-day: Interview Day
+      open: Jan. 31 - Applications available online
+      close: Apr. 1 - Application submission deadline
+      interview-day: April 23 - Interview Day
 
     - requirements:
       age: Ages 14 to 18 (Must be 14 years old by January 1, 2016)
@@ -11,4 +11,4 @@ apply:
       availability: Must be available to attend every day of the spring program (Two afternoons per week, 3pm - 6pm, or Saturdays from 9am - 3pm)
 
     - message:
-        text: The Spring 2016 Application Process will open on November 1, 2015. Please check back then to apply for spring apprenticeships. 
+        text: The Summer 2016 Application Process will close on April 1, 2016. 
