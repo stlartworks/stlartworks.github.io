@@ -2,7 +2,7 @@
 apply: true
 layout: apply
 seoTitle: 'Apply today!'
-seoDescription: 'Join STLOUISASRTWORKS today!'
+seoDescription: 'Join STLOUISARTWORKS today!'
 featureImg: mural-003.jpg
 featureStatement: 'Join ARTWORKS!'
 title: Status
