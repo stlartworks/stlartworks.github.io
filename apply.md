@@ -17,4 +17,4 @@ mega-cta-button-text-url: 'mailto:info@stlartworks.org'
 
 Young creatives (14 - 19 years old) in the St. Louis metro area can earn a stipend through paid apprenticeships in the arts. 
 
-APPLICATIONS CLOSE ON APRIL 1, 2016 to be a part of the summer 2016 project teams!
+SUMMER APPLICATION DEADLINE EXTENDED TO APRIL 12! Apply NOW to be a part of the summer 2016 project teams!
