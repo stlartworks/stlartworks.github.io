@@ -49,7 +49,7 @@ Boomerang Press/Media offers graphic design and multimedia services to create:
 
 {% include gallery-boomerang-press.html %}
 
-### ![bloomworks](/images/svg/bloomworks_web.jpg)
+### ![bloomworks](/images/bloomworks_web.jpg)
 Bloomworks provides art for the garden, public parks, and urban streetscape by making:
 
 - Bicycle racks
