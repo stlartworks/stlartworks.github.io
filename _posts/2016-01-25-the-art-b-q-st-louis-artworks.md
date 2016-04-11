@@ -45,7 +45,7 @@ The Mission of St. Louis ArtWorks is to broaden educational and career opportuni
 
 **About ContinuitySTL**
 
-Mission Statement: Continuity is expanding diversity in media production through skills-based training, mentoring and opportunities for untapped talent.
+Mission Statement: <a href="http://www.continuitystl.com">Continuity</a> is expanding diversity in media production through skills-based training, mentoring and opportunities for untapped talent.
 
 We envision a future where our media, film, and broadcasting industries reflect the diversity of the neighborhoods they document, starting first in St. Louis. 
 
