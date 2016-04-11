@@ -9,7 +9,7 @@ event: Friday, April 29 (5pm - 9pm)
 
 The ART-B-Q is a night of Art, Music, Film, Food and Fun! This exciting event includes catered bar-b-que culinary delights, signature cocktails, live music, Apprentice-made artwork, and the premiere of the Apprentice-made documentary, “The Delmar Connection”, on the history of Delmar Boulevard.  
 
-Continuity STL is a St. Louis ArtWorks Teaching Partner for the documentary project, which is funded by The Missouri Arts Council. 
+<a href="http://www.continuitystl.com>Continuity STL</a> is a St. Louis ArtWorks Teaching Partner for the documentary project, which is funded by The Missouri Arts Council. 
 
 AND, just in time for planning your summer getaway, the big ticket of the night is our exclusive raffle for TWO ROUND-TRIP TICKETS anywhere Southwest Airlines flies! 
 
