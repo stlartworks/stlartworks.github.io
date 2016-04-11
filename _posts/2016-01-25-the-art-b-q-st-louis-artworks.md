@@ -2,7 +2,7 @@
 layout: post
 title: The ART-B-Q @ ST. Louis ArtWorks
 featureImg: eventbriteartbq.jpg
-teaser: The ART-B-Q is a night of Art, Music, Film, Food and Fun! on April 29 (5pm - 9pm)!
+teaser: The ART-B-Q is a night of Art, Music, Film, Food and Fun on April 29, 5pm - 9pm! 
 homepage: true
 event: Friday, April 29 (5pm - 9pm)
 ---
