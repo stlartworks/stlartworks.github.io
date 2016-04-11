@@ -43,7 +43,7 @@ ART-B-Q logo designed by Graphic Artist and SLAW Teaching Artist, Mark Clark.
 
 The Mission of St. Louis ArtWorks is to broaden educational and career opportunities for youth in the St. Louis region through apprenticeships in the arts and through community collaborations. Youth apprentice with professional artists in the development of visual, literary, and performing art. In addition to developing talent in artistic disciplines, ArtWorks teaches the business of being artists, as well as helping the young art entrepreneurs develop positive social, creative-thinking, teamwork, and character education skills.
 
-**About ContinuitySTL**
+**About Continuity**
 
 Mission Statement: <a href="http://www.continuitystl.com">Continuity</a> is expanding diversity in media production through skills-based training, mentoring and opportunities for untapped talent.
 
