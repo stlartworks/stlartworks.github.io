@@ -7,7 +7,8 @@ homepage: true
 event: Friday, April 29 (5pm - 9pm)
 ---
 
-The ART-B-Q is a night of Art, Music, Film, Food and Fun! This exciting event includes catered bar-b-que culinary delights, signature cocktails, live music, Apprentice-made artwork, and the premiere of the Apprentice-made documentary, “The Delmar Connection”, on the history of Delmar Boulevard.
+The ART-B-Q is a night of Art, Music, Film, Food and Fun! This exciting event includes catered bar-b-que culinary delights, signature cocktails, live music, Apprentice-made artwork, and the premiere of the Apprentice-made documentary, “The Delmar Connection”, on the history of Delmar Boulevard.  ![Continuity STL](http://www.continuitystl.com)  is a St. Louis ArtWorks Teaching Partner for the documentary project, which is funded by The Missouri Arts Council. 
+
 AND, just in time for planning your summer getaway, the big ticket of the night is our exclusive raffle for TWO ROUND-TRIP TICKETS anywhere Southwest Airlines flies! 
 
 Proceeds from the ART-B-Q go to direct support of ArtWorks year-round Arts Apprenticeship Programs. Spring into BBQ season with ArtWorks, where we Create Opportunities for St. Louis youth!
@@ -39,6 +40,12 @@ ART-B-Q logo designed by Graphic Artist and SLAW Teaching Artist, Mark Clark.
 **About ArtWorks**
 
 The Mission of St. Louis ArtWorks is to broaden educational and career opportunities for youth in the St. Louis region through apprenticeships in the arts and through community collaborations. Youth apprentice with professional artists in the development of visual, literary, and performing art. In addition to developing talent in artistic disciplines, ArtWorks teaches the business of being artists, as well as helping the young art entrepreneurs develop positive social, creative-thinking, teamwork, and character education skills.
+
+**About ContinuitySTL**
+
+Mission Statement: Continuity is expanding diversity in media production through skills-based training, mentoring and opportunities for untapped talent.
+
+We envision a future where our media, film, and broadcasting industries reflect the diversity of the neighborhoods they document, starting first in St. Louis. 
 
 **For more information**
 
