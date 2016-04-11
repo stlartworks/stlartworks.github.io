@@ -11,7 +11,7 @@ The ART-B-Q is a night of Art, Music, Film, Food and Fun! This exciting event in
 
 AND, just in time for planning your summer getaway, the big ticket of the night is our exclusive raffle for TWO ROUND-TRIP TICKETS anywhere Southwest Airlines flies! 
 
-St. Louis ArtWorks is proud to announce <a href="http://www.continuitystl.com">Continuity</a> as a Teaching Partner for "The Delmar Connection" documentary project,  funded by The Missouri Arts Council.
+St. Louis ArtWorks is proud to announce <a href="http://www.continuitystl.com">Continuity</a> as a Teaching Partner for "The Delmar Connection" documentary project,  funded by The Missouri Humanities Council.
 
 Proceeds from the ART-B-Q go to direct support of ArtWorks year-round Arts Apprenticeship Programs. Spring into BBQ season with ArtWorks, where we Create Opportunities for St. Louis youth!
 
