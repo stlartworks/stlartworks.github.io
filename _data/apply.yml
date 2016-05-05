@@ -1,8 +1,8 @@
 apply:
     - process:
-      open: Jan. 31 - Applications available online
-      close: Apr. 1 - Application submission deadline
-      interview-day: April 23 - Interview Day
+      open: July 15 - Applications available online
+      close: Aug. 22 - Application submission deadline
+      interview-day: TBA - Interview Day
 
     - requirements:
       age: Ages 14 to 18 (Must be 14 years old by January 1, 2016)
@@ -11,4 +11,4 @@ apply:
       availability: Must be available to attend every day of the summer program (Monday through Friday, 10am - 3pm)
 
     - message:
-        text: DEADLINE EXTENDED! Summer 2016 Applications will be accepted until April 12, 2016. 
+        text: Summer 2016 Applications are now CLOSED. Please check back in mid-July to apply for Fall 2016 Apprenticeships.
