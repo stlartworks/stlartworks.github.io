@@ -15,9 +15,9 @@ mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:info@stlartworks.org'
 ---
 
-SUMMER applications are now CLOSED. Please visit this page again in mid-July to apply for FALL 2016 Apprenticeships.
+SUMMER applications are now CLOSED. Please bookmark and visit this page again in mid-July to apply for FALL 2016 Apprenticeships.
 
-ArtWorks has three apprenticeship programs per year: Fall, Spring, and Summer. Young creatives (14 - 18 years old) in the St. Louis metro area can earn a stipend through paid apprenticeships in the arts. For more information about ArtWorks' apprenticeship programs, please visit the other pages of this website, or find us on Facebook and Twitter.
+Young creatives (14 - 18 years old) in the St. Louis metro area can earn a stipend through paid apprenticeships in the arts in the Fall, Spring, and Summer. 
 
 THANK YOU for your interest and support of teen employment and the arts in St. Louis!
 
