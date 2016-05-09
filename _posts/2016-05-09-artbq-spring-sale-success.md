@@ -7,8 +7,6 @@ homepage: true
 event: Friday, April 29 (5pm - 9pm)
 ---
 
-<center>ART-B-Q, Spring Sale Raise $13,000 for Apprenticeships</center>
-
 <i>May 9, 2016, St. Louis, MO</i> – More than 150 people came together with Honorary Chairman Joe Edwards to cut the ribbon and celebrate St. Louis ArtWorks move to 5959 Delmar at the ART-B-Q on Friday, April 29, 2016. Combined with the Annual Spring Art Sale on Saturday, April 30th, the weekend events raised more than $13,000 to support ArtWorks’ year-round arts apprenticeship programs for teens ages 14-18.
 
 Guests of the ART-B-Q were treated to original works of art created by ArtWorks apprentices during the spring program, including paintings, garden art and furniture, and hand-painted rain barrels to beautify St. Louis gardens. In addition to the apprentices’ art, the night included the official ribbon cutting at 5959 Delmar, a DJ performance by Board Member Stan Chisolm, aka 18andCounting, as well as BBQ-style hors d’oeuvres and drinks.
