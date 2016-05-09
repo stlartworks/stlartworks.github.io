@@ -22,5 +22,3 @@ The success of the 2016 ART-B-Q was due in large to its Lead Sponsor, Hudson and
 On Saturday, April 30, apprentices shared their work with the public-at-large at ArtWorks Annual Spring Art Sale. At the end of each program session, apprentices participate in a public sale of their work, to put in action the skills they have learned in professional communication and artistic expression. ArtWorks programs offer training in a variety of art disciplines, including traditional and digital arts, as well as 21st century skills, such as workplace communication and fiscal responsibility. 
 
 For more information on St. Louis ArtWorks and its community partners, please visit ArtWorks online at stlartworks.org, or find ArtWorks on Facebook and Twitter. #MakeArtWorkSTL
-
-###
