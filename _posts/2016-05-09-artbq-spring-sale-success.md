@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ART-B-Q, Spring Sale Raise $13,000 for Apprenticeships
-featureImg: eventbriteartbq.jpg
+featureImg: artbq_openingweb.jpg
 teaser: THANK YOU ST. LOUIS! You #MakeArtWork!
 homepage: true
 event: Friday, April 29 (5pm - 9pm)
