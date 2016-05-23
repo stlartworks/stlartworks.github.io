@@ -42,4 +42,4 @@ Building on a legacy of knowledge and experience, the <b>Open Space Council</b> 
 
 ------
 
-<b><i>ATTENTION ST. LOUIS COMMUNITY: You are invited to attend the sculpture dedication at Edgar M. Queeny Park on Tuesday, June 7, at 9a.m. <i>If poor weather precludes the ceremony, the dedication will be held the following day, Weds., June 8 at 9a.m.</b></i>
+<b><i>ATTENTION ST. LOUIS COMMUNITY: You are invited to attend the sculpture dedication at Edgar M. Queeny Park on Tuesday, June 7, at 9a.m. If poor weather precludes the ceremony, the dedication will be held the following day, Weds., June 8 at 9a.m.</b></i>
