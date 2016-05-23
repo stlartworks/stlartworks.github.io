@@ -1,7 +1,6 @@
 ---
 layout: post
 title: New ArtWorks Sculpture to be Dedicated at Queeny Park!
-
 featureImg: queenysculpture_TNC.jpg
 teaser: ArtWorks, Nature Conservancy partner for "Growing a Healthier Meramec"...
 homepage: true
