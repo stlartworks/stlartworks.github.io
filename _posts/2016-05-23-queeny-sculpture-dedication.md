@@ -1,9 +1,9 @@
 ---
 layout: post
-title: New Sculpture to be Dedicated at Queeny Park by St. Louis ArtWorks, Nature Conservancy
+title: New ArtWorks Sculpture to be Dedicated at Queeny Park!
 
 featureImg: artbq_openingweb.jpg
-teaser: THANK YOU ST. LOUIS! 
+teaser: ArtWorks, Nature Conservancy partner for "Growing a Healthier Meramec"
 homepage: true
 event: Tuesday, June 7, 2016, 9am
 ---
