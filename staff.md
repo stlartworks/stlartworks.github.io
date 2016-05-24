@@ -17,6 +17,9 @@ mega-cta-img: artwork-012.jpg
 mega-cta-heading: Work for us!
 mega-cta-button-text: Apply today!
 mega-cta-button-text-url: mailto:info@stlartworks.org
+
+reveal: staff
+
 ---
 
 Our staff rocks! Meet the people that grind every day to make ARTWORKS the best program possible.
