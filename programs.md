@@ -5,8 +5,8 @@ seoTitle: Programs - Learn art and earn money from professional artists
 seoDescription: Apprentices from the St. Louis metropolitan area experience hands on arts education and work place training.
 featureImg: apprentice-001.jpg
 featureStatement: 'Learn and Earn!'
-title: SUMMER Programs
-subtitle: 'Applications for Summer 2016 will be accepted until April 12!'
+title: Apprenticeship Programs
+subtitle: 'Applications for Summer 2016 are CLOSED. Fall applications open in July.'
 permalink: /programs/
 mega-cta-img: ville-02.jpg
 mega-cta-heading: 'Join us!'
@@ -21,7 +21,7 @@ details:
     age: 'Ages 14 to 18 (Must be 14 years old by January 1, 2016)'
     location: Must live in the greater St. Louis area
     interests: Must have an interest in art
-    availability: 'Must be available to attend every day of the summer program (Monday-Friday, 6 weeks, 10 am to 3 pm)'
+    availability: 'Must be available to attend every day of the fall program (Tues/Thurs, 3pm - 6pm, or Saturdays 10am - 3pm)'
   message:
     text: 'Applications for Summer 2016 Apprenticeships are now CLOSED. Please check again in July, to apply for Fall Apprenticeships.'
     
