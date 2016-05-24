@@ -23,7 +23,7 @@ details:
     interests: Must have an interest in art
     availability: 'Must be available to attend every day of the summer program (Monday-Friday, 6 weeks, 10 am to 3 pm)'
   message:
-    text: 'Applications for Summer 2016 Apprenticeships will be accepted until APRIL 12, 2016.'
+    text: 'Applications for Summer 2016 Apprenticeships are now CLOSED. Please check again in July, to apply for Fall Apprenticeships.'
     
 reveal: programs
 ---
