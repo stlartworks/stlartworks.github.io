@@ -20,7 +20,7 @@ mega-cta-button-text-url: maito:info@stlartworks.org
 
 ---
 
-ArtWorks takes commissions to make public and private art through our Bloomworks and Boomerang Press/Media programs. Between these two programs we have been commissioned by:
+ArtWorks takes commissions to make public and private art through ArtWorks Enterprises (AWE). There are three divisions of AWE, including Boomerang Press/Media, BloomWorks and BoomerRacks. Through these social enterprises, we have been commissioned by:
 
 - MSD
 - St. Louis Cardinals
@@ -29,6 +29,7 @@ ArtWorks takes commissions to make public and private art through our Bloomworks
 - Grace Hill
 - St. Louis 4 Kids
 - Acropolis Investment Management
+- Enterprise Rent-A-Car
 - St. Louis County Economic Council
 - Premier Realty
 - Third Baptist Church
