@@ -24,6 +24,8 @@ details:
     availability: 'Must be available to attend every day of the summer program (Monday-Friday, 6 weeks, 10 am to 3 pm)'
   message:
     text: 'Applications for Summer 2016 Apprenticeships will be accepted until APRIL 12, 2016.'
+    
+reveal: programs
 ---
 
 Apprentices from the St. Louis metropolitan area experience hands on arts education and work place training. Highlights of the summer experience include field trips to local museums and professional art studios, life skill workshops, and completion of an artistic commission.
