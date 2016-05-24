@@ -1,7 +1,7 @@
 <section id="reveal-gallery" class="reveal">
   <div class="reveal__container">
     <ul>
-    {% for item in site.data.[page.reveal] %}
+    {% for item in site.data[page.reveal] %}
       <li>
         <a href="/" data-type="{{item.photo | remove: '.jpg'}}">
           <figure class="reveal__figure" style="background-image: url('/images/{{item.photo}}');">
