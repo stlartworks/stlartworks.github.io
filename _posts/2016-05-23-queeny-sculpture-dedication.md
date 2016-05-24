@@ -7,11 +7,11 @@ homepage: true
 event: Tuesday, June 7, 2016, 9am
 ---
 
-<i>May 23, 2016, St. Louis, MO</i> - A new sculpture, designed by 20 St. Louis ArtWorks apprentices and commissioned by The Nature Conservancy, will be dedicated on Tuesday, June 7th at Edgar M. Queeny Park in St. Louis County at 9a.m. The sculpture was recently installed on the banks of Owl Creek, a tributary of the Meramec River, as part of the “Growing a Healthy Meramec” project. 
+<i>May 23, 2016, St. Louis, MO</i> - A new sculpture, designed by 20 St. Louis ArtWorks apprentices and commissioned by The Nature Conservancy, will be dedicated on Tuesday, June 7th at Edgar M. Queeny Park in St. Louis County at 9a.m. The sculpture was recently installed on the banks of Owl Creek, a tributary of the Meramec River, as part of the <i>“Growing a Healthy Meramec”</i> project. 
 
-The Growing a Healthy Meramec  project, funded through a $100,000 gift from The Boeing Company, raises awareness of the importance of this freshwater resource, and demonstrates how native plants keep our rivers healthy by stabilizing streambanks and slowing runoff. 
+The <i>Growing a Healthy Meramec</i> project, funded through a $100,000 gift from The Boeing Company, raises awareness of the importance of this freshwater resource, and demonstrates how native plants keep our rivers healthy by stabilizing streambanks and slowing runoff. 
 
-The 8-foot tall stainless steel sculpture, titled “Where Rivers Flow, Trees Grow”, depicts a fish-filled stream flowing into a majestic tree with leafy branches. Native plants help maintain the health of our vital water resources, such as wildlife habitat, drinking water, and recreational opportunities. 
+The 8-foot tall stainless steel sculpture, titled <i>“Where Rivers Flow, Trees Grow”</i>, depicts a fish-filled stream flowing into a majestic tree with leafy branches. Native plants help maintain the health of our vital water resources, such as wildlife habitat, drinking water, and recreational opportunities. 
 
 The apprentices gained inspiration for the sculpture design during tours of key waterways in the St. Louis-area.  “We took our sketchbooks, to draw animals and plants we saw along the creek and rivers,” said Tyson, an apprentice with the sculpture team.  “We saw fish, turtles, and birds, and decided on an owl in the tree, to represent Owl Creek.”
 
