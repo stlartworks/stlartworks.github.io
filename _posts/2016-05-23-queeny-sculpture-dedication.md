@@ -15,6 +15,8 @@ The 8-foot tall stainless steel sculpture, titled <i>“Where Rivers Flow, Trees
 
 The apprentices gained inspiration for the sculpture design during tours of key waterways in the St. Louis-area.  “We took our sketchbooks, to draw animals and plants we saw along the creek and rivers,” said Tyson, an apprentice with the sculpture team.  “We saw fish, turtles, and birds, and decided on an owl in the tree, to represent Owl Creek.”
 
+Installed near the sculpture is a sign to share its message of conservation and the importance of healthy waterways in St. Louis, as well as the names of the artists and creative youth of St. Louis ArtWorks who designed and constructed the work of art: Teaching Artists, Lauren Rogalsky and Deborah Alma Wheeler, Metal Artist-Fabricator, Warren Sauer of L.E. Sauer Machine Company, and Apprentices  Juwaun Crawford, Ry'Shod Gilmore, Equan Hopson, Indya Hughes, Victor Johnson, Tyson Johnson, Derrick Jones, Charisma Jordan, Derrick Latimore, Johnelle McGee , Cameron Mosley, CaRavin Reed, Cayla Rodgers, Graham Schroff, Tajuan Selfe, Donald Shaw, and Jahon Spence. 
+
 Dr. Steve Herrington, the Conservancy’s Missouri Director of Freshwater Conservation, led the tour and a discussion about the water cycle and the importance of protecting our water resources.
 
  “This project brings together the emotion evoked by art, and the empiricism of science,” said Herrington. “It’s great to see the apprentices get excited about our natural world, and it was a wonderful opportunity to show them how we can keep our waters clean and healthy.”
