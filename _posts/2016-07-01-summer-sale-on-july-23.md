@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SUMMER SALE 2016 - This is How We Roll!
-featureImg: Star_by_Arieona.jpg
+featureImg: happytrain.jpg
 teaser: Paintings, Sculpture, Photographs and a LIVE SHOW!
 homepage: true
 event: Saturday, July 23, 2016 11am-2pm
