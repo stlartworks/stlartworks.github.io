@@ -7,7 +7,7 @@ homepage: true
 event: Saturday, July 23, 2016 11am-2pm
 ---
 
-<i>July 1, 2016, St. Louis, MO</i> THIS IS HOW WE ROLL! It's time for our biggest art sale of the year, the Annual ST. LOUIS ARTWORKS SUMMER SALE, on Saturday, July 23, 11am-2pm! 
+<i>July 1, 2016, St. Louis, MO</i> - THIS IS HOW WE ROLL! It's time for our biggest art sale of the year, the Annual ST. LOUIS ARTWORKS SUMMER SALE, on Saturday, July 23, 11am-2pm! 
 
 This summer, Apprentices are creating original works of art, including: linoleum prints, photographs, handmade cards, sculpture for your home and garden, and a LIVE SHOW performed by ArtWorks Apprentices at 12:30pm! 
 
@@ -24,5 +24,4 @@ This fantastic transportation-themed event is ONLY THREE HOURS, 11am to 2pm! Wal
 Celebrate the creativity of St. Louis youth, and put Artworks on your calendar for SATURDAY, July 23!
 
 For more information, please call (314) 899-9734. Thank you for 21 years of Creating Opportunities, St. Louis!
-
 ###
