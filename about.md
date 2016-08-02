@@ -23,7 +23,7 @@ The mission of St. Louis ArtWorks is to broaden educational and career opportuni
 
 St. Louis ArtWorks (SLAW) is a year-round job training program using art to teach essential life and job skills to underserved youth, ages 14-19. Programming takes place after school and on weekends during the fall and spring, and five hours a day, five days a week for six weeks during the summer. Youth apprentice with professional artists to develop art, life, and communication skills. All apprentice works of art are either commissioned by local companies and organizations, or sold at public sales.
 
-Each program combines in-depth art instruction, job training, and life skills focused on personal health, fiscal literacy, and environmental stewardship. In all programs, teens earn a stipend, are required to have a bank account, and attend financial literacy training. Activities such as client meetings, open house events and public sales give apprentices a chance to practice presentation and public speaking skills, and leave better prepared for the future with community contacts, resumes and a portfolio of work.
+Each program combines in-depth art instruction, job training, and life skills focused on personal health, fiscal literacy, and environmental stewardship. In all programs, teens earn a stipend, are required to have a bank account, and attend financial literacy training. Activities such as client meetings, open house events and public sales give apprentices a chance to practice presentation and public speaking skills, and leave better prepared for the future with community contacts, resumes, and a portfolio of work.
 
 ### Established in 1995
 
