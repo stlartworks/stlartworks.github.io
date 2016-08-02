@@ -26,9 +26,9 @@
   url: artwork
   teaser: "We make a lot of cool stuff!"
 
-- nav-item: Enterprises (AWE)
+- nav-item: Enterprises
   url: enterprise
-  teaser: "Commission Us!"
+  teaser: "Commission ArtWorks!"
 
 - nav-item: Instructors
   url: instructors
