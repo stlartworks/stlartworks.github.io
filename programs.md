@@ -16,7 +16,7 @@ details:
   process:
     status: Open
     close: August 15 - Application submission deadline
-    interview: Interview Day
+    interview: Interview Day August 27, 2016
   requirements:
     age: 'Ages 14 to 18 (Must be 14 years old by January 1, 2016)'
     location: Must live in the greater St. Louis area
