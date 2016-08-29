@@ -6,7 +6,7 @@ seoDescription: Apprentices from the St. Louis metropolitan area experience hand
 featureImg: apprentice-001.jpg
 featureStatement: 'Learn and Earn!'
 title: Apprenticeship Programs
-subtitle: 'FALL 2016 Applications are OPEN until August 15!'
+subtitle: 'SPRING 2017 Applications Open in DECEMBER.'
 permalink: /programs/
 mega-cta-img: ville-02.jpg
 mega-cta-heading: 'Join us!'
@@ -14,7 +14,7 @@ mega-cta-button-text: 'Apply today!'
 mega-cta-button-text-url: 'http://google.com'
 details:
   process:
-    status: Open
+    status: CLOSED
     close: August 15 - Application submission deadline
     interview: Interview Day August 27, 2016
   requirements:
@@ -23,7 +23,7 @@ details:
     interests: Must have an interest in art
     availability: 'Must be available to attend every day of the fall program (Two weekday afternoons, 3pm - 6pm, or Saturdays 10am - 3pm)'
   message:
-    text: 'Fall Apprenticeship Applications OPEN until August 15, 2016!'
+    text: 'SPRING 2017 Applications will Open in December, 2016!'
     
 reveal: programs
 ---
