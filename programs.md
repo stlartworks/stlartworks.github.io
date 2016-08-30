@@ -18,7 +18,7 @@ details:
     close: August 15 - Application submission deadline
     interview: Interview Day August 27, 2016
   requirements:
-    age: 'Ages 14 to 18 (Must be 14 years old by January 1, 2016)'
+    age: 'Ages 14 to 18 (Must be 14 years old by September 1, 2016)'
     location: Must live in the greater St. Louis area
     interests: Must have an interest in art
     availability: 'Must be available to attend every day of the fall program (Two weekday afternoons, 3pm - 6pm, or Saturdays 10am - 3pm)'
