@@ -11,8 +11,8 @@ event: Thursday, September 1, 2016, 9am
 to Participate in The Chief Executive Program: Community & Culture</center>
 
 <i>September 1, 2016</i> – Alexandria, VA – National Arts Strategies is pleased to announce the
-participation of 50 exceptional leaders in the fourth and final class of The Chief Executive
-Program. The Chief Executive Program: Community and Culture brings together an
+participation of 50 exceptional leaders in the fourth and final class of <a href="http://www.artstrategies.org/downloads/CEP/participant_directory_public.pdf">The Chief Executive
+Program.</a> The Chief Executive Program: Community and Culture brings together an
 international cohort of 50 CEOs who are working to lead change in their organizations,
 communities and in the cultural field.
 
