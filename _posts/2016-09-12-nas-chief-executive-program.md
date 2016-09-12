@@ -47,13 +47,13 @@ partners at Harvard Business School and University of Michigan, Ross School of B
 we’re thrilled to share knowledge with and learn from this incredible group of change
 agents in the cultural sector.”
 
-                                     ###
-
 This program is the result of the incredible support from The Kresge Foundation, The Educational
 Foundation of America and The Chief Executive Fellowship Fund Honoring Ken Fischer. The
 partnerships of Harvard Business School and the University of Michigan, Ross School of Business
 make this work possible. Additional information about The Chief Executive Program: Community &
 Culture is available at <a href="http://www.artsstrategies.org">www.artstrategies.org.</a>
+
+<center>###</center>
 
 <b>About National Arts Strategies</b>
 
