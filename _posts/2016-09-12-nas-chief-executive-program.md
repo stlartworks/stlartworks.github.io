@@ -4,7 +4,7 @@ title: Priscilla Block Chosen for NAS Chief Executive Program
 featureImg: nas_chiefexec.jpg
 teaser: SLAW E.D. among 50 arts and culture executives invited for NAS Program!
 homepage: true
-event: Thursday, September 1, 2016
+event: Thursday, September 1, 2016, 9am
 ---
 
 <i>September 1, 2016</i> - National Arts Strategies Announces Leaders Chosen
