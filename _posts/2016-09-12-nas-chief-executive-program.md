@@ -72,4 +72,3 @@ seemingly intractable problems that arts leaders face every day. We partner with
 from top-tier universities who excel in both researching and teaching to deliver programs
 such as the Chief Executive Program: Community and Culture, Creative Community Fellows,
 the Senior Management Institute and the Executive Program in Arts and Culture Strategy.
-Learn more at www.artstrategies.org.
