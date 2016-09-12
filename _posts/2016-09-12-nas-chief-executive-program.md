@@ -7,8 +7,8 @@ homepage: true
 event: Thursday, September 1, 2016, 9am
 ---
 
-<i>September 1, 2016</i> - National Arts Strategies Announces Leaders Chosen
-to Participate in The Chief Executive Program: Community & Culture
+<B><center>National Arts Strategies Announces Leaders Chosen
+to Participate in The Chief Executive Program: Community & Culture</B></center>
 
 September 1, 2016 – Alexandria, VA – National Arts Strategies is pleased to announce the
 participation of 50 exceptional leaders in the fourth and final class of The Chief Executive
