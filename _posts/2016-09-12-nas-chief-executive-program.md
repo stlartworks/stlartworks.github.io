@@ -10,11 +10,11 @@ event: Thursday, September 1, 2016, 9am
 <B><center>National Arts Strategies Announces Leaders Chosen
 to Participate in The Chief Executive Program: Community & Culture</center>
 
-<i>September 1, 2016</i> – Alexandria, VA – National Arts Strategies is pleased to announce the
-participation of 50 exceptional leaders in the fourth and final class of <a href="http://www.artstrategies.org/downloads/CEP/participant_directory_public.pdf">The Chief Executive
+<i>September 1, 2016</i> – St. Louis ArtWorks is pleased to announce that its Executive
+Director, Priscilla Block, has been chosen as one of 50 exceptional leaders in the fourth and final class of <a href="http://www.artstrategies.org/downloads/CEP/participant_directory_public.pdf">National Arts Strategies' Chief Executive
 Program.</a> The Chief Executive Program: Community and Culture brings together an
 international cohort of 50 CEOs who are working to lead change in their organizations,
-communities and in the cultural field.
+communities and in the cultural field. 
 
 The selected executives come from outstanding institutions of all sizes and disciplines. They
 are united by the presence of deep community roots. They are working on initiatives such
