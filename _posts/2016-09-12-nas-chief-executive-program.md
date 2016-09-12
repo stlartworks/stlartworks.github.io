@@ -47,64 +47,16 @@ partners at Harvard Business School and University of Michigan, Ross School of B
 we’re thrilled to share knowledge with and learn from this incredible group of change
 agents in the cultural sector.”
 
-The Chief Executive Program: Community & Culture Participants
+                                     ###
 
-Abdullah Alkafri, Ettijahat – Independent Culture (Beirut, Lebanon)
-Phillip Bahar, Chicago Humanities Festival (Chicago, Illinois)
-Neil Beddow, ACTA Community Theatre (Bristol, United Kingdom)
-Becky Bell Ballard, Rosie’s House: A Music Academy for Children (Phoenix, Arizona)
-Jenny Bilfield, Washington Performing Arts (Washington, DC)
-<B>Priscilla Block, St. Louis ArtWorks (St. Louis, Missouri)</B>
-Lynn Clements, Virginia Aquarium (Virginia Beach, Virginia)
-Julie Decker, Anchorage Museum (Anchorage, Alaska)
-Laurie de Koch, Seattle JazzED (Seattle, Washington)
-Ruth Dickey, Seattle Arts & Lectures (Seattle, Washington)
-Erika Dilday, Maysles Documentary Center (New York, New York)
-Zenetta Drew, Dallas Black Dance Theatre (Dallas, Texas)
-Silvia Duarte, City of Asylum (Pittsburgh, Pennsylvania)
-Neenah Ellis, WYSO Public Radio (Yellow Springs, Ohio)
-Leanne Ferrer, Pacific Islanders in Communications (Honolulu, Hawai’i)
-Matthew Fluharty, Art of the Rural (Winona, Minnesota)
-Peggy Fogelman, Isabella Stewart Gardner Museum (Boston, Massachusetts)
-Alexander Gibson, Appalshop (Whitesburg, Kentucky)
-Steven Raider-Ginsburg, Autorino Center for the Arts and Humanities (New Haven, Connecticut)
-Mina Girgis, The Nile Project (San Francisco, California)
-Esther Grisham Grimm, 3Arts (Chicago, Illinois)
-Scott Harrison, Los Angeles Chamber Orchestra (Los Angeles, California)
-Lane Harwell, Dance/NYC (New York, New York)
-Ro Nita Hawes-Saunders, Dayton Contemporary Dance Company (Dayton, Ohio)
-Anjee Helstrup-Alvarez, Movimiento de Arte y Cultura Latino Americana (San Jose, California)
-Rachel Jacobson, Film Streams (Omaha, Nebraska)
-Suzan Jenkins, Arts and Humanities Council of Montgomery County (Silver Spring, Maryland)
-Shahina Johnson, Create Studios Digital Media (Swindon, United Kingdom)
-Sally Kane, National Federation of Community Broadcasters (Hotchkiss, Colorado)
-Lisa Lucas, National Book Foundation (New York, New York)
-Julia Marciari-Alexander, Walters Art Museum (Baltimore, Maryland)
-Jennifer McEwen, True Colors Theatre Company (Atlanta, Georgia)
-Ayisha Morgan-Lee, Hill Dance Academy Theatre (Pittsburgh, Pennsylvania)
-Adrienne Nakashima, South Coast Botanic Garden Foundation (Palos Verdes Peninsula, California)
-Alissa Novoselick, Tamarack Foundation for the Arts (Charleston, West Virginia)
-Drew Ogle, Rose Center Council for the Arts (Morristown, Tennessee)
-Maria Claudia Parias, Fundación Nacional Batuta (Bogota, Colombia)
-Vandana Ram, Bankstown Arts Centre (Sydney, Australia)
-Tiffany Rea-Fisher, Elisa Monte Dance (New York, New York)
-Lynn Scarff, Science Gallery Dublin (Dublin, Ireland)
-J. Deacon Stone, Coalfield Development (Huntington, West Virginia)
-Kelli Strickland, The Hypocrites (Chicago, Illinois)
-Beth Takekawa, Wing Luke Museum of the Asian Pacific American Experience (Seattle, Washington)
-Teal Thibaud, Glass House Collective (Chattanooga, Tennessee)
-Britt Udesen, The Loft Literary Center (Minneapolis, Minnesota)
-Jonna Ward, The Seattle Public Library Foundation (Seattle, Washington)
-Matthew Wilson, MASSCreative (Boston, Massachusetts)
-Sylvia Wolf, Henry Art Gallery (Seattle, Washington)
-Jenni Wolfson, Chicken & Egg Pictures (Brooklyn, New York)
-Angel Ysaguirre, Illinois Humanities (Chicago, Illinois)
 This program is the result of the incredible support from The Kresge Foundation, The Educational
 Foundation of America and The Chief Executive Fellowship Fund Honoring Ken Fischer. The
 partnerships of Harvard Business School and the University of Michigan, Ross School of Business
 make this work possible. Additional information about The Chief Executive Program: Community &
-Culture is available at www.artstrategies.org.
-About National Arts Strategies
+Culture is available at <a href="http://www.artsstrategies.org">www.artstrategies.org.</a>
+
+<b>About National Arts Strategies</b>
+
 National Arts Strategies (NAS) strengthens the arts and culture sector by creating
 meaningful and useful educational experiences for leaders at all levels of the ecosystem –
 from boards and CEOs to entrepreneurs and artists – giving them the tools, connections and
@@ -114,6 +66,7 @@ and leadership capacities. Our model is to build connections that have a high le
 and that are both deep and broad: we work closely with individual communities and
 connect local leaders with a broad and diverse network of likely and unlikely allies from
 across the globe.
+
 Our approach brings concepts and frameworks from outside the sector to bear on the
 seemingly intractable problems that arts leaders face every day. We partner with faculty
 from top-tier universities who excel in both researching and teaching to deliver programs
