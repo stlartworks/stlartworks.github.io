@@ -57,27 +57,8 @@ For information about Volunteer Opportunities, please read the information at th
 
 <div id="wufoo-qecsxr519eqmvz"><iframe id="wufooFormqecsxr519eqmvz" class="wufoo-form-container" height="616" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://stlartworks.wufoo.com/embed/qecsxr519eqmvz/def/embedKey=qecsxr519eqmvz134293&amp;entsource=&amp;referrer=">&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a href=&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;&amp;amp;amp;amp;amp;amp;amp;amp;lt;a href=&amp;amp;amp;amp;amp;amp;quot;&amp;amp;amp;amp;amp;lt;a href=&amp;amp;amp;quot;&amp;amp;lt;a href=&quot;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;quot&quot;&amp;amp;gt;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;quot&amp;amp;lt;/a&amp;amp;gt;; data-cms-cid=&amp;amp;amp;quot;6676&amp;amp;amp;quot;&amp;amp;amp;amp;amp;gt;&amp;amp;lt;a href=&quot;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;gt&quot;&amp;amp;gt;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;gt&amp;amp;lt;/a&amp;amp;gt;;; data-cms-cid=&amp;amp;amp;amp;amp;amp;quot;3535&amp;amp;amp;amp;amp;amp;quot;&amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;a href=&amp;amp;amp;quot;&amp;amp;lt;a href=&quot;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;gt&amp;amp;amp;amp;quot&quot;&amp;amp;gt;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;gt&amp;amp;amp;amp;quot&amp;amp;lt;/a&amp;amp;gt;; data-cms-cid=&amp;amp;amp;quot;6679&amp;amp;amp;quot;&amp;amp;amp;amp;amp;gt;&amp;amp;lt;a href=&quot;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;gt&amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;gt&quot;&amp;amp;gt;https://stlartworks.wufoo.com/forms/qecsxr519eqmvz/&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot&amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;gt&amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;gt&amp;amp;lt;/a&amp;amp;gt;;;; title=&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;html form&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Fill out my Wufoo form!&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;</iframe></div>
 
-<b>VOLUNTEER OPPORTUNITIES: </b> Listed below are a few volunteer opportunities available with ArtWorks in 2016. If you are interested in volunteering, please indicate your area of interest and availability in the above box marked "additional comments". Thank you for your support!
+<b>VOLUNTEER OPPORTUNITIES: </b> St. Louis ArtWorks has volunteer opportunities throughout the year. If you are interested in volunteering, please indicate your area of interest and availability in the above box marked "additional comments". Thank you for your support!
 
-<b>INTERVIEW DAY VOLUNTEERS </b>
-
-Summer Interview Day: Saturday, April 23 8:30am-2pm<br> 
-Fall Interview Day: Saturday, August 27, 9am-2pm
-
-As part of the application process for apprenticeships, interested youth must interview for positions with St. Louis ArtWorks. We need volunteers to assist with the Interview Day for potential apprentices at our studio at 5959 Delmar. We ask for a 2-hour commitment, but welcome any time you are able to give. Whenever possible, we try to pair interviewers to meet with each apprentice-applicant for 20-25 minutes.
- 
-The interview questions are provided to volunteers in advance,  as well as tips on conducting a successful interview with a teenager.
-
-Volunteers report that this is the best and most engaging experience they have enjoyed with St. Louis ArtWorks. Participating in Interview Day makes a lasting contribution to the work we do.  
-
-
-<b>SPECIAL EVENTS VOLUNTEERS</b>
-
-<b>2016 ART-B-Q – Friday, April 29, 2016</b>
-<br>St. Louis ArtWorks is seeking volunteers for setup and cleanup at our annual fundraising event, the ART-B-Q!  Setup volunteers needed throughout the day on Friday, April 29, anytime from 10am – 3pm. Cleanup volunteers needed from 9pm – 10pm that night.  All funds raised from this event go directly toward providing apprenticeship opportunities for St. Louis youth. Please contact Vicki at St. Louis ArtWorks in advance, so we may schedule volunteers accordingly. Volunteers may be asked to walk, bend, and lift items up to 25 lbs.  
-
-<b>Historic Shaw Art Fair – Saturday, Oct. 1 and Sunday, Oct. 2, 2016</b>
-<br>St. Louis ArtWorks participates in the annual Historic Shaw Art Fair during the first weekend of October. Volunteer responsibilities include explaining the work of our apprentices, engaging visitors to our booth, and helping staff sell apprentice artwork. This is an outdoor event and volunteers may be on their feet. 
 
 <script type="text/javascript">var qecsxr519eqmvz;(function(d, t) {
 var s = d.createElement(t), options = {
