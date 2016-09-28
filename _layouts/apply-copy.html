@@ -1,0 +1,14 @@
+---
+layout: default
+bodyclass: apply
+---
+
+{% include img-banner.html %}
+
+{% include main-content.html %}
+
+{% if page.unique-cta == true %}
+{% include unique-cta.html %}
+{% else %}
+{% include mega-cta.html %}
+{% endif %}
