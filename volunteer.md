@@ -1,5 +1,4 @@
 ---
-apply: true
 layout: volunteer
 seoTitle: 'Volunteer today!'
 seoDescription: 'Volunteer at STLOUISARTWORKS today!'
