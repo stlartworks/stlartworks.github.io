@@ -13,5 +13,5 @@ mega-cta-heading: 'Join us!'
 mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:program.manager@stlartworks.org'
 ---
-Volunteer today
+The sign-up form will be posted in a few days!
 
