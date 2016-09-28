@@ -46,6 +46,10 @@
   url: news
   teaser: "Latest announcements"
 
+- nav-item: Volunteer
+  url: volunteer
+  teaser: "Teamwork makes the dream work!"
+  
 - nav-item: Contact
   url: contact
   teaser: "How can we help?"
