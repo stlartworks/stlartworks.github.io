@@ -1,7 +1,6 @@
 - sponsor: Artmart
   image: sponsors-artmart.png
   description: "Thank you!" 
-  url: http://www.artmartstl.com/
 - sponsor: St. Louis County Children’s Service Fund
   image: sponsors-stl-childrens-fund.png
   description: "Thank you!"
@@ -108,7 +107,6 @@
 - sponsor: ContinuitySTL
   image: sponsors-continuity-logo.png
   description: "Thank you!" 
-  url: http://www.continuitystl.com
   
 - sponsor: City of St. Louis' Community Development Administration.
   image: cda-stl.png
