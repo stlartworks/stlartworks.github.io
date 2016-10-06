@@ -1,3 +1,7 @@
+- sponsor: Artmart
+  image: sponsors-artmart.png
+  description: "Thank you!" 
+  url: http://www.artmartstl.com/
 - sponsor: St. Louis County Children’s Service Fund
   image: sponsors-stl-childrens-fund.png
   description: "Thank you!"
@@ -43,9 +47,9 @@
 - sponsor: Saint Louis Art Museum
   image: sponsors-stlouis-art-museum.png
   description: "Thank you!"
-# - sponsor: Southern Illinois University Edwardsville
-#  image: sponsors-siue.png
-#  description: "Thank you!"
+- sponsor: Southern Illinois University Edwardsville
+  image: sponsors-siue.png
+  description: "Thank you!"
 - sponsor: University of Missouri St. Louis
   image: sponsors-umsl.png
   description: "Thank you!"
@@ -113,8 +117,5 @@
   description: "Thank you!" 
   url: https://www.stlouis-mo.gov/cda/
   
-- sponsor: Artmart
-  image: sponsors-artmart.png
-  description: "Thank you!" 
-  url: http://www.artmartstl.com/
+
   
