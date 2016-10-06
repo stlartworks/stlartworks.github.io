@@ -61,24 +61,24 @@
 - sponsor: Dana Brown Foundation
   image: sponsors-dana-brown.png
   description: "Thank you!"
-- sponsor: US Bank
-  image: sponsors-us-bank.png
-  description: "Thank you!"
+# sponsor: US Bank
+# image: sponsors-us-bank.png
+# description: "Thank you!"
 - sponsor: Roblee Foundation
   image: sponsors-roblee-foundation.png
   description: "Thank you!"
-- sponsor: Great Rivers Greenway
-  image: sponsors-great-rivers-greenway.png
-  description: "Thank you!"
+# sponsor: Great Rivers Greenway
+# image: sponsors-great-rivers-greenway.png
+# description: "Thank you!"
 - sponsor: William Kerr Foundation
   image: sponsors-wakf.png
   description: "Thank you!"
 - sponsor: Boeing
   image: sponsors-boeing.png
   description: "Thank you!"
-- sponsor: First Bank
-  image: sponsors-first-bank.png
-  description: "Thank you!"
+# sponsor: First Bank
+# image: sponsors-first-bank.png
+# description: "Thank you!"
 - sponsor: Monsanto Fund
   image: sponsors-monsanto-fund.png
   description: "Thank you!"
@@ -95,19 +95,15 @@
 - sponsor: Clark-Fox Family Foundation
   image: sponsors-clark-fox.png
   description: "Thank you!"  
-  
 - sponsor: Staenberg Family Foundation
   image: sponsors-staenberg.png
   description: "Thank you!"  
-  
 - sponsor: Tegna Foundation
   image: sponsors-tenga.png
   description: "Thank you!"  
-  
 - sponsor: ContinuitySTL
   image: sponsors-continuity-logo.png
   description: "Thank you!" 
-  
 - sponsor: City of St. Louis' Community Development Administration.
   image: cda-stl.png
   description: "Thank you!" 
