@@ -38,9 +38,9 @@
 - sponsor: TRIO Foundation of St. Louis
   image: sponsors-the-trio-foundation.png
   description: "Thank you!"
-- sponsor: Incarnate Word Foundation
-  image: sponsors-incarnate-word-foundation.png
-  description: "Thank you!"
+# sponsor: Incarnate Word Foundation
+# image: sponsors-incarnate-word-foundation.png
+# description: "Thank you!"
 - sponsor: ESCO Technologies
   image: sponsors-esco.png
   description: "Thank you!"
