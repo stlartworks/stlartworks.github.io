@@ -18,5 +18,5 @@ mega-cta-button-text-url: 'mailto:events@stlartworks.org'
 <p>
 ### Available Spaces and Pricing
 
-<center>Download [SLAW Rental Information](/uploads/SLAWrentalINFO.pdf) here!</center>
+<center>Download [SLAW Rental Information](/uploads/slawrentalinfo.pdf) here!</center>
 
