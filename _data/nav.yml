@@ -30,10 +30,6 @@
   url: instructors
   teaser: "Our instructors are AMAZING!"
   
-  - nav-item: Events
-  url: events
-  teaser: "Host your event at ARTWORKS"
-  
 - nav-item: Support
   url: support
   teaser: "Sharing is caring!"
@@ -45,6 +41,10 @@
 - nav-item: Board
   url: board
   teaser: "We have the best board in STL"
+  
+- nav-item: Events
+  url: events
+  teaser: "Host your event at ARTWORKS"
 
 - nav-item: News
   url: news
