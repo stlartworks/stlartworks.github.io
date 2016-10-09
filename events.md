@@ -2,7 +2,7 @@
 layout: events
 seoTitle: 'Have your event at STLOUISARTWORKS'
 seoDescription: 'Contact STLOUISARTWORKS about hosting your special event'
-featureImg: ARTBQ2.jpg
+featureImg: images/ARTBQ2.jpg
 featureStatement: 'Events'
 title: Reserve a day
 subtitle: 'Host your event at ST. LOUIS ARTWORKS'
