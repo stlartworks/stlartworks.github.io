@@ -21,5 +21,7 @@ mega-cta-button-text-url: 'mailto:events@stlartworks.org'
 
 ### Download [SLAW Rental Information](/uploads/slawrentalinfo.pdf) here!
 ---
-EVENTS CALENDAR: Reserved event dates are listed below. Please note that events can only be hosted outside of St. Louis ArtWorks program hours. For more details, please see the SLAW rental information document, listed above this calendar. Thank you for your interest and support!
+EVENTS CALENDAR: Reserved event dates are listed below. Please email or call us to reserve a space for your special event! Please note that events can only be hosted outside of St. Louis ArtWorks program hours. 
+
+For more details about room sizes, fees, rentals, etc., please review the SLAW Rental Information document. Thank you for your interest and support!
 <iframe src="https://calendar.google.com/calendar/embed?src=stlartworks.org_ankslqc4gt7q2ohfhnof5u36l8%40group.calendar.google.com&ctz=America/Chicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
