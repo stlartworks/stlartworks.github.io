@@ -2,10 +2,6 @@
   url:
   teaser: "Home is where the ART is!"
 
-- nav-item: Support
-  url: support
-  teaser: "Sharing is caring!"
-
 - nav-item: About
   url: "about"
   teaser: "Young creatives UNITE!"
@@ -33,6 +29,14 @@
 - nav-item: Instructors
   url: instructors
   teaser: "Our instructors are AMAZING!"
+  
+  - nav-item: Events
+  url: events
+  teaser: "Host your event at ARTWORKS"
+  
+- nav-item: Support
+  url: support
+  teaser: "Sharing is caring!"
 
 - nav-item: Staff
   url: staff
@@ -45,10 +49,6 @@
 - nav-item: News
   url: news
   teaser: "Latest announcements"
-
-- nav-item: Events
-  url: events
-  teaser: "Host your event at ARTWORKS"
 
 - nav-item: Volunteer
   url: volunteer
