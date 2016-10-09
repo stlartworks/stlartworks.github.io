@@ -5,7 +5,7 @@ seoDescription: 'Contact STLOUISARTWORKS about hosting your special event'
 featureImg: mural-003.jpg
 featureStatement: 'Events'
 title: Reserve a day
-subtitle: 'Host your event at STLOUISARTWORKS'
+subtitle: 'Host your event at ST. LOUIS ARTWORKS'
 permalink: /events/
 unique-cta: true
 mega-cta-img: ville-02.jpg
