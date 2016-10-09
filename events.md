@@ -8,7 +8,7 @@ title: Reserve a day
 subtitle: 'Host your event at ST. LOUIS ARTWORKS'
 permalink: /events/
 unique-cta: true
-mega-cta-img: ville-02.jpg
+mega-cta-img: ARTBQ2.jpg
 mega-cta-heading: 'Join us!'
 mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:events@stlartworks.org'
