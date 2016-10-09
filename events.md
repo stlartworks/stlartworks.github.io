@@ -15,8 +15,9 @@ mega-cta-button-text-url: 'mailto:events@stlartworks.org'
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aHOn6-I_PAk" frameborder="0" allowfullscreen></iframe>
 ---
-<p>
+---
+
 ### Available Spaces and Pricing
 
-<center>Download [SLAW Rental Information](/uploads/slawrentalinfo.pdf) here!</center>
+Download [SLAW Rental Information](/uploads/slawrentalinfo.pdf) here!
 
