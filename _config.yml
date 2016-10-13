@@ -255,7 +255,7 @@ markdown: kramdown
 # SAFE MODE
 # -----------------------------------------------------------------------------
 
-safe: true
+safe: false
 # Use "true" if you intend to let gitHub automatically build your pages
 
 # GitHub Pages is powered by Jekyll, however all Pages sites are generated using the --safe option to disable custom plugins for security reasons. Unfortunately, this means your plugins won’t work if you’re deploying to GitHub Pages.
