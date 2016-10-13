@@ -222,7 +222,7 @@ defaults:
 gems:
 # Plugin list
   - jemoji # Emoji please!
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  # - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   # - jekyll-mentions
   # - jekyll-redirect-from
 
