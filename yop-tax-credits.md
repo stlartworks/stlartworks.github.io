@@ -38,8 +38,8 @@ To learn more about YOP tax credit opportunities, please contact Priscilla Block
 - RETURN TO ST. LOUIS ARTWORKS - Mail the copy of your canceled check and notarized application to ArtWorks for submission to the Department of Economic Development.
 
 St. Louis ArtWorks
-5959 Delmar Blvd.
-St. Louis, MO 63112
+<br>5959 Delmar Blvd.
+<br>St. Louis, MO 63112
 
 
 ## Frequently Asked Question from Donors 
