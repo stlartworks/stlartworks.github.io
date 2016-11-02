@@ -29,7 +29,7 @@ Missouri Taxpayers: St. Louis ArtWorks contributors receive 50% of their monetar
 
 To learn more about YOP tax credit opportunities, please contact Priscilla Block, Executive Director, priscilla.block@stlartworks.org or 314-899-9734.
 
-<b><u>Please follow these steps if you would like to apply for Missouri Tax Credits:</b></u>
+<b><u>Please follow these steps if you would like to apply for Missouri Tax Credits:</u>
 
 - Contact St. Louis ArtWorks - Call 314-899-9736 to see if tax credits are still available and receive an application.
 - COPY OF CANCELED CHECK- Request a copy of the back of check from your bank showing it has been canceled.
