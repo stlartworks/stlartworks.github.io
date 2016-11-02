@@ -2,7 +2,7 @@
 layout: support
 
 seoTitle: YOP Tax Credits Available
-seoDescription: St. Louis ArtWorks is proud to offer State of Missouri Youth Opportunities Program (YOP) Tax Credits to our contributors. Please specify that you would like to utilize tax credits upon making your donation (minimum of $500 donation).
+seoDescription: St. Louis ArtWorks is proud to offer State of Missouri Youth Opportunities Program (YOP) Tax Credits to our contributors. Please specify that you would like to utilize these tax credits upon making your donation.
 
 featureImg: family-001.jpg
 featureStatement: YOP Tax Credits
@@ -19,7 +19,7 @@ mega-cta-button-text: Questions?
 mega-cta-button-text-url:  mailto:info@stlartworks.org
 ---
 
-St. Louis ArtWorks is proud to offer State of Missouri Youth Opportunities Program (YOP) Tax Credits to our contributors. Please specify that you would like to utilize tax credits upon making your donation (minimum of $500 donation).
+St. Louis ArtWorks is proud to offer State of Missouri Youth Opportunities Program (YOP) Tax Credits to our contributors. Please specify that you would like to utilize these tax credits upon making your donation.
 
 ## Youth Opportunities Program (YOP) Tax Credits
 
@@ -33,11 +33,11 @@ To learn more about YOP tax credit opportunities, please contact Priscilla Block
 
 Please follow these steps if you would like to apply for Missouri Tax Credits:
 
-- Contact St. Louis ArtWorks - Call 314-899-9734 to see if tax credits are still available and receive an application.
+- Contact St. Louis ArtWorks - Call 314-899-9736 to see if tax credits are still available and receive an application.
 - COPY OF CANCELED CHECK- Request a copy of the back of check from your bank showing it has been canceled.
 - NOTARIZE THE APPLICATION - Your application must be notarized before submitting for approval.
 - FILL OUT & SIGN THE APPLICATION - Be sure to include your signature on the application.
-- RETURN TO ST. LOUIS ARTWORKS - Mail your canceled check and notarized application to ArtWorks for submission to the Department of Economic Development.
+- RETURN TO ST. LOUIS ARTWORKS - Mail the copy of your canceled check and notarized application to ArtWorks for submission to the Department of Economic Development.
 
 St. Louis ArtWorks
 5959 Delmar Blvd.
@@ -69,7 +69,7 @@ Adjusted tax liability $: $1,500
 *Note: Consult your tax advisor for further guidance on how these rules apply to you individually.
 
 ### Q. How can the donor obtain the forms needed to claim the tax credits?
-A. Form CDTC-770 Tax Credit Application can be obtained from the approved organization to which the donor made the contribution. To obtain the MO-TC form, contact the Missouri Department of Revenue at 800-877-6881 or download it from their website at http://www.dor.mo.gov.
+A. Form CDTC-770 Tax Credit Application can be obtained from the approved organization to which the donor made the contribution. To obtain the MO-TC form, contact the Missouri Department of Revenue at 800-877-6881 or download it from their website  <ahref="https://ded.mo.gov/upload/taxcreditapplication.pdf">by clicking here</a>.
  
 ### Q. If there a maximum amount a donor can contribute for YOP tax credits?
 A. Yes. A donor may receive no more than $200,000 in YOP tax credits in one tax year for contributions made to one or more YOP approved projects unless the projects are located in blighted or distressed areas of the state.
