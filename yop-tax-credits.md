@@ -35,7 +35,7 @@ To learn more about YOP tax credit opportunities, please contact Priscilla Block
 - COPY OF CANCELED CHECK - Request a copy of the back of the check from your bank showing it has been canceled.
 - NOTARIZE THE APPLICATION - Your application must be notarized before submitting for approval.
 - FILL OUT & SIGN THE APPLICATION - Be sure to include your signature on the application.
-- RETURN TO ST. LOUIS ARTWORKS - Mail the copy of your canceled check and notarized application to St. Louis ArtWorks for submission to the Department of Economic Development: St. Louis ArtWorks, 5959 Delmar Blvd., St. Louis, MO 63112.
+- RETURN TO ST. LOUIS ARTWORKS - Mail the copy of your canceled check and notarized application to St. Louis ArtWorks for submission to the Department of Economic Development: <b>St. Louis ArtWorks, 5959 Delmar Blvd., St. Louis, MO 63112.
 
 
 ## Frequently Asked Question from Donors 
