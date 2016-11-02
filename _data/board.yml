@@ -26,13 +26,6 @@
   photo: rhoads-hall.jpg
   quote: "Making money is art and working is art and good business is the best art."
   artist: Andy Warhol
-- name: Halley Abbott
-  title: ''
-  profession: 'IBCU Account Executive'
-  employer: MasterCard Worldwide
-  photo: halleyabbottweb.jpg
-  quote: The artist vocation is to send light into the human heart.
-  artist: George Sand
 - name: Joseph Brinkmann
   title: ''
   profession: 'Architect, President'
@@ -124,13 +117,6 @@
   photo: matt-macewan.jpg
   quote: "Without art, the crudeness of reality would make the world unbearable."
   artist: George Bernard Shaw
-- name: Samantha Palans
-  title: ''
-  profession: Communications Specialist
-  employer: Edward Jones
-  photo: samanthapalansweb.jpg
-  quote: "Every picture shows a spot with which the artist has fallen in love."
-  artist: Alfred Sisley
 - name: David Seevers
   title: ''
   profession: 'Vice President, Operations-Health Plans'
