@@ -31,11 +31,11 @@ To learn more about YOP tax credit opportunities, please contact Priscilla Block
 
 <b><u>Please follow these steps if you would like to apply for Missouri Tax Credits:</b></u>
 
--1) Contact St. Louis ArtWorks - Call 314-899-9736 to see if tax credits are still available and receive an application.
--2) COPY OF CANCELED CHECK- Request a copy of the back of check from your bank showing it has been canceled.
--3) NOTARIZE THE APPLICATION - Your application must be notarized before submitting for approval.
--4) FILL OUT & SIGN THE APPLICATION - Be sure to include your signature on the application.
--5) RETURN TO ST. LOUIS ARTWORKS - Mail the copy of your canceled check and notarized application to ArtWorks for submission to the Department of Economic Development.
+- Contact St. Louis ArtWorks - Call 314-899-9736 to see if tax credits are still available and receive an application.
+- COPY OF CANCELED CHECK- Request a copy of the back of check from your bank showing it has been canceled.
+- NOTARIZE THE APPLICATION - Your application must be notarized before submitting for approval.
+- FILL OUT & SIGN THE APPLICATION - Be sure to include your signature on the application.
+- RETURN TO ST. LOUIS ARTWORKS - Mail the copy of your canceled check and notarized application to ArtWorks for submission to the Department of Economic Development.
 
 St. Louis ArtWorks
 5959 Delmar Blvd.
