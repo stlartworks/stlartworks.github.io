@@ -79,3 +79,5 @@ A. Yes. The contributor has the tax year the contribution was given and five suc
  
 ### Q. Are the tax credits sellable or transferable?
 A. No.
+
+###THANK YOU for #MakingArtWorkSTL!
