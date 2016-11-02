@@ -58,10 +58,11 @@ A. Approximately 2 weeks. However, depending on the volume received from Decembe
 ### Q. What is the process to use YOP tax credits on the donor's tax return?
 A. The donor makes a contribution to an approved YOP project, submits Form CDTC-770 with the required documentation, and receives a certification from the Department of Economic Development. The taxpayer may then file their tax return at the end of their tax year, using the MO-TC form. The tax credits are applied to their total tax liability incurred for that tax period. 
 
-For example: a contributor makes a $1,000 contribution to an approved YOP project:
-<br>Total tax liability for tax year 20XX: $2,000
-<br>Tax Credits: $500
-<br>Adjusted tax liability $: $1,500
+<b>For example:</b>
+A contributor makes a $1,000 contribution to an approved YOP project:
+- Total tax liability for tax year 20XX: $2,000
+- Tax Credits: $500
+- Adjusted tax liability $: $1,500
 <br><i>*Note: Consult your tax advisor for further guidance on how these rules apply to you individually.</i>
 
 ### Q. How can the donor obtain the forms needed to claim the tax credits?
