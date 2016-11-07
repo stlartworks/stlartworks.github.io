@@ -6,6 +6,10 @@
   url: about
   teaser: "Young creatives UNITE!"
 
+- nav-item: DONATE!
+  url: support
+  teaser: "Invest in our youth"
+
 - nav-item: Programs
   url: programs
   teaser: "Best creative programs in STL, period."
@@ -29,10 +33,6 @@
 - nav-item: Instructors
   url: instructors
   teaser: "Our instructors are AMAZING!"
-  
-- nav-item: DONATE!
-  url: support
-  teaser: "Invest in our youth"
 
 - nav-item: Staff
   url: staff
