@@ -8,7 +8,7 @@
 
 - nav-item: Programs
   url: programs
-  teaser: "Best creative programs in STL period."
+  teaser: "Best creative programs in STL, period."
 
 - nav-item: Apply
   url: apply
@@ -32,7 +32,7 @@
   
 - nav-item: DONATE!
   url: support
-  teaser: "Invest in Our Youth"
+  teaser: "Invest in our youth"
 
 - nav-item: Staff
   url: staff
