@@ -3,7 +3,7 @@
   teaser: "Home is where the ART is!"
 
 - nav-item: About
-  url: "about"
+  url: about
   teaser: "Young creatives UNITE!"
 
 - nav-item: Programs
@@ -30,9 +30,9 @@
   url: instructors
   teaser: "Our instructors are AMAZING!"
   
-- nav-item: Support
+- nav-item: DONATE!
   url: support
-  teaser: "Sharing is caring!"
+  teaser: "Invest in Our Youth"
 
 - nav-item: Staff
   url: staff
