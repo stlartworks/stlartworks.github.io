@@ -8,7 +8,7 @@ featureImg: family-001.jpg
 featureStatement: DONATE
 
 title: Thank you
-subtitle: We are grateful for your support
+subtitle: We are grateful for your donations!
 permalink: /support/
 
 unique-cta: true
@@ -46,11 +46,11 @@ Or, visit our [Youth Opportunities Program (YOP) Tax Credits page](/yop-tax-cred
     <img src="http://widgets.guidestar.org/gximage2?o=7661363&l=v4" />
 </a></center>
 
-### Support us today
+### Donate today
 
 Please complete all fields of the form below and click the "submit" button. You will be taken to the secure Paypal processing page for payment. Thank you! 
 
-<i>Please note: if you are using a Mac, please skip the form below and go directly to PayPal.com to make your gift to ArtWorks.</i>
+<i>Please note: if you are using a Mac, please skip the form below and go directly to PayPal.com to make your gift to St. Louis ArtWorks.</i>
 
 For information about Volunteer Opportunities, please read the information at the bottom of this page. Thank you for your support!
 
