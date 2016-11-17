@@ -67,7 +67,7 @@ A. The donor makes a contribution to an approved YOP project, submits Form CDTC-
 <i>*Note: Consult your tax advisor for further guidance on how these rules apply to you individually.</i>
 
 ### Q. How can the donor obtain the forms needed to claim the tax credits?
-A. Form CDTC-770 Tax Credit Application can be obtained from the approved organization to which the donor made the contribution. To obtain the MO-TC form, contact the Missouri Department of Revenue at 800-877-6881 or download it from their website  <a href= "https://ded.mo.gov/upload/taxcreditapplication.pdf">by clicking here</a>.
+A. Form CDTC-770 Tax Credit Application can be obtained from the approved organization to which the donor made the contribution. To obtain the MO-TC form, contact the Missouri Department of Revenue at 800-877-6881 or download it from their website  <a href= "https://www.ded.mo.gov/sites/default/files/programs/program-documents/YOPtaxcreditapplication15.pdf">by clicking here</a>.
  
 ### Q. If there a maximum amount a donor can contribute for YOP tax credits?
 A. Yes. A donor may receive no more than $200,000 in YOP tax credits in one tax year for contributions made to one or more YOP approved projects unless the projects are located in blighted or distressed areas of the state.
