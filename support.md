@@ -35,7 +35,7 @@ If you are liable for Missouri taxes (individuals and corporations) you could ta
 
 <i>*Note: Consult your tax advisor for further guidance on how these rules apply to you individually.</i>
 
-To learn more about YOP tax credit opportunities, please contact Priscilla Block, Executive Director, priscilla.block@stlartworks.org or call 314-899-9734.
+To learn more about YOP tax credit opportunities, please contact Priscilla Block, Executive Director at <a href="mailto: priscilla.block@stlartworks.org">priscilla.block@stlartworks.org</a> or call 314-899-9734.
 
 Or, visit our [Youth Opportunities Program (YOP) Tax Credits page](/yop-tax-credits/)
 
@@ -46,10 +46,9 @@ Or, visit our [Youth Opportunities Program (YOP) Tax Credits page](/yop-tax-cred
     <img src="http://widgets.guidestar.org/gximage2?o=7661363&l=v4" />
 </a></center>
 
-### Donate today
+### Donate Today
 
 Please click the paypal link below, and you will be taken to the secure Paypal processing page to complete your donation. Thank you! 
-
 <center><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2R55J3XLQZYWL"><img border="0" alt="Donate2STLArtWorks" src="/images/PayPalDonateButton.jpg" width="353" height="171"></a></center>
 
 <b>VOLUNTEER OPPORTUNITIES: </b> St. Louis ArtWorks has volunteer opportunities throughout the year, including interview days, apprentice art sales, and more. If you would like to volunteer, please email us at <a href="mailto:volunteer@stlartworks.org">volunteer@stlartworks.org</a> indicating your area/s of interest as well as your days and times of availability. Thank you for your support!
