@@ -18,9 +18,9 @@ mega-cta-heading: Join us!
 mega-cta-button-text: Questions?
 mega-cta-button-text-url:  mailto:info@stlartworks.org
 ---
-Every dollar you donate helps us provide quality job training and art education for teens who otherwise might not have the opportunity to bring home a paycheck and learn valuable job and life skills at the same time. Your funding helps us provide them with the best teaching artists and ensures that we can provide the materials and tools they need to exercise their full creative potential as they learn. Here are some examples of how far your donations can go...
+Every dollar you donate is an investment to provide quality job training and art education for teens who otherwise might not have the opportunity to bring home a paycheck, while learning valuable job and life skills. Your donation helps provide apprentices with the best teaching artists and ensures that we can provide the materials and tools they need to exercise their full creative potential as they learn. 
 
-### Here's what your gift can accomplish...
+### Here's what your gift can accomplish:
 
 * $30 will cover the cost of 1 participant in our After-School Program for 1 week.
 * $75 can provide uniforms for 12 Apprentices.
@@ -28,7 +28,7 @@ Every dollar you donate helps us provide quality job training and art education 
 * $350 can fund an After-School Apprentice stipend for an entire semester.
 * $1,000 is enough to fund an Apprentice stipend for the entire summer.
 
-### Donate Today
+### Donate NOW - Invest in St. Louis Youth!
 
 Please click the paypal link below, and you will be taken to the secure Paypal processing page to complete your donation. Thank you! 
 <center><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2R55J3XLQZYWL"><img border="0" alt="Donate2STLArtWorks" src="/images/PayPalDonateButton.jpg" width="353" height="171"></a></center>
