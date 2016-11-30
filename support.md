@@ -50,12 +50,7 @@ Or, visit our [Youth Opportunities Program (YOP) Tax Credits page](/yop-tax-cred
 
 Please click the paypal link below, and you will be taken to the secure Paypal processing page to complete your donation. Thank you! 
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="2R55J3XLQZYWL">
-<input type="image" src="https://drive.google.com/file/d/0B3MbJSqhCOxAaWxYOWc1ZlowM0E/view?usp=sharing" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+<center><a href="https://www.paypal.com/donate/?token=T2srEq1yS09__s-bLEuEUgbQr0wU4NytO3ZN2mJ56fEv3HSfSsAIlXUeqTuIwKM8_e7IVW"><img border="0" alt="Donate2STLArtWorks" src="PayPalDonateButton.jpg" width="543" height="263"></a></center>
 
 <b>VOLUNTEER OPPORTUNITIES: </b> St. Louis ArtWorks has volunteer opportunities throughout the year, including interview days, apprentice art sales, and more. If you would like to volunteer, please email us at <a href="mailto:volunteer@stlartworks.org">volunteer@stlartworks.org</a> indicating your area/s of interest as well as your days and times of availability. Thank you for your support!
 
