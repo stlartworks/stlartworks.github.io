@@ -25,7 +25,8 @@ Every dollar you donate helps us provide quality job training and art education 
 * $30 will cover the cost of 1 participant in our After School Program for 1 week.
 * $75 provides uniforms for 12 Apprentices.
 * $150 buys food for the After School Program.
-* $1000 is enough to fund an Apprentice stipend for the entire summer.
+* $350 can fund an after-school Apprentice stiped for an entire semester.
+* $1,000 is enough to fund an Apprentice stipend for the entire summer.
 
 ### Donate Today
 
