@@ -22,21 +22,24 @@ mega-cta-button-text-url: maito:info@stlartworks.org
 
 ArtWorks takes commissions to make public and private art through ArtWorks Enterprises (AWE). There are three divisions of AWE, including Boomerang Press/Media, BloomWorks and BoomerRacks. Through these social enterprises, we have been commissioned by:
 
-- MSD
-- St. Louis County Children's Service Fund
-- St. Louis 4 Kids/Blueprint4Summer
+MSD
+- Incarnate Word Foundation
+- St. Louis County Children’s Service Fund
+- Clark-Fox Family Foundation
 - St. Louis Cardinals
-- Schnucks
-- Grace Hill
+- Olio 
+- The Nature Conservancy
+- St. Louis 4 Kids/Blueprint4Summer
+- Centene Corporation
+- Missouri Foundation for Health
 - Acropolis Investment Management
 - Enterprise Rent-A-Car
 - St. Louis County Economic Council
-- Premier Realty
 - Third Baptist Church
 - Lutheran Foundation
 - Scholarship Foundation of St. Louis
-- Busch Gardens
-- and many more!
+and many more!
+
 
 ### ![boomerang press/media](/images/boomerang-press-media.jpg)
 Boomerang Press/Media offers graphic design and multimedia services to create:
