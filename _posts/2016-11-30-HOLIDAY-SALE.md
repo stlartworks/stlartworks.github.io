@@ -4,7 +4,7 @@ title: St. Louis ArtWorks Presents Annual Holiday Sale
 
 featureImg: mandalasWEB.jpg
 
-teaser: Come welcome warm weather with us on Saturday, May 2nd (11a-2p) at our Old North Studio 2707 N 14th Street
+teaser: Three Hours ONLY!
 
 homepage: true
 
@@ -21,14 +21,13 @@ Forget Black Friday sales, join us for ART SATURDAY at St. Louis ArtWorks HOLIDA
 
 More than 130 apprentice artists have created original works of art this year for sale to the public. You'll find wearables, cards, prints, framed artwork, sculpture, home and garden art - there's something for EVERYone on your list! Happy Holidays from St. Louis ArtWorks, where we Create Opportunities with ART from the HEART! 
 
-Find an original work of art for that hard-to-shop-for family member or friend! Stop by and see why St. Louis ArtWorks is a 2016 National Arts and Humanities Youth Program Awardee! bit.ly/NAHYP2016
-
+Find an original work of art for that hard-to-shop-for family member or friend! Stop by and see why St. Louis ArtWorks is a <a href="http://bit.ly/NAHYP2016">2016 National Arts and Humanities Youth Program Awardee</a>! 
 
 Cost: Entry to the SLAW Holiday Sale is FREE and open to the public! 
 Apprentice-made works of art are individually priced for sale.
 
-Where: St. Louis ArtWorks, 5959 Delmar Blvd., St. Louis, MO 63112
+Where: <a href="https://www.google.com/maps/place/St.+Louis+ArtWorks/@38.655131,-90.2949377,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8b4a4642d1825:0x58170a2e3ba600e1!8m2!3d38.655131!4d-90.292749">St. Louis ArtWorks, 5959 Delmar Blvd., St. Louis, MO 63112</a>
 
-For More information: Visit stlartworks.org, or call (314) 899-9734 
+For More information, call (314) 899-9734. 
 
-Check in on Facebook: bit.ly/2016HolidaySALE
+<a href-"http://bit.ly/2016HolidaySALE">Check in on Facebook when you arrive!</a>
