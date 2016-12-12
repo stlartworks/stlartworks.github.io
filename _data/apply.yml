@@ -1,14 +1,14 @@
 apply:
     - process:
-      open: July 15 - Applications available online
-      close: Aug. 18 - Application submission deadline
-      interview-day: Aug. 27 - Interview Day
+      open: February 15 - Applications available online
+      close: Apr. 3 - Application submission deadline
+      interview-day: TBA - Interview Day
 
     - requirements:
-      age: Ages 14 to 18 (Must be 14 years old by September 1, 2016)
+      age: Ages 14 to 18 (Must be 14 years old by January 1, 2017)
       location: Must live in the greater St. Louis area
       interests: Must have an interest in art
-      availability: Must be available to attend every day of the fall program. (Sept. - Dec.)
+      availability: Must be available to attend every day of the summer program. (June - July)
 
     - message:
-        text: Fall 2016 Apprenticeship applications are CLOSED.
+        text: St. Louis ArtWorks is not accepting applications for Spring 2017.  Applications for SUMMER 2017 will open in February.
