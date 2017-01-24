@@ -54,17 +54,9 @@
   quote: "The true beauty of music is that it connects people. It carries a message, and we, the musicians, are the messengers."
   artist: Roy Ayers
   
-- name: Daryl Gourley
-  title: ''
-  profession: Financial Advisor
-  employer: US Bank
-  photo: daryl-gourley.jpg
-  quote: 'Art is not what you see, but what you make others see.'
-  artist: Edgar Degas
-  
 - name: Shelia Hudson
   title: ''
-  profession: President/CEO
+  profession: 'President/CEO'
   employer: 'Hudson and Associates, LLC'
   photo: sheliahudson.jpg
   quote: "A work of art is, above all, an adventure of the mind."
@@ -72,15 +64,15 @@
   
 - name: Rajeev John
   title: ''
-  profession: 'Manager, Clinical Social Work'
-  employer: Grace Hill Neighborhood Health Centers
+  profession: 'Manager, Adult Behavioral Health'
+  employer: 'Affinia Healthcare'
   photo: rajeev-john.jpg
   quote: "Art is either plagiarism or revolution."
   artist: Paul Gauguin
 
 - name: Erik Karanik
   title: ''
-  profession: Financial Advisor
+  profession: 'Financial Advisor'
   employer: 'Wells Fargo Advisors, Private Client Group'
   photo: erik-karanik.jpg
   quote: "When I make art, I think about its ability to connect with others, to bring them into the process."
@@ -88,7 +80,7 @@
 
 - name: Don Kennedy
   title: ''
-  profession: Attorney-at-Law
+  profession: 'Attorney-at-Law'
   employer: 'Greensfelder, Hemker & Gale, P.C.'
   photo: donkennedy.jpg
   quote: "I don't believe in art. I believe in artists."
@@ -96,48 +88,48 @@
 
 - name: Lilly Leyh-Pierce
   title: ''
-  profession: Special Assistant to the EVC for Administration
-  employer: Washington University in St. Louis
+  profession: 'Special Assistant to the EVC for Administration'
+  employer: 'Washington University in St. Louis'
   photo: lillyLP.jpg
   quote: "A true artist is not one who is inspired, but one who inspires others."
   artist: Salvador Dali
 
-- name: Roderick Nunn
-  title: Executive VP - Head of Education and Employment
-  profession: ''
-  employer: Concordance Academy of Leadership
-  photo: rodnunn.jpg
-  quote: "Art is the most intense mode of individualism that the world has known."
-  artist: Oscar Wilde
-
 - name: Roger Macon
   title: ''
-  profession: Financial Advisor
-  employer: Edward Jones
+  profession: 'Financial Advisor'
+  employer: 'Edward Jones'
   photo: rogerm.bmp
   quote: "I like kids' work more than work by real artists any day."
   artist: Jean-Michel Basquiat
 
 - name: Meridith McKinley
   title: ''
-  profession: Partner
-  employer: Via Partnership, LLP
-  photo: Meridith1.jpg
+  profession: 'Partner'
+  employer: 'Via Partnership, LLP'
+  photo: meridith1.jpg
   quote: "If you ask me what I came into this life to do, I will tell you: I came to live out loud."
   artist: Emile Zola
+  
+- name: Roderick Nunn
+  title: ''
+  profession: 'Executive VP - Head of Education and Employment'
+  employer: 'Concordance Academy of Leadership'
+  photo: rodnunn.jpg
+  quote: "Art is the most intense mode of individualism that the world has known."
+  artist: Oscar Wilde
 
 - name: David Seevers
   title: ''
   profession: 'Vice President, Operations-Health Plans'
-  employer: Centene Corporation
+  employer: 'Centene Corporation'
   photo: david-seevers.jpg
   quote: "Art to me is a humanitarian act and I believe that there is a responsibility that art should somehow be able to effect mankind, to make the world a better place."
   artist: Jeff Koons
 
 - name: Matt Semrad
   title: ''
-  profession: Senior Vice-President of Technology
-  employer: Equifax
+  profession: 'Senior Vice-President of Technology'
+  employer: 'Equifax'
   photo: mattsemrad2.jpg
   quote: "All children are artists. The problem is how to remain an artist once we grow up."
   artist: Pablo Picasso
@@ -145,14 +137,14 @@
 - name: Steve Shumate
   title: ''
   profession: 'Associate Vice-President, Business Banking'
-  employer: UMB Bank
+  employer: 'UMB Bank'
   photo: steve-shumate.jpg
   quote: "There is only one valuable thing in art—the thing you cannot explain."
   artist: Georges Braque
 
 - name: Narcisa Symank
   title: ''
-  profession: 'Attorney'
+  profession: 'Attorney-at-Law'
   employer: 'Sandberg Phoenix & Von Gontard'
   photo: narcisa-symank.jpg
   quote: "Art is the daughter of freedom."
@@ -161,7 +153,7 @@
 - name: Kedra Tolson
   title: ''
   profession: 'Executive Director, Marketing and Communications'
-  employer: St. Louis Community College
+  employer: 'St. Louis Community College'
   photo: kedra-tolson.jpg
   quote: 'Find a beautiful piece of art. If you fall in love with Van Gogh or Matisse or John Oliver Killens, or if you fall love with the music of Coltrane, the music of Aretha Franklin, or the music of Chopin - find some beautiful art and admire it, and realize that that was created by human beings just like you, no more human, no less.'
   artist: Maya Angelou
@@ -169,7 +161,7 @@
 - name: Erika Wilson
   title: ''
   profession: 'Associate Project Manager'
-  employer: Urban Strategies, Inc.
+  employer: 'Urban Strategies, Inc.'
   photo: ErikaWilson1.jpg
   quote: "It's not who you are that holds you back, it's who you think you're not."
   artist: Jean-Michel Basquiat
