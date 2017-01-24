@@ -1,4 +1,4 @@
-- name: Kelly Scheffer
+- name: Kelly Scheffer, Board Chair
   title: Board Chair
   profession: Art History Professor
   employer: Maryville University
@@ -6,7 +6,7 @@
   quote: "To create one's world in any of the arts takes courage."
   artist: Georgia O'Keeffe
   
-- name: 'Benjamin Gandhi-Shepard'
+- name: Benjamin Gandhi-Shepard, Vice-Chair
   title: Vice-Chair
   profession: Chief Web Strategist
   employer: SOLVM
@@ -14,7 +14,7 @@
   quote: "Should graffiti be judged on the same level as modern art? Of course not—It's way more important than that."
   artist: Banksy
 
-- name: Shaughnessy Daniels
+- name: Shaughnessy Daniels, Program Chair
   title: Program Chair
   profession: 'Vice President - Community Supports'
   employer: 'St. Louis ARC'
@@ -22,7 +22,7 @@
   quote: "I try to give people a different way of looking at their surroundings. That's art to me."
   artist: Maya Lin
   
-- name: Rhoads Hall
+- name: Rhoads Hall, Treasurer
   title: Board Treasurer
   profession: Vice-President
   employer: Commercial Banking Wells Fargo
@@ -30,7 +30,7 @@
   quote: "Making money is art and working is art and good business is the best art."
   artist: Andy Warhol
   
-- name: Matt MacEwan
+- name: Matt MacEwan, Secretary
   title: Board Secretary
   profession: President / Founder
   employer: 'RETECTIX, LLC'
