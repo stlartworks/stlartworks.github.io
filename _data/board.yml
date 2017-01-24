@@ -14,6 +14,14 @@
   quote: "Should graffiti be judged on the same level as modern art? Of course not—It's way more important than that."
   artist: Banksy
 
+- name: Shaughnessy Daniels
+  title: Program Chair
+  profession: 'Vice President - Community Supports'
+  employer: 'St. Louis ARC'
+  photo: shaughnessy-daniels.jpg
+  quote: "I try to give people a different way of looking at their surroundings. That's art to me."
+  artist: Maya Lin
+  
 - name: Rhoads Hall
   title: Board Treasurer
   profession: Vice-President
@@ -21,6 +29,14 @@
   photo: rhoads-hall.jpg
   quote: "Making money is art and working is art and good business is the best art."
   artist: Andy Warhol
+  
+- name: Matt MacEwan
+  title: Board Secretary
+  profession: President / Founder
+  employer: 'RETECTIX, LLC'
+  photo: matt-macewan.jpg
+  quote: "Without art, the crudeness of reality would make the world unbearable."
+  artist: George Bernard Shaw
 
 - name: Jared Boyd
   title: ''
@@ -38,16 +54,10 @@
   quote: "The true beauty of music is that it connects people. It carries a message, and we, the musicians, are the messengers."
   artist: Roy Ayers
   
-- name: Shaughnessy Daniels
-  title: Program Chair
-  profession: 'Vice President - Community Supports'
-  employer: 'St. Louis ARC'
-  photo: shaughnessy-daniels.jpg
-  quote: "I try to give people a different way of looking at their surroundings. That's art to me."
-  artist: Maya Lin
+
   
 - name: Daryl Gourley
-  title: Board Secretary
+  title: ''
   profession: Financial Advisor
   employer: US Bank
   photo: daryl-gourley.jpg
@@ -110,13 +120,7 @@
   quote: "I like kids' work more than work by real artists any day."
   artist: Jean-Michel Basquiat
 
-- name: Matt MacEwan
-  title: Board Secretary
-  profession: President / Founder
-  employer: 'RETECTIX, LLC'
-  photo: matt-macewan.jpg
-  quote: "Without art, the crudeness of reality would make the world unbearable."
-  artist: George Bernard Shaw
+
 
 - name: David Seevers
   title: ''
