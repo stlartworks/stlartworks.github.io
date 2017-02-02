@@ -19,7 +19,7 @@ mega-cta-button-text-url: 'mailto:events@stlartworks.org'
 <br>
 ### Available Spaces and Pricing
 
-### Please note: Currently, St. Louis ArtWorks rental spaces are available to non-profit organizations with a registered 501(c)3 status, and are not available for individual private rentals such as wedding receptions or birthday parties.
+### February 1, 2017 - Currently, St. Louis ArtWorks rental spaces are available to non-profit organizations with a registered 501(c)3 status, but are <i>not</i> available for individual private rentals such as wedding receptions or birthday parties.
 ---
 EVENTS CALENDAR: Reserved event dates are listed below. Please note that events can only be hosted outside of St. Louis ArtWorks program hours. 
 For details about room sizes, fees, rentals, etc., please review the SLAW Rental Information document, <i>which will be available as of 2/10/17.</i>
