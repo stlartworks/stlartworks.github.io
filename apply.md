@@ -15,7 +15,7 @@ mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:program.manager@stlartworks.org'
 ---
 
-St. Louis ArtWorks is not accepting applications for Spring 2017.  Applications for SUMMER 2017 will open in February.
+Applications for SUMMER 2017 apprenticeships will open on February 15, 2017!
 
 Young creatives (14 - 18 years old) in the St. Louis metro area can earn a stipend through paid apprenticeships in the arts in the Fall, Spring, and Summer. 
 
