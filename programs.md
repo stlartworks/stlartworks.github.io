@@ -2,11 +2,11 @@
 apply: true
 layout: programs
 seoTitle: Programs - Learn art from professional artists and earn money
-seoDescription: Apprentices from the St. Louis metropolitan area experience hands on arts education and work place training.
+seoDescription: Apprentices from the St. Louis metropolitan area experience hands-on arts education and workplace training.
 featureImg: apprentice-001.jpg
 featureStatement: 'Learn and Earn!'
 title: Apprenticeship Programs
-subtitle: 'SPRING 2017 Applications Open in DECEMBER.'
+subtitle: 'SUMMER 2017 Applications Open on February 15.'
 permalink: /programs/
 mega-cta-img: ville-02.jpg
 mega-cta-heading: 'Join us!'
@@ -16,17 +16,17 @@ details:
   process:
     status: CLOSED
     close: August 15 - Application submission deadline
-    interview: Interview Day August 27, 2016
+    interview: Interview Day in April, 2017 (date TBD)
   requirements:
-    age: 'Ages 14 to 18 (Must be 14 years old by September 1, 2016)'
+    age: 'Ages 14 to 18 (Must be 14 years old by January 1, 2017)'
     location: Must live in the greater St. Louis area
     interests: Must have an interest in art
-    availability: 'Must be available to attend every day of the fall program (Two weekday afternoons, 3pm - 6pm, or Saturdays 10am - 3pm)'
+    availability: 'Must be available to attend every day of the summer program (Two weekday afternoons, 3pm - 6pm, or Saturdays 10am - 3pm)'
   message:
-    text: 'SPRING 2017 Applications will Open in December, 2016!'
+    text: 'SUMMER 2017 Applications Will Open on February 15!'
     
 reveal: programs
 ---
 
-Apprentices from the St. Louis metropolitan area experience hands on arts education and work place training. Highlights of the summer experience include field trips to local museums and professional art studios, life skill workshops, and completion of an artistic commission.
+Apprentices from the St. Louis metropolitan area experience hands-on arts education and workplace training. Highlights of the summer experience include field trips to local museums and professional art studios, life skill workshops, and completion of an artistic commission.
 
