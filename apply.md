@@ -6,7 +6,7 @@ seoDescription: 'Join STLOUISARTWORKS today!'
 featureImg: mural-003.jpg
 featureStatement: 'Join ARTWORKS!'
 title: Status
-subtitle: 'ApplicationSummer 2017 applications will open on February 15!'
+subtitle: 'Applications for Summer 2017 will open on February 15!'
 permalink: /apply/
 unique-cta: true
 mega-cta-img: ville-02.jpg
