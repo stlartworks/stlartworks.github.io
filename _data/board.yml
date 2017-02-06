@@ -30,13 +30,13 @@
   quote: "Making money is art and working is art and good business is the best art."
   artist: Andy Warhol
   
-- name: Matt MacEwan, Secretary
+- name: Kedra Tolson, Secretary
   title: Board Secretary
-  profession: President / Founder
-  employer: 'RETECTIX, LLC'
-  photo: matt-macewan.jpg
-  quote: "Without art, the crudeness of reality would make the world unbearable."
-  artist: George Bernard Shaw
+  profession: 'Executive Director, Marketing and Communications'
+  employer: 'St. Louis Community College'
+  photo: kedra-tolson.jpg
+  quote: 'Find a beautiful piece of art. If you fall in love with Van Gogh or Matisse or John Oliver Killens, or if you fall love with the music of Coltrane, the music of Aretha Franklin, or the music of Chopin - find some beautiful art and admire it, and realize that that was created by human beings just like you, no more human, no less.'
+  artist: Maya Angelou
 
 - name: Jared Boyd
   title: ''
@@ -101,6 +101,14 @@
   photo: rogerm.bmp
   quote: "I like kids' work more than work by real artists any day."
   artist: Jean-Michel Basquiat
+  
+- name: Matt MacEwan
+  title: ''
+  profession: President / Founder
+  employer: 'RETECTIX, LLC'
+  photo: matt-macewan.jpg
+  quote: "Without art, the crudeness of reality would make the world unbearable."
+  artist: George Bernard Shaw
 
 - name: Meridith McKinley
   title: ''
@@ -149,14 +157,6 @@
   photo: narcisa-symank.jpg
   quote: "Art is the daughter of freedom."
   artist: Friedrich Schiller
-  
-- name: Kedra Tolson
-  title: ''
-  profession: 'Executive Director, Marketing and Communications'
-  employer: 'St. Louis Community College'
-  photo: kedra-tolson.jpg
-  quote: 'Find a beautiful piece of art. If you fall in love with Van Gogh or Matisse or John Oliver Killens, or if you fall love with the music of Coltrane, the music of Aretha Franklin, or the music of Chopin - find some beautiful art and admire it, and realize that that was created by human beings just like you, no more human, no less.'
-  artist: Maya Angelou
   
 - name: Erika Wilson
   title: ''
