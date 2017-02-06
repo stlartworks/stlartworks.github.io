@@ -1,15 +1,16 @@
 /* TEAM */
 
     Your title: STLOUISARTWORKS
-    Site: stlartworks.com
-    Email: were@stlartworks.com
-    Twitter: stlartworks
+    Site: stlartworks.org
+    Email: info@stlartworks.org
+    Twitter: @StlArtWorks
+    Facebook: @Stlartworks
     Location: St. Louis, MO
 
 
 /* THANKS */
 
-    Name: Jacob Volkmer
+    Name: Vicki Kahn
 
 
 /* SITE */
