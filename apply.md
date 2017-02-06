@@ -23,11 +23,11 @@ Applications for SUMMER 2017 apprenticeships will be available here on February 
 
 2) Complete the online application (applications will open on February 15, 2017), 
 
-2) Get a letter of recommendation sent to ArtWorks by a non-family member (teacher, after-school activity supervisor, church member, etc.)
+3) Get a letter of recommendation sent to ArtWorks by a non-family member (teacher, after-school activity supervisor, church member, etc.)
 
-3) Be selected for and attend an in-person interview at St. Louis ArtWorks in April (5959 Delmar Blvd., St. Louis, MO 63112),
+4) Be selected for and attend an in-person interview at St. Louis ArtWorks in April (5959 Delmar Blvd., St. Louis, MO 63112),
 
-4) Be able to attend work Mon - Fri, 10am - 3pm during June and July.
+5) Be able to attend work Mon - Fri, 10am - 3pm during June and July.
 
 St. Louis Metro Bus and MetroLink are easily accessible near St. Louis ArtWorks' location! Visit [Google Maps]("https://www.google.com/maps/dir//5959+Delmar+Blvd,+St.+Louis,+MO+63112/@38.655097,-90.3627866,12z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x87df4aacff3b279d:0x6cca80677b840219!2m2!1d-90.2927463!2d38.6551179!3e3") to enter your address and see how quick and easily you can get to St. Louis ArtWorks from your home!
 
