@@ -70,9 +70,9 @@
 - sponsor: William Kerr Foundation
   image: sponsors-wakf.png
   description: "Thank you!"
-- sponsor: Boeing
-  image: sponsors-boeing.png
-  description: "Thank you!"
+# - sponsor: Boeing
+#   image: sponsors-boeing.png
+#   description: "Thank you!"
 # sponsor: First Bank
 # image: sponsors-first-bank.png
 # description: "Thank you!"
