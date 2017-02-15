@@ -21,7 +21,7 @@ Applications for SUMMER 2017 apprenticeships are now open! Applying for a St. Lo
 
 1) Be at least 14 years old by January 1, 2017,
 
-2) Complete the online application (applications will open on February 15, 2017), 
+2) Complete the online application (below), 
 
 3) Get a letter of recommendation sent to ArtWorks by a non-family member (teacher, after-school activity supervisor, church member, etc.)
 
