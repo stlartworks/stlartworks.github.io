@@ -2,7 +2,7 @@
 layout: post
 title: Young at Art celebration
 
-featureImg: mandalasWEB.jpg
+featureImg: young-at-art.jpg
 
 teaser: Join us for a party that only St. Louis ArtWorks would throw, the Young at Art celebration of ArtWorks accomplishments, accolades and aspirations
 
