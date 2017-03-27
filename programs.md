@@ -19,7 +19,7 @@ details:
     interview: 'Interview Day: April 22, 2017'
   requirements:
     age: 'Ages 14 to 18 (Must be 14 years old by January 1, 2017)'
-    location: Must live in the greater St. Louis area
+    location: 'Must live in the greater St. Louis area'
     interests: Must have an interest in art
     availability: 'Must be available to attend every day of the summer program in June and July, Mon-Fri, 10am - 3pm'
   message:
