@@ -15,12 +15,18 @@
   email: andrea@stlartworks.org
   phone: 314-899-9735
   content: 'Andréa is an actress, writer, director, and stage manager, who utilizes her creative gifts to develop opportunities for St. Louis youth. Her acting credits include theater, commercials, industrial films, and movies. Andréa received the "Grand Center Visionary Emerging Artist Award" in 2013, and was also honored by North County Incorporated, Regional Development Association with a “30 in their Thirties” Award in 2014, as an up-and-coming professional making a significant difference in the North County area. A native St. Louisan, she holds a Bachelor of Arts degree in Communication Studies from Fontbonne University, and is currently pursuing a certification in sign language with an emphasis in deaf theater.' 
-- name: Vicki Kahn
-  photo: vicki_slaw.jpg
+# - name: Vicki Kahn
+#   photo: vicki_slaw.jpg
+#   title: Media and Events Manager
+#   email: vicki@stlartworks.org
+#   phone: 314-899-9734
+#   content: 'Vicki manages the special events and public promotion of the St. Louis ArtWorks apprenticeship program and ArtWorks Enterprises (AWE), including traditional and social media publicity, website maintenance, and digital archiving of apprentice-made art and commissions. She holds a BA in Communications from Webster University, and has more than 15 years’ experience working with diverse populations and non-profit organizations in public relations, grant writing, development, digital design/communications, and special events. <i>(photo by DC2015)</i>' 
+- name: Kristen Goodman
+  photo: Kristen-Goodman-Headshot.jpg
   title: Media and Events Manager
-  email: vicki@stlartworks.org
+  email: kristen@stlartworks.org
   phone: 314-899-9734
-  content: 'Vicki manages the special events and public promotion of the St. Louis ArtWorks apprenticeship program and ArtWorks Enterprises (AWE), including traditional and social media publicity, website maintenance, and digital archiving of apprentice-made art and commissions. She holds a BA in Communications from Webster University, and has more than 15 years’ experience working with diverse populations and non-profit organizations in public relations, grant writing, development, digital design/communications, and special events. <i>(photo by DC2015)</i>' 
+  content: 'Kristen Goodman coordinates marketing and communications for St. Louis ArtWorks.  She also manages rentals of the facility for special events. She graduated in 2009 from the University of Missouri- St. Louis with a degree in Marketing and International Business.  She has served local businesses and non-profits for the past 15 years.  A musician and artist herself, she is passionate about making St. Louis a better place through arts, entertainment, and community building.' 
 - name: Donica England
   photo: donica-england.jpg
   title: Site Supervisor
