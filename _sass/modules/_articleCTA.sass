@@ -1,0 +1,57 @@
+.articleCTA
+  background: $gooeybutter
+  padding-bottom: 3rem
+
+  &__container
+    width: 50%
+    margin: 0 auto
+
+    +media(">=tablet", "<=desktop")
+      width: 90%
+
+    +media("<tablet")
+      width: 100%
+
+  &__heading
+    color: $charcoal
+    font-family: $sans-condensed-light
+    font-size: 3rem
+    line-height: 1
+    margin: 0
+    padding-top: 5rem
+    position: relative
+    text-align: center
+    text-transform: uppercase
+
+    +media("<=tablet")
+      font-size: 2rem
+
+    &::after
+      box-shadow: 1px 1px 0 $charcoal
+      content: ""
+      display: block
+      height: 1px
+      width: 15rem
+      margin: .75rem auto
+
+      +media("<=tablet")
+        width: 100%
+
+  &__headingLink
+    color: $stlouisblues
+
+    &:hover
+      color: $cardinalred
+
+  &__md
+    color: $charcoal
+    padding-bottom: 3rem
+
+  &__text
+    text-align: center
+
+  &__button
+    +button(3rem)
+
+    +media("<=tablet")
+      +button(2rem)

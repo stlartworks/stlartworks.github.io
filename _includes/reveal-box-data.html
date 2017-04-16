@@ -3,8 +3,8 @@
         <ul>
             {% for item in site.data.[page.reveal] %}
             <li>
-                <a href="#0" data-type="{{item.image | remove: '.jpg'}}">
-                    <figure class="reveal__figure" style="background-image: url('/images/{{item.image}}');">
+                <a href="#0" data-type="{{item.photo | remove: '.jpg'}}">
+                    <figure class="reveal__figure" style="background-image: url('/images/{{item.photo}}');">
                         <div class="reveal__img-overlay"><span>Read more</span></div>
                     </figure>
                     <div class="reveal__box-info">{{item.name}}</div>
@@ -26,9 +26,9 @@
 </main>
 
 {% for item in site.data.[page.reveal] %}
-<div class="reveal-panel {{item.image | remove: ".jpg"}}">
+<div class="reveal-panel {{item.photo | remove: ".jpg"}}">
     <div class="reveal-panel__pic">
-        <div class="reveal-panel__pic-flexembed" style="background-image: url('/images/{{item.image}}');"></div>
+        <div class="reveal-panel__pic-flexembed" style="background-image: url('/images/{{item.photo}}');"></div>
     </div>
 
     <div class="reveal-panel__bio-content">

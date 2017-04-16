@@ -1,23 +1,26 @@
 <section id="reveal-gallery" class="reveal">
-    <div class="reveal__container">
-        <ul>
-            {% for item in site.[page.reveal] %}
-            {% if item.status == 'current' %}
-            <li>
-                <a href="#0" data-type="{{item.featureImg | remove: '.jpg'}}">
-                    <figure class="reveal__figure" style="background-image: url('/images/{{item.featureImg}}');">
-                        <!-- <img src="/images/{{program.featureImg}}" alt="Team item 1"> -->
-                        <div class="reveal__img-overlay">
-                            <span>Read more</span>
-                        </div>
-                    </figure>
-                    <div class="reveal__box-info">{{item.title}}</div>
-                </a>
-            </li>
+  <div class="reveal__container">
+    <ul>
+    {% for item in site.data.[page.reveal] %}
+      <li>
+        <a href="#0" data-type="{{item.photo | remove: '.jpg'}}">
+          <figure class="reveal__figure" style="background-image: url('/images/{{item.photo}}');">
+            <!-- <img src="/images/{{program.photo}}" alt="Team item 1"> -->
+            <div class="reveal__img-overlay">
+                <span>Read more</span>
+            </div>
+          </figure>
+          <div class="reveal__box-info">
+            {{item.name}}
+            {% if item.discipline %}
+              / <small>{{item.discipline}}</small>
             {% endif %}
-            {% endfor %}
-        </ul>
-    </div> <!-- reveal__container -->
+          </div>
+        </a>
+      </li>
+    {% endfor %}
+    </ul>
+  </div> <!-- reveal__container -->
 </section> <!-- reveal__gallery -->
 
 <div class="reveal__overlay"></div>
@@ -31,19 +34,23 @@
 </main>
 
 
-{% for item in site.[page.reveal] %}
-<div class="reveal-panel {{item.featureImg | remove: ".jpg"}}">
+{% for item in site.data.[page.reveal] %}
+<div class="reveal-panel {{item.photo | remove: ".jpg"}}">
     <div class="reveal-panel__pic">
-        <div class="reveal-panel__pic-flexembed" style="background-image: url('/images/{{item.featureImg}}');"></div>
+        <div class="reveal-panel__pic-flexembed" style="background-image: url('/images/{{item.photo}}');"></div>
     </div>
 
     <div class="reveal-panel__bio-content">
-        <h2 class="reveal-panel__bio-content-title">{{item.title}}</h2>
+        <h2 class="reveal-panel__bio-content-title">{{item.name}}</h2>
         {% if page.bodyClass == staff || board %}
-        <h3 class="reveal-panel__bio-content-subtitle">{{item.position}}</h3>
+        <h3 class="reveal-panel__bio-content-subtitle">{{item.title}}</h3>
         {% endif %}
         <div class="reveal-panel__bio-content-md">
             {{ item.content }}
+
+            {% if site.apply == 'open' %}
+            <a class="articleCTA__button" href="/apply">Apply now!</a>
+            {% endif %}
         </div>
     </div>
 </div>

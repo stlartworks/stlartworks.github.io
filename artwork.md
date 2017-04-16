@@ -17,6 +17,7 @@ mega-cta-img: ville-02.jpg
 mega-cta-heading: Join us!
 mega-cta-button-text: Apply today!
 mega-cta-button-text-url: http://google.com
+
 ---
 
 We make a lot of art! We even get commissioned to make art too! At ArtWorks, we do sculpture, painting, printmaking, videography, cartooning, screenprinting, drawing, performing and more.

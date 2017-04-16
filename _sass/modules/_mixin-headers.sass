@@ -1,0 +1,28 @@
+//=mega-header($textColor: $charcoal, $underlineColor: $charcoal)
+
+=section-header($textColor: $charcoal, $underlineColor: $charcoal)
+  color: $textColor
+  font-family: $sans-condensed-light
+  font-size: 3rem
+  line-height: 1
+  margin: 0
+  padding-top: 5rrem
+  position: relative
+  text-align: center
+  text-transform: uppercase
+
+  +media("<tablet")
+    font-size: 2rem
+    padding-bottom: 1rem
+
+  // &::after
+  //   box-shadow: 1px 1px 0 $underlineColor
+  //   content: ""
+  //   display: block
+  //   height: 1px
+  //   width: 15rrem
+  //   margin: .75rem auto
+
+//=article-header($textColor: $charcoal, $underlineColor: $charcoal)
+
+// @include section-header($white, $white);

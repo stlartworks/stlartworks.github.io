@@ -20,6 +20,7 @@ apprenticepx: student-003.jpg
 staffpx: staff-jessica-01.jpg
 instructorpx: Instructor-robert-ketchens.jpg
 boardpx: interview-day-01.jpg
+
 ---
 
 We are excited to give young creatives (14 - 19 years old) paying apprenticeships. We are committed to diversifying our program as much as possible but the majority of our funding is to empower African-American teens.

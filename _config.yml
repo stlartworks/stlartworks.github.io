@@ -1,4 +1,32 @@
 # -----------------------------------------------------------------------------
+# SITE VARIABLES
+# -----------------------------------------------------------------------------
+
+# This is a list of variables (Front Matter) to be throughout the site.
+# ! Read more: http://jekyllrb.com/docs/frontmatter/
+
+apply: open
+# This can be open, or closed
+
+social-media:
+  500px:
+  codepen:
+  dribbble:
+  email: info@stlartworks.org
+  facebook: stlartworks
+  flickr:
+  github: stlartworks/
+  instagram: stlartworks
+  linkedin:
+  pinterest: stlartworks
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: stlartworks
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube:
+  vimeo:
+
+
+# -----------------------------------------------------------------------------
 # THE ONLY WARNING!!!
 # -----------------------------------------------------------------------------
 
@@ -76,7 +104,9 @@ disqus: stlartworks
 # SITE CONFIGURATION
 # -----------------------------------------------------------------------------
 
-url: http://stlartworks.github.io
+url: http://stlartworks.org
+
+# http://stlartworks.github.io
 # http://repoName.github.io
 # http://www.yourDomainName.com
 # This will confiure your sitemap.xml and RSS feed
@@ -98,29 +128,6 @@ timezone: America/Chicago
 # Set the timezone. ! Read more: http://jekyllrb.com/docs/configuration/
 
 
-# -----------------------------------------------------------------------------
-# SITE VARIABLES
-# -----------------------------------------------------------------------------
-
-# This is a list of variables (Front Matter) to be throughout the site.
-# ! Read more: http://jekyllrb.com/docs/frontmatter/
-
-social-media:
-  500px:
-  codepen:
-  dribbble: slaw
-  email: info@stlartworks.org
-  facebook: stlartworks
-  flickr:
-  github: stlartworks/
-  instagram: stlartworks
-  linkedin:
-  pinterest: stlartworks
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: stlartworks
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube:
-  vimeo:
 
 
 # -----------------------------------------------------------------------------
@@ -136,24 +143,24 @@ social-media:
 # Read more: http://jekyllrb.com/docs/collections/
 # Read more: http://www.sitepoint.com/getting-started-jekyll-collections/
 
-collections:
-  apprentices:
-    output: true
-
-  board:
-    output: true
-
-  instructors:
-    output: true
-
-  programs:
-    output: true
-
-  sponsors:
-    output: true
-
-  staff:
-    output: true
+# collections:
+#   apprentices:
+#     output: true
+#
+#   board:
+#     output: true
+#
+#   instructors:
+#     output: true
+#
+#   programs:
+#     output: true
+#
+#   sponsors:
+#     output: true
+#
+#   staff:
+#     output: true
 
 
 
@@ -174,173 +181,36 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-  -
-    scope:
-      path: ""
-      type: "apprentices"
-    values:
-      layout: "apprentices"
-  -
-    scope:
-      path: ""
-      type: "board"
-    values:
-      layout: "board"
-  -
-    scope:
-      path: ""
-      type: "instructors"
-    values:
-      layout: "instructors"
-  -
-    scope:
-      path: ""
-      type: "sponsors"
-    values:
-      layout: "sponsors"
-  -
-    scope:
-      path: ""
-      type: "staff"
-    values:
-      layout: "staff"
-
-
-
-# -----------------------------------------------------------------------------
-# PROSE SETTINGS
-# -----------------------------------------------------------------------------
-
-siteurl: "http://stlartworks.github.io.com"
-# Turns on Jekyll live previews. The url is the homepage of the live site.
-
-#relativeLinks: "http://prose.github.io/starter/links.jsonp"
-#rooturl: _posts
-
-# PROSE allows you to manage .md files
-# ! Read more: https://github.com/prose/prose/wiki/Prose-Configuration
-
-prose:
-  media: images
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /_scss
-
-  metadata:
-
-    _board:
-      -
-        name: "layout"
-        field:
-          element: "hidden"
-          label: "layout"
-          value: "board"
-      -
-        name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      -
-        name: "start-year"
-        field:
-          element: "number"
-          label: "Start year"
-          value: ""
-      -
-        name: "board-title"
-        field:
-          element: "text"
-          label: "Board Title"
-          value: ""
-      -
-        name: "employer"
-        field:
-          element: "text"
-          label: "Employer"
-          value: ""
-      -
-        name: "job-title"
-        field:
-          element: "text"
-          label: "Job title"
-          value: ""
-      -
-        name: "member-img"
-        field:
-          element: "text"
-          label: "Member's image"
-          value: ""
-      -
-        name: "facebook"
-        field:
-          element: "text"
-          label: "Facebook"
-          value: ""
-      -
-        name: "twitter"
-        field:
-          element: "text"
-          label: "Twitter"
-          value: ""
-      -
-        name: "instagram"
-        field:
-          element: "text"
-          label: "Instagram"
-          value: ""
-      -
-        name: "website"
-        field:
-          element: "text"
-          label: "Website"
-          value: ""
-    _programs:
-      -
-        name: "layout"
-        field:
-          element: "hidden"
-          label: "layout"
-          value: "programs"
-      -
-        name: season
-        field:
-          element: select
-          label: "Season"
-          options:
-            -
-              name: Fall
-              value: fall
-            -
-              name: Spring
-              value: spring
-            -
-              name: Summer
-              value: summer
-          placeholder: "Choose season"
-
-
-# -----------------------------------------------------------------------------
-# Sass SETTINGS
-# -----------------------------------------------------------------------------
-
-sass:
-  sass_dir: _scss
-  # The load path for Sass imports. This folder must only contain imports!
-  # Read more: http://jekyllrb.com/docs/assets/
-
-  style: :expanded
-    # Sass output settings. ! Read more:
-    # http://web-design-weekly.com/2014/06/15/different-sass-output-styles/
-
-    # optoins:
-      #:nested
-      #:expanded
-      #:compact
-      #:compressed #minified
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "apprentices"
+  #   values:
+  #     layout: "apprentices"
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "board"
+  #   values:
+  #     layout: "board"
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "instructors"
+  #   values:
+  #     layout: "instructors"
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "sponsors"
+  #   values:
+  #     layout: "sponsors"
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "staff"
+  #   values:
+  #     layout: "staff"
 
 
 # -----------------------------------------------------------------------------
@@ -352,7 +222,7 @@ gems:
   - jemoji # Emoji please!
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   # - jekyll-mentions
-  - jekyll-redirect-from
+  # - jekyll-redirect-from
 
 
 # -----------------------------------------------------------------------------
@@ -407,10 +277,11 @@ safe: true
 exclude:
 # Exclude (ignore) these files in your Producion build
 
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
+  - node_modules
+  # - Gemfile
+  # - Gemfile.lock
+  # - LICENSE
+  # - README.md
 
 
 # Check GitHub Dependency Verison: https://pages.github.com/versions/
