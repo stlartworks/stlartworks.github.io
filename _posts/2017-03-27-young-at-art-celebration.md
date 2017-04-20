@@ -39,6 +39,19 @@ Meridith McKinley
 Sarah Smith
 Narcisa P. Symank
 
+"Thank You to our Young at Art Sponsors"
+
+Emerson
+Wells Fargo
+Equifax
+Purina
+UMB
+Clayco
+Hudson & Associates
+HLK
+
+<img src="/images/sponsors-art" />
+
 Tickets: <a href="https://www.eventbrite.com/e/young-at-art-gala-benefiting-st-louis-artworks-tickets-32836897043?aff=es2">Click Here to Purchase</a>
 
 Where: <a href="https://www.google.com/maps/place/St.+Louis+ArtWorks/@38.655131,-90.2949377,17z/data=!3m1!4b1!4m5!3m4!1s0x87d8b4a4642d1825:0x58170a2e3ba600e1!8m2!3d38.655131!4d-90.292749">St. Louis ArtWorks, 5959 Delmar Blvd., St. Louis, MO 63112</a>
