@@ -50,7 +50,7 @@ Clayco
 Hudson & Associates
 HLK
 
-<img src="/images/sponsors-art" />
+<p><img src="/images/sponsors-art" /></p>
 
 Tickets: <a href="https://www.eventbrite.com/e/young-at-art-gala-benefiting-st-louis-artworks-tickets-32836897043?aff=es2">Click Here to Purchase</a>
 
