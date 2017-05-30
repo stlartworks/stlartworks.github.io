@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ST. LOUIS ARTWORKS CELEBRATES THE SUCCESS OF YOUNG AT ART 
+title: ST LOUIS ARTWORKS CELEBRATES THE SUCCESS OF YOUNG AT ART 
 
 featureImg: young-at-art.jpg
 
