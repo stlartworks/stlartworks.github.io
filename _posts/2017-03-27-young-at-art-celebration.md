@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Young at Art celebration
+title: Young at Art Celebration
 
 featureImg: young-at-art.jpg
 
