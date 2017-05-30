@@ -4,7 +4,7 @@ title: St Louis Artworks celebrates the success of Young at Art
 
 featureImg: young-at-art.jpg
 
-teaser: St. Louis ArtWorks hosted Young at Art, a celebration of St. Louis ArtWorks’ accomplishments, accolades, and aspirations. The first event of its kind for the organization, Young at Art raised proceeds of over $100,000 through tickets, silent auction, and a live Fund-It-Forward auction. The incredible success of the event was largely made possible by the outstanding event co-chairs: Maxine Clark & Bob Fox, Ken & Nancy Kranzberg, and Sandra & Eric Moore, along with lead sponsors Emerson & Wells Fargo Advisors.
+teaser: St. Louis ArtWorks hosted Young at Art, a celebration of St. Louis ArtWorks' accomplishments, accolades, and aspirations. The first event of its kind for the organization, Young at Art raised proceeds of over $100,000 through tickets, silent auction, and a live Fund-It-Forward auction. The incredible success of the event was largely made possible by the outstanding event co-chairs: Maxine Clark &amp; Bob Fox, Ken &amp; Nancy Kranzberg, and Sandra &amp; Eric Moore, along with lead sponsors Emerson &amp; Wells Fargo Advisors.
 
 homepage: true
 
