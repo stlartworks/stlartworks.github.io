@@ -10,7 +10,7 @@ homepage: true
 
 unique-cta: true
 
-mega-cta-img: young-at-art.jpg
+mega-cta-img: artwork-017.jpg
 mega-cta-heading: Questions?
 mega-cta-button-text: Contact us!
 mega-cta-button-text-url: mailto:info@stlartworks.org
