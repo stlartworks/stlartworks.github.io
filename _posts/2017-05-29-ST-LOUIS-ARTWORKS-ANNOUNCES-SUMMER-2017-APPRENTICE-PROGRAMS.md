@@ -1,10 +1,10 @@
 ---
 layout: post
-title: St Louis Artworks celebrates the success of Young at Art
+title: ST. LOUIS ARTWORKS ANNOUNCES SUMMER 2017 APPRENTICE PROGRAMS
 
-featureImg: young-at-art.jpg
+featureImg: apprentice-060.jpg
 
-teaser: St. Louis ArtWorks hosted Young at Art, a celebration of St. Louis ArtWorks' accomplishments, accolades, and aspirations. The first event of its kind for the organization, Young at Art raised proceeds of over $100,000 through tickets, silent auction, and a live Fund-It-Forward auction.
+teaser: St. Louis ArtWorks is gearing up for the organization’s busiest time of year- the Summer Apprentice Programs.  More than 67 youth apprentices between the ages of 14 and 18 will be participating in this Summer’s program which will offer disciplines in three-dimensional design, video and sound design, painting, and sculpture.
 
 homepage: true
 
@@ -15,59 +15,22 @@ mega-cta-heading: Questions?
 mega-cta-button-text: Contact us!
 mega-cta-button-text-url: mailto:info@stlartworks.org
 ---
-ST. LOUIS – On Friday, May 5, 2017 St. Louis ArtWorks hosted Young at Art, a celebration of St. Louis ArtWorks’ accomplishments, accolades, and aspirations. The first event of its kind for the organization, Young at Art raised proceeds of over $100,000 through tickets, silent auction, and a live Fund-It-Forward auction. The incredible success of the event was largely made possible by the outstanding event co-chairs: Maxine Clark &amp; Bob Fox, Ken &amp; Nancy Kranzberg, and Sandra &amp; Eric Moore, along with lead sponsors Emerson &amp; Wells Fargo Advisors.
+ST. LOUIS – St. Louis ArtWorks is gearing up for the organization’s busiest time of year- the Summer Apprentice Programs.  More than 67 youth apprentices between the ages of 14 and 18 will be participating in this Summer’s program which will offer disciplines in three-dimensional design, video and sound design, painting, and sculpture.  The program runs June 12 to July 21, Monday-Friday 9:00am-3:30pm, with a public celebration and Summer Sale on Saturday, July 22nd.
 
-As guests arrived at St. Louis ArtWorks’ facility in the East Loop, they were greeted by live mural painting by well-known local artist Robert A. Ketchens and youth apprentices from the Spring 2017 program.  The silent auction featured luxury travel destinations, live entertainment experiences, and one-of-a-kind works including jewelry, paintings, and art created by ArtWorks Apprentices.  During the cocktail hour, guests were treated to a pop-up dance performance by the Spring 2017 Dance Apprentices as they performed their piece “Stepping Off The Tracks.”  While guests enjoyed dinner by With Love Catering, they watched a documentary short film created by the Spring 2017 Apprentices entitled “Blues &amp; Ragtime: The Sounds of St. Louis.”  Following dessert, there was a brief history of the organization, a few words from ArtWorks Apprentices Angel Stanton and Annalise Cason, and a celebration of the organization’s 2016 National Arts and Humanities Youth Program Award. Attendees showed their support of St. Louis ArtWorks’ future growth by pledging over $37,000 during the Fund-It-Forward live auction.
+Shakira Onwuachi is excited to be serving as St. Louis ArtWorks’ Interim Program Manager for the Summer.  Ms. Onwuachi will graduate with her Masters in Social Work from the Brown School at Washington University in May 2018.  She started at St. Louis ArtWorks as a practicum student in January of this year.  Her role as Interim Program Manager is in alignment with her plan to pursue a career in Community Development working with Youth & Families.  “I am passionate about social entrepreneurship, using the Arts for wellness purposes, and empowering youth to be active participants in developing their communities,” Shakira explains. “I am enthusiastic about this opportunity, and I am looking forward to a rewarding and productive Summer Program.”
 
-The organization was fortunate to have St. Louis jazz great Denise Thimes as the event MC and entertainment for the evening.  She and her band were joined onstage by Gene Dobbs Bradford and Nancy Kranzberg for a delightful rendition of St. Louie Blues to end the night with a bang. 
+In a partnership with Great Rivers Greenway and Big Muddy National Fish and Wildlife Refuge, St. Louis ArtWorks will be featuring a three-dimensional design program this Summer called BloomWorks.  Teaching Artists Hap Phillips and Stephanie Nelson will be leading the Summer Apprentices in this group as they create a commissioned piece to be installed at the head of the Katy Trail.  The piece will reflect the importance of preserving our natural watersheds.  Apprentices will also be creating decorative “Little Libraries” that will be available for sale at the end of the Summer Program.  The BloomWorks Summer 2017 Program is funded by a grant from Missouri American Water.
 
-“I continue to be amazed at the generosity of our supporters and their commitment to help St. Louis ArtWorks broaden educational and career opportunities for youth in the St. Louis region,” stated Priscilla Block, Executive Director of St. Louis ArtWorks. “Young at Art was both a celebration of our accomplishments and an opportunity for the community to come together in support of our youth.  We are forever grateful to our long-time supporters and we welcome the new friends and funders we met at Young at Art.”
+In the BoomerRacks program, Apprentices will learn the discipline of sculpture as they create a commissioned bike rack for America’s Central Port in Grafton, Illinois.  Utilizing recycled bike parts they will create a custom bike rack. Apprentices will be creating individual sculptures using bike parts which will be available for purchase at the Summer Sale.  Teaching Artists Deborah Wheeler and Colton Carter will lead this group which is funded by support from America’s Central Port and the William A. Kerr Foundation.
 
-Young at Art was made possible by generous sponsorship from Emerson, Wells Fargo Advisors, Equifax, the Clark/Fox Foundation, Ken &amp; Nancy Kranzberg, Laura Cohen, Hudson &amp; Associates, UMB, Clayco, Purina, and IFF. 
+Through the creation of a mural for the North Sarah community, Apprentices in The Muralists group this Summer will hone their individual styles as they learn about painting, color and design, and the history of Turner Park as they create this commissioned piece for Urban Strategies.  Teaching Artists Stajah Curry and Byron Rogers will be leading this program which is supported by the St. Louis Art Museum and funding from McCormack Barron Salazar.
 
-St. Louis ArtWorks was founded in 1995 as a collaborative partnership with Grand Center Inc., the City of St. Louis, and the Regional Arts Commission. Since that time, ArtWorks has provided opportunities for thousands of young people, successfully helping to prepare them for future education and employment opportunities. ArtWorks bridges economic, racial and social divisions by providing underserved youth with arts education, workforce development training, and 21st century life skills, including fiscal literacy and professional communication. Funds raised at the Young at Art event will support these wonderful and vital programs.
+Teaching Artists Mark Clark and Ben Clark will be leading an innovative Sight & Sound program this Summer which has been commissioned by supporters at Young at Art, St. Louis ArtWorks’ recent fundraising gala.  Using video and sound design, Apprentices will create an interactive multimedia experience in the Emerson Media Lab at St. Louis ArtWorks.  The project will debut at the Summer Sale on Saturday, July 22, and will feature immersive sound and video elements.  The Apprentices in this group will also create individual 30-second pieces available for sale on CDs.
 
-The event was attended by over 200 supporters at St. Louis ArtWorks’ facility on Delmar Blvd. Notable attendees included: 
+The 2017 Summer Apprentice Program will conclude with a celebration and Summer Sale on Saturday, July 22, 2017 from 11:00am-2:00pm at St. Louis ArtWorks on 5959 Delmar Blvd. in the East Loop.  Friends, family, and the general public are invited to attend the event to view the incredible work the Apprentices have created throughout the Summer Program and to purchase individual works of art.
 
+For those looking to apply for the Fall Apprentice Program at St. Louis ArtWorks, the application  for Fall will be available online in July at stlartworks.org.  Applicants must be between the ages of 14 and 18, and live in St. Louis City or County.  
 
-Harriet Blickenstaff &amp; Anna Navarro
-Freeman Bosley, Jr.
-Mark &amp; Ramsey Botterman
-L. Jared Boyd
-Dwyer Brown &amp; Nancy Reynolds
-Maxine Clark &amp; Bob Fox
-Laura Cohen &amp; Mary Ann Kroeck
-Gene Dobbs Bradford
-James &amp; Amy Franklin
-Susan Glassman &amp; Peter Strauss
-Judy Glik &amp; Harvard Muhm
-David &amp; Bree Grigsby
-Craig Heller
-Ron and Heather Hines
-Erik Karanik &amp; Alexis Cossé
-Scott &amp; Katie Kemper
-Don &amp; Carie Kennedy
-Jim &amp; Tina Klocke
-Ken &amp; Nancy Kranzberg
-Louis Lankford
-Eddie and Betsy Lawlor
-Barbara Levin &amp; Barry Rosenberg
-Dr. &amp; Mrs. Matthew MacEwan
-Margaret McDonald
-Jill & Dan McGuire
-Meridith McKinley & Jeff Winzerling
-Sandi & Eric Moore
-Rodney & Juanita Norman
-Jill Petzall & Claude Evans
-David & Adrienne Piston
-Mark Rynasiewicz
-Amy Rome & Henry Hummert
-Kelly Scheffer & Tim Smith
-Matt & Shelley Semrad
-Judith Shaw
-Peter Sinton
-Sarah B. Smith & Dick Fleming
-Kim & Sonny Ta
-
+St. Louis ArtWorks was founded in 1995 as a collaborative partnership with Grand Center Inc., the City of St. Louis, and the Regional Arts Commission. Since that time, ArtWorks has provided opportunities for thousands of young people, successfully helping to prepare them for future education and employment opportunities. ArtWorks bridges economic, racial and social divisions by providing underserved youth with arts education, workforce development training, and 21st century life skills, including fiscal literacy and professional communication. 
 
 For more information on St. Louis ArtWorks and its community partners, please visit ArtWorks online at Facebook and Twitter. #MakeArtWorkSTL
