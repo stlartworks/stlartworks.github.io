@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TEACHING ARTISTS & APPRENTICES PREP FOR SUMMER SALE
+title: TEACHING ARTISTS and APPRENTICES PREP FOR SUMMER SALE
 
 featureImg: artwork-001.jpg
 
