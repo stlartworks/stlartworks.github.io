@@ -54,21 +54,3 @@ Or, visit our [Youth Opportunities Program (YOP) Tax Credits page](/yop-tax-cred
 ### Volunteer Opportunities
 
 St. Louis ArtWorks has volunteer opportunities throughout the year, including interview days, apprentice art sales, and more. If you would like to volunteer, please email us at <a href="mailto:volunteer@stlartworks.org">volunteer@stlartworks.org</a> indicating your area/s of interest as well as your days and times of availability. Thank you for your support!
-
-
-<script type="text/javascript">var qecsxr519eqmvz;(function(d, t) {
-var s = d.createElement(t), options = {
-&#39;userName&#39;:&#39;stlartworks&#39;,
-&#39;formHash&#39;:&#39;qecsxr519eqmvz&#39;,
-&#39;autoResize&#39;:true,
-&#39;height&#39;:&#39;695&#39;,
-&#39;async&#39;:true,
-&#39;host&#39;:&#39;wufoo.com&#39;,
-&#39;header&#39;:&#39;show&#39;,
-&#39;ssl&#39;:true};
-s.src = (&#39;https:&#39; == d.location.protocol ? &#39;https://&#39; : &#39;http://&#39;) + &#39;www.wufoo.com/scripts/embed/form.js&#39;;
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != &#39;complete&#39;) if (rs != &#39;loaded&#39;) return;
-try { qecsxr519eqmvz = new WufooForm();qecsxr519eqmvz.initialize(options);qecsxr519eqmvz.display(); } catch (e) {}};
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, &#39;script&#39;);</script>
