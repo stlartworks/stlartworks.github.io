@@ -7,14 +7,22 @@
   photo: staff-susan-testroete.jpg
   title: Assistant Director
   email: susan@stlartworks.org
-  phone: 314-899-9758
-  content: 'Susan works with the Executive Director to oversee and implement program funding and budgeting. She also writes and submits proposals and applications for ArtWorks to grant-making organizations and funding partners. She has an MSW from University of Missouri and has 17 years’ experience in the non-profit grant writing and counseling fields, with the last 11 spent in youth programs. She is experienced in delivering a breadth of programming, including staff training, leadership, counseling and mental health assessments.'
-- name: Andréa Purnell
-  photo: AndreaWeb3.jpg
-  title: Program Manager
-  email: andrea@stlartworks.org
   phone: 314-899-9735
-  content: 'Andréa is an actress, writer, director, and stage manager, who utilizes her creative gifts to develop opportunities for St. Louis youth. Her acting credits include theater, commercials, industrial films, and movies. Andréa received the "Grand Center Visionary Emerging Artist Award" in 2013, and was also honored by North County Incorporated, Regional Development Association with a “30 in their Thirties” Award in 2014, as an up-and-coming professional making a significant difference in the North County area. A native St. Louisan, she holds a Bachelor of Arts degree in Communication Studies from Fontbonne University, and is currently pursuing a certification in sign language with an emphasis in deaf theater.' 
+  content: 'Susan works with the Executive Director to oversee and implement program funding and budgeting. She also writes and submits proposals and applications for ArtWorks to grant-making organizations and funding partners. She has an MSW from University of Missouri and has 17 years’ experience in the non-profit grant writing and counseling fields, with the last 11 spent in youth programs. She is experienced in delivering a breadth of programming, including staff training, leadership, counseling and mental health assessments.'
+# - name: Byron Rogers
+#   photo: staff-byron-rogers.jpg
+#   title: Program Manager
+#   email: program.manager@stlartworks.org
+#   phone: 314-899-9758
+#   content: '(byron bio)'
+  
+  
+# - name: Andréa Purnell
+#   photo: AndreaWeb3.jpg
+#   title: Program Manager
+#   email: andrea@stlartworks.org
+#   phone: 314-899-9735
+#   content: 'Andréa is an actress, writer, director, and stage manager, who utilizes her creative gifts to develop opportunities for St. Louis youth. Her acting credits include theater, commercials, industrial films, and movies. Andréa received the "Grand Center Visionary Emerging Artist Award" in 2013, and was also honored by North County Incorporated, Regional Development Association with a “30 in their Thirties” Award in 2014, as an up-and-coming professional making a significant difference in the North County area. A native St. Louisan, she holds a Bachelor of Arts degree in Communication Studies from Fontbonne University, and is currently pursuing a certification in sign language with an emphasis in deaf theater.' 
 # - name: Vicki Kahn
 #   photo: vicki_slaw.jpg
 #   title: Media and Events Manager
@@ -27,12 +35,12 @@
   email: kristen@stlartworks.org
   phone: 314-899-9734
   content: 'Kristen Goodman coordinates marketing and communications for St. Louis ArtWorks.  She also manages rentals of the facility for special events. She graduated in 2009 from the University of Missouri- St. Louis with a degree in Marketing and International Business.  She has served local businesses and non-profits for the past 15 years.  A musician and artist herself, she is passionate about making St. Louis a better place through arts, entertainment, and community building.' 
-- name: Donica England
-  photo: donica-england.jpg
-  title: Site Supervisor
-  email: donica@stlartworks.org
-  phone: 314-899-9734
-  content: 'Donica has worked with ArtWorks for the last nine years,  providing supervision of apprentices in ArtWorks programs. She is currently working towards her BSW in Social Work at the University of Missouri St. Louis.'
+# - name: Donica England
+#   photo: donica-england.jpg
+#   title: Site Supervisor
+#   email: donica@stlartworks.org
+#   phone: 314-899-9734
+#   content: 'Donica has worked with ArtWorks for the last nine years,  providing supervision of apprentices in ArtWorks programs. She is currently working towards her BSW in Social Work at the University of Missouri St. Louis.'
 - name: Alayne Yates
   photo: alayne2016.jpeg
   title: Office Manager
