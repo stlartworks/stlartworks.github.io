@@ -4,7 +4,7 @@ layout: staff
 seoTitle: Staff
 seoDescription: Our staff rocks! Meet the people that grind every day to make ARTWORKS the best program possible.
 
-featureImg: donica-england.jpg
+featureImg: artwork-004.jpg
 featureStatement: STAFF
 
 title: Hardwork
