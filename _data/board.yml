@@ -24,7 +24,7 @@
   
 - name: Rhoads Hall, Treasurer
   title: Board Treasurer
-  profession: Vice-President
+  profession: Vice President
   employer: Commercial Banking Wells Fargo
   photo: rhoads-hall.jpg
   quote: "Making money is art and working is art and good business is the best art."
@@ -32,7 +32,7 @@
   
 - name: Kedra Tolson, Secretary
   title: Board Secretary
-  profession: 'Executive Director, Marketing and Communications'
+  profession: 'Coordinator of Community Relations'
   employer: 'St. Louis Community College'
   photo: kedra-tolson.jpg
   quote: 'Find a beautiful piece of art. If you fall in love with Van Gogh or Matisse or John Oliver Killens, or if you fall love with the music of Coltrane, the music of Aretha Franklin, or the music of Chopin - find some beautiful art and admire it, and realize that that was created by human beings just like you, no more human, no less.'
@@ -54,7 +54,15 @@
   quote: "The true beauty of music is that it connects people. It carries a message, and we, the musicians, are the messengers."
   artist: Roy Ayers
   
-- name: Shelia Hudson
+  - name: Amy Counts
+  title: ''
+  profession: 'Sr. Account Executive'
+  employer: Wise F&I
+  photo: amycounts.jpg
+  quote: ""
+  artist:  
+  
+  - name: Shelia Hudson
   title: ''
   profession: 'President/CEO'
   employer: 'Hudson and Associates, LLC'
@@ -64,7 +72,7 @@
   
 - name: Rajeev John
   title: ''
-  profession: 'Manager, Adult Behavioral Health'
+  profession: 'MSW, LCSW, Manager, Adult Behavioral Health'
   employer: 'Affinia Healthcare'
   photo: rajeev-john.jpg
   quote: "Art is either plagiarism or revolution."
@@ -85,7 +93,15 @@
   photo: donkennedy.jpg
   quote: "I don't believe in art. I believe in artists."
   artist: Marcel Duchamp
-
+  
+- name: Dr. Louis Lankford
+  title: ''
+  profession: 'Community Volunteer'
+  employer: ''
+  photo: louislankford.jpg
+  quote: ""
+  artist: 
+  
 - name: Lilly Leyh-Pierce
   title: ''
   profession: 'Special Assistant to the EVC for Administration'
@@ -118,13 +134,13 @@
   quote: "If you ask me what I came into this life to do, I will tell you: I came to live out loud."
   artist: Emile Zola
   
-- name: Roderick Nunn
-  title: ''
-  profession: 'Executive VP - Head of Education and Employment'
-  employer: 'Concordance Academy of Leadership'
-  photo: rodnunn.jpg
-  quote: "Art is the most intense mode of individualism that the world has known."
-  artist: Oscar Wilde
+#- name: Roderick Nunn
+#  title: ''
+#  profession: 'Executive VP - Head of Education and Employment'
+#  employer: 'Concordance Academy of Leadership'
+#  photo: rodnunn.jpg
+#  quote: "Art is the most intense mode of individualism that the world has known."
+#  artist: Oscar Wilde
 
 - name: David Seevers
   title: ''
@@ -134,20 +150,20 @@
   quote: "Art to me is a humanitarian act and I believe that there is a responsibility that art should somehow be able to effect mankind, to make the world a better place."
   artist: Jeff Koons
 
-- name: Matt Semrad
-  title: ''
-  profession: 'Senior Vice-President of Technology'
-  employer: 'Equifax'
-  photo: mattsemrad2.jpg
-  quote: "All children are artists. The problem is how to remain an artist once we grow up."
-  artist: Pablo Picasso
+#- name: Matt Semrad
+#  title: ''
+#  profession: 'Senior Vice-President of Technology'
+#  employer: 'Equifax'
+#  photo: mattsemrad2.jpg
+#  quote: "All children are artists. The problem is how to remain an artist once we grow up."
+#  artist: Pablo Picasso
 
 - name: Steve Shumate
   title: ''
-  profession: 'Associate Vice-President, Business Banking'
+  profession: 'Associate Vice President, Business Banking'
   employer: 'UMB Bank'
   photo: steve-shumate.jpg
-  quote: "There is only one valuable thing in art—the thing you cannot explain."
+  quote: "There is only one valuable thing in art— the thing you cannot explain."
   artist: Georges Braque
 
 - name: Narcisa Symank
