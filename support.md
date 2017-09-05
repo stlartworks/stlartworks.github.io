@@ -30,7 +30,7 @@ Every dollar you donate is an investment to provide quality job training and art
 
 ### Donate NOW - Invest in St. Louis Youth!
 
-Please click the paypal link below, and you will be taken to the secure Paypal processing page to complete your donation. Thank you! 
+Please click the paypal link below, and you will be taken to the secure Paypal processing page to complete your donation. Please consider adding 3% to your donation to cover our processing fees. Thank you for your support! 
 <center><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2R55J3XLQZYWL"><img border="0" alt="Donate2STLArtWorks" src="/images/PayPalDonateButton.jpg" width="353" height="171"></a></center>
 
 ### [![Better Business Bureau logo](/uploads/versions/bbblogobluesm---&#40;----200-76&#41;---.jpg)](http://www.bbb.org/stlouis/business-reviews/charity-arts-and-culture/st-louis-artworks-in-saint-louis-mo-310482094)
