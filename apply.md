@@ -6,7 +6,7 @@ seoDescription: Join STLOUISARTWORKS today!
 featureImg: mural-003.jpg
 featureStatement: Join ARTWORKS!
 title: Status
-subtitle: NOW Accepting Applications for Fall 2017!
+subtitle: Applications for Spring 2018 will be open soon
 permalink: /apply/
 unique-cta: true
 mega-cta-img: ville-02.jpg
@@ -16,9 +16,11 @@ mega-cta-button-text-url: 'mailto:program.manager@stlartworks.org'
 ---
 
 
+Applications for FALL 2017 apprenticeships are now closed.
+
 We invite young creatives (14 - 18 years old) in the St. Louis metro area to apply and earn a stipend through paid apprenticeships in the arts in the Fall, Spring, and Summer.
 
-Applications for FALL 2017 apprenticeships are now open! Applying for a St. Louis ArtWorks apprenticeship is NOT first-come, first-served. Teens interested in working for St. Louis ArtWorks must:
+Applying for a St. Louis ArtWorks apprenticeship is NOT first-come, first-served. Teens interested in working for St. Louis ArtWorks must:
 
 1) Be at least 14 years old by January 1, 2017,
 
