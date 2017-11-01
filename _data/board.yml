@@ -165,6 +165,22 @@
   photo: steve-shumate.jpg
   quote: "There is only one valuable thing in art— the thing you cannot explain."
   artist: Georges Braque
+  
+- name: Joyce Sanders
+  title: ''
+  profession: 'Supervising Engineer, Intelligrid'
+  employer: 'Ameren'
+  photo: 
+  quote: ""
+  artist:
+  
+- name: Keica Smart
+  title: ''
+  profession: 'Project Manager'
+  employer: 'Graybar Electric Company'
+  photo: 
+  quote: ""
+  artist:
 
 - name: Narcisa Symank
   title: ''
@@ -174,7 +190,7 @@
   quote: "Art is the daughter of freedom."
   artist: Friedrich Schiller
   
-- name: Erika Wilson
+- name: Erika N. Wilson
   title: ''
   profession: 'Associate Project Manager'
   employer: 'Urban Strategies, Inc.'
