@@ -6,7 +6,7 @@ seoDescription: Apprentices from the St. Louis metropolitan area experience hand
 featureImg: apprentice-001.jpg
 featureStatement: 'Learn and Earn!'
 title: Apprenticeship Programs
-subtitle: 'Fall 2017 Applications OPEN!'
+subtitle: 'Spring 2018 Applications Open Soon!'
 permalink: /programs/
 mega-cta-img: ville-02.jpg
 mega-cta-heading: 'Join us!'
@@ -28,5 +28,5 @@ details:
 reveal: programs
 ---
 
-Apprentices from the St. Louis metropolitan area experience hands-on arts education and workplace training. Highlights of the summer experience include field trips to local museums and professional art studios, life skill workshops, and completion of an artistic commission.
+Apprentices from the St. Louis metropolitan area experience hands-on arts education and workplace training. Highlights of the experience include field trips to local museums and professional art studios, life skills workshops, and completion of an artistic commission.
 
