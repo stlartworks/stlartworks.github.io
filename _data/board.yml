@@ -142,6 +142,14 @@
 #  quote: "Art is the most intense mode of individualism that the world has known."
 #  artist: Oscar Wilde
 
+- name: Joyce Sanders
+  title: ''
+  profession: 'Supervising Engineer, Intelligrid'
+  employer: 'Ameren'
+  photo: joyce-sanders.jpg
+  quote: "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+  artist: Maya Angelou
+
 - name: David Seevers
   title: ''
   profession: 'Vice President, Operations-Health Plans'
@@ -165,14 +173,6 @@
   photo: steve-shumate.jpg
   quote: "There is only one valuable thing in art— the thing you cannot explain."
   artist: Georges Braque
-  
-- name: Joyce Sanders
-  title: ''
-  profession: 'Supervising Engineer, Intelligrid'
-  employer: 'Ameren'
-  photo: 
-  quote: ""
-  artist:
   
 - name: Keica Smart
   title: ''
