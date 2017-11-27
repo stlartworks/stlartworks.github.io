@@ -16,7 +16,7 @@ mega-cta-button-text-url: 'mailto:program.manager@stlartworks.org'
 ---
 
 
-Applications for SPRING 2018 apprentices will be open soon.  
+Applications for SPRING 2018 apprentices are open now.
 
 We invite young creatives (14 - 18 years old) in the St. Louis metro area to apply and earn a stipend through paid apprenticeships in the arts in the Fall, Spring, and Summer.
 
