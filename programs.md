@@ -6,7 +6,7 @@ seoDescription: Apprentices from the St. Louis metropolitan area experience hand
 featureImg: apprentice-001.jpg
 featureStatement: 'Learn and Earn!'
 title: Apprenticeship Programs
-subtitle: 'Spring 2018 Applications Open Soon!'
+subtitle: 'Summer 2018 Applications Open Now!'
 permalink: /programs/
 mega-cta-img: ville-02.jpg
 mega-cta-heading: 'Join us!'
