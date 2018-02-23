@@ -1,12 +1,64 @@
+
+
+- sponsor: Mastercard
+  image: sponsors-mastercard.png
+  description: "Thank you!"
+  
+- sponsor: Union Pacific
+  image: sponsors-union-pacific.png
+  description: "Thank you!"
+  
+- sponsor: ReCAST
+  image: sponsors-recast.png
+  description: "Thank you!"
+  
+- sponsor: Ameren
+  image: sponsors-ameren.png
+  description: "Thank you!"
+
+- sponsor: Berges Family Foundation
+  image: sponsors-berges-family-foundation.png
+  description: "Thank you!"
+  
+- sponsor: Missouri American Water
+  image: sponsors-missouri-american-water.png
+  description: "Thank you!"
+  
+- sponsor: Philpott Foundation
+  image: sponsors-philpott-family-foundation.png
+  description: "Thank you!"
+  
+- sponsor: Regional Business Council
+  image: sponsors-regional-business-council.png
+  description: "Thank you!"
+  
+- sponsor: Vassia Family Charitable Foundation
+  image: sponsors-vassia.png
+  description: "Thank you!"
+
+- sponsor: MSD
+  image: sponsors-msd.png
+  description: "Thank you!"
+
+- sponsor: Ken and Nancy Kranzberg
+  image: sponsors-kranzberg.png
+  description: "Thank you!"
+  
+- sponsor: Shepard Family Foundation
+  image: sponsors-shepard-family-foundation.png
+  description: "Thank you!"
+
+# - latest supporters above
+
 - sponsor: Artmart
   image: sponsors-artmart.png
   description: "Thank you!" 
 - sponsor: St. Louis County Children’s Service Fund
   image: sponsors-stl-childrens-fund.png
   description: "Thank you!"
-- sponsor: Trivers
-  image: sponsors-trivers.png
-  description: "Thank you!"
+# - sponsor: Trivers
+#   image: sponsors-trivers.png
+#   description: "Thank you!"
 - sponsor: Regional Arts Commission
   image: sponsors-regional-arts-commission.png
   description: "Thank you!"
@@ -25,9 +77,9 @@
 # sponsor: Daughters of Charity
 # image: sponsors-daughters-of-charity-foundation.png
 # description: "Thank you!"
-- sponsor: Equifax
-  image: sponsors-equifax.png
-  description: "Thank you!"
+# - sponsor: Equifax
+#   image: sponsors-equifax.png
+#   description: "Thank you!"
 - sponsor: Missouri Arts Council
   image: sponsors-missouri-arts-counsil.png
   description: "Thank you!"
@@ -46,18 +98,18 @@
 - sponsor: Saint Louis Art Museum
   image: sponsors-stlouis-art-museum.png
   description: "Thank you!"
-- sponsor: Southern Illinois University Edwardsville
-  image: sponsors-siue.png
-  description: "Thank you!"
-- sponsor: University of Missouri St. Louis
-  image: sponsors-umsl.png
-  description: "Thank you!"
+# - sponsor: Southern Illinois University Edwardsville
+#   image: sponsors-siue.png
+#   description: "Thank you!"
+# - sponsor: University of Missouri St. Louis
+#   image: sponsors-umsl.png
+#   description: "Thank you!"
 - sponsor: Cardinals Care
   image: sponsors-cardinals-care.png
   description: "Thank you!"
-- sponsor: Dana Brown Foundation
-  image: sponsors-dana-brown.png
-  description: "Thank you!"
+# - sponsor: Dana Brown Foundation
+#   image: sponsors-dana-brown.png
+#   description: "Thank you!"
 # sponsor: US Bank
 # image: sponsors-us-bank.png
 # description: "Thank you!"
@@ -76,16 +128,16 @@
 # sponsor: First Bank
 # image: sponsors-first-bank.png
 # description: "Thank you!"
-- sponsor: Monsanto Fund
-  image: sponsors-monsanto-fund.png
-  description: "Thank you!"
+# - sponsor: Monsanto Fund
+#   image: sponsors-monsanto-fund.png
+#   description: "Thank you!"
 - sponsor: Children's Services Coalition
   image: sponsors-csc.png
   description: "Thank you!"
   url: http://csc-stl.org/
-- sponsor: Missouri Humanities Council
-  image: sponsors-mhc.png
-  description: "Thank you!"
+# - sponsor: Missouri Humanities Council
+#   image: sponsors-mhc.png
+#   description: "Thank you!"
 - sponsor: Commerce Bank
   image: sponsors-commerce-bank.png
   description: "Thank you!"
