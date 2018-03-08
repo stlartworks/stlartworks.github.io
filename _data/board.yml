@@ -46,13 +46,13 @@
   quote: "Ads are the cave art of the twentieth century."
   artist: Marshall McLuhan
 
-- name: Stan Chisholm
+- name: Emily Bernstein
   title: ''
-  profession: 'Community Artist'
-  employer: 18andCounting
-  photo: stancweb.jpg
-  quote: "The true beauty of music is that it connects people. It carries a message, and we, the musicians, are the messengers."
-  artist: Roy Ayers
+  profession: 'Project Manager'
+  employer: McCormack Baron Salazar
+  photo: emily-bernstein.jpg
+# quote: 
+# artist: 
   
 - name: Amy Counts
   title: ''
@@ -102,11 +102,11 @@
   quote: ""
   artist: 
   
-#- name: Lilly Leyh-Pierce
-#  title: ''
-#  profession: 'Special Assistant to the EVC for Administration'
-#  employer: 'Washington University in St. Louis'
-#  photo: lillyLP.jpg
+- name: Brian Russell
+  title: ''
+  profession: 'External Affairs Manager'
+  employer: 'Missouri American Water'
+  photo: brian-russell.jpg
 #  quote: "A true artist is not one who is inspired, but one who inspires others."
 #  artist: Salvador Dali
 
