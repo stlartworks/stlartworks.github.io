@@ -74,9 +74,9 @@
 - sponsor: Wells Fargo Advisors
   image: sponsors-wells-fargo.png
   description: "Thank you!"
-# sponsor: Daughters of Charity
-# image: sponsors-daughters-of-charity-foundation.png
-# description: "Thank you!"
+  sponsor: Arts & Education Council
+  image: arts-education-council.png
+  description: "Thank you!"
 # - sponsor: Equifax
 #   image: sponsors-equifax.png
 #   description: "Thank you!"
