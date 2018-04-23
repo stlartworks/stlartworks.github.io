@@ -2,7 +2,7 @@
 layout: events
 seoTitle: 'Have your event at STLOUISARTWORKS'
 seoDescription: 'Contact STLOUISARTWORKS about hosting your special event'
-featureImg: artbq2-web.jpg
+featureImg: YAA Event One-Pager.jpg
 featureStatement: 'Events'
 title: Young At Art 2018 Gala 
 subtitle: 'Purchase your tickets today! You don't want to miss it'
@@ -13,7 +13,7 @@ mega-cta-heading: 'Join us!'
 mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:events@stlartworks.org'
 ---
-<iframe width="560" height="315" src="YAA Event One-Pager.jpg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aHOn6-I_PAk" frameborder="0" allowfullscreen></iframe>
 ---
 ---
 <br>
