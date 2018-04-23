@@ -4,8 +4,8 @@ seoTitle: 'Have your event at STLOUISARTWORKS'
 seoDescription: 'Contact STLOUISARTWORKS about hosting your special event'
 featureImg: artbq2-web.jpg
 featureStatement: 'Events'
-title: Reserve a day
-subtitle: 'Host your next event at ST. LOUIS ARTWORKS'
+title: Young At Art 2018 Gala 
+subtitle: 'Purchase your tickets today! You don't want to miss it'
 permalink: /events/
 unique-cta: true
 mega-cta-img: ville-02.jpg
