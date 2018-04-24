@@ -4,7 +4,7 @@ layout: events
 seoTitle: Have your event at STLOUISARTWORKS
 seoDescription: Contact STLOUISARTWORKS about hosting your special event
 
-featureImg: yaa-main-image.jpg
+featureImg: yaaweb.jpg
 featureStatement: Events
 
 title: Young At Art 2018 Gala 
@@ -19,7 +19,7 @@ mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:events@stlartworks.org'
 ---
 
-<a href="https://www.eventbrite.com/e/young-at-art-a-celebration-of-st-louis-artworks-tickets-41957566210?aff=ehomecard">join us for a party</a> that only St. Louis ArtWorks would throw, the Young at Art celebration of ArtWorks accomplishments, accolades and aspirations.
+<a href="https://www.eventbrite.com/e/young-at-art-a-celebration-of-st-louis-artworks-tickets-41957566210?aff=ehomecard">Join us for a party</a> that only St. Louis ArtWorks would throw, the Young at Art celebration of ArtWorks accomplishments, accolades and aspirations.
 
 <br>
 
