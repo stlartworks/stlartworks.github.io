@@ -2,7 +2,7 @@
 layout: events
 seoTitle: 'Have your event at STLOUISARTWORKS'
 seoDescription: 'Contact STLOUISARTWORKS about hosting your special event'
-featureImg: yaafrontpage.jpg
+featureImg: yaa-main-image.jpg
 featureStatement: 'Events'
 title: Young At Art 2018 Gala 
 subtitle: 'Purchase your tickets today! You don't want to miss it'
