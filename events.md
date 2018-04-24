@@ -19,6 +19,12 @@ mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:events@stlartworks.org'
 ---
 
+<a href="https://www.eventbrite.com/e/young-at-art-a-celebration-of-st-louis-artworks-tickets-41957566210?aff=ehomecard">join us for a party</a> that only St. Louis ArtWorks would throw, the Young at Art celebration of ArtWorks accomplishments, accolades and aspirations.
+
+<br>
+
+### Host your next event at St. Louis ArtWorks
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aHOn6-I_PAk" frameborder="0" allowfullscreen></iframe>
 
 <br>
