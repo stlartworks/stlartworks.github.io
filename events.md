@@ -13,7 +13,7 @@ mega-cta-heading: 'Join us!'
 mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:events@stlartworks.org'
 ---
-#yaafrontpage.jpg
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aHOn6-I_PAk" frameborder="0" allowfullscreen></iframe>
 ---
 ---
 <br>
