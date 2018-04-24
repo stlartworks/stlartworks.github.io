@@ -8,7 +8,7 @@ title: Young At Art 2018 Gala
 subtitle: 'Purchase your tickets today! You don't want to miss it'
 permalink: /events/
 unique-cta: true
-mega-cta-img: yaafrontpage.jpg
+mega-cta-img: ville-02.jpg
 mega-cta-heading: 'Join us!'
 mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:events@stlartworks.org'
