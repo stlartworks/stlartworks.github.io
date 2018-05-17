@@ -1,5 +1,6 @@
 ---
 layout: volunteer
+volunteer: true
 seoTitle: 'Volunteer today!'
 seoDescription: 'Volunteer at STLOUISARTWORKS today!'
 featureImg: mural-003.jpg
