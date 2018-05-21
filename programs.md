@@ -1,17 +1,21 @@
 ---
-apply: true
+apply: false
 layout: programs
+
 seoTitle: Programs - Learn art from professional artists and earn money
 seoDescription: Apprentices from the St. Louis metropolitan area experience hands-on arts education and workplace training.
+
 featureImg: apprentice-001.jpg
 featureStatement: 'Learn and Earn!'
+
 title: Apprenticeship Programs
-subtitle: 'Summer 2018 Applications Open Now!'
+subtitle: 'Summer 2018 Applications are Closed'
 permalink: /programs/
 mega-cta-img: ville-02.jpg
 mega-cta-heading: 'Join us!'
 mega-cta-button-text: 'Apply today!'
 mega-cta-button-text-url: 'http://google.com'
+
 details:
   process:
     status: CLOSED
