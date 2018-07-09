@@ -7,10 +7,10 @@ featureStatement: Artworks.
 title: About
 subtitle: Our Mission
 permalink: /about/
-apprenticesSchools: 56
-apprenticesCount: 3000+
+apprenticesSchools: 55
+apprenticesCount: 3600+
 apprenticesPay: "2,200,000+"
-apprenticesZip: 36
+apprenticesZip: 40
 apprenticepx: student-003.jpg
 staffpx: staff-jessica-01.jpg
 instructorpx: Instructor-robert-ketchens.jpg
@@ -31,7 +31,7 @@ St. Louis ArtWorks was founded in 1995 as a collaborative partnership with Grand
 
 ### Annual Report
 
-Download our [2017 Annual Report](/uploads/Annual-Report-2017.pdf) here!
+Download our [2017 Annual Report](/uploads/Annual-Report-2017-Final.pdf) here!
 
 Download our [2016 Annual Report](/uploads/annual-report-2016.pdf) here!
 
