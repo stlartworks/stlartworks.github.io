@@ -35,3 +35,4 @@ Applying for a St. Louis ArtWorks apprenticeship is NOT first-come, first-served
 St. Louis Metro Bus and MetroLink are easily accessible near St. Louis ArtWorks' location! Visit [Google Maps](https://www.google.com/maps/dir//5959+Delmar+Blvd,+St.+Louis,+MO+63112/@38.655097,-90.3627863,12z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x87df4aacff3b279d:0x6cca80677b840219!2m2!1d-90.2927463!2d38.6551179!3e3) to enter your address and see how quickly and easily you can get to St. Louis ArtWorks from your home!
 
 THANK YOU for your interest and support of teen employment and the arts in St. Louis!
+
