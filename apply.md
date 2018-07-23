@@ -6,7 +6,7 @@ seoDescription: Join STLOUISARTWORKS today!
 featureImg: mural-003.jpg
 featureStatement: Join ARTWORKS!
 title: Status
-subtitle: Applications for SUMMER 2018 open NOW
+subtitle: Applications for Fall 2018 open NOW
 permalink: /apply/
 unique-cta: true
 mega-cta-img: ville-02.jpg
@@ -16,7 +16,7 @@ mega-cta-button-text-url: 'mailto:program.manager@stlartworks.org'
 ---
 
 
-Applications for SUMMER 2018 apprentices are open now.
+Applications for Fall 2018 apprentices are open now.
 
 We invite young creatives (14 - 18 years old) in the St. Louis metro area to apply and earn a stipend through paid apprenticeships in the arts in the Fall, Spring, and Summer.
 
