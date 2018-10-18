@@ -1,191 +1,177 @@
-- name: Kelly Scheffer, Board Chair
+- name: 'Kelly Scheffer, Board Chair'
   title: Board Chair
   profession: Art History Professor
   employer: Maryville University
   photo: kelly-scheffer.jpg
-  quote: "To create one's world in any of the arts takes courage."
+  quote: To create one's world in any of the arts takes courage.
   artist: Georgia O'Keeffe
-  
-- name: Benjamin Gandhi-Shepard, Vice-Chair
+- name: 'Benjamin Gandhi-Shepard, Vice-Chair'
   title: Vice-Chair
   profession: Chief Web Strategist
   employer: SOLVM
   photo: benjamin-gandhi-shepard-fam.jpg
-  quote: "Should graffiti be judged on the same level as modern art? Of course not—It's way more important than that."
+  quote: >-
+    Should graffiti be judged on the same level as modern art? Of course
+    not—It's way more important than that.
   artist: Banksy
-
-- name: Shaughnessy Daniels, Program Chair
+- name: 'Shaughnessy Daniels, Program Chair'
   title: Program Chair
-  profession: 'Vice President - Community Supports'
-  employer: 'St. Louis ARC'
+  profession: Vice President - Community Supports
+  employer: St. Louis ARC
   photo: shaughnessy-daniels.jpg
-  quote: "I try to give people a different way of looking at their surroundings. That's art to me."
+  quote: >-
+    I try to give people a different way of looking at their surroundings.
+    That's art to me.
   artist: Maya Lin
-  
-- name: Rhoads Hall, Treasurer
+- name: 'Rhoads Hall, Treasurer'
   title: Board Treasurer
   profession: Vice President
   employer: Commercial Banking Wells Fargo
   photo: rhoads-hall.jpg
-  quote: "Making money is art and working is art and good business is the best art."
+  quote: Making money is art and working is art and good business is the best art.
   artist: Andy Warhol
-  
-- name: Kedra Tolson, Secretary
+- name: 'Kedra Tolson, Secretary'
   title: Board Secretary
-  profession: 'Coordinator of Community Relations'
-  employer: 'St. Louis Community College'
+  profession: Coordinator of Community Relations
+  employer: St. Louis Community College
   photo: kedra-tolson.jpg
-  quote: 'Find a beautiful piece of art. If you fall in love with Van Gogh or Matisse or John Oliver Killens, or if you fall love with the music of Coltrane, the music of Aretha Franklin, or the music of Chopin - find some beautiful art and admire it, and realize that that was created by human beings just like you, no more human, no less.'
+  quote: >-
+    Find a beautiful piece of art. If you fall in love with Van Gogh or Matisse
+    or John Oliver Killens, or if you fall love with the music of Coltrane, the
+    music of Aretha Franklin, or the music of Chopin - find some beautiful art
+    and admire it, and realize that that was created by human beings just like
+    you, no more human, no less.
   artist: Maya Angelou
-
 - name: Jared Boyd
-  title: ''
+  title:
   profession: Chief of Staff and Counsel
-  employer: "City of St. Louis Treasurer's Office"
+  employer: City of St. Louis Treasurer's Office
   photo: jaredboyd3.jpg
-  quote: "Ads are the cave art of the twentieth century."
+  quote: Ads are the cave art of the twentieth century.
   artist: Marshall McLuhan
-
 - name: Emily Bernstein
-  title: ''
-  profession: 'Project Manager'
+  title:
+  profession: Project Manager
   employer: McCormack Baron Salazar
   photo: emily-bernstein.jpg
-# quote: 
-# artist: 
-  
 - name: Amy Counts
-  title: ''
-  profession: 'Sr. Account Executive'
+  title:
+  profession: Sr. Account Executive
   employer: Wise F&I
   photo: amycounts.jpg
-  quote: ""
-  artist:  
-  
+  quote:
+  artist:
 - name: Shelia Hudson
-  title: ''
-  profession: 'President/CEO'
+  title:
+  profession: President/CEO
   employer: 'Hudson and Associates, LLC'
   photo: sheliahudson.jpg
-  quote: "A work of art is, above all, an adventure of the mind."
+  quote: 'A work of art is, above all, an adventure of the mind.'
   artist: Eugene Ionesco
-  
 - name: Rajeev John
-  title: ''
+  title:
   profession: 'MSW, LCSW, Manager, Adult Behavioral Health'
-  employer: 'Affinia Healthcare'
+  employer: Affinia Healthcare
   photo: rajeev-john.jpg
-  quote: "Art is either plagiarism or revolution."
+  quote: Art is either plagiarism or revolution.
   artist: Paul Gauguin
-
 - name: Erik Karanik
-  title: ''
-  profession: 'Financial Advisor'
+  title:
+  profession: Financial Advisor
   employer: 'Wells Fargo Advisors, Private Client Group'
   photo: erik-karanik.jpg
-  quote: "When I make art, I think about its ability to connect with others, to bring them into the process."
+  quote: >-
+    When I make art, I think about its ability to connect with others, to bring
+    them into the process.
   artist: Jim Hodges
-
 - name: Don Kennedy
-  title: ''
-  profession: 'Attorney-at-Law'
+  title:
+  profession: Attorney-at-Law
   employer: 'Greensfelder, Hemker & Gale, P.C.'
   photo: donkennedy.jpg
-  quote: "I don't believe in art. I believe in artists."
+  quote: I don't believe in art. I believe in artists.
   artist: Marcel Duchamp
-  
 - name: Dr. Louis Lankford
-  title: ''
+  title:
   profession: 'Professor Emeritus, Art Education'
-  employer: 'University of Missouri- St. Louis'
+  employer: University of Missouri- St. Louis
   photo: louislankford.jpg
-  quote: ""
-  artist: 
-  
+  quote:
+  artist:
 - name: Brian Russell
-  title: ''
-  profession: 'External Affairs Manager'
-  employer: 'Missouri American Water'
+  title:
+  profession: External Affairs Manager
+  employer: Missouri American Water
   photo: brian-russell.jpg
-#  quote: "A true artist is not one who is inspired, but one who inspires others."
-#  artist: Salvador Dali
-
 - name: Roger Macon
-  title: ''
-  profession: 'Financial Advisor'
-  employer: 'Edward Jones'
+  title:
+  profession: Financial Advisor
+  employer: Edward Jones
   photo: rogerm.bmp
-  quote: "I like kids' work more than work by real artists any day."
+  quote: I like kids' work more than work by real artists any day.
   artist: Jean-Michel Basquiat
-  
 - name: Matt MacEwan
-  title: ''
+  title:
   profession: President / Founder
   employer: 'RETECTIX, LLC'
   photo: matt-macewan.jpg
-  quote: "Without art, the crudeness of reality would make the world unbearable."
+  quote: 'Without art, the crudeness of reality would make the world unbearable.'
   artist: George Bernard Shaw
-
 - name: Meridith McKinley
-  title: ''
-  profession: 'Partner'
+  title:
+  profession: Partner
   employer: 'Via Partnership, LLP'
   photo: meridith1.jpg
-  quote: "If you ask me what I came into this life to do, I will tell you: I came to live out loud."
+  quote: >-
+    If you ask me what I came into this life to do, I will tell you: I came to
+    live out loud.
   artist: Emile Zola
-  
-#- name: Roderick Nunn
-#  title: ''
-#  profession: 'Executive VP - Head of Education and Employment'
-#  employer: 'Concordance Academy of Leadership'
-#  photo: rodnunn.jpg
-#  quote: "Art is the most intense mode of individualism that the world has known."
-#  artist: Oscar Wilde
-
 - name: Joyce Sanders
-  title: ''
+  title:
   profession: 'Supervising Engineer, Intelligrid'
-  employer: 'Ameren'
+  employer: Ameren
   photo: joyce-sanders.jpg
-  quote: "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+  quote: >-
+    I've learned that people will forget what you said, people will forget what
+    you did, but people will never forget how you made them feel.
   artist: Maya Angelou
-
 - name: David Seevers
-  title: ''
+  title:
   profession: 'Vice President, Operations-Health Plans'
-  employer: 'Centene Corporation'
+  employer: Centene Corporation
   photo: david-seevers.jpg
-  quote: "Art to me is a humanitarian act and I believe that there is a responsibility that art should somehow be able to effect mankind, to make the world a better place."
+  quote: >-
+    Art to me is a humanitarian act and I believe that there is a responsibility
+    that art should somehow be able to effect mankind, to make the world a
+    better place.
   artist: Jeff Koons
-
-#- name: Matt Semrad
-#  title: ''
-#  profession: 'Senior Vice-President of Technology'
-#  employer: 'Equifax'
-#  photo: mattsemrad2.jpg
-#  quote: "All children are artists. The problem is how to remain an artist once we grow up."
-#  artist: Pablo Picasso
-
 - name: Steve Shumate
-  title: ''
+  title:
   profession: 'Associate Vice President, Business Banking'
-  employer: 'UMB Bank'
+  employer: UMB Bank
   photo: steve-shumate.jpg
-  quote: "There is only one valuable thing in art— the thing you cannot explain."
+  quote: There is only one valuable thing in art— the thing you cannot explain.
   artist: Georges Braque
-  
 - name: Keica Smart
-  title: ''
-  profession: 'Project Manager'
-  employer: 'Graybar Electric Company'
+  title:
+  profession: Project Manager
+  employer: Graybar Electric Company
   photo: keica-smart.jpg
-  quote: "The question is not whether we can afford to invest in every child, it is whether we can afford not to."
+  quote: >-
+    The question is not whether we can afford to invest in every child, it is
+    whether we can afford not to.
   artist: Marian Wright Edelman
-  
+- name: Tonnie Glispie-Smith
+  title:
+  profession: Community Volunteer
+  employer:
+  photo: tonnie-smith.jpg
+  quote:
+  artist:
 - name: Erika N. Wilson
-  title: ''
-  profession: 'Associate Project Manager'
+  title:
+  profession: Associate Project Manager
   employer: 'Urban Strategies, Inc.'
   photo: ErikaWilson1.jpg
-  quote: "It's not who you are that holds you back, it's who you think you're not."
+  quote: 'It''s not who you are that holds you back, it''s who you think you''re not.'
   artist: Jean-Michel Basquiat
