@@ -1,7 +1,3 @@
-# - name: Byron Rogers
-#   photo: instructor-byron-rogers.jpg
-#   content: As an educator and artist, Byron has worked with St. Louis ArtWorks for the past decade, offering apprentices instruction in drawing and painting. But more than that, Byron is invested in the success of our youth - and the apprentices know it! Byron was recently featured in <a href="https://issuu.com/alltheartstl/docs/winter2016-17upload">ALL THE ART</a>, a local arts publication highlighting the exceptional work of St. Louis area artists. 
-  
 - name: Mark Clark
   photo: markclark2.jpg
   content: Mark Clark is our Digital apprenticeship Guru, leading apprentices in the creation and development of photos, graphic design, videography, and documentary filmmaking. Mark's apprentices apply to work in digital media again and again, because of his patience, support, and professionalism. When not at ArtWorks, he goes by Mr. Clark, and teaches music in St. Louis Public Schools (SLPS). Mark has been named both "Teacher of the Year" and "Music Teacher of the Year" during his 16 years at SLPS, and is also an instructor with the Opera Camp of Opera Theatre of St. Louis.
@@ -78,6 +74,10 @@
 - name: Chloe West
   photo: loader.jpg
   content: Bio coming soon...
+  
+# - name: Byron Rogers
+#   photo: instructor-byron-rogers.jpg
+#   content: As an educator and artist, Byron has worked with St. Louis ArtWorks for the past decade, offering apprentices instruction in drawing and painting. But more than that, Byron is invested in the success of our youth - and the apprentices know it! Byron was recently featured in <a href="https://issuu.com/alltheartstl/docs/winter2016-17upload">ALL THE ART</a>, a local arts publication highlighting the exceptional work of St. Louis area artists. 
 
 
 # - name: Deborah Alma Wheeler
