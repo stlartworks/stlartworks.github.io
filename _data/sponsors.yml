@@ -187,9 +187,9 @@
   image: sponsors-continuity-logo.png
   description: "Thank you!" 
   
-- sponsor: City of St. Louis' Community Development Administration.
+- sponsor: City of St. Louis' Community Development Administration. This activity is financed in part through an allocation of Community Development Block Grant Funds from the Department of Housing and Urban Development and the City of St. Louis' Community Development Administration. 
   image: cda-stl.png
-  description: "Thank you!" 
+  description:
   url: https://www.stlouis-mo.gov/cda/
   
 
