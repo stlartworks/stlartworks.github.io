@@ -59,6 +59,10 @@ Bloomworks provides art for the garden, public parks, and urban streetscape by m
 - Decorative rain barrels
 - Garden furniture and indoor/outdoor decorative and functional art
 
+### Sculptures
+{% include gallery-bloomworks-sculpture.html %}
+
+### Murals
 {% include gallery-bloomworks.html %}
 
 
