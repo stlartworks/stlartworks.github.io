@@ -49,7 +49,7 @@ Boomerang Press/Media offers graphic design and multimedia services to create:
 - Public service announcements (PSAs)
 - Photography for documentation or display
 - Video documentaries
-- 
+
 <div>
     <figure>
         <img src="/images/loader.png" data-src="/images/holiday-cards-2018.jpg" class="lazyload" alt="artwork">
