@@ -15,7 +15,7 @@ mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:program.manager@stlartworks.org'
 ---
 
-Applications for Fall 2018 apprentices are CLOSED. Further updates to follow for the Spring 2019 application!
+Applications for Spring 2019 apprentices are now OPEN!
 
 We invite young creatives (14 - 18 years old) in the St. Louis metro area to apply and earn a stipend through paid apprenticeships in the arts in the Fall, Spring, and Summer.
 
@@ -29,7 +29,7 @@ Applying for a St. Louis ArtWorks apprenticeship is NOT first-come, first-served
 
 4) Be selected for and attend an in-person interview at St. Louis ArtWorks (5959 Delmar Blvd., St. Louis, MO 63112),
 
-5) A commitment of five hours a week (2.5 hours after school Tuesdays & Thursdays OR 5 hours on Saturdays), starting Saturday, January 26, through Saturday, April 27. All apprentices including the Tuesday/Thursday apprentices are required to work on April 28, when ArtWorks hosts our Annual Spring Sale. Attendance on April 28 is part of the program's required participation. 
+5) A commitment of five hours a week (2.5 hours after school Tuesdays & Thursdays OR 5 hours on Saturdays), starting Saturday, January 26, through Saturday, April 27. All apprentices including the Tuesday/Thursday apprentices are required to work on April 28, when ArtWorks hosts our Annual Spring Sale. Attendance on April 28 is part of the program's required participation.&nbsp;
 
 **IMPORTANT DATES:**
 
