@@ -7,8 +7,8 @@ seoDescription: Contact STLOUISARTWORKS about hosting your special event
 featureImg: yaaweb.jpg
 featureStatement: Events
 
-title: Young At Art 2018 Gala 
-subtitle: Purchase your tickets today!
+title: Young At Art 2019 Gala 
+subtitle: Tickets Coming Soon...
 permalink: /events/
 
 unique-cta: true
@@ -19,7 +19,7 @@ mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:events@stlartworks.org'
 ---
 
-<a href="https://www.eventbrite.com/e/young-at-art-a-celebration-of-st-louis-artworks-tickets-41957566210?aff=ehomecard">Join us for a party</a> that only St. Louis ArtWorks would throw, the Young at Art celebration of ArtWorks accomplishments, accolades and aspirations.
+<
 
 <br>
 
