@@ -1,34 +1,27 @@
 stats:
-
   twentythirteen:
-
     feature-stats:
       graduation-rate: 92
       higher-education-rate: 93
       total-apprenticeships: 168
       unduplicated-youth: 138
       zip-codes: 40
-
     demographics:
-
       high-schools:
         illinois: 1
-        slps: 39
-        st-louis-county: 47
+        slps: 42
+        st-louis-county: 53
         private: 10
         charter: 3
         graduated-hs-or-other: 0
-
       ethnicity:
         african-american: 85
         caucasian: 9
         asian: 1
         multi-ethnic: 4
-
       gender:
         male: 45
         female: 55
-
       age:
         fourteen: 10
         fifteen: 36
@@ -36,7 +29,6 @@ stats:
         seventeen: 39
         eighteen: 23
         nineteen: 5
-
     funding-sources:
       city: 20
       corporations: 15
@@ -44,11 +36,9 @@ stats:
       individuals: 3
       state: 4
       other: 6
-
     bank-accounts:
       before: 58
       after: 100
-
     expenses:
       program: 80
       development: 5
