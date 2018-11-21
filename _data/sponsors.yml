@@ -1,196 +1,106 @@
-
-
 - sponsor: Mastercard
   image: sponsors-mastercard.png
-  description: "Thank you!"
-  
+  description: Thank you!
 - sponsor: Union Pacific
   image: sponsors-union-pacific.png
-  description: "Thank you!"
-  
+  description: Thank you!
 - sponsor: ReCAST
   image: sponsors-recast.png
-  description: "Thank you!"
-  
+  description: Thank you!
 - sponsor: Ameren
   image: sponsors-ameren.png
-  description: "Thank you!"
-  
-- sponsor: Arts and Education Council 
+  description: Thank you!
+- sponsor: Arts and Education Council
   image: sponsors-arts-and-education-council.png
-  description: "Thank you!"
-  url: https://KeepArtHappening.org
-
+  description: Thank you!
+  url: 'https://KeepArtHappening.org'
 - sponsor: Berges Family Foundation
   image: sponsors-berges-family-foundation.png
-  description: "Thank you!"
-  
+  description: Thank you!
 - sponsor: Missouri American Water
   image: sponsors-missouri-american-water.png
-  description: "Thank you!"
-  
+  description: Thank you!
 - sponsor: Philpott Foundation
   image: sponsors-philpott-family-foundation.png
-  description: "Thank you!"
-  
+  description: Thank you!
 - sponsor: Regional Business Council
   image: sponsors-regional-business-council.png
-  description: "Thank you!"
-  
+  description: Thank you!
 - sponsor: Vassia Family Charitable Foundation
   image: sponsors-vassia-family.png
-  description: "Thank you!"
-
+  description: Thank you!
 - sponsor: MSD
   image: sponsors-msd.png
-  description: "Thank you!"
-
+  description: Thank you!
 - sponsor: Ken and Nancy Kranzberg
   image: sponsors-kranzberg.png
-  description: "Thank you!"
-  
+  description: Thank you!
 - sponsor: Shepard Family Foundation
   image: sponsors-shepard-family-foundation.png
-  description: "Thank you!"
-
-# - latest supporters above
-
+  description: Thank you!
 - sponsor: Artmart
   image: sponsors-artmart.png
-  description: "Thank you!" 
-  
+  description: Thank you!
 - sponsor: St. Louis County Children’s Service Fund
   image: sponsors-stl-childrens-fund.png
-  description: "Thank you!"
-# - sponsor: Trivers
-#   image: sponsors-trivers.png
-#   description: "Thank you!"
-
+  description: Thank you!
 - sponsor: Regional Arts Commission
   image: sponsors-regional-arts-commission.png
-  description: "Thank you!"
-  
-#- sponsor: St. Louis Mental Health Board
-#  image: sponsors-mhb.png
-#  description: "Thank you!"
-  
+  description: Thank you!
 - sponsor: Emerson
   image: sponsors-emerson.png
-  description: "Thank you!"
-  
+  description: Thank you!
 - sponsor: John and Carolyn Peterson Foundation
   image: sponsors-jcp.png
-  description: "Thank you!"
-  
+  description: Thank you!
 - sponsor: Wells Fargo Advisors
   image: sponsors-wells-fargo.png
-  description: "Thank you!"
-  
-# - sponsor: Equifax
-#   image: sponsors-equifax.png
-#   description: "Thank you!"
-
+  description: Thank you!
 - sponsor: Missouri Arts Council
   image: sponsors-missouri-arts-counsil.png
-  description: "Thank you!"
-  
+  description: Thank you!
 - sponsor: Centene Corporation
   image: sponsors-centene-corporation.png
-  description: "Thank you!"
-  
+  description: Thank you!
 - sponsor: TRIO Foundation of St. Louis
   image: sponsors-the-trio-foundation.png
-  description: "Thank you!"
-  
-# sponsor: Incarnate Word Foundation
-# image: sponsors-incarnate-word-foundation.png
-# description: "Thank you!"
-
+  description: Thank you!
 - sponsor: ESCO Technologies
   image: sponsors-esco.png
-  description: "Thank you!"
-  
+  description: Thank you!
 - sponsor: Saint Louis Art Museum
   image: sponsors-stlouis-art-museum.png
-  description: "Thank you!"
-  
-# - sponsor: Southern Illinois University Edwardsville
-#   image: sponsors-siue.png
-#   description: "Thank you!"
-
-# - sponsor: University of Missouri St. Louis
-#   image: sponsors-umsl.png
-#   description: "Thank you!"
-
+  description: Thank you!
 - sponsor: Cardinals Care
   image: sponsors-cardinals-care.png
-  description: "Thank you!"
-  
-# - sponsor: Dana Brown Foundation
-#   image: sponsors-dana-brown.png
-#   description: "Thank you!"
-
-# sponsor: US Bank
-# image: sponsors-us-bank.png
-# description: "Thank you!"
-
+  description: Thank you!
 - sponsor: Roblee Foundation
   image: sponsors-roblee-foundation.png
-  description: "Thank you!"
-  
-# sponsor: Great Rivers Greenway
-# image: sponsors-great-rivers-greenway.png
-# description: "Thank you!"
-
+  description: Thank you!
 - sponsor: William Kerr Foundation
   image: sponsors-wakf.png
-  description: "Thank you!"
-  
-# - sponsor: Boeing
-#   image: sponsors-boeing.png
-#   description: "Thank you!"
-
-# - sponsor: First Bank
-#   image: sponsors-first-bank.png
-#   description: "Thank you!"
-
-# - sponsor: Monsanto Fund
-#   image: sponsors-monsanto-fund.png
-#   description: "Thank you!"
-
+  description: Thank you!
 - sponsor: Children's Services Coalition
   image: sponsors-csc.png
-  description: "Thank you!"
-  url: http://csc-stl.org/
-  
-# - sponsor: Missouri Humanities Council
-#   image: sponsors-mhc.png
-#   description: "Thank you!"
-
+  description: Thank you!
+  url: 'http://csc-stl.org/'
 - sponsor: Commerce Bank
   image: sponsors-commerce-bank.png
-  description: "Thank you!"
-  
+  description: Thank you!
 - sponsor: Clark-Fox Family Foundation
   image: sponsors-clark-fox.png
-  description: "Thank you!"  
-  
+  description: Thank you!
 - sponsor: Staenberg Family Foundation
   image: sponsors-staenberg.png
-  description: "Thank you!"  
-  
+  description: Thank you!
 - sponsor: Tegna Foundation
   image: sponsors-tenga.png
-  description: "Thank you!"  
-  
-- sponsor: ContinuitySTL
-  image: sponsors-continuity-logo.png
-  description: "Thank you!" 
-  
-- sponsor: City of St. Louis' Community Development Administration. This activity is financed in part through an allocation of Community Development Block Grant Funds from the Department of Housing and Urban Development and the City of St. Louis' Community Development Administration. 
+  description: Thank you!
+- sponsor: >-
+    City of St. Louis' Community Development Administration. This activity is
+    financed in part through an allocation of Community Development Block Grant
+    Funds from the Department of Housing and Urban Development and the City of
+    St. Louis' Community Development Administration.
   image: cda-stl.png
   description:
-  url: https://www.stlouis-mo.gov/cda/
-  
-
-  
+  url: 'https://www.stlouis-mo.gov/cda/'
