@@ -37,9 +37,9 @@ Please click the paypal link below, and you will be taken to the secure Paypal p
 
 ### [![Better Business Bureau logo](/uploads/versions/bbblogobluesm---&#40;----200-76&#41;---.jpg)](http://www.bbb.org/stlouis/business-reviews/charity-arts-and-culture/st-louis-artworks-in-saint-louis-mo-310482094)
 
-<center><a target="_blank" href="http://www.guidestar.org/organizations/43-1735450/st-louis-artworks.aspx"><img src="http://widgets.guidestar.org/gximage2?o=7661363&amp;l=v4" /> </a></center>
+<center><a target="_blank" href="http://www.guidestar.org/organizations/43-1735450/st-louis-artworks.aspx"><img src="http://widgets.guidestar.org/gximage2?o=7661363&amp;l=v4" /></a></center>
 
-### &nbsp;
+<center>&nbsp;</center>
 
 ### Volunteer Opportunities
 
