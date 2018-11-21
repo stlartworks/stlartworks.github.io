@@ -41,6 +41,12 @@ Please click the paypal link below, and you will be taken to the secure Paypal p
 
 <center>&nbsp;</center>
 
+<center>2018 Annual Appeal Letter</center>
+
+<center>&nbsp;</center>
+
+<center>&nbsp;</center>
+
 ### Volunteer Opportunities
 
 St. Louis ArtWorks has volunteer opportunities throughout the year, including interview days, apprentice art sales, and more. If you would like to volunteer, please email us at [volunteer@stlartworks.org](mailto:volunteer@stlartworks.org) indicating your area/s of interest as well as your days and times of availability. Thank you for your support!
