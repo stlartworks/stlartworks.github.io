@@ -55,11 +55,11 @@ Boomerang Press/Media offers graphic design and multimedia services to create:
 ### ![bloomworks](/images/bloomworks_web.jpg)
 Bloomworks provides art for the garden, public parks, and urban streetscape by making:
 
-- Bicycle racks
+
 - Decorative rain barrels
 - Garden furniture and indoor/outdoor decorative and functional art
 
-### Sculptures
+### Rain Barrels
 {% include gallery-bloomworks-sculpture.html %}
 
 ### Murals
