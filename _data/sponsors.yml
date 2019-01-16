@@ -1,9 +1,6 @@
 - sponsor: Mastercard
   image: sponsors-mastercard.png
   description: Thank you!
-- sponsor: Union Pacific
-  image: sponsors-union-pacific.png
-  description: Thank you!
 - sponsor: ReCAST
   image: sponsors-recast.png
   description: Thank you!
@@ -14,17 +11,8 @@
   image: sponsors-arts-and-education-council.png
   description: Thank you!
   url: 'https://KeepArtHappening.org'
-- sponsor: Berges Family Foundation
-  image: sponsors-berges-family-foundation.png
-  description: Thank you!
 - sponsor: Missouri American Water
   image: sponsors-missouri-american-water.png
-  description: Thank you!
-- sponsor: Philpott Foundation
-  image: sponsors-philpott-family-foundation.png
-  description: Thank you!
-- sponsor: Regional Business Council
-  image: sponsors-regional-business-council.png
   description: Thank you!
 - sponsor: Vassia Family Charitable Foundation
   image: sponsors-vassia-family.png
@@ -65,9 +53,6 @@
 - sponsor: TRIO Foundation of St. Louis
   image: sponsors-the-trio-foundation.png
   description: Thank you!
-- sponsor: ESCO Technologies
-  image: sponsors-esco.png
-  description: Thank you!
 - sponsor: Saint Louis Art Museum
   image: sponsors-stlouis-art-museum.png
   description: Thank you!
@@ -89,12 +74,6 @@
   description: Thank you!
 - sponsor: Clark-Fox Family Foundation
   image: sponsors-clark-fox.png
-  description: Thank you!
-- sponsor: Staenberg Family Foundation
-  image: sponsors-staenberg.png
-  description: Thank you!
-- sponsor: Tegna Foundation
-  image: sponsors-tenga.png
   description: Thank you!
 - sponsor: >-
     City of St. Louis' Community Development Administration. This activity is
