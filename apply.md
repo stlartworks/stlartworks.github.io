@@ -6,7 +6,7 @@ seoDescription: Join STLOUISARTWORKS today!
 featureImg: mural-003.jpg
 featureStatement: Join ARTWORKS!
 title: Status
-subtitle: Applications for Spring 2019 are currently open
+subtitle: Applications for Summer 2019 are currently open
 permalink: /apply/
 unique-cta: true
 mega-cta-img: ville-02.jpg
@@ -29,7 +29,7 @@ Applying for a St. Louis ArtWorks apprenticeship is NOT first-come, first-served
 
 4) Be selected for and attend an in-person interview at St. Louis ArtWorks (5959 Delmar Blvd., St. Louis, MO 63112),
 
-5) The summer session is a commitment of five hours per day, five days a week, starting Monday, June 10th through Friday, July 19th, when ArtWorks hosts our Annual Summer Sale. It is a required day of work.&nbsp;
+5) The summer session is a commitment of five hours per day, five days a week, starting Monday, June 10th through Friday, July 19th, when ArtWorks hosts our Annual Summer Sale. It is a required day of work. 
 
 **IMPORTANT DATES:**
 
