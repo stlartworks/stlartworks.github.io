@@ -33,9 +33,9 @@ Applying for a St. Louis ArtWorks apprenticeship is NOT first-come, first-served
 
 **IMPORTANT DATES:**
 
-Application Start Date: February 6th, 2018
+Application Start Date: February 6th, 2019
 
-Application Deadline: TBD
+Application Deadline: April 19th, 2019
 
 Interview Day: TBD
 
