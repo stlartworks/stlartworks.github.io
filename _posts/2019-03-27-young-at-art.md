@@ -2,7 +2,7 @@
 layout: post
 title: Young at Art Celebration 2019
 
-featureImg: young-at-art-2019.jpg
+featureImg: yaa-main-image.jpg
 
 teaser: Join us for the Young at Art Celebration
 
