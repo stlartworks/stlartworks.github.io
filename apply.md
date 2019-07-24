@@ -15,7 +15,7 @@ mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:program.manager@stlartworks.org'
 ---
 
-Applications for Summer 2019 apprentices are now OPEN!
+Applications for Fall 2019 apprentices are now OPEN!
 
 We invite young creatives (14 - 18 years old) in the St. Louis metro area to apply and earn a stipend through paid apprenticeships in the arts in the Fall, Spring, and Summer.
 
