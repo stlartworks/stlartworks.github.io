@@ -6,7 +6,7 @@ seoDescription: Join STLOUISARTWORKS today!
 featureImg: mural-003.jpg
 featureStatement: Join ARTWORKS!
 title: Status
-subtitle: Applications for Summer 2019 are currently open
+subtitle: Applications for Fall 2019 are currently open
 permalink: /apply/
 unique-cta: true
 mega-cta-img: ville-02.jpg
