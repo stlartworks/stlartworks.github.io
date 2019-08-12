@@ -25,8 +25,9 @@ Youth interested in working for St. Louis ArtWorks must:
 * Complete the online application (below)
 * Be selected for and attend an in-person interview 
 
-IMPORTANT DATES:
-Application Start Date: July 1, 2019
-Application Deadline: August 16th, 2019
+## IMPORTANT DATES:
+
+- Application Start Date: July 1, 2019
+- Application Deadline: August 23th, 2019
 
 THANK YOU for your interest and support of teen employment in the arts!
