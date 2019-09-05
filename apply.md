@@ -1,5 +1,5 @@
 ---
-apply: true
+apply: false
 layout: apply
 seoTitle: Apply today!
 seoDescription: Join STLOUISARTWORKS today!
