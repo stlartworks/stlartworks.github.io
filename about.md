@@ -29,7 +29,9 @@ Each program combines in-depth art instruction, employment training, and life sk
 
 St. Louis ArtWorks was founded in 1995 as a collaborative partnership with Grand Center Inc., the City of St. Louis, and the Regional Arts Commission. Since that time, ArtWorks has provided opportunities for thousands of young people, successfully helping to prepare them for future education and employment opportunities. ArtWorks bridges economic, racial and social divisions by providing underserved youth with arts education, workforce development training, and 21st century life skills, including fiscal literacy and professional communication. In 2015, ArtWorks proudly celebrated 20 years of creating opportunities for St. Louis youth.
 
-### Annual Report
+### Annual Reports
+
+Download our [2018 Annual Report](/uploads/slaw-annual-report-2018.pdf) here!
 
 Download our [2017 Annual Report](/uploads/Annual-Report-2017.pdf) here!
 
