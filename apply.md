@@ -27,6 +27,6 @@ Youth interested in working for St. Louis ArtWorks must:
 
 ## Apply below:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfcA-XBaugXSRwGNLsbWM9m5GdHLxYGi-8ktg0P9-YHr3Pqkw/viewform?embedded=true" width="640" height="2435" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe style="max-witdh: 100%" src="https://docs.google.com/forms/d/e/1FAIpQLSfcA-XBaugXSRwGNLsbWM9m5GdHLxYGi-8ktg0P9-YHr3Pqkw/viewform?embedded=true" width="640" height="2435" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 THANK YOU for your interest and support of teen employment in the arts!
