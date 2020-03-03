@@ -31,6 +31,13 @@ Summary: The Executive Director will bring vision, leadership and continuity to 
 
 **Start Date:** August 1, 2020 (with 3-4 orientation meetings in the month of July)
 
+**Apply today**
+
+To apply, send the items listed below to [jobs@stlartworks.org](mailto:jobs@stlartworks.org):
+1. Resume as a PDF, Word or Google doc
+2. Cover letter
+3. Three references
+
 ## Executive Director Responsibilities:
 
 **Leadership and Strategy**
@@ -96,5 +103,9 @@ Summary: The Executive Director will bring vision, leadership and continuity to 
 
 **Apply today**
 
-To apply, send yoour resume as a PDF, Word or Google doc to [jobs@stlartworks.org](mailto:jobs@stlartworks.org)
+To apply, send the items listed below to [jobs@stlartworks.org](mailto:jobs@stlartworks.org):
+1. Resume as a PDF, Word or Google doc
+2. Cover letter
+3. Three references
+
 
