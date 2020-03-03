@@ -33,7 +33,7 @@ Summary: The Executive Director will bring vision, leadership and continuity to 
 
 **Apply today**
 
-To apply, send the items listed below to [jobs@stlartworks.org](mailto:jobs@stlartworks.org):
+To apply, send the items listed below to [jobs@stlartworks.org](mailto:jobs@stlartworks.org?subject=Application for Executive Director):
 1. Resume as a PDF, Word or Google doc
 2. Cover letter
 3. Three references
@@ -103,7 +103,7 @@ To apply, send the items listed below to [jobs@stlartworks.org](mailto:jobs@stla
 
 **Apply today**
 
-To apply, send the items listed below to [jobs@stlartworks.org](mailto:jobs@stlartworks.org):
+To apply, send the items listed below to [jobs@stlartworks.org](mailto:jobs@stlartworks.org?subject=Application for Executive Director):
 1. Resume as a PDF, Word or Google doc
 2. Cover letter
 3. Three references
