@@ -96,5 +96,5 @@ Summary: The Executive Director will bring vision, leadership and continuity to 
 
 **Apply today**
 
-To apply, send yoour resume as a PDF, Word or Google doc to [mailto:admin@stlartworks.org](admin@stlartworks.org)
+To apply, send yoour resume as a PDF, Word or Google doc to [jobs@stlartworks.org](mailto:jobs@stlartworks.org)
 
