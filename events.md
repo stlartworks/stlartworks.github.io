@@ -29,7 +29,7 @@ Where: [www.charidy.com/stlartworks](www.charidy.com/stlartworks)
 <br>
 <br>
 
-![](http://stlartworks.org/images/sponsors-2020.jpg)
+![](/images/sponsors-2020.jpg)
 
 ### Host your next event at St. Louis ArtWorks
 
