@@ -26,6 +26,11 @@ Now more than ever ArtWorks is grateful for the community that has supported us 
 When: June 4- June 5 at noon
 Where: [www.charidy.com/stlartworks](www.charidy.com/stlartworks)
 
+<br>
+<br>
+
+![](http://stlartworks.org/images/sponsors-2020.jpg)
+
 ### Host your next event at St. Louis ArtWorks
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aHOn6-I_PAk" frameborder="0" allowfullscreen></iframe>
