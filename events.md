@@ -3,16 +3,12 @@ layout: events
 
 seoTitle: Have your event at STLOUISARTWORKS
 seoDescription: Contact STLOUISARTWORKS about hosting your special event
-
 featureImg: yaaweb.jpg
 featureStatement: Events
-
 title: Young at Art: 24 Hours to Give
 subtitle: Tickets Coming Soon...
 permalink: /events/
-
 unique-cta: true
-
 mega-cta-img: ville-02.jpg
 mega-cta-heading: Join us!
 mega-cta-button-text: Questions?
