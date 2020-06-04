@@ -23,8 +23,8 @@ St. Louis ArtWorks is hosting its very first virtual fundraiser, Young at Art:24
 
 Now more than ever ArtWorks is grateful for the community that has supported us during this unprecedented time in history. 
 
-When: June 4- June 5 at noon
-Where: [www.charidy.com/stlartworks](www.charidy.com/stlartworks)
+- When: June 4- June 5 at noon
+- Where: [www.charidy.com/stlartworks](www.charidy.com/stlartworks)
 
 <br>
 <br>
