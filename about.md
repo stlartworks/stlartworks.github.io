@@ -17,7 +17,7 @@ instructorpx: Instructor-robert-ketchens.jpg
 boardpx: interview-day-01.jpg
 ---
 
-The mission of St. Louis ArtWorks is to broaden educational and career opportunities for youth in the St. Louis Region through apprenticeships in the arts and through community collaborations. The organization’s goal is to create positive educational opportunities through art for youth through paid apprenticeships.
+The mission of St. Louis ArtWorks is to enrich the lives of the region’s youth by providing art education, essential job skill training, and exposure to career opportunities through paid apprenticeships in the arts.  
 
 ### The "Apprentices"
 
