@@ -6,7 +6,7 @@ seoDescription: Join STLOUISARTWORKS today!
 featureImg: mural-003.jpg
 featureStatement: Join ARTWORKS!
 title: Status
-subtitle: Now accepting Applications for Summer 2020
+subtitle: Now accepting Applications
 permalink: /apply/
 unique-cta: true
 mega-cta-img: ville-02.jpg
@@ -15,7 +15,7 @@ mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:program.manager@stlartworks.org'
 ---
 
-We are now accepting Applications for Fall 2020
+We are now accepting Applications
 
 We invite young creatives (14 - 19 years old) in the St. Louis area to apply and earn a stipend through paid apprenticeships in the arts year-round.
 
