@@ -34,9 +34,9 @@
   url: instructors
   teaser: "Our instructors are AMAZING!"
 
-- nav-item: Staff
-  url: staff
-  teaser: "Meet our All-Star staff"
+# - nav-item: Staff
+#   url: staff
+#   teaser: "Meet our All-Star staff"
 
 - nav-item: Board
   url: board
