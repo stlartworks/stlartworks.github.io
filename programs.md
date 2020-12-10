@@ -9,7 +9,7 @@ featureImg: apprentice-001.jpg
 featureStatement: 'Learn and Earn!'
 
 title: Apprenticeship Programs
-subtitle: 'Summer 2018 Applications are Closed'
+subtitle: ''
 permalink: /programs/
 mega-cta-img: ville-02.jpg
 mega-cta-heading: 'Join us!'
