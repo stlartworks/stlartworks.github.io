@@ -1,19 +1,19 @@
-- name: 'Kelly Scheffer, Board Chair'
-  title: Board Chair
-  profession: Art History Professor
-  employer: Maryville University
-  photo: kelly-scheffer.jpg
-  quote: To create one's world in any of the arts takes courage.
-  artist: Georgia O'Keeffe
-- name: 'Benjamin Gandhi-Shepard, Vice-Chair'
-  title: Vice-Chair
-  profession: Chief Web Strategist
-  employer: SOLVM
-  photo: benjamin-gandhi-shepard-fam.jpg
-  quote: >-
-    Should graffiti be judged on the same level as modern art? Of course
-    not—It's way more important than that.
-  artist: Banksy
+# - name: 'Kelly Scheffer, Board Chair'
+#   title: Board Chair
+#   profession: Art History Professor
+#   employer: Maryville University
+#   photo: kelly-scheffer.jpg
+#   quote: To create one's world in any of the arts takes courage.
+#   artist: Georgia O'Keeffe
+# - name: 'Benjamin Gandhi-Shepard, Vice-Chair'
+#   title: Vice-Chair
+#   profession: Chief Web Strategist
+#   employer: SOLVM
+#   photo: benjamin-gandhi-shepard-fam.jpg
+#   quote: >-
+#     Should graffiti be judged on the same level as modern art? Of course
+#     not—It's way more important than that.
+#   artist: Banksy
 - name: 'Shaughnessy Daniels, Program Chair'
   title: Program Chair
   profession: Vice President - Community Supports
@@ -23,13 +23,13 @@
     I try to give people a different way of looking at their surroundings.
     That's art to me.
   artist: Maya Lin
-- name: 'Rhoads Hall, Treasurer'
-  title: Board Treasurer
-  profession: Vice President
-  employer: Commercial Banking Wells Fargo
-  photo: rhoads-hall.jpg
-  quote: Making money is art and working is art and good business is the best art.
-  artist: Andy Warhol
+# - name: 'Rhoads Hall, Treasurer'
+#   title: Board Treasurer
+#   profession: Vice President
+#   employer: Commercial Banking Wells Fargo
+#   photo: rhoads-hall.jpg
+#   quote: Making money is art and working is art and good business is the best art.
+#   artist: Andy Warhol
 - name: 'Kedra Tolson, Secretary'
   title: Board Secretary
   profession: Coordinator of Community Relations
@@ -75,15 +75,15 @@
   photo: rajeev-john.jpg
   quote: Art is either plagiarism or revolution.
   artist: Paul Gauguin
-- name: Erik Karanik
-  title:
-  profession: Financial Advisor
-  employer: 'Wells Fargo Advisors, Private Client Group'
-  photo: erik-karanik.jpg
-  quote: >-
-    When I make art, I think about its ability to connect with others, to bring
-    them into the process.
-  artist: Jim Hodges
+# - name: Erik Karanik
+#   title:
+#   profession: Financial Advisor
+#   employer: 'Wells Fargo Advisors, Private Client Group'
+#   photo: erik-karanik.jpg
+#   quote: >-
+#     When I make art, I think about its ability to connect with others, to bring
+#     them into the process.
+#   artist: Jim Hodges
 - name: Don Kennedy
   title:
   profession: Attorney-at-Law
@@ -103,20 +103,20 @@
   profession: External Affairs Manager
   employer: Missouri American Water
   photo: brian-russell.jpg
-- name: Roger Macon
-  title:
-  profession: Financial Advisor
-  employer: Edward Jones
-  photo: rogerm.bmp
-  quote: I like kids' work more than work by real artists any day.
-  artist: Jean-Michel Basquiat
-- name: Matt MacEwan
-  title:
-  profession: President / Founder
-  employer: 'RETECTIX, LLC'
-  photo: matt-macewan.jpg
-  quote: 'Without art, the crudeness of reality would make the world unbearable.'
-  artist: George Bernard Shaw
+# - name: Roger Macon
+#   title:
+#   profession: Financial Advisor
+#   employer: Edward Jones
+#   photo: rogerm.bmp
+#   quote: I like kids' work more than work by real artists any day.
+#   artist: Jean-Michel Basquiat
+# - name: Matt MacEwan
+#   title:
+#   profession: President / Founder
+#   employer: 'RETECTIX, LLC'
+#   photo: matt-macewan.jpg
+#   quote: 'Without art, the crudeness of reality would make the world unbearable.'
+#   artist: George Bernard Shaw
 - name: Meridith McKinley
   title:
   profession: Partner
@@ -145,13 +145,13 @@
     that art should somehow be able to effect mankind, to make the world a
     better place.
   artist: Jeff Koons
-- name: Steve Shumate
-  title:
-  profession: 'Associate Vice President, Business Banking'
-  employer: UMB Bank
-  photo: steve-shumate.jpg
-  quote: There is only one valuable thing in art— the thing you cannot explain.
-  artist: Georges Braque
+# - name: Steve Shumate
+#   title:
+#   profession: 'Associate Vice President, Business Banking'
+#   employer: UMB Bank
+#   photo: steve-shumate.jpg
+#   quote: There is only one valuable thing in art— the thing you cannot explain.
+#   artist: Georges Braque
 - name: Keica Smart
   title:
   profession: Project Manager
