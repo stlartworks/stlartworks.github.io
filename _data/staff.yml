@@ -1,71 +1,71 @@
-- name: Priscilla Block
-  photo: PriscillaPortrait2016.jpg
-  title: Executive Director
-  email: priscilla.block@stlartworks.org
-  content: >-
-    Since 2001 Priscilla Block has served as Executive Director. She has an MFA
-    from Washington University, is a winner of the Washington University Social
-    entrepreneur and Innovation Competition (SEIC), and is a practicing
-    professional artist. Priscilla brings strong community contacts built over
-    12 years of community engagement and as an alum of Coro Women in Leadership,
-    Focus St. Louis Leadership, and the Academy for Women Executive Directors
-    through Nonprofit Services Center. Priscilla also serves as the Creative
-    Director and principal fundraiser. Priscilla has grown the organization by
-    over 200% in 13 years as well as greatly expanded its cross discipline
-    education and community collaborations. In 2016, she was recognized as "Arts
-    Professional of the Year" by the St. Louis Visionary Awards, and in 2014,
-    Priscilla was awarded a lifetime achievement award from UMSL for her
-    dedication to the arts.
-- name: Susan TeStroete
-  photo: staff-susan-testroete.jpg
-  title: Assistant Director
-  email: susan@stlartworks.org
-  phone: 314-899-9735
-  content: >-
-    Susan works with the Executive Director to oversee and implement program
-    funding and budgeting. She also writes and submits proposals and
-    applications for ArtWorks to grant-making organizations and funding
-    partners. She has an MSW from University of Missouri and has 17 years’
-    experience in the non-profit grant writing and counseling fields, with the
-    last 11 spent in youth programs. She is experienced in delivering a breadth
-    of programming, including staff training, leadership, counseling and mental
-    health assessments.
-- name: Genesis Powell
-  photo: staff-genesis-powell.jpg
-  title: Program Manager
-  email: program.manager@stlartworks.org
-  phone: 314-899-9758
-  content: >-
-    Genesis works to keep the site fluid in her role as Program Manager. She has
-    more than 10 years’ experience in working with nonprofit organizations, with
-    eight of those years dedicated exclusively to experience in working with
-    nonprofit organizations, with eight of those years dedicated exclusively to
-    disadvantaged youth. Genesis is experienced in training, facilitation, and
-    evaluation. She holds a Master of Science in Nonprofit Management from
-    Eastern University.
-- name: Bianca Fitzpatrick
-  photo: staff-bianca-fitzpatrick.jpg
-  title: Communications & Events Specialist
-  email: communications@stlartworks.org
-  phone: 314-899-9734
-  content: >-
-    Bianca Fitzpatrick is the Communications and Events Specialist for St. Louis
-    Artworks. She graduated from Stephens College in May 2016 with a B.A. in
-    Apparel Studies and minor in Graphic Design. Her study abroad (London
-    College of Fashion and Nuova Accademia Di Belle Arti) and internship
-    experiences has equipped her to excel in the areas of: Public Relations,
-    Marketing, Social Media, Event Planning, Design and Production. Bianca is
-    also a musician (Singer/Songwriter and Violinist), the lead vocalist for We
-    Are Root Mod. In her freetime, Bianca enjoys thrifting, crafting, reading
-    and watching Netflix.
-- name: Alayne Yates
-  photo: alayne2016.jpeg
-  title: Office Manager
-  email: alayne@stlartworks.org
-  phone: 314-899-9736
-  content: >-
-    Alayne is our Office Manager, handling the daily business of ArtWorks, and
-    providing support to the team and apprentices throughout the year.
+# - name: Priscilla Block
+#   photo: PriscillaPortrait2016.jpg
+#   title: Executive Director
+#   email: priscilla.block@stlartworks.org
+#   content: >-
+#     Since 2001 Priscilla Block has served as Executive Director. She has an MFA
+#     from Washington University, is a winner of the Washington University Social
+#     entrepreneur and Innovation Competition (SEIC), and is a practicing
+#     professional artist. Priscilla brings strong community contacts built over
+#     12 years of community engagement and as an alum of Coro Women in Leadership,
+#     Focus St. Louis Leadership, and the Academy for Women Executive Directors
+#     through Nonprofit Services Center. Priscilla also serves as the Creative
+#     Director and principal fundraiser. Priscilla has grown the organization by
+#     over 200% in 13 years as well as greatly expanded its cross discipline
+#     education and community collaborations. In 2016, she was recognized as "Arts
+#     Professional of the Year" by the St. Louis Visionary Awards, and in 2014,
+#     Priscilla was awarded a lifetime achievement award from UMSL for her
+#     dedication to the arts.
+# - name: Susan TeStroete
+#   photo: staff-susan-testroete.jpg
+#   title: Assistant Director
+#   email: susan@stlartworks.org
+#   phone: 314-899-9735
+#   content: >-
+#     Susan works with the Executive Director to oversee and implement program
+#     funding and budgeting. She also writes and submits proposals and
+#     applications for ArtWorks to grant-making organizations and funding
+#     partners. She has an MSW from University of Missouri and has 17 years’
+#     experience in the non-profit grant writing and counseling fields, with the
+#     last 11 spent in youth programs. She is experienced in delivering a breadth
+#     of programming, including staff training, leadership, counseling and mental
+#     health assessments.
+# - name: Genesis Powell
+#   photo: staff-genesis-powell.jpg
+#   title: Program Manager
+#   email: program.manager@stlartworks.org
+#   phone: 314-899-9758
+#   content: >-
+#     Genesis works to keep the site fluid in her role as Program Manager. She has
+#     more than 10 years’ experience in working with nonprofit organizations, with
+#     eight of those years dedicated exclusively to experience in working with
+#     nonprofit organizations, with eight of those years dedicated exclusively to
+#     disadvantaged youth. Genesis is experienced in training, facilitation, and
+#     evaluation. She holds a Master of Science in Nonprofit Management from
+#     Eastern University.
+# - name: Bianca Fitzpatrick
+#   photo: staff-bianca-fitzpatrick.jpg
+#   title: Communications & Events Specialist
+#   email: communications@stlartworks.org
+#   phone: 314-899-9734
+#   content: >-
+#     Bianca Fitzpatrick is the Communications and Events Specialist for St. Louis
+#     Artworks. She graduated from Stephens College in May 2016 with a B.A. in
+#     Apparel Studies and minor in Graphic Design. Her study abroad (London
+#     College of Fashion and Nuova Accademia Di Belle Arti) and internship
+#     experiences has equipped her to excel in the areas of: Public Relations,
+#     Marketing, Social Media, Event Planning, Design and Production. Bianca is
+#     also a musician (Singer/Songwriter and Violinist), the lead vocalist for We
+#     Are Root Mod. In her freetime, Bianca enjoys thrifting, crafting, reading
+#     and watching Netflix.
+# - name: Alayne Yates
+#   photo: alayne2016.jpeg
+#   title: Office Manager
+#   email: alayne@stlartworks.org
+#   phone: 314-899-9736
+#   content: >-
+#     Alayne is our Office Manager, handling the daily business of ArtWorks, and
+#     providing support to the team and apprentices throughout the year.
 - name: Kath Morgan
   photo: kath-morgan.jpg
   title: Art Therapist
