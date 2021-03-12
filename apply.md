@@ -6,7 +6,7 @@ seoDescription: Join STLOUISARTWORKS today!
 featureImg: mural-003.jpg
 featureStatement: Join ARTWORKS!
 title: Status
-subtitle: Not accepting applications 
+subtitle: Applications open March 15th
 permalink: /apply/
 unique-cta: true
 mega-cta-img: ville-02.jpg
