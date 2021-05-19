@@ -5,8 +5,8 @@ seoTitle: Apply today!
 seoDescription: Join STLOUISARTWORKS today!
 featureImg: mural-003.jpg
 featureStatement: Join ARTWORKS!
-title: ONLY ACCEPTING FROM
-subtitle: CASTLE POINT NEIGHBORHOOD YOUTH AND NORMANDY SCHOOL DISTRICT STUDENTS UNTIL MAY 14TH. 
+title:  Applications
+subtitle: Close May 28th
 permalink: /apply/
 unique-cta: true
 mega-cta-img: ville-02.jpg
