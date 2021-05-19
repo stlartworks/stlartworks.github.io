@@ -23,7 +23,7 @@ Youth interested in working for St. Louis ArtWorks must:
 - Be selected for and attend an in-person interview
 
 Apply below:
-The Summer Application closes May 14th and The Program Dates are June 14th-July 30th
+The Summer Application closes May 28th and The Program Dates are June 14th-July 30th
 
 <iframe style="width: 100%" src="https://docs.google.com/forms/d/e/1FAIpQLScVcvYV5fQq1NQEfqkvtsQJgBYH9WE3pFmRQ8c1Jgh7zBxiYg/viewform?embedded=true" width="100%" height="2435" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
