@@ -24,8 +24,8 @@ Youth interested in working for St. Louis ArtWorks must:
 
 Apply below:
 Now Accepting Fall 2021 Applications
-<!--Applications are currently closed.-->
 
+<!--Applications are currently closed.-->
 <!--The Summer Application closes June 8th and The Program Dates are June 14th-July 30th-->
 
 <iframe style="width: 100%" src="https://docs.google.com/forms/d/e/1FAIpQLSf9Undwk6DXI0GKAXjsNQB1pwSOdFazKfAKejdPr3q7ZM5hCQ/viewform?embedded=true" width="100%" height="2435" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
