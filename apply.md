@@ -6,7 +6,7 @@ seoDescription: Join STLOUISARTWORKS today!
 featureImg: mural-003.jpg
 featureStatement: Join ARTWORKS!
 title:  Applications
-subtitle: Closed
+subtitle: Open
 permalink: /apply/
 unique-cta: true
 mega-cta-img: ville-02.jpg
@@ -23,10 +23,11 @@ Youth interested in working for St. Louis ArtWorks must:
 - Be selected for and attend an in-person interview
 
 Apply below:
-Applications are currently closed.
+Now Accepting Fall 2021 Applications
+<!--Applications are currently closed.-->
 
 <!--The Summer Application closes June 8th and The Program Dates are June 14th-July 30th-->
 
-<!--<iframe style="width: 100%" src="https://docs.google.com/forms/d/e/1FAIpQLScVcvYV5fQq1NQEfqkvtsQJgBYH9WE3pFmRQ8c1Jgh7zBxiYg/viewform?embedded=true" width="100%" height="2435" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>-->
+<iframe style="width: 100%" src="https://docs.google.com/forms/d/e/1FAIpQLSf9Undwk6DXI0GKAXjsNQB1pwSOdFazKfAKejdPr3q7ZM5hCQ/viewform?embedded=true" width="100%" height="2435" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 THANK YOU for your interest and support of teen employment in the arts!
