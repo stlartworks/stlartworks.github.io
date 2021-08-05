@@ -16,6 +16,8 @@ mega-cta-button-text-url: 'mailto:program.manager@stlartworks.org'
 ---
 We invite young creatives (14 - 19 years old) in the St. Louis area to apply and earn a stipend through paid apprenticeships in the arts year-round.
 
+*COVID19 vaccinations are recommended and masks are mandatory for all apprentices.*
+
 Youth interested in working for St. Louis ArtWorks must:
 - Be at least 14 years old
 - A student in the Normandy School District (Zip Codes: 63114, 63130, 63133, 63121) or live in the Castle Point neighborhood. 
@@ -23,7 +25,7 @@ Youth interested in working for St. Louis ArtWorks must:
 - Be selected for and attend an in-person interview
 
 Apply below:
-Now Accepting Fall 2021 Applications
+The application closes on Wednesday, August 25th at 12 pm. 
 
 <!--Applications are currently closed.-->
 <!--The Summer Application closes June 8th and The Program Dates are June 14th-July 30th-->
