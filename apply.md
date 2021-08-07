@@ -20,7 +20,6 @@ We invite young creatives (14 - 19 years old) in the St. Louis area to apply and
 
 Youth interested in working for St. Louis ArtWorks must:
 - Be at least 14 years old
-- A student in the Normandy School District (Zip Codes: 63114, 63130, 63133, 63121) or live in the Castle Point neighborhood. 
 - Complete an online application
 - Be selected for and attend an in-person interview
 
