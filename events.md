@@ -5,22 +5,15 @@ seoTitle: Have your event at STLOUISARTWORKS
 seoDescription: Contact STLOUISARTWORKS about hosting your special event
 featureImg: yaaweb.jpg
 featureStatement: Events
-title: Young at Art
-subtitle: 24 Hours to Give
+title: 
+subtitle:
 permalink: /events/
 unique-cta: true
 mega-cta-img: ville-02.jpg
-mega-cta-heading: Join us!
+mega-cta-heading: 
 mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:events@stlartworks.org'
 ---
-
-St. Louis ArtWorks is hosting its very first virtual fundraiser, Young at Art:24 Hours to Give, a 24-hour campaign to raise $90,000! Join us as we raise money to help underserved youth in the St. Louis region through art education, work readiness, financial literacy, and more. For one day, your donations will be TRIPLED by generous benefactors! That’s right, for every $1 dollar you donate, our matchers will give $3. Go to charidy.com/stlartworks to GIVE NOW! 
-
-Now more than ever ArtWorks is grateful for the community that has supported us during this unprecedented time in history. 
-
-- When: June 4- June 5 at noon
-- Where: [www.charidy.com/stlartworks](http://www.charidy.com/stlartworks)
 
 <br>
 <br>
