@@ -1,3 +1,39 @@
+- name: Jacqueline K. Dace 
+  photo: 
+  title: Executive Director
+  email: 
+  phone: 
+  content:
+  
+- name: Sabrina Silvers
+  photo: 
+  title: Assistant Director
+  email: 
+  phone: 
+  content:
+  
+- name: Kathryn Morgan
+  photo: 
+  title: Art Therapist
+  email: 
+  phone: 
+  content:
+  
+- name: Lynn Maupin
+  photo: 
+  title: Grants Manager
+  email: 
+  phone: 
+  content:
+  
+  
+# - name:
+#   photo: 
+#   title: Program Manager
+#   email: 
+#   phone: 
+#   content:
+    
 # - name: Priscilla Block
 #   photo: PriscillaPortrait2016.jpg
 #   title: Executive Director
@@ -66,19 +102,19 @@
 #   content: >-
 #     Alayne is our Office Manager, handling the daily business of ArtWorks, and
 #     providing support to the team and apprentices throughout the year.
-- name: Kath Morgan
-  photo: kath-morgan.jpg
-  title: Art Therapist
-  email: kath@stlartworks.org
-  phone: 314-899-9734
-  content: >-
-    As a mother of three grown sons, and a retired elementary school teacher of
-    25 years, Kath has retooled for a new career in Art Therapy.  She holds a
-    Masters in Art Therapy from St. Mary-of-the-Woods College, and she is a
-    member of Missouri Art Therapy Association (MATA) and Gateway East Art Guild
-    (GEAG). She enjoys drawing, painting, and quilting, with creating mandalas
-    as her favorite art process.  Kath’s goals are to effectively support
-    Apprentices, Teaching Artists, and staff by facilitating a “bridge” between
-    art-making and emotions.  This enhances the development of self-esteem and
-    self-awareness, cognitive and sensory-motor awareness, and the cultivation
-    of emotional awareness.
+# - name: Kath Morgan
+#   photo: kath-morgan.jpg
+#   title: Art Therapist
+#   email: kath@stlartworks.org
+#   phone: 314-899-9734
+#   content: >-
+#     As a mother of three grown sons, and a retired elementary school teacher of
+#     25 years, Kath has retooled for a new career in Art Therapy.  She holds a
+#     Masters in Art Therapy from St. Mary-of-the-Woods College, and she is a
+#     member of Missouri Art Therapy Association (MATA) and Gateway East Art Guild
+#     (GEAG). She enjoys drawing, painting, and quilting, with creating mandalas
+#     as her favorite art process.  Kath’s goals are to effectively support
+#     Apprentices, Teaching Artists, and staff by facilitating a “bridge” between
+#     art-making and emotions.  This enhances the development of self-esteem and
+#     self-awareness, cognitive and sensory-motor awareness, and the cultivation
+#     of emotional awareness.
