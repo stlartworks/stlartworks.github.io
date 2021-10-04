@@ -15,10 +15,27 @@ mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:events@stlartworks.org'
 ---
 
-<br>
-<br>
+ 
+### Spring Orientation
+March, 2021
 
-![](/images/sponsors-2020.jpg)
+ 
+### Summer Orientation
+June, 2021
+
+### Summer End of Session Sale
+Saturday, July 31, 2021
+ 
+### YOUNG AT ART Virtual Fundraiser
+July 15-16, 2021
+
+### Fall Orientation
+Saturday, September 11, 2021
+
+### Fall End of Session Sale
+TBD 
+
+<!--![](/images/sponsors-2020.jpg)-->
 
 ### Host your next event at St. Louis ArtWorks
 
