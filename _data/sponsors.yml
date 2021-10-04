@@ -76,6 +76,11 @@
   image: sponsors-clark-fox.png
   description: Thank you!
 - sponsor: >-
+    This project is generously funded by Mid-America Arts Alliance, the National Endowment for the  Arts, and the state arts agencies of Arkansas, Kansas, Missouri, Nebraska, Oklahoma, and Texas.
+  image: MAAA_LogoSuite_Horizontal_Color_Descriptor.png
+  description:
+  url: 'https://www.maaa.org/'
+- sponsor: >-
     City of St. Louis' Community Development Administration. This activity is
     financed in part through an allocation of Community Development Block Grant
     Funds from the Department of Housing and Urban Development and the City of
