@@ -33,7 +33,7 @@ July 15-16, 2021
 Saturday, September 11, 2021
 
 ### Fall End of Session Sale
-TBD 
+Saturday, December 11 -- from 10 am to 3 p.m
 
 <!--![](/images/sponsors-2020.jpg)-->
 
