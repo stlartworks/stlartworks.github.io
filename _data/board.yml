@@ -187,7 +187,8 @@
 - name: Missy Lynch
   title:
   profession: Human Resources Director
-  employer: 'St. Louis Children\'s Hospital'
+  employer: >
+    St. Louis Children's Hospital
   photo: 
   quote: 'Without art, the crudeness of reality would make the world unbearable.'
   artist: George Bernard Shaw
