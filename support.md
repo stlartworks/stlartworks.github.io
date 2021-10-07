@@ -43,7 +43,7 @@ Please click the paypal link below, and you will be taken to the secure Paypal p
 
 <center>&nbsp;</center>
 
-### [2018 Annual Appeal Letter](/uploads/Annual Appeal 2018 Proof 60750 (1).pdf)
+<!--### [2018 Annual Appeal Letter](/uploads/Annual Appeal 2018 Proof 60750 (1).pdf)-->
 
 <center>&nbsp;</center>
 
