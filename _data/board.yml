@@ -1,10 +1,10 @@
-# - name: 'Kelly Scheffer, Board Chair'
-#   title: Board Chair
-#   profession: Art History Professor
-#   employer: Maryville University
-#   photo: kelly-scheffer.jpg
-#   quote: To create one's world in any of the arts takes courage.
-#   artist: Georgia O'Keeffe
+- name: 'Kelly Scheffer, Board Chair'
+  title:
+  profession: Art History Professor
+  employer: Maryville University
+  photo: kelly-scheffer.jpg
+  quote: To create one's world in any of the arts takes courage.
+  artist: Georgia O'Keeffe
 # - name: 'Benjamin Gandhi-Shepard, Vice-Chair'
 #   title: Vice-Chair
 #   profession: Chief Web Strategist
@@ -61,13 +61,13 @@
   photo: amycounts.jpg
   quote:
   artist:
-- name: Shelia Hudson
-  title:
-  profession: President/CEO
-  employer: 'Hudson and Associates, LLC'
-  photo: sheliahudson.jpg
-  quote: 'A work of art is, above all, an adventure of the mind.'
-  artist: Eugene Ionesco
+# - name: Shelia Hudson
+#   title:
+#   profession: President/CEO
+#   employer: 'Hudson and Associates, LLC'
+#   photo: sheliahudson.jpg
+#   quote: 'A work of art is, above all, an adventure of the mind.'
+#   artist: Eugene Ionesco
 - name: Rajeev John
   title:
   profession: 'MSW, LCSW, Manager, Adult Behavioral Health'
@@ -91,18 +91,18 @@
   photo: donkennedy.jpg
   quote: I don't believe in art. I believe in artists.
   artist: Marcel Duchamp
-- name: Dr. Louis Lankford
-  title:
-  profession: 'Professor Emeritus, Art Education'
-  employer: University of Missouri- St. Louis
-  photo: louislankford.jpg
-  quote:
-  artist:
-- name: Brian Russell
-  title:
-  profession: External Affairs Manager
-  employer: Missouri American Water
-  photo: brian-russell.jpg
+# - name: Dr. Louis Lankford
+#   title:
+#   profession: 'Professor Emeritus, Art Education'
+#   employer: University of Missouri- St. Louis
+#   photo: louislankford.jpg
+#   quote:
+#   artist:
+# - name: Brian Russell
+#   title:
+#   profession: External Affairs Manager
+#   employer: Missouri American Water
+#   photo: brian-russell.jpg
 # - name: Roger Macon
 #   title:
 #   profession: Financial Advisor
@@ -126,25 +126,25 @@
     If you ask me what I came into this life to do, I will tell you: I came to
     live out loud.
   artist: Emile Zola
-- name: Joyce Sanders
-  title:
-  profession: 'Supervising Engineer, Intelligrid'
-  employer: Ameren
-  photo: joyce-sanders.jpg
-  quote: >-
-    I've learned that people will forget what you said, people will forget what
-    you did, but people will never forget how you made them feel.
-  artist: Maya Angelou
-- name: David Seevers
-  title:
-  profession: 'Vice President, Operations-Health Plans'
-  employer: Centene Corporation
-  photo: david-seevers.jpg
-  quote: >-
-    Art to me is a humanitarian act and I believe that there is a responsibility
-    that art should somehow be able to effect mankind, to make the world a
-    better place.
-  artist: Jeff Koons
+# - name: Joyce Sanders
+#   title:
+#   profession: 'Supervising Engineer, Intelligrid'
+#   employer: Ameren
+#   photo: joyce-sanders.jpg
+#   quote: >-
+#     I've learned that people will forget what you said, people will forget what
+#     you did, but people will never forget how you made them feel.
+#   artist: Maya Angelou
+# - name: David Seevers
+#   title:
+#   profession: 'Vice President, Operations-Health Plans'
+#   employer: Centene Corporation
+#   photo: david-seevers.jpg
+#   quote: >-
+#     Art to me is a humanitarian act and I believe that there is a responsibility
+#     that art should somehow be able to effect mankind, to make the world a
+#     better place.
+#   artist: Jeff Koons
 # - name: Steve Shumate
 #   title:
 #   profession: 'Associate Vice President, Business Banking'
@@ -152,22 +152,24 @@
 #   photo: steve-shumate.jpg
 #   quote: There is only one valuable thing in art— the thing you cannot explain.
 #   artist: Georges Braque
-- name: Keica Smart
-  title:
-  profession: Project Manager
-  employer: Graybar Electric Company
-  photo: keica-smart.jpg
-  quote: >-
-    The question is not whether we can afford to invest in every child, it is
-    whether we can afford not to.
-  artist: Marian Wright Edelman
+# - name: Keica Smart
+#   title:
+#   profession: Project Manager
+#   employer: Graybar Electric Company
+#   photo: keica-smart.jpg
+#   quote: >-
+#     The question is not whether we can afford to invest in every child, it is
+#     whether we can afford not to.
+#   artist: Marian Wright Edelman
 - name: Tonnie Glispie-Smith
   title:
   profession: Community Volunteer
   employer:
   photo: tonnie-smith.jpg
-  quote:
-  artist:
+  quote: >-
+     I've learned that people will forget what you said, people will forget what
+     you did, but people will never forget how you made them feel.
+  artist: Maya Angelou
 - name: Erika N. Wilson
   title:
   profession: Associate Project Manager
@@ -175,3 +177,57 @@
   photo: ErikaWilson1.jpg
   quote: 'It''s not who you are that holds you back, it''s who you think you''re not.'
   artist: Jean-Michel Basquiat
+  
+- name: Taylor Elhoffer 
+  title:
+  profession: Sr. Production Supervisor - DLCC
+  employer: 'Missouri American Water'
+  photo: 
+  quote: There is only one valuable thing in art— the thing you cannot explain.
+  artist: Georges Braque
+  
+- name: Missy Lynch
+  title:
+  profession: Human Resources Director
+  employer: 'St. Louis Children\'s Hospital'
+  photo: 
+  quote: 'Without art, the crudeness of reality would make the world unbearable.'
+  artist: George Bernard Shaw
+  
+- name: Nadia Sharif
+  title:
+  profession: 
+  employer: 
+  photo: 
+  quote: >-
+     The question is not whether we can afford to invest in every child, it is
+     whether we can afford not to.
+  artist: Marian Wright Edelman
+  
+- name: Christopher Schmitt
+  title:
+  profession: CFO
+  employer: 'Apex Oil Company, Inc.'
+  photo: 
+  quote: >-
+     Art to me is a humanitarian act and I believe that there is a responsibility
+     that art should somehow be able to effect mankind, to make the world a
+     better place.
+  artist: Jeff Koons
+  
+- name: Marquis Jackson
+  title:
+  profession: Visual Artist
+  employer: 'Art By Marquis Terrell LLC'
+  photo: 
+  quote: I like kids' work more than work by real artists any day.
+  artist: Jean-Michel Basquiat
+
+  
+- name: Reginald Harris
+  title:
+  profession: Attorney at Law, Partner
+  employer: 'Bryan Cave Leighton Paisner LLP'
+  photo: 
+  quote: Making money is art and working is art and good business is the best art.
+  artist: Andy Warhol
