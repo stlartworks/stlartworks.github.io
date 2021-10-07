@@ -5,7 +5,7 @@ seoTitle: Have your event at STLOUISARTWORKS
 seoDescription: Contact STLOUISARTWORKS about hosting your special event
 featureImg: yaaweb.jpg
 featureStatement: Events
-title: 
+title: Events
 subtitle:
 permalink: /events/
 unique-cta: true
@@ -14,26 +14,13 @@ mega-cta-heading:
 mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:events@stlartworks.org'
 ---
-
  
-### Spring Orientation
-March, 2021
-
- 
-### Summer Orientation
-June, 2021
-
-### Summer End of Session Sale
-Saturday, July 31, 2021
- 
-### YOUNG AT ART Virtual Fundraiser
-July 15-16, 2021
-
-### Fall Orientation
-Saturday, September 11, 2021
-
-### Fall End of Session Sale
-Saturday, December 11 -- from 10 am to 3 p.m
+- Spring Orientation - March, 2021
+- Summer Orientation - June, 2021
+- Summer End of Session Sale - Saturday, July 31, 2021
+- YOUNG AT ART Virtual Fundraiser - July 15-16, 2021
+- Fall Orientation - Saturday, September 11, 2021
+- Fall End of Session Sale - Saturday, December 11 -- from 10 am to 3 p.m
 
 <!--![](/images/sponsors-2020.jpg)-->
 
