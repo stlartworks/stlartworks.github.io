@@ -23,7 +23,10 @@ mega-cta-button-text-url: 'mailto:events@stlartworks.org'
 - Fall End of Session Sale - Saturday, December 11 -- from 10 am to 3 p.m
 
 <!--![](/images/sponsors-2020.jpg)-->
-
+<div class="responsive-video-embed">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/X-Gjp6WzhnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+    
 ### Host your next event at St. Louis ArtWorks
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aHOn6-I_PAk" frameborder="0" allowfullscreen></iframe>
