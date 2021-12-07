@@ -21,6 +21,8 @@ mega-cta-button-text-url:  mailto:info@stlartworks.org
 
 Every dollar you donate is an investment to provide quality job training and art education for teens who otherwise might not have the opportunity to bring home a paycheck, while learning valuable job and life skills. Your donation helps provide apprentices with the best teaching artists and ensures that we can provide the materials and tools they need to exercise their full creative potential as they learn.
 
+St. Louis Artworks is a registered 501(c)3 organization (Tax ID #43-1735450)
+
 ### Here's what your gift can accomplish:
 
 * $30 will cover the cost of 1 participant in our After-School Program for 1 week.
