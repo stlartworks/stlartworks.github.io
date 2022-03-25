@@ -23,15 +23,15 @@ Youth interested in working for St. Louis ArtWorks must:
 - Submit samples of original work
 - Undergo a portfolio review, if selected for an interview 
 
-Applications are accepted from Saturday, April 2nd until Friday, May 13th, 2022. 
-
 Thank you for your interest and support of teen employment in the arts!
 
 COVID19 vaccinations are recommended and masks are mandatory for all apprentices.
 
 <!--Sorry, applications are currently closed. There will be another opportunity to apply next season. Please check back later.-->
 
-<!--Apply below:-->
+Apply below:
+
+Applications are accepted from Saturday, April 2nd until Friday, May 13th, 2022. 
 <!--The application closes on Wednesday, August 25th at 12 pm. -->
 
 <!--The Summer Application closes June 8th and The Program Dates are June 14th-July 30th-->
