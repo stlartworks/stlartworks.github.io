@@ -33,7 +33,8 @@
   image: sponsors-stl-childrens-fund.png
   description: Thank you!
 - sponsor: Regional Arts Commission
-  image: sponsors-regional-arts-commission.png
+  image: rac.jpg
+  # image: sponsors-regional-arts-commission.png
   description: Thank you!
 - sponsor: Emerson
   image: sponsors-emerson.png
