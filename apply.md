@@ -27,7 +27,7 @@ Thank you for your interest and support of teen employment in the arts!
 
 COVID19 vaccinations are recommended and masks are mandatory for all apprentices.
 
-Sorry, applications are currently closed. There will be another opportunity to apply next season. Please check back later.
+<!--Sorry, applications are currently closed. There will be another opportunity to apply next season. Please check back later.-->
 
 Apply below:
 
