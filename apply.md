@@ -31,7 +31,8 @@ COVID19 vaccinations are recommended and masks are mandatory for all apprentices
 
 Apply below:
 
-<!--Applications are accepted from Saturday, April 2nd until Friday, May 13th, 2022. -->
+Applications are accepted from July 16 - Aug 14. 
+
 <!--The application closes on Wednesday, August 25th at 12 pm. -->
 
 <!--The Summer Application closes June 8th and The Program Dates are June 14th-July 30th-->
