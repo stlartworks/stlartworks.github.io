@@ -6,7 +6,7 @@ seoDescription: Join STLOUISARTWORKS today!
 featureImg: mural-003.jpg
 featureStatement: Join ARTWORKS!
 title:  Applications
-subtitle: Open
+subtitle: Closed
 permalink: /apply/
 unique-cta: true
 mega-cta-img: ville-02.jpg
