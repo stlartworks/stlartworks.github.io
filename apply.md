@@ -27,11 +27,11 @@ Thank you for your interest and support of teen employment in the arts!
 
 COVID19 vaccinations are recommended and masks are mandatory for all apprentices.
 
-<!--Sorry, applications are currently closed. There will be another opportunity to apply next season. Please check back later.-->
+Sorry, applications are currently closed. There will be another opportunity to apply next season. Please check back later.
 
-Apply below:
+<!--Apply below:-->
 
-Applications are accepted from Dec 3, 2022 - Jan 2, 2023. 
+<!--Applications are accepted from Dec 3, 2022 - Jan 2, 2023. -->
 
 <!--The application closes on Wednesday, August 25th at 12 pm. -->
 
@@ -39,7 +39,7 @@ Applications are accepted from Dec 3, 2022 - Jan 2, 2023.
 
 <!--<iframe style="width: 100%" src="https://docs.google.com/forms/d/e/1EQg7aKAvePnsZJPuwLNloXNsaci_TCKALvvu8eXfI50/viewform?embedded=true" width="100%" height="2435" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>-->
 
-<iframe style="width: 100%" src="https://docs.google.com/forms/d/1EQg7aKAvePnsZJPuwLNloXNsaci_TCKALvvu8eXfI50/viewform?embedded=true" width="100%" height="2435" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<!--<iframe style="width: 100%" src="https://docs.google.com/forms/d/1EQg7aKAvePnsZJPuwLNloXNsaci_TCKALvvu8eXfI50/viewform?embedded=true" width="100%" height="2435" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>-->
 
 
 
