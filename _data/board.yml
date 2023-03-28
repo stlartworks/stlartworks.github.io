@@ -1,10 +1,10 @@
-- name: 'Kelly Scheffer'
-  title:
-  profession: Art History Professor
-  employer: Maryville University
-  photo: kelly-scheffer.jpg
-  quote: To create one's world in any of the arts takes courage.
-  artist: Georgia O'Keeffe
+# - name: 'Kelly Scheffer'
+#   title:
+#   profession: Art History Professor
+#   employer: Maryville University
+#   photo: kelly-scheffer.jpg
+#   quote: To create one's world in any of the arts takes courage.
+#   artist: Georgia O'Keeffe
 # - name: 'Benjamin Gandhi-Shepard, Vice-Chair'
 #   title: Vice-Chair
 #   profession: Chief Web Strategist
@@ -31,9 +31,9 @@
 #   quote: Making money is art and working is art and good business is the best art.
 #   artist: Andy Warhol
 - name: 'Kedra Tolson, Secretary'
-  title: Board Secretary
-  profession: Coordinator of Community Relations
-  employer: St. Louis Community College
+  title: 
+  profession: Executive Director, University Marketing and Communications
+  employer: SIUE
   photo: kedra-tolson.jpg
   quote: >-
     Find a beautiful piece of art. If you fall in love with Van Gogh or Matisse
@@ -42,25 +42,26 @@
     and admire it, and realize that that was created by human beings just like
     you, no more human, no less.
   artist: Maya Angelou
-- name: Jared Boyd
-  title:
-  profession: Chief of Staff and Counsel
-  employer: City of St. Louis Treasurer's Office
-  photo: jaredboyd3.jpg
-  quote: Ads are the cave art of the twentieth century.
-  artist: Marshall McLuhan
+# - name: Jared Boyd
+#   title:
+#   profession: Chief of Staff and Counsel
+#   employer: City of St. Louis Treasurer's Office
+#   photo: jaredboyd3.jpg
+#   quote: Ads are the cave art of the twentieth century.
+#   artist: Marshall McLuhan
 - name: Emily Bernstein
   title:
   profession: Project Manager
   employer: McCormack Baron Salazar
   photo: emily-bernstein.jpg
 - name: Amy Counts
-  title:
-  profession: Sr. Account Executive
+  title: Secretary
+  profession: Regional VP, Sales
   employer: Wise F&I
   photo: amycounts.jpg
-  quote:
-  artist:
+  quote: >- 
+    If you don’t like something, change it. If you can’t change it, change your attitude.
+  artist: Maya Angelou
 # - name: Shelia Hudson
 #   title:
 #   profession: President/CEO
@@ -68,13 +69,13 @@
 #   photo: sheliahudson.jpg
 #   quote: 'A work of art is, above all, an adventure of the mind.'
 #   artist: Eugene Ionesco
-- name: Rajeev John
-  title:
-  profession: 'MSW, LCSW, Manager, Adult Behavioral Health'
-  employer: Affinia Healthcare
-  photo: rajeev-john.jpg
-  quote: Art is either plagiarism or revolution.
-  artist: Paul Gauguin
+# - name: Rajeev John
+#   title:
+#   profession: 'MSW, LCSW, Manager, Adult Behavioral Health'
+#   employer: Affinia Healthcare
+#   photo: rajeev-john.jpg
+#   quote: Art is either plagiarism or revolution.
+#   artist: Paul Gauguin
 # - name: Erik Karanik
 #   title:
 #   profession: Financial Advisor
@@ -84,13 +85,13 @@
 #     When I make art, I think about its ability to connect with others, to bring
 #     them into the process.
 #   artist: Jim Hodges
-- name: Don Kennedy
-  title:
-  profession: Attorney-at-Law
-  employer: 'Greensfelder, Hemker & Gale, P.C.'
-  photo: donkennedy.jpg
-  quote: I don't believe in art. I believe in artists.
-  artist: Marcel Duchamp
+# - name: Don Kennedy
+#   title:
+#   profession: Attorney-at-Law
+#   employer: 'Greensfelder, Hemker & Gale, P.C.'
+#   photo: donkennedy.jpg
+#   quote: I don't believe in art. I believe in artists.
+#   artist: Marcel Duchamp
 # - name: Dr. Louis Lankford
 #   title:
 #   profession: 'Professor Emeritus, Art Education'
@@ -117,15 +118,15 @@
 #   photo: matt-macewan.jpg
 #   quote: 'Without art, the crudeness of reality would make the world unbearable.'
 #   artist: George Bernard Shaw
-- name: Meridith McKinley
-  title:
-  profession: Partner
-  employer: 'Via Partnership, LLP'
-  photo: meridith1.jpg
-  quote: >-
-    If you ask me what I came into this life to do, I will tell you: I came to
-    live out loud.
-  artist: Emile Zola
+# - name: Meridith McKinley
+#   title:
+#   profession: Partner
+#   employer: 'Via Partnership, LLP'
+#   photo: meridith1.jpg
+#   quote: >-
+#     If you ask me what I came into this life to do, I will tell you: I came to
+#     live out loud.
+#   artist: Emile Zola
 # - name: Joyce Sanders
 #   title:
 #   profession: 'Supervising Engineer, Intelligrid'
@@ -162,7 +163,7 @@
 #     whether we can afford not to.
 #   artist: Marian Wright Edelman
 - name: Tonnie Glispie-Smith
-  title:
+  title: Vice Chair
   profession: Community Volunteer
   employer:
   photo: tonnie-smith.jpg
@@ -171,46 +172,46 @@
     you did, but people will never forget how you made them feel.
   artist: Maya Angelou
 - name: Erika N. Wilson
-  title:
-  profession: Associate Project Manager
-  employer: 'Urban Strategies, Inc.'
+  title: Chair
+  profession:  Director, Communications & Marketing
+  employer: Urban Strategies
   photo: ErikaWilson1.jpg
   quote: 'It''s not who you are that holds you back, it''s who you think you''re not.'
   artist: Jean-Michel Basquiat
-- name: Taylor Elhoffer 
-  title:
-  profession: Sr. Production Supervisor - DLCC
-  employer: 'Missouri American Water'
-  photo: 
-  quote: There is only one valuable thing in art— the thing you cannot explain.
-  artist: Georges Braque
-- name: Missy Lynch
-  title:
-  profession: Human Resources Director
-  employer: >
-    St. Louis Children's Hospital
-  photo: 
-  quote: 'Without art, the crudeness of reality would make the world unbearable.'
-  artist: George Bernard Shaw
-- name: Nadia Sharif
-  title:
-  profession: 
-  employer: 
-  photo: 
-  quote: >-
-    The question is not whether we can afford to invest in every child, it is
-    whether we can afford not to.
-  artist: Marian Wright Edelman
-- name: Christopher Schmitt
-  title:
-  profession: CFO
-  employer: 'Apex Oil Company, Inc.'
-  photo: 
-  quote: >-
-    Art to me is a humanitarian act and I believe that there is a responsibility
-    that art should somehow be able to effect mankind, to make the world a
-    better place.
-  artist: Jeff Koons
+# - name: Taylor Elhoffer 
+#   title:
+#   profession: Sr. Production Supervisor - DLCC
+#   employer: 'Missouri American Water'
+#   photo: 
+#   quote: There is only one valuable thing in art— the thing you cannot explain.
+#   artist: Georges Braque
+# - name: Missy Lynch
+#   title:
+#   profession: Human Resources Director
+#   employer: >
+#     St. Louis Children's Hospital
+#   photo: 
+#   quote: 'Without art, the crudeness of reality would make the world unbearable.'
+#   artist: George Bernard Shaw
+# - name: Nadia Sharif
+#   title:
+#   profession: 
+#   employer: 
+#   photo: 
+#   quote: >-
+#     The question is not whether we can afford to invest in every child, it is
+#     whether we can afford not to.
+#   artist: Marian Wright Edelman
+# - name: Christopher Schmitt
+#   title:
+#   profession: CFO
+#   employer: 'Apex Oil Company, Inc.'
+#   photo: 
+#   quote: >-
+#     Art to me is a humanitarian act and I believe that there is a responsibility
+#     that art should somehow be able to effect mankind, to make the world a
+#     better place.
+  # artist: Jeff Koons
 - name: Marquis Jackson
   title:
   profession: Visual Artist
@@ -225,3 +226,25 @@
   photo: 
   quote: Making money is art and working is art and good business is the best art.
   artist: Andy Warhol
+  
+- name: Nasya Buckley
+  title:
+  profession: Assistant Construction Manager
+  employer: McCormack Baron
+  photo: nasya-buckley.jpg
+  quote: Art is everywhere, and everywhere is art.
+  artist: 
+  
+- name: Carmen M. Harris
+  title:
+  profession:
+  employer: 
+  photo: carmen-m-harris.jpg
+  quote: >-
+    You can’t sit around and wait for somebody to say who you are. You need to write it and paint it and do it.
+  artist: Faith Ringgold
+
+	
+	
+	
+	
