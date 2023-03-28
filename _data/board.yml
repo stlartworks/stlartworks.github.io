@@ -177,7 +177,8 @@
   profession:  Director, Communications & Marketing
   employer: Urban Strategies
   photo: ErikaWilson1.jpg
-  quote: 'It''s not who you are that holds you back, it''s who you think you''re not.'
+  quote: >-
+    It's not who you are that holds you back, it's who you think you're not.
   artist: Jean-Michel Basquiat
 # - name: Taylor Elhoffer 
 #   title:
@@ -218,21 +219,24 @@
   profession: Visual Artist
   employer: 'Art By Marquis Terrell LLC'
   photo: 
-  quote: I like kids' work more than work by real artists any day.
+  quote: >-
+    I like kids' work more than work by real artists any day.
   artist: Jean-Michel Basquiat
 - name: Reginald Harris
   title:
   profession: Attorney at Law, Partner
   employer: 'Bryan Cave Leighton Paisner LLP'
   photo: 
-  quote: Making money is art and working is art and good business is the best art.
+  quote: >-
+    Making money is art and working is art and good business is the best art.
   artist: Andy Warhol
 - name: Nasya Buckley
   title:
   profession: Assistant Construction Manager
   employer: McCormack Baron
   photo: nasya-buckley.jpg
-  quote: Art is everywhere, and everywhere is art.
+  quote: >-
+    Art is everywhere, and everywhere is art.
   artist: 
 - name: Carmen M. Harris
   title:
