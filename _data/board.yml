@@ -1,3 +1,38 @@
+
+- name: 'Shaughnessy Daniels, Program Chair'
+  title: Program Chair
+  profession: Vice President - Community Supports
+  employer: St. Louis ARC
+  photo: shaughnessy-daniels.jpg
+  quote: >-
+    I try to give people a different way of looking at their surroundings.
+    That's art to me.
+  artist: Maya Lin
+- name: 'Kedra Tolson'
+  title: 
+  profession: Executive Director, University Marketing and Communications
+  employer: SIUE
+  photo: kedra-tolson.jpg
+  quote: >-
+    Find a beautiful piece of art. If you fall in love with Van Gogh or Matisse
+    or John Oliver Killens, or if you fall love with the music of Coltrane, the
+    music of Aretha Franklin, or the music of Chopin - find some beautiful art
+    and admire it, and realize that that was created by human beings just like
+    you, no more human, no less.
+  artist: Maya Angelou
+- name: Emily Bernstein
+  title:
+  profession: Project Manager
+  employer: McCormack Baron Salazar
+  photo: emily-bernstein.jpg
+- name: Amy Counts
+  title: Secretary
+  profession: Regional VP, Sales
+  employer: Wise F&I
+  photo: amycounts.jpg
+  quote: >- 
+    If you don’t like something, change it. If you can’t change it, change your attitude.
+  artist: Maya Angelou
 # - name: 'Kelly Scheffer'
 #   title:
 #   profession: Art History Professor
@@ -14,15 +49,6 @@
 #     Should graffiti be judged on the same level as modern art? Of course
 #     not—It's way more important than that.
 #   artist: Banksy
-- name: 'Shaughnessy Daniels, Program Chair'
-  title: Program Chair
-  profession: Vice President - Community Supports
-  employer: St. Louis ARC
-  photo: shaughnessy-daniels.jpg
-  quote: >-
-    I try to give people a different way of looking at their surroundings.
-    That's art to me.
-  artist: Maya Lin
 # - name: 'Rhoads Hall, Treasurer'
 #   title: Board Treasurer
 #   profession: Vice President
@@ -30,18 +56,6 @@
 #   photo: rhoads-hall.jpg
 #   quote: Making money is art and working is art and good business is the best art.
 #   artist: Andy Warhol
-- name: 'Kedra Tolson'
-  title: 
-  profession: Executive Director, University Marketing and Communications
-  employer: SIUE
-  photo: kedra-tolson.jpg
-  quote: >-
-    Find a beautiful piece of art. If you fall in love with Van Gogh or Matisse
-    or John Oliver Killens, or if you fall love with the music of Coltrane, the
-    music of Aretha Franklin, or the music of Chopin - find some beautiful art
-    and admire it, and realize that that was created by human beings just like
-    you, no more human, no less.
-  artist: Maya Angelou
 # - name: Jared Boyd
 #   title:
 #   profession: Chief of Staff and Counsel
@@ -49,19 +63,6 @@
 #   photo: jaredboyd3.jpg
 #   quote: Ads are the cave art of the twentieth century.
 #   artist: Marshall McLuhan
-- name: Emily Bernstein
-  title:
-  profession: Project Manager
-  employer: McCormack Baron Salazar
-  photo: emily-bernstein.jpg
-- name: Amy Counts
-  title: Secretary
-  profession: Regional VP, Sales
-  employer: Wise F&I
-  photo: amycounts.jpg
-  quote: >- 
-    If you don’t like something, change it. If you can’t change it, change your attitude.
-  artist: Maya Angelou
 # - name: Shelia Hudson
 #   title:
 #   profession: President/CEO
