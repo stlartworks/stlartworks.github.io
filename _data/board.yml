@@ -30,7 +30,7 @@
 #   photo: rhoads-hall.jpg
 #   quote: Making money is art and working is art and good business is the best art.
 #   artist: Andy Warhol
-- name: 'Kedra Tolson, Secretary'
+- name: 'Kedra Tolson'
   title: 
   profession: Executive Director, University Marketing and Communications
   employer: SIUE
@@ -226,7 +226,6 @@
   photo: 
   quote: Making money is art and working is art and good business is the best art.
   artist: Andy Warhol
-  
 - name: Nasya Buckley
   title:
   profession: Assistant Construction Manager
@@ -234,7 +233,6 @@
   photo: nasya-buckley.jpg
   quote: Art is everywhere, and everywhere is art.
   artist: 
-  
 - name: Carmen M. Harris
   title:
   profession:
@@ -243,8 +241,3 @@
   quote: >-
     You can’t sit around and wait for somebody to say who you are. You need to write it and paint it and do it.
   artist: Faith Ringgold
-
-	
-	
-	
-	
