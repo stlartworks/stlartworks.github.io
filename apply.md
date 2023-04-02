@@ -31,7 +31,7 @@ COVID19 vaccinations are recommended and masks are mandatory for all apprentices
 
 Apply below:
 
-Applications are accepted from April 1st - May 14th. 
+<!--Applications are accepted from April 1st - May 14th. -->
 
 <!--The application closes on Wednesday, August 25th at 12 pm. -->
 
