@@ -35,7 +35,8 @@ St. Louis Artworks is a registered 501(c)3 organization (Tax ID #43-1735450)
 
 Please click the paypal link below, and you will be taken to the secure Paypal processing page to complete your donation. Please consider adding 3% to your donation to cover our processing fees. Thank you for your support!
 
-<center><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=2R55J3XLQZYWL"><img border="0" alt="Donate2STLArtWorks" width="353" height="171" src="/images/PayPalDonateButton.jpg" /></a></center>
+<!--https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=2R55J3XLQZYWL-->
+<center><a href="https://www.paypal.com/US/fundraiser/charity/2006559"><img border="0" alt="Donate2STLArtWorks" width="353" height="171" src="/images/PayPalDonateButton.jpg" /></a></center>
 
 ### [![Better Business Bureau logo](/uploads/versions/bbblogobluesm---&#40;----200-76&#41;---.jpg)](http://www.bbb.org/stlouis/business-reviews/charity-arts-and-culture/st-louis-artworks-in-saint-louis-mo-310482094)
 
