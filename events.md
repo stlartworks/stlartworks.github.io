@@ -15,7 +15,7 @@ mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:events@stlartworks.org'
 ---
  
-- Spring Sale on April 30th from 10am - 3pm
+- Spring Sale on April 29th from 10am - 3pm
 
 <!--![](/images/sponsors-2020.jpg)-->
 <div class="responsive-video-embed">
