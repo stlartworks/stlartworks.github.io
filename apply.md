@@ -14,7 +14,7 @@ mega-cta-heading: Join us!
 mega-cta-button-text: Questions?
 mega-cta-button-text-url: 'mailto:program.manager@stlartworks.org'
 ---
-St. Louis ArtWorks invites young creatives (ages 14-19) in the St. Louis area to apply a paid apprenticeships in the arts year-round.
+St. Louis ArtWorks invites young creatives (ages 14-19) in the St. Louis area to apply for a paid apprenticeships in the arts year-round.
 
 Youth interested in working for St. Louis ArtWorks must:
 
@@ -23,12 +23,9 @@ Youth interested in working for St. Louis ArtWorks must:
 - Submit samples of original work
 - Undergo a portfolio review, if selected for an interview 
 
-COVID19 vaccinations are recommended and masks are mandatory for all apprentices.
-
-
 Apply below:
 
-The St. Louis ArtWorks Spring Apprenticeship application is accepted from July 30th until August 18th, 2023. You will receive an email from the Program Manager, if selected for an interview and portfolio review. 
+The St. Louis ArtWorks Fall Apprenticeship application is accepted from July 30th until August 18th, 2023. You will receive an email from the Program Manager, if selected for an interview and portfolio review. 
 
 <iframe style="width: 100%" src="https://docs.google.com/forms/d/e/1FAIpQLSfuU9G_j09XOy9D3LYv525_Uwe3XfMjSg807DALEV5AhwosHQ/viewform?embedded=true" width="100%" height="2435" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
