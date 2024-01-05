@@ -38,6 +38,10 @@ Please click the paypal link below, and you will be taken to the secure Paypal p
 <!--https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=2R55J3XLQZYWL-->
 <center><a href="https://www.paypal.com/US/fundraiser/charity/2006559"><img border="0" alt="Donate2STLArtWorks" width="353" height="171" src="/images/PayPalDonateButton.jpg" /></a></center>
 
+
+### Donate by check
+St. Louis ArtWorks gratefully accepts mail-in donations of any amount. To donate by mail make checks payable to St. Louis ArtWorks, 5959 Delmar Blvd, St. Louis, MO 63112. 
+
 ### [![Better Business Bureau logo](/uploads/versions/bbblogobluesm---&#40;----200-76&#41;---.jpg)](http://www.bbb.org/stlouis/business-reviews/charity-arts-and-culture/st-louis-artworks-in-saint-louis-mo-310482094)
 
 <center><a target="_blank" href="http://www.guidestar.org/organizations/43-1735450/st-louis-artworks.aspx"><img src="http://widgets.guidestar.org/gximage2?o=7661363&amp;l=v4" /></a></center>
