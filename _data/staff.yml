@@ -12,12 +12,12 @@
   phone: 
   content:
   
-- name: Erika Gerdine
-  photo: 
-  title: Therapeutic Art Life Coach
-  email: 
-  phone: 
-  content:
+# - name: Erika Gerdine
+#   photo: 
+#   title: Therapeutic Art Life Coach
+#   email: 
+#   phone: 
+#   content:
   
 - name: Jimmie Calmese
   photo: 
@@ -26,13 +26,19 @@
   phone: 
   content:
   
-  
-- name: Lydia Rae Wehmeyer
+- name: Kyla Kikkawa
   photo: 
   title: Program Manager
   email: 
   phone: 
   content:
+  
+# - name: Lydia Rae Wehmeyer
+#   photo: 
+#   title: Program Manager
+#   email: 
+#   phone: 
+#   content:
     
 # - name: Priscilla Block
 #   photo: PriscillaPortrait2016.jpg
