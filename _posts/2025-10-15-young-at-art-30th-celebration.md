@@ -67,7 +67,7 @@ $140.56 <a href="https://www.eventbrite.com/e/st-louis-artworks-young-at-art-30t
 - 2 Tickets
 
 
-<a href="/uploads/SLAW Sponsorship Proposal.25.pdf">Download and fill out Sponsosihp from</a>
+<a href="/uploads/SLAW Sponsorship Proposal.25.pdf">Download and fill out Sponsorship from</a>
 
 **MAP**
 
