@@ -10,7 +10,7 @@ homepage: true
 
 unique-cta: true
 
-mega-cta-img: yaa-30.jpg
+mega-cta-img: yaaweb.jpg
 mega-cta-heading: Questions?
 mega-cta-button-text: Contact us!
 mega-cta-button-text-url: mailto:info@stlartworks.org
