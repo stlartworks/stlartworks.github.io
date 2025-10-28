@@ -32,7 +32,7 @@ Join us for a meaningful celebration at St. Louis ArtWorks! On December 13 at 6:
 
 **Tickets**
 
-$140.56 <a href="https://www.eventbrite.com/e/st-louis-artworks-young-at-art-30th-celebration-tickets-1805696911069?aff=ebdssbdestsearch">Click Here to Purchase</a>
+$75.00 <a href="https://www.eventbrite.com/e/st-louis-artworks-young-at-art-30th-celebration-tickets-1805696911069?aff=ebdssbdestsearch">Click Here to Purchase</a>
 
 **Sponsorship**
 
@@ -65,6 +65,13 @@ $140.56 <a href="https://www.eventbrite.com/e/st-louis-artworks-young-at-art-30t
 - Recognition during event
 - Mention at least 1x on Social Media
 - 2 Tickets
+
+**Sponsors:**
+- Mary & John Wolford, *Patron of Progress*
+- Lauren Cohen, *Provider of Possibilities*
+- LSEG, *Provider of Possibilities*
+- Delmar Main Street, *Provider of Possibilities*
+- Reedy Press, *Aspiration Ally*
 
 
 <a href="/uploads/SLAW Sponsorship Proposal.25.pdf">Download and fill out Sponsorship from</a>
