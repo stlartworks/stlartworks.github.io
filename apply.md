@@ -28,9 +28,9 @@ Youth interested in working for St. Louis ArtWorks must:
 
 Apply below:
 
-The St. Louis ArtWorks Fall Apprenticeship application is accepted from July 11, 2026 to August 11, 2026. Only after July 20 will you receive an email from the Program Manager, if selected for an interview.
+The St. Louis ArtWorks Spring Apprenticeship application is open from October 15, 2026 to November 27, 2026. If selected for an interview, you will receive an email from the Program Manager only after October 28. The St. Louis ArtWorks Spring Apprenticeship is a 13-week commitment, beginning Saturday, January 23rd and ending Saturday, April 24th, 2027. Shifts are Saturdays from 10:00 am - 3:00 pm, or Tuesdays & Thursdays from 4:00 pm - 6:30 pm. 
 
-<iframe style="width: 100%" src="https://docs.google.com/forms/d/e/1FAIpQLSf6xn8Gp4UdZmQDxMFs0uWX15m564Vch3r_uwwZSud8mXHA0A/viewform?embedded=true" width="100%" height="2435" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe style="width: 100%" src="https://docs.google.com/forms/d/e/1FAIpQLSdfsm6L2hhHRVVyi9GvHJcVhGM1uQVd6MtudvISWzukmwIVpQ/viewform?embedded=true" width="100%" height="2435" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 <!-- Sorry, applications are currently closed. There will be another opportunity to apply next season. Please check back later. -->
