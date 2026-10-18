@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 gem 'github-pages'
 gem 'html-proofer'
-
+gem 'json', '< 3.0'
 # source 'https://rubygems.org'
 #
 # gem 'jekyll'
