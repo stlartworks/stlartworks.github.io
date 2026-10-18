@@ -219,7 +219,7 @@ defaults:
 # SAFE PLUGINS allowed by gitHub pages
 # -----------------------------------------------------------------------------
 
-gems:
+plugins:
 # Plugin list
   - jemoji # Emoji please!
   # - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
