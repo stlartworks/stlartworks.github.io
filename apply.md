@@ -33,6 +33,7 @@ The St. Louis ArtWorks Spring Apprenticeship application is open from October 15
 <iframe style="width: 100%" src="https://docs.google.com/forms/d/e/1FAIpQLSdfsm6L2hhHRVVyi9GvHJcVhGM1uQVd6MtudvISWzukmwIVpQ/viewform?embedded=true" width="100%" height="2435" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
+
 <!-- Sorry, applications are currently closed. There will be another opportunity to apply next season. Please check back later. -->
 
 THANK YOU for your interest and support of teen employment in the arts!
